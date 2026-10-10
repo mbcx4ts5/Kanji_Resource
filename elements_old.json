@@ -1,0 +1,116 @@
+{
+  "E-001": {
+    "character": "一",
+    "name": "One",
+    "description": "Represents one thing.",
+    "components": []
+  },
+  "E-002": {
+    "character": "五",
+    "name": "Five",
+    "description": "From the number five.",
+    "components": []
+  },
+  "E-003": {
+    "character": "七",
+    "name": "Seven",
+    "description": "From the number seven.",
+    "components": []
+  },
+  "E-004": {
+    "character": "八",
+    "name": "Eight",
+    "description": "From the number eight.",
+    "components": []
+  },
+  "E-005": {
+    "character": "九",
+    "name": "Nine",
+    "description": "From the number nine.",
+    "components": []
+  },
+    "E-006": {
+    "character": "十",
+    "name": "Ten",
+    "description": "From the number ten.",
+    "components": []
+  },
+    "E-007": {
+    "character": "口",
+    "name": "Mouth",
+    "description": "Pictogram of a mouth.",
+    "components": []
+  },
+  "E-008": {
+    "character": "日",
+    "name": "Sun",
+    "description": "Pictogram of a sun.",
+    "components": []
+  },
+  "E-009": {
+    "character": "月",
+    "name": "Moon",
+    "description": "Pictorgam of a moon. Can also mean Meat or Body Part",
+    "components": []
+  },
+  "E-010": {
+    "character": "夕",
+    "name": "Evening",
+    "description": "Pictogram of a moon on its side as if low in the sky.",
+    "components": []
+  },
+  "E-011": {
+    "character": "田",
+    "name": "Rice Field",
+    "description": "Pictogram of a rice field.",
+    "components": []
+  },
+  "E-012": {
+    "character": "木",
+    "name": "Tree",
+    "description": "Pictogram of a tree. Can also mean wood.",
+    "components": []
+  },
+  "E-013": {
+    "character": "山",
+    "name": "Mountain",
+    "description": "Pictogram of a mountain.",
+    "components": []
+  },
+  "E-014": {
+    "character": "石",
+    "name": "Stone",
+    "description": "Pictogram of a stone.",
+    "components": []
+  },
+  "E-015": {
+    "character": "目",
+    "name": "Eye",
+    "description": "Pictogram of an eye.",
+    "components": []
+  },
+  "E-016": {
+    "character": "貝",
+    "name": "Shellfish",
+    "description": "Pictogram of a shellfish. Can also mean money.",
+    "components": []
+  },
+  "E-017": {
+    "character": "力",
+    "name": "Power",
+    "description": "A flexed arm to represent the idea of power.",
+    "components": []
+  },
+  "E-018": {
+    "character": "言",
+    "name": "Say",
+    "description": "Sound waves coming from a mouth to represent the idea of speaking.",
+    "components": []
+  },
+  "E-019": {
+    "character": "古",
+    "name": "Old",
+    "description": "A gravestone to represent the idea of oldness.",
+    "components": ["E-006", "E-007"]
+  }
+}
