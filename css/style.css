@@ -55,3 +55,32 @@ footer {
     color: #666666;
     font-size: 0.9rem;
 }
+
+#chapter-explorer {
+    margin: 2rem 0;
+}
+
+#chapter-explorer table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 1rem;
+}
+
+#chapter-explorer th,
+#chapter-explorer td {
+    padding: 0.6rem;
+    border: 1px solid #ccc;
+    text-align: left;
+}
+
+#chapter-explorer th {
+    font-weight: bold;
+}
+
+#chapter-explorer tbody tr:nth-child(even) {
+    background-color: #f5f5f5;
+}
+
+#chapter-explorer td:nth-child(2) {
+    font-size: 1.5rem;
+}
