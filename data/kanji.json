@@ -1,282 +1,353 @@
-{
-  "K-001": {
+[
+  {
+    "id": "K-0001",
     "character": "一",
     "keyword": "One",
+    "order": 1,
+    "order": ,
     "elements": ["E-001"],
     "grade": 1,
     "description": "",
     "vocabulary": ["一", "一つ"]
   },
-  "K-002": {
+  {
+    "id": "K-0002",
     "character": "二",
     "keyword": "Two",
+    "order": 2,
     "elements": [],
     "grade": 1,
     "description": "",
     "vocabulary": ["二", "二つ"]
   },
-  "K-003": {
+  {
+    "id": "K-0003",
     "character": "三",
     "keyword": "Three",
+    "order": 3,
     "elements": [],
     "grade": 1,
     "description": "",
     "vocabulary": ["三", "三つ"]
   },
-  "K-004": {
+  {
+    "id": "K-0004",
     "character": "四",
     "keyword": "Four",
+    "order": 4,
     "elements": [],
     "grade": 1,
     "description": "",
     "vocabulary": ["四", "四つ"]
   },
-  "K-005": {
+  {
+    "id": "K-0005",
     "character": "五",
     "keyword": "Five",
+    "order": 5,
     "elements": ["E-002"],
     "grade": 1,
     "description": "",
     "vocabulary": ["五", "五つ"]
   },
-  "K-006": {
+  {
+    "id": "K-0006",
     "character": "六",
     "keyword": "Six",
+    "order": 6,
     "elements": [],
     "grade": 1,
     "description": "",
     "vocabulary": ["六", "六つ"]
   },
-  "K-007": {
+  {
+    "id": "K-0007",
     "character": "七",
     "keyword": "Seven",
+    "order": 7,
     "elements": ["E-003"],
     "grade": 1,
     "description": "",
     "vocabulary": ["七", "七つ"]
   },
-  "K-008": {
+  {
+    "id": "K-0008",
     "character": "八",
     "keyword": "Eight",
+    "order": 8,
     "elements": ["E-004"],
     "grade": 1,
     "description": "",
     "vocabulary": ["八", "八つ"]
   },
-  "K-009": {
+  {
+    "id": "K-0009",
     "character": "九",
     "keyword": "Nine",
+    "order": 9,
     "elements": ["E-005"],
     "grade": 1,
     "description": "",
     "vocabulary": ["九", "九つ"]
   },
-  "K-010": {
+  {
+    "id": "K-0010",
     "character": "十",
     "keyword": "Ten",
+    "order": 10,
     "elements": ["E-006"],
     "grade": 1,
     "description": "",
     "vocabulary": ["十"]
   },
-  "K-011": {
+  {
+    "id": "K-0011",
     "character": "口",
     "keyword": "Mouth",
+    "order": 11,
     "elements": ["E-007"],
     "grade": 1,
     "description": "",
     "vocabulary": ["口", "一口"]
   },
-  "K-012": {
+  {
+    "id": "K-0012",
     "character": "日",
     "keyword": "Sun",
+    "order": 12,
     "elements": ["E-008"],
     "grade": 1,
     "description": "",
     "vocabulary": ["日", "日々", "一日"]
   },
-  "K-013": {
+  {
+    "id": "K-0013",
     "character": "月",
     "keyword": "Moon",
+    "order": 13,
     "elements": ["E-009"],
     "grade": 1,
     "description": "",
     "vocabulary": ["月", "三日月", "一月"]
   },
-  "K-014": {
+  {
+    "id": "K-0014",
     "character": "夕",
     "keyword": "Evening",
+    "order": 14,
     "elements": ["E-010"],
     "grade": 1,
     "description": "",
     "vocabulary": ["夕", "夕日"]
   },
-  "K-015": {
+  {
+    "id": "K-0015",
     "character": "田",
     "keyword": "Rice field",
+    "order": 15,
     "elements": ["E-011"],
     "grade": 1,
     "description": "",
     "vocabulary": ["田"]
   },
-  "K-016": {
+  {
+    "id": "K-0016",
     "character": "木",
     "keyword": "Tree",
+    "order": 16,
     "elements": ["E-012"],
     "grade": 1,
     "description": "",
     "vocabulary": ["木"]
   },
-  "K-017": {
+  {
+    "id": "K-0017",
     "character": "山",
     "keyword": "Mountain",
+    "order": 17,
     "elements": ["E-013"],
     "grade": 1,
     "description": "",
     "vocabulary": ["山"]
   },
-  "K-018": {
+  {
+    "id": "K-0018",
     "character": "石",
     "keyword": "Stone",
+    "order": 18,
     "elements": ["E-014"],
     "grade": 1,
     "description": "",
     "vocabulary": ["石"]
   },
-  "K-019": {
+  {
+    "id": "K-0019",
     "character": "目",
     "keyword": "Eye",
+    "order": 19,
     "elements": ["E-015"],
     "grade": 1,
     "description": "",
     "vocabulary": ["目", "一目"]
   },
-  "K-020": {
+  {
+    "id": "K-0020",
     "character": "貝",
     "keyword": "Shellfish",
+    "order": 20,
     "elements": ["E-016"],
     "grade": 1,
     "description": "",
     "vocabulary": ["貝"]
   },
-  "K-021": {
+  {
+    "id": "K-0021",
     "character": "力",
     "keyword": "Power",
+    "order": 21,
     "elements": ["E-017"],
     "grade": 1,
     "description": "",
     "vocabulary": ["力"]
   },
-  "K-022": {
+  {
+    "id": "K-0022",
     "character": "言",
     "keyword": "Say",
+    "order": 22,
     "elements": ["E-018"],
     "grade": 2,
     "description": "",
     "vocabulary": ["言う", "一言"]
   },
-  "K-023": {
+  {
+    "id": "K-0023",
     "character": "明",
     "keyword": "Bright",
+    "order": 23,
     "elements": ["E-008", "E-009"],
     "grade": 2,
     "description": "",
     "vocabulary": ["明るい", "明らか", "明日"]
   },
-  "K-024": {
+  {
+    "id": "K-0024",
     "character": "古",
     "keyword": "Old",
+    "order": 24,
     "elements": ["E-019"],
     "grade": 2,
     "description": "",
     "vocabulary": ["古い"]
   },
-  "K-025": {
+  {
+    "id": "K-0025",
     "character": "早",
     "keyword": "Early",
+    "order": 25,
     "elements": ["E-008", "E-006"],
     "grade": 1,
     "description": "",
     "vocabulary": ["早い", "早口", "早める"]
   },
-  "K-026": {
+  {
+    "id": "K-0026",
     "character": "男",
     "keyword": "Male",
+    "order": 26,
     "elements": ["E-011", "E-017"],
     "grade": 1,
     "description": "",
     "vocabulary": ["男"]
   },
-  "K-027": {
+  {
+    "id": "K-0027",
     "character": "岩",
     "keyword": "Rock",
+    "order": 27,
     "elements": ["E-014", "E-015"],
     "grade": 2,
     "description": "",
     "vocabulary": ["岩", "岩石"]
   },
-  "K-028": {
+  {
+    "id": "K-0028",
     "character": "相",
     "keyword": "Mutual",
+    "order": 28,
     "elements": ["E-012", "E-015"],
     "grade": 3,
     "description": "",
-    "vocabulary": [""]
+    "vocabulary": []
   },
-    "K-029": {
+  {
+    "id": "K-0029",
     "character": "本",
     "keyword": "Book",
+    "order": 29,
     "elements": ["E-012"],
     "grade": 1,
     "description": "",
     "vocabulary": ["本", "日本", "本日", "古本"]
   },
-  "K-030": {
+  {
+    "id": "K-0030",
     "character": "計",
-    "keyword": "Ten",
+    "keyword": "Measure",
+    "order": 30,
     "elements": ["E-018", "E-006"],
     "grade": 2,
     "description": "",
     "vocabulary": ["計る"]
   },
-  "K-031": {
+  {
+    "id": "K-0031",
     "character": "語",
-    "keyword": "Ten",
+    "keyword": "Language",
+    "order": 31,
     "elements": ["E-018", "E-002", "E-007"],
     "grade": 2,
     "description": "",
     "vocabulary": ["語", "言語", "日本語", "語る"]
   },
-  "K-032": {
+  {
+    "id": "K-0032",
     "character": "員",
     "keyword": "Employee",
-    "elements": ["E-006"],
+    "order": 32,
+    "elements": ["E-007", "E-016"],
     "grade": 3,
     "description": "",
     "vocabulary": ["員"]
   },
-  "K-033": {
+  {
+    "id": "K-0033",
     "character": "名",
     "keyword": "Name",
+    "order": 33,
     "elements": ["E-010", "E-007"],
     "grade": 1,
     "description": "",
     "vocabulary": ["名", "名目"]
   },
-  "K-034": {
+  {
+    "id": "K-0034",
     "character": "多",
-    "keyword": "Ten",
+    "keyword": "Many",
+    "order": 34,
     "elements": ["E-010"],
     "grade": 2,
     "description": "",
     "vocabulary": ["多い"]
   },
-  "K-035": {
+  {
+    "id": "K-0035",
     "character": "品",
     "keyword": "Goods",
+    "order": 35,
     "elements": ["E-007"],
     "grade": 3,
     "description": "",
     "vocabulary": ["品"]
   }
-}
+]
