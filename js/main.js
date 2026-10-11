@@ -12,110 +12,122 @@ Promise.all([
 // Continue once all three files have loaded.
 .then(([chapters, kanjiList, elementList]) => {
 
-    // For this demonstration, use the first chapter.
-    const chapter = chapters[0];
-
-    // Display the chapter title.
-    const heading = document.createElement("h2");
-    heading.textContent = chapter.title ?? `Chapter ${chapter.order}`;
-
-    chapterExplorer.replaceChildren(heading);
+    // Clear the loading message.
+    chapterExplorer.replaceChildren();
 
 
-    // Create a table for the kanji data.
-    const table = document.createElement("table");
+    // Iterate over every chapter.
+    chapters.forEach(chapter => {
 
-    // Create the table headings.
-    table.innerHTML = `
-        <thead>
-            <tr>
-                <th>ID</th>
-                <th>Kanji</th>
-                <th>Keyword</th>
-                <th>Elements</th>
-            </tr>
-        </thead>
-        <tbody></tbody>
-    `;
+        // Create a section for this chapter.
+        const chapterSection = document.createElement("section");
 
-    // Find the table body.
-    const tableBody = table.querySelector("tbody");
+        // Display the chapter title.
+        const heading = document.createElement("h2");
+        heading.textContent = chapter.title ?? `Chapter ${chapter.order}`;
+
+        chapterSection.appendChild(heading);
 
 
-    // Go through the kanji IDs listed in this chapter.
-    chapter.kanji.forEach(kanjiId => {
+        // Create a table for the chapter's kanji data.
+        const table = document.createElement("table");
 
-        // Find the matching kanji record.
-        const kanji = kanjiList.find(item => item.id === kanjiId);
+        // Create the table headings.
+        table.innerHTML = `
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Kanji</th>
+                    <th>Keyword</th>
+                    <th>Elements</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        `;
 
-        // Skip IDs that don't exist in kanji.json.
-        if (!kanji) {
-            console.warn(`Kanji ID not found: ${kanjiId}`);
-            return;
-        }
-
-
-        // Find the element records associated with this kanji.
-        const elements = kanji.elements.map(elementId => {
-
-            return elementList.find(item => item.id === elementId);
-
-        }).filter(element => element !== undefined);
-
-
-        // Create a row for this kanji.
-        const row = document.createElement("tr");
+        // Find the table body.
+        const tableBody = table.querySelector("tbody");
 
 
-        // Create the ID cell.
-        const idCell = document.createElement("td");
-        idCell.textContent = kanji.id;
-        row.appendChild(idCell);
+        // Go through the kanji IDs listed in this chapter.
+        chapter.kanji.forEach(kanjiId => {
+
+            // Find the matching kanji record.
+            const kanji = kanjiList.find(item => item.id === kanjiId);
+
+            // Skip IDs that don't exist in kanji.json
+            if (!kanji) {
+                console.warn(`Kanji ID not found: ${kanjiId}`);
+                return;
+            }
 
 
-        // Create the character cell.
-        const characterCell = document.createElement("td");
-        characterCell.textContent = kanji.character;
-        row.appendChild(characterCell);
+            // Find the elements associated with this kanji.
+            const elements = kanji.elements
+                .map(elementId =>
+                    elementList.find(item => item.id === elementId)
+                )
+                .filter(element => element !== undefined);
 
 
-        // Create the keyword cell.
-        const keywordCell = document.createElement("td");
-        keywordCell.textContent = kanji.keyword;
-        row.appendChild(keywordCell);
+            // Create a row for this kanji.
+            const row = document.createElement("tr");
 
 
-        // Create the elements cell.
-        const elementsCell = document.createElement("td");
-
-        if (elements.length > 0) {
-
-            elementsCell.textContent = elements.map(element =>
-                `${element.character} (${element.name})`
-            ).join(", ");
-
-        } else {
-
-            elementsCell.textContent = "No elements assigned";
-
-        }
-
-        row.appendChild(elementsCell);
+            // Display the ID.
+            const idCell = document.createElement("td");
+            idCell.textContent = kanji.id;
+            row.appendChild(idCell);
 
 
-        // Add the row to the table.
-        tableBody.appendChild(row);
+            // Display the kanji character.
+            const characterCell = document.createElement("td");
+            characterCell.textContent = kanji.character;
+            row.appendChild(characterCell);
+
+
+            // Display the keyword.
+            const keywordCell = document.createElement("td");
+            keywordCell.textContent = kanji.keyword;
+            row.appendChild(keywordCell);
+
+
+            // Display the elements.
+            const elementsCell = document.createElement("td");
+
+            if (elements.length > 0) {
+
+                elementsCell.textContent = elements
+                    .map(element => `${element.character} (${element.name})`)
+                    .join(", ");
+
+            } else {
+
+                elementsCell.textContent = "No elements assigned";
+
+            }
+
+            row.appendChild(elementsCell);
+
+
+            // Add the row to the table.
+            tableBody.appendChild(row);
+
+        });
+
+
+        // Add the completed table to the chapter section.
+        chapterSection.appendChild(table);
+
+        // Add the chapter section to the page.
+        chapterExplorer.appendChild(chapterSection);
 
     });
-
-
-    // Add the finished table to the page.
-    chapterExplorer.appendChild(table);
 
 })
 
 
-// Display an error if any of the JSON files fail to load.
+// Handle errors.
 .catch(error => {
 
     console.error("Error loading chapter data:", error);
