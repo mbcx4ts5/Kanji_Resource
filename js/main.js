@@ -45,7 +45,7 @@ Promise.all([
             <tbody></tbody>
         `;
 
-        // Find the table body.
+        // Find the table body from style.css.
         const tableBody = table.querySelector("tbody");
 
 
