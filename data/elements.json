@@ -1,5 +1,13 @@
 [
   {
+    "id": "E-XXX",
+    "chatacter": "×",
+    "name": "Test Element",
+    "order": 0,
+    "description": "",
+    "components": []
+  },
+  {
     "id": "E-001",
     "character": "一",
     "name": "One",

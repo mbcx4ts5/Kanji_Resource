@@ -1,5 +1,14 @@
 [
     {
+        "id": "CH-XXX",
+        "title": "Test chapter",
+        "section": 0,
+        "order": 0,
+        "kanji": [
+            "K-XXXX"
+        ]
+    },
+    {
         "id": "CH-001",
         "title": "Chapter 1: Numbers, Pictograms and Combinations",
         "section": 1,

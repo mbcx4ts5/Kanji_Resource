@@ -1,5 +1,15 @@
 [
   {
+    "id": "K-XXXX",
+    "character": "×",
+    "keyword": "Test kanji",
+    "order": 0,
+    "elements": ["E-XXX"],
+    "grade": "X",
+    "description": "Placeholder Kanji",
+    "vocabulary": []
+  },
+  {
     "id": "K-0001",
     "character": "一",
     "keyword": "One",
