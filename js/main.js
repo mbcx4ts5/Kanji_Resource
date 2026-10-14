@@ -119,6 +119,63 @@ Promise.all([
         // Add the completed table to the chapter section.
         chapterSection.appendChild(table);
 
+        // Create the buttons grid
+        const kanjiGrid = document.createElement("div");
+        kanjiGrid.className = "kanji-grid";
+        
+        // Go through the kanji IDs listed in this chapter.
+        chapter.kanji.forEach(kanjiId => {
+
+            // Find the matching kanji record.
+            const kanji = kanjiList.find(item => item.id === kanjiId);
+
+            // Skip IDs that don't exist in kanji.json
+            if (!kanji) {
+                console.warn(`Kanji ID not found: ${kanjiId}`);
+                return;
+            }
+
+
+            // Find the elements associated with this kanji.
+            const elements = kanji.elements
+                .map(elementId =>
+                    elementList.find(item => item.id === elementId)
+                )
+                .filter(element => element !== undefined);
+
+
+            // Create buttons, character, ID and keyword labels for buttons
+            const button = document.createElement("button");
+            button.className = "kanji-button";
+
+            const character = document.createElement("span");
+            character.className = "kanji-button-character";
+            character.textContent = kanji.character;
+
+            const id = document.createElement("span");
+            id.className = "kanji-button-id";
+            id.textContent = kanji.id;
+
+            const keyword = document.createElement("span");
+            keyword.className = "kanji-button-keyword";
+            keyword.textContent = kanji.keyword
+
+            button.appendChild(character);
+            button.appendChild(id);
+            button.appendChild(keyword);
+
+            button.addEventListener("click", () => {
+                window.location.href = "kanji.html";
+            });
+
+            kanjiGrid.appendChild(button)
+
+
+        });
+
+        //Add the button kanjiGrid to the chapterSection
+        chapterSection.appendChild(kanjiGrid)
+
         // Add the chapter section to the page.
         chapterExplorer.appendChild(chapterSection);
 
