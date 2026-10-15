@@ -61,7 +61,7 @@ Promise.all([
                 return;
             }
 
-
+            
             // Find the elements associated with this kanji.
             const elements = kanji.elements
                 .map(elementId =>
@@ -69,7 +69,7 @@ Promise.all([
                 )
                 .filter(element => element !== undefined);
 
-
+            
             // Create a row for this kanji.
             const row = document.createElement("tr");
 
@@ -117,8 +117,8 @@ Promise.all([
 
 
         // Add the completed table to the chapter section.
-        chapterSection.appendChild(table);
-
+        // chapterSection.appendChild(table);
+        
         // Create the buttons grid
         const kanjiGrid = document.createElement("div");
         kanjiGrid.className = "kanji-grid";
@@ -165,7 +165,7 @@ Promise.all([
             button.appendChild(keyword);
 
             button.addEventListener("click", () => {
-                window.location.href = "kanji.html";
+                window.location.href = `kanji.html?id=${kanji.id}`;
             });
 
             kanjiGrid.appendChild(button)
