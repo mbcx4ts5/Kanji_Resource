@@ -18,13 +18,27 @@ fetch("data/kanji.json")
         // Clear the loading message
         page.replaceChildren();
 
-        // Create character and keywords and append to page
+        // Create the kanji ID
+        const kanjiIdSection = document.createElement("p");
+        kanjiIdSection.className = "kanji-id";
+        kanjiIdSection.textContent = kanji.id;
+        page.appendChild(kanjiIdSection);
+        
+        // Create the kanji hero
+        const kanjiHero = document.createElement("div");
+        kanjiHero.className = "kanji-hero";
+
+        // Create character and keywords and append to hero
         const characterHeading = document.createElement("h1");
+        characterHeading.className = "kanji-character";
         characterHeading.textContent = kanji.character;
-        page.appendChild(characterHeading);
+        kanjiHero.appendChild(characterHeading);
 
         const keywordHeading = document.createElement("h2");
+        keywordHeading.className = "kanji-keyword";
         keywordHeading.textContent = kanji.keyword;
-        page.appendChild(keywordHeading);
+        kanjiHero.appendChild(keywordHeading);
+
+        page.appendChild(kanjiHero);
 
     });

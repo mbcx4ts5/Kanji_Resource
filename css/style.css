@@ -99,16 +99,15 @@ footer {
 
 
 /* Kanji Buttons */
-/* Grid containing all the kanji buttons */
 .kanji-grid {
+    /* Grid containing all the kanji buttons */
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
     gap: 1rem;
     margin: 1.5rem 0;
 }
-
-/* Individual kanji buttons */
 .kanji-button {
+    /* Individual kanji buttons */
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -128,68 +127,75 @@ footer {
     transition: border-color 0.2s, box-shadow 0.2s;
 }
 
-/* Hover effect */
 .kanji-button:hover {
+    /* Hover effect */
     border-color: #555555;
     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
 }
 
-/* Keyboard accessibility */
 .kanji-button:focus-visible {
+    /* Keyboard accessibility */
     outline: 3px solid #333333;
     outline-offset: 3px;
 }
 
-/* The kanji character */
 .kanji-button-character {
+    /* The kanji character */
     font-size: 3rem;
     line-height: 1.2;
 }
 
-/* The internal ID */
 .kanji-button-id {
+    /* The internal ID */
     font-size: 0.75rem;
     color: #777777;
 }
 
-/* The English keyword */
 .kanji-button-keyword {
+    /* The English keyword */
     font-size: 1rem;
 }
 /* Kanji Buttons */
 
-
-.kanji-page-kanji {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 50px;
-    font-size: 2rem;
-    padding: 10px;
+/* Kanji Page */
+.kanji-page { 
+    /* Kanji Page */
+    max-width: 800px;
+    margin-inline: auto;
+    padding: 1.5rem;
 }
 
-.kanji-page-centered {
+.kanji-navigation { 
+    /* Navgiagtion Pane */
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
-    height: 50px;
+    gap: 1rem;
+    margin-bottom: 2rem;
+}
+
+.kanji-hero { 
+    /* Main Character and Keyword Card*/
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.kanji-character {
+    /* Large kanji Character */
+    font-size: 7rem;
+    font-weight: normal;
+    line-height: 1.2;
+    margin: 0;
+}
+
+.english-keyword {
+    /*English keyword*/
     font-size: 1.5rem;
+    margin: 0.5rem 0 0;
 }
 
-.kanji-page-small-centered {
-    display: flex;
-    justify-content: center;
-    height: 50px;
+.kanji-description, .kanji-vocabulary, .kanji-elements {
+    /* Misc */
+    margin-top: 2rem;
 }
-
-.kanji-page-centered button {
-    color: blue
-}
-
-.element-section {
-    background-color: paleturquoise;
-}
-
-.kanji-page-kanji h1 {
-    margin-bottom: 5;
-}
+/* Kanji Page */
