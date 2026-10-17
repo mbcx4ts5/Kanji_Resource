@@ -4,7 +4,7 @@
         "title": "Test chapter",
         "section": 0,
         "order": 0,
-        "kanji": [
+        "entries": [
             "K-XXXX"
         ]
     },
@@ -13,7 +13,7 @@
         "title": "Chapter 1: Numbers, Pictograms and Combinations",
         "section": 1,
         "order": 1,
-        "kanji": [
+        "entries": [
             "K-0001",
             "K-0002",
             "K-0003",

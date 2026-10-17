@@ -28,121 +28,23 @@ Promise.all([
 
         chapterSection.appendChild(heading);
 
-
-        // Create a table for the chapter's kanji data.
-        const table = document.createElement("table");
-
-        // Create the table headings.
-        table.innerHTML = `
-            <thead>
-                <tr>
-                    <th>ID</th>
-                    <th>Kanji</th>
-                    <th>Keyword</th>
-                    <th>Elements</th>
-                </tr>
-            </thead>
-            <tbody></tbody>
-        `;
-
-        // Find the table body from style.css.
-        const tableBody = table.querySelector("tbody");
-
-
-        // Go through the kanji IDs listed in this chapter.
-        chapter.kanji.forEach(kanjiId => {
-
-            // Find the matching kanji record.
-            const kanji = kanjiList.find(item => item.id === kanjiId);
-
-            // Skip IDs that don't exist in kanji.json
-            if (!kanji) {
-                console.warn(`Kanji ID not found: ${kanjiId}`);
-                return;
-            }
-
-            
-            // Find the elements associated with this kanji.
-            const elements = kanji.elements
-                .map(elementId =>
-                    elementList.find(item => item.id === elementId)
-                )
-                .filter(element => element !== undefined);
-
-            
-            // Create a row for this kanji.
-            const row = document.createElement("tr");
-
-
-            // Display the ID.
-            const idCell = document.createElement("td");
-            idCell.textContent = kanji.id;
-            row.appendChild(idCell);
-
-
-            // Display the kanji character.
-            const characterCell = document.createElement("td");
-            characterCell.textContent = kanji.character;
-            row.appendChild(characterCell);
-
-
-            // Display the keyword.
-            const keywordCell = document.createElement("td");
-            keywordCell.textContent = kanji.keyword;
-            row.appendChild(keywordCell);
-
-
-            // Display the elements.
-            const elementsCell = document.createElement("td");
-
-            if (elements.length > 0) {
-
-                elementsCell.textContent = elements
-                    .map(element => `${element.character} (${element.name})`)
-                    .join(", ");
-
-            } else {
-
-                elementsCell.textContent = "No elements assigned";
-
-            }
-
-            row.appendChild(elementsCell);
-
-
-            // Add the row to the table.
-            tableBody.appendChild(row);
-
-        });
-
-
-        // Add the completed table to the chapter section.
-        // chapterSection.appendChild(table);
-        
-        // Create the buttons grid
+         // Create the buttons grid
         const kanjiGrid = document.createElement("div");
         kanjiGrid.className = "kanji-grid";
-        
+
         // Go through the kanji IDs listed in this chapter.
-        chapter.kanji.forEach(kanjiId => {
+        chapter.entries.forEach(entryId => {
 
-            // Find the matching kanji record.
-            const kanji = kanjiList.find(item => item.id === kanjiId);
+            // Find the matching kanji or element record.
+            const kanji = kanjiList.find(item => item.id === entryId);
+            const element = elementList.find(item => item.id === entryId);
 
-            // Skip IDs that don't exist in kanji.json
-            if (!kanji) {
-                console.warn(`Kanji ID not found: ${kanjiId}`);
+            // Skip IDs that don't exist in either json file
+            const entry = kanji || element
+            if (!entry) {
+                console.warn(`Entry not found: ${entryId}`);
                 return;
             }
-
-
-            // Find the elements associated with this kanji.
-            const elements = kanji.elements
-                .map(elementId =>
-                    elementList.find(item => item.id === elementId)
-                )
-                .filter(element => element !== undefined);
-
 
             // Create buttons, character, ID and keyword labels for buttons
             const button = document.createElement("button");
@@ -150,22 +52,26 @@ Promise.all([
 
             const character = document.createElement("span");
             character.className = "kanji-button-character";
-            character.textContent = kanji.character;
+            character.textContent = entry.character;
 
             const id = document.createElement("span");
             id.className = "kanji-button-id";
-            id.textContent = kanji.id;
+            id.textContent = entry.id;
 
             const keyword = document.createElement("span");
             keyword.className = "kanji-button-keyword";
-            keyword.textContent = kanji.keyword
+            keyword.textContent = kanji ? kanji.keyword : entry.name;
 
             button.appendChild(character);
             button.appendChild(id);
             button.appendChild(keyword);
 
             button.addEventListener("click", () => {
-                window.location.href = `kanji.html?id=${kanji.id}`;
+                if (kanji) {
+                    window.location.href = `kanji.html?id=${entry.id}`;
+                } else {
+                    window.location.href = `element.html?id=${entry.id}`
+                }
             });
 
             kanjiGrid.appendChild(button)
