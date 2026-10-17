@@ -17,7 +17,7 @@
     "elements": ["E-001"],
     "grade": 1,
     "description": "",
-    "vocabulary": ["一", "一つ"]
+    "vocabulary": ["一・いち", "一つ・ひとつ"]
   },
   {
     "id": "K-0002",
@@ -27,7 +27,7 @@
     "elements": [],
     "grade": 1,
     "description": "",
-    "vocabulary": ["二", "二つ"]
+    "vocabulary": ["二・に", "二つ・ふたつ"]
   },
   {
     "id": "K-0003",
@@ -37,7 +37,7 @@
     "elements": [],
     "grade": 1,
     "description": "",
-    "vocabulary": ["三", "三つ"]
+    "vocabulary": ["三・さん", "三つ・みっつ"]
   },
   {
     "id": "K-0004",
@@ -47,7 +47,7 @@
     "elements": [],
     "grade": 1,
     "description": "",
-    "vocabulary": ["四", "四つ"]
+    "vocabulary": ["四・よん・し", "四つ・よっつ"]
   },
   {
     "id": "K-0005",
@@ -57,7 +57,7 @@
     "elements": ["E-002"],
     "grade": 1,
     "description": "",
-    "vocabulary": ["五", "五つ"]
+    "vocabulary": ["五・ご", "五つ・いつつ"]
   },
   {
     "id": "K-0006",
@@ -67,7 +67,7 @@
     "elements": [],
     "grade": 1,
     "description": "",
-    "vocabulary": ["六", "六つ"]
+    "vocabulary": ["六・ろく", "六つ・むっつ"]
   },
   {
     "id": "K-0007",
@@ -77,7 +77,7 @@
     "elements": ["E-003"],
     "grade": 1,
     "description": "",
-    "vocabulary": ["七", "七つ"]
+    "vocabulary": ["七・なな・しち", "七つ・ななつ"]
   },
   {
     "id": "K-0008",
@@ -87,7 +87,7 @@
     "elements": ["E-004"],
     "grade": 1,
     "description": "",
-    "vocabulary": ["八", "八つ"]
+    "vocabulary": ["八・はち", "八つ・やっつ"]
   },
   {
     "id": "K-0009",
@@ -97,7 +97,7 @@
     "elements": ["E-005"],
     "grade": 1,
     "description": "",
-    "vocabulary": ["九", "九つ"]
+    "vocabulary": ["九・きゅう", "九つ・ここのつ"]
   },
   {
     "id": "K-0010",
@@ -107,7 +107,7 @@
     "elements": ["E-006"],
     "grade": 1,
     "description": "",
-    "vocabulary": ["十"]
+    "vocabulary": ["十・じゅう"]
   },
   {
     "id": "K-0011",
@@ -117,7 +117,7 @@
     "elements": ["E-007"],
     "grade": 1,
     "description": "",
-    "vocabulary": ["口", "一口"]
+    "vocabulary": ["口・くち", "一口・ひとくち"]
   },
   {
     "id": "K-0012",
@@ -127,7 +127,7 @@
     "elements": ["E-008"],
     "grade": 1,
     "description": "",
-    "vocabulary": ["日", "日々", "一日"]
+    "vocabulary": ["日・ひ", "日々・ひび", "一日・いちにち・ついたち"]
   },
   {
     "id": "K-0013",
@@ -137,7 +137,7 @@
     "elements": ["E-009"],
     "grade": 1,
     "description": "",
-    "vocabulary": ["月", "三日月", "一月"]
+    "vocabulary": ["月・つき", "三日月・みかづき", "一月・いちがつ"]
   },
   {
     "id": "K-0014",
@@ -147,7 +147,7 @@
     "elements": ["E-010"],
     "grade": 1,
     "description": "",
-    "vocabulary": ["夕", "夕日"]
+    "vocabulary": ["夕・ゆう", "夕日・ゆうひ"]
   },
   {
     "id": "K-0015",
@@ -157,7 +157,7 @@
     "elements": ["E-011"],
     "grade": 1,
     "description": "",
-    "vocabulary": ["田"]
+    "vocabulary": ["田・た"]
   },
   {
     "id": "K-0016",
@@ -167,7 +167,7 @@
     "elements": ["E-012"],
     "grade": 1,
     "description": "",
-    "vocabulary": ["木"]
+    "vocabulary": ["木・き"]
   },
   {
     "id": "K-0017",
@@ -177,7 +177,7 @@
     "elements": ["E-013"],
     "grade": 1,
     "description": "",
-    "vocabulary": ["山"]
+    "vocabulary": ["山・やま"]
   },
   {
     "id": "K-0018",
@@ -187,7 +187,7 @@
     "elements": ["E-014"],
     "grade": 1,
     "description": "",
-    "vocabulary": ["石"]
+    "vocabulary": ["石・いし"]
   },
   {
     "id": "K-0019",
@@ -197,7 +197,7 @@
     "elements": ["E-015"],
     "grade": 1,
     "description": "",
-    "vocabulary": ["目", "一目"]
+    "vocabulary": ["目・め", "一目・ひとめ"]
   },
   {
     "id": "K-0020",
@@ -207,7 +207,7 @@
     "elements": ["E-016"],
     "grade": 1,
     "description": "",
-    "vocabulary": ["貝"]
+    "vocabulary": ["貝・かい"]
   },
   {
     "id": "K-0021",
@@ -217,7 +217,7 @@
     "elements": ["E-017"],
     "grade": 1,
     "description": "",
-    "vocabulary": ["力"]
+    "vocabulary": ["力・ちから"]
   },
   {
     "id": "K-0022",
@@ -227,7 +227,7 @@
     "elements": ["E-018"],
     "grade": 2,
     "description": "",
-    "vocabulary": ["言う", "一言"]
+    "vocabulary": ["言う・いう", "一言・ひとこと"]
   },
   {
     "id": "K-0023",
@@ -237,7 +237,7 @@
     "elements": ["E-008", "E-009"],
     "grade": 2,
     "description": "",
-    "vocabulary": ["明るい", "明らか", "明日"]
+    "vocabulary": ["明るい・あかるい", "明らか・あきらか", "明日・あした"]
   },
   {
     "id": "K-0024",
@@ -247,7 +247,7 @@
     "elements": ["E-019"],
     "grade": 2,
     "description": "",
-    "vocabulary": ["古い"]
+    "vocabulary": ["古い・ふるい"]
   },
   {
     "id": "K-0025",
@@ -257,7 +257,7 @@
     "elements": ["E-008", "E-006"],
     "grade": 1,
     "description": "",
-    "vocabulary": ["早い", "早口", "早める"]
+    "vocabulary": ["早い・はやい", "早口・はやくち", "早める・はやめる"]
   },
   {
     "id": "K-0026",
@@ -267,7 +267,7 @@
     "elements": ["E-011", "E-017"],
     "grade": 1,
     "description": "",
-    "vocabulary": ["男"]
+    "vocabulary": ["男・おとこ"]
   },
   {
     "id": "K-0027",
@@ -277,7 +277,7 @@
     "elements": ["E-014", "E-015"],
     "grade": 2,
     "description": "",
-    "vocabulary": ["岩", "岩石"]
+    "vocabulary": ["岩・いわ", "岩石・がんせき"]
   },
   {
     "id": "K-0028",
@@ -297,7 +297,7 @@
     "elements": ["E-012"],
     "grade": 1,
     "description": "",
-    "vocabulary": ["本", "日本", "本日", "古本"]
+    "vocabulary": ["本・ほん", "日本・にほん", "本日・ほんじつ", "古本・ふるほん"]
   },
   {
     "id": "K-0030",
@@ -307,7 +307,7 @@
     "elements": ["E-018", "E-006"],
     "grade": 2,
     "description": "",
-    "vocabulary": ["計る"]
+    "vocabulary": ["計る・はかる"]
   },
   {
     "id": "K-0031",
@@ -317,7 +317,7 @@
     "elements": ["E-018", "E-002", "E-007"],
     "grade": 2,
     "description": "",
-    "vocabulary": ["語", "言語", "日本語", "語る"]
+    "vocabulary": ["語・ご", "言語・げんご", "日本語・にほんご", "語る・かたる"]
   },
   {
     "id": "K-0032",
@@ -327,7 +327,7 @@
     "elements": ["E-007", "E-016"],
     "grade": 3,
     "description": "",
-    "vocabulary": ["員"]
+    "vocabulary": ["員・いん"]
   },
   {
     "id": "K-0033",
@@ -337,7 +337,7 @@
     "elements": ["E-010", "E-007"],
     "grade": 1,
     "description": "",
-    "vocabulary": ["名", "名目"]
+    "vocabulary": ["名・な", "名目・めいもく"]
   },
   {
     "id": "K-0034",
@@ -347,7 +347,7 @@
     "elements": ["E-010"],
     "grade": 2,
     "description": "",
-    "vocabulary": ["多い"]
+    "vocabulary": ["多い・おおい"]
   },
   {
     "id": "K-0035",
@@ -357,6 +357,6 @@
     "elements": ["E-007"],
     "grade": 3,
     "description": "",
-    "vocabulary": ["品"]
+    "vocabulary": ["品・しな"]
   }
 ]
