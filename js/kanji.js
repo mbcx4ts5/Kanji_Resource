@@ -2,7 +2,16 @@
 const params = new URLSearchParams(window.location.search);
 const kanjiId = params.get("id");
 
-console.log(kanjiId)
+console.log(kanjiId);
+
+// Define function for the navigation buttons
+function navigateToEntry(entryId) {
+    if (entryId.startsWith("K-")) {
+        window.location.href = `kanji.html?id=${entryId}`;
+    } else if (entryId.startsWith("E-")) {
+        window.location.href = `element.html?id=${entryId}`;
+    }
+};
 
 // Load json data and turn it into JS data
 Promise.all([
@@ -22,6 +31,17 @@ Promise.all([
     // Clear the loading message
     page.replaceChildren();
 
+    // Get the full curriculum from chapters.json and current position
+    const curriculumEntries = chapters.flatMap(chapter => chapter.entries);
+    const currentIndex = curriculumEntries.indexOf(kanjiId);
+    if (currentIndex === -1) {
+        console.warn(`Entry ${kanjiId} is not in the curriculum`);
+    }
+
+    // Get the previous and next entries
+    const previousEntry = curriculumEntries[currentIndex - 1];
+    const nextEntry = curriculumEntries[currentIndex + 1];
+    
     // Create the navigation bar
     const navigation = document.createElement("nav");
     navigation.className = "kanji-navigation";
@@ -29,12 +49,22 @@ Promise.all([
     // Create the previous button
     const previousButton = document.createElement("button");
     previousButton.textContent = "←";
-    previousButton.disabled = true;
+    previousButton.disabled = !previousEntry;
+    previousButton.addEventListener("click", () => {
+        if (previousEntry) {
+            navigateToEntry(previousEntry);
+        }
+    });
 
     // Create the next button
     const nextButton = document.createElement("button");
     nextButton.textContent = "→";
-    nextButton.disabled = true;
+    nextButton.disabled = !nextEntry;
+    nextButton.addEventListener("click", () => {
+        if (nextEntry) {
+            navigateToEntry(nextEntry);
+        }
+    });
 
     // Create the kanji ID
     const kanjiIdSection = document.createElement("p");
