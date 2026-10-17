@@ -18,11 +18,31 @@ fetch("data/kanji.json")
         // Clear the loading message
         page.replaceChildren();
 
+        // Create the navigation bar
+        const navigation = document.createElement("nav");
+        navigation.className = "kanji-navigation";
+
+        // Create the previous button
+        const previousButton = document.createElement("button");
+        previousButton.textContent = "←";
+        previousButton.disabled = true;
+
+        // Create the next button
+        const nextButton = document.createElement("button");
+        nextButton.textContent = "→";
+        nextButton.disabled = true;
+
         // Create the kanji ID
         const kanjiIdSection = document.createElement("p");
         kanjiIdSection.className = "kanji-id";
         kanjiIdSection.textContent = kanji.id;
         page.appendChild(kanjiIdSection);
+
+        navigation.appendChild(previousButton);
+        navigation.appendChild(kanjiIdSection);
+        navigation.appendChild(nextButton);
+
+        page.appendChild(navigation);
         
         // Create the kanji hero
         const kanjiHero = document.createElement("div");
@@ -40,5 +60,55 @@ fetch("data/kanji.json")
         kanjiHero.appendChild(keywordHeading);
 
         page.appendChild(kanjiHero);
+
+        // Create the kanji information card
+        const kanjiInformationCard = document.createElement("section");
+        kanjiInformationCard.className = "kanji-information";
+        
+        // Create the description section
+        const descriptionSection = document.createElement("section");
+
+        const descriptionHeading = document.createElement("h2");
+        descriptionHeading.textContent = "About this kanji";
+
+        const descriptionText = document.createElement("p");
+        descriptionText.textContent = kanji.description;
+
+        descriptionSection.appendChild(descriptionHeading);
+        descriptionSection.appendChild(descriptionText);
+
+        kanjiInformationCard.appendChild(descriptionSection);
+
+        // Create the grade section
+        const gradeSection = document.createElement("section");
+        
+        const gradeHeading = document.createElement("h2");
+        gradeHeading.textContent = "Grade";
+
+        const gradeText = document.createElement("p");
+        gradeText.textContent = kanji.grade;
+
+        gradeSection.appendChild(gradeHeading);
+        gradeSection.appendChild(gradeText);
+        kanjiInformationCard.appendChild(gradeSection);
+
+        // Create the vocabulary section
+        const vocabularySection = document.createElement("section");
+        const vocabularyHeading = document.createElement("h2");
+        vocabularyHeading.textContent = "Vocabulary";
+        const vocabularyList = document.createElement("ul");
+
+        kanji.vocabulary.forEach(word => {
+            const vocabularyItem = document.createElement("li");
+            vocabularyItem.textContent = word;
+            vocabularyList.appendChild(vocabularyItem);
+        });
+
+        vocabularySection.appendChild(vocabularyHeading);
+        vocabularySection.appendChild(vocabularyList);
+        kanjiInformationCard.appendChild(vocabularySection)
+
+        // Append Kanji information card
+        page.appendChild(kanjiInformationCard);
 
     });
