@@ -175,6 +175,11 @@ footer {
     padding: 1.5rem;
 }
 
+.kanji-id {
+    text-align: center;
+    margin: 1rem 0 0;
+}
+
 .kanji-navigation { 
     /* Navgiagtion Pane */
     display: flex;
@@ -247,3 +252,11 @@ footer {
     line-height: 1.6;
 }
 /* Kanji Page */
+
+/* Elements Subsection */
+#element-subsection {
+    max-width: 800px;
+    margin-inline: auto;
+    padding: 1.5rem;
+    background-color: turquoise;
+}

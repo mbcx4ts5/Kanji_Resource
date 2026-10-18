@@ -38,6 +38,14 @@ Promise.all([
         console.warn(`Entry ${kanjiId} is not in the curriculum`);
     }
 
+    // Check whether the kanji has a same element
+    let sameElement = null
+    if (kanji.same_element !== null) {
+        sameElement = elementList.find(
+            item => item.id === kanji.same_element
+        );
+    }
+
     // Get the previous and next entries
     const previousEntry = curriculumEntries[currentIndex - 1];
     const nextEntry = curriculumEntries[currentIndex + 1];
@@ -70,7 +78,6 @@ Promise.all([
     const kanjiIdSection = document.createElement("p");
     kanjiIdSection.className = "kanji-id";
     kanjiIdSection.textContent = kanji.id;
-    page.appendChild(kanjiIdSection);
 
     navigation.appendChild(previousButton);
     navigation.appendChild(kanjiIdSection);
@@ -143,7 +150,7 @@ Promise.all([
     kanjiInformationCard.appendChild(vocabularySection)
 
     //Create the elements section
-    const elemenetsSection = document.createElement("section");
+    const elementsSection = document.createElement("section");
     const elementsHeading = document.createElement("h2");
     elementsHeading.textContent = "Elements";
 
@@ -157,17 +164,100 @@ Promise.all([
             const elementName = document.createElement("em"); // Emphasised text in italics
             elementName.textContent = element.name.toLowerCase();
             elementsText.appendChild(elementName);
-            
-
         }
+
+    
     });
 
-    elemenetsSection.appendChild(elementsHeading);
-    elemenetsSection.appendChild(elementsText);
+    elementsSection.appendChild(elementsHeading);
+    elementsSection.appendChild(elementsText);
 
-    kanjiInformationCard.appendChild(elemenetsSection);
+    kanjiInformationCard.appendChild(elementsSection);
 
     // Append Kanji information card
     page.appendChild(kanjiInformationCard);
 
+
+
+    // Find the kanji-page element
+    const elementsSubsection = document.getElementById("element-subsection");
+    elementsSubsection.replaceChildren();
+    elementsSubsection.hidden = true;
+
+    if (sameElement) {
+        // Unhide the section
+        elementsSubsection.hidden = false;
+        
+        // Create the navigation bar
+        const idBar = document.createElement("nav");
+        idBar.className = "kanji-navigation";    
+        
+        // Create the element ID
+        const elementId = document.createElement("p");
+        elementId.className = "kanji-id";
+        elementId.textContent = sameElement.id;
+
+        elementsSubsection.appendChild(elementId);
+
+        // Create the element hero
+        const elementHero = document.createElement("div");
+        elementHero.className = "kanji-hero";
+
+        // Create character and keywords and append to hero
+        const elementSSCharacterHeading = document.createElement("h1");
+        elementSSCharacterHeading.className = "kanji-character";
+        elementSSCharacterHeading.textContent = sameElement.character;
+        elementHero.appendChild(elementSSCharacterHeading);
+
+        const elementSSKeywordHeading = document.createElement("h2");
+        elementSSKeywordHeading.className = "kanji-keyword";
+        elementSSKeywordHeading.textContent = sameElement.name;
+        elementHero.appendChild(elementSSKeywordHeading);
+
+        elementsSubsection.appendChild(elementHero);
+
+        // Create the element sub section information card
+        const elementSSInformationCard = document.createElement("section");
+        elementSSInformationCard.className = "kanji-information";
+
+        // Create the element subsection description section
+        const elementSSDescriptionSection = document.createElement("section")
+        
+        const elementSSDescriptionHeading = document.createElement("h2");
+        elementSSDescriptionHeading.textContent = "About this element";
+
+        const elementSSDescriptionText = document.createElement("p");
+        elementSSDescriptionText.textContent = sameElement.description;
+
+        elementSSDescriptionSection.appendChild(elementSSDescriptionHeading);
+        elementSSDescriptionSection.appendChild(elementSSDescriptionText);
+        elementSSInformationCard.append(elementSSDescriptionSection);
+
+        // Create the element sub section component section
+        const elementSSComponentSection = document.createElement("section");
+        const elementSSComponentHeading = document.createElement("h2");
+        elementSSComponentHeading.textContent = "Components";
+
+        const elementSSComponentText = document.createElement("p");
+        sameElement.components.forEach((elementID, index) => {
+            const element = elementList.find(item => item.id === elementID);
+            if (element) {
+                if (index > 0) {
+                    elementSSComponentText.appendChild(document.createTextNode(", "));
+                }
+                const elementSSComponentName = document.createElement("em");
+                elementSSComponentName.textContent = element.name.toLowerCase();
+                elementSSComponentText.appendChild(elementSSComponentName);
+            }
+        });
+
+        elementSSComponentSection.appendChild(elementSSComponentHeading);
+        elementSSComponentSection.appendChild(elementSSComponentText);
+
+        // Append Element Component Section
+        elementSSInformationCard.appendChild(elementSSComponentSection);
+
+        // Append the elements information card
+        elementsSubsection.appendChild(elementSSInformationCard);
+    }
 });
