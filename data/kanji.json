@@ -7,6 +7,7 @@
     "elements": ["E-XXX"],
     "grade": "X",
     "description": "Placeholder Kanji",
+    "same_element": null,
     "vocabulary": []
   },
   {
@@ -17,6 +18,7 @@
     "elements": ["E-001"],
     "grade": 1,
     "description": "",
+    "same_element": "E-001",
     "vocabulary": ["一・いち", "一つ・ひとつ"]
   },
   {
@@ -27,6 +29,7 @@
     "elements": [],
     "grade": 1,
     "description": "",
+    "same_element": null,
     "vocabulary": ["二・に", "二つ・ふたつ"]
   },
   {
@@ -37,6 +40,7 @@
     "elements": [],
     "grade": 1,
     "description": "",
+    "same_element": null,
     "vocabulary": ["三・さん", "三つ・みっつ"]
   },
   {
@@ -47,6 +51,7 @@
     "elements": [],
     "grade": 1,
     "description": "",
+    "same_element": null,
     "vocabulary": ["四・よん・し", "四つ・よっつ"]
   },
   {
@@ -57,6 +62,7 @@
     "elements": ["E-002"],
     "grade": 1,
     "description": "",
+    "same_element": "E-002",
     "vocabulary": ["五・ご", "五つ・いつつ"]
   },
   {
@@ -67,6 +73,7 @@
     "elements": [],
     "grade": 1,
     "description": "",
+    "same_element": null,
     "vocabulary": ["六・ろく", "六つ・むっつ"]
   },
   {
@@ -77,6 +84,7 @@
     "elements": ["E-003"],
     "grade": 1,
     "description": "",
+    "same_element": "E-003",
     "vocabulary": ["七・なな・しち", "七つ・ななつ"]
   },
   {
@@ -87,6 +95,7 @@
     "elements": ["E-004"],
     "grade": 1,
     "description": "",
+    "same_element": "E-004",
     "vocabulary": ["八・はち", "八つ・やっつ"]
   },
   {
@@ -97,6 +106,7 @@
     "elements": ["E-005"],
     "grade": 1,
     "description": "",
+    "same_element": "E-005",
     "vocabulary": ["九・きゅう", "九つ・ここのつ"]
   },
   {
@@ -107,6 +117,7 @@
     "elements": ["E-006"],
     "grade": 1,
     "description": "",
+    "same_element": "E-006",
     "vocabulary": ["十・じゅう"]
   },
   {
@@ -117,6 +128,7 @@
     "elements": ["E-007"],
     "grade": 1,
     "description": "",
+    "same_element": "E-007",
     "vocabulary": ["口・くち", "一口・ひとくち"]
   },
   {
@@ -127,6 +139,7 @@
     "elements": ["E-008"],
     "grade": 1,
     "description": "",
+    "same_element": "E-008",
     "vocabulary": ["日・ひ", "日々・ひび", "一日・いちにち・ついたち"]
   },
   {
@@ -137,6 +150,7 @@
     "elements": ["E-009"],
     "grade": 1,
     "description": "",
+    "same_element": "E-009",
     "vocabulary": ["月・つき", "三日月・みかづき", "一月・いちがつ"]
   },
   {
@@ -147,6 +161,7 @@
     "elements": ["E-010"],
     "grade": 1,
     "description": "",
+    "same_element": "E-010",
     "vocabulary": ["夕・ゆう", "夕日・ゆうひ"]
   },
   {
@@ -157,6 +172,7 @@
     "elements": ["E-011"],
     "grade": 1,
     "description": "",
+    "same_element": "E-011",
     "vocabulary": ["田・た"]
   },
   {
@@ -167,6 +183,7 @@
     "elements": ["E-012"],
     "grade": 1,
     "description": "",
+    "same_element": "E-012",
     "vocabulary": ["木・き"]
   },
   {
@@ -177,6 +194,7 @@
     "elements": ["E-013"],
     "grade": 1,
     "description": "",
+    "same_element": "E-013",
     "vocabulary": ["山・やま"]
   },
   {
@@ -187,6 +205,7 @@
     "elements": ["E-014"],
     "grade": 1,
     "description": "",
+    "same_element": "E-014",
     "vocabulary": ["石・いし"]
   },
   {
@@ -197,6 +216,7 @@
     "elements": ["E-015"],
     "grade": 1,
     "description": "",
+    "same_element": "E-015",
     "vocabulary": ["目・め", "一目・ひとめ"]
   },
   {
@@ -207,6 +227,7 @@
     "elements": ["E-016"],
     "grade": 1,
     "description": "",
+    "same_element": "E-016",
     "vocabulary": ["貝・かい"]
   },
   {
@@ -217,6 +238,7 @@
     "elements": ["E-017"],
     "grade": 1,
     "description": "",
+    "same_element": "E-017",
     "vocabulary": ["力・ちから"]
   },
   {
@@ -227,6 +249,7 @@
     "elements": ["E-018"],
     "grade": 2,
     "description": "",
+    "same_element": "E-018",
     "vocabulary": ["言う・いう", "一言・ひとこと"]
   },
   {
@@ -237,6 +260,7 @@
     "elements": ["E-008", "E-009"],
     "grade": 2,
     "description": "",
+    "same_element": null,
     "vocabulary": ["明るい・あかるい", "明らか・あきらか", "明日・あした"]
   },
   {
@@ -244,9 +268,10 @@
     "character": "古",
     "keyword": "Old",
     "order": 24,
-    "elements": ["E-019"],
+    "elements": ["E-006", "E-007"],
     "grade": 2,
     "description": "",
+    "same_element": "E-019",
     "vocabulary": ["古い・ふるい"]
   },
   {
@@ -257,6 +282,7 @@
     "elements": ["E-008", "E-006"],
     "grade": 1,
     "description": "",
+    "same_element": null,
     "vocabulary": ["早い・はやい", "早口・はやくち", "早める・はやめる"]
   },
   {
@@ -267,6 +293,7 @@
     "elements": ["E-011", "E-017"],
     "grade": 1,
     "description": "",
+    "same_element": null,
     "vocabulary": ["男・おとこ"]
   },
   {
@@ -277,6 +304,7 @@
     "elements": ["E-014", "E-015"],
     "grade": 2,
     "description": "",
+    "same_element": null,
     "vocabulary": ["岩・いわ", "岩石・がんせき"]
   },
   {
@@ -287,6 +315,7 @@
     "elements": ["E-012", "E-015"],
     "grade": 3,
     "description": "",
+    "same_element": null,
     "vocabulary": []
   },
   {
@@ -297,6 +326,7 @@
     "elements": ["E-012"],
     "grade": 1,
     "description": "",
+    "same_element": null,
     "vocabulary": ["本・ほん", "日本・にほん", "本日・ほんじつ", "古本・ふるほん"]
   },
   {
@@ -307,6 +337,7 @@
     "elements": ["E-018", "E-006"],
     "grade": 2,
     "description": "",
+    "same_element": null,
     "vocabulary": ["計る・はかる"]
   },
   {
@@ -317,6 +348,7 @@
     "elements": ["E-018", "E-002", "E-007"],
     "grade": 2,
     "description": "",
+    "same_element": null,
     "vocabulary": ["語・ご", "言語・げんご", "日本語・にほんご", "語る・かたる"]
   },
   {
@@ -327,6 +359,7 @@
     "elements": ["E-007", "E-016"],
     "grade": 3,
     "description": "",
+    "same_element": null,
     "vocabulary": ["員・いん"]
   },
   {
@@ -337,6 +370,7 @@
     "elements": ["E-010", "E-007"],
     "grade": 1,
     "description": "",
+    "same_element": null,
     "vocabulary": ["名・な", "名目・めいもく"]
   },
   {
@@ -347,6 +381,7 @@
     "elements": ["E-010"],
     "grade": 2,
     "description": "",
+    "same_element": null,
     "vocabulary": ["多い・おおい"]
   },
   {
@@ -357,6 +392,7 @@
     "elements": ["E-007"],
     "grade": 3,
     "description": "",
+    "same_element": null,
     "vocabulary": ["品・しな"]
   }
 ]
