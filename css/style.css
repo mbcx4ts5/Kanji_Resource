@@ -19,14 +19,24 @@ header {
     padding: 3rem 1rem;
 }
 
+.site-header-link {
+    color: inherit;
+    text-decoration: none;
+}
+
+.site-header-link:hover {
+    cursor: pointer;
+}
+/* Main Heading */
+
 /* Very top font */
 header h1 {
     margin: 0;
     font-size: 2.3rem;
 }
  /* Main text */
-h2, h3, p {
-    display: flex;
+h2, h3, p, li {
+    text-align: center;
     justify-content: center;
 }
 

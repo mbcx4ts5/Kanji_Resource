@@ -148,14 +148,17 @@ Promise.all([
     elementsHeading.textContent = "Elements";
 
     const elementsText = document.createElement("p");
-    kanji.elements.forEach(elementId => {
+    kanji.elements.forEach((elementId, index) => {
         const element = elementList.find(item => item.id === elementId);
-
         if (element) {
+            if (index > 0) {
+                elementsText.appendChild(document.createTextNode(", "));
+            }
             const elementName = document.createElement("em"); // Emphasised text in italics
-            elementName.textContent = element.name.charAt(0).toLowerCase() + element.name.slice(1);
+            elementName.textContent = element.name.toLowerCase();
             elementsText.appendChild(elementName);
-            elementsText.appendChild(document.createTextNode("-"));
+            
+
         }
     });
 
