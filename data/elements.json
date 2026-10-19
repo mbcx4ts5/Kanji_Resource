@@ -249,14 +249,6 @@
   },
   {
     "id": "E-031",
-    "character": "𠂉",
-    "name": "Lie Down",
-    "order": 31,
-    "description": "",
-    "components": []
-  },
-  {
-    "id": "E-032",
     "character": "自",
     "name": "Oneself",
     "order": 32,
@@ -264,10 +256,18 @@
     "components": []
   },
   {
-    "id": "E-033",
+    "id": "E-032",
     "character": "母",
     "name": "Mother",
     "order": 33,
+    "description": "",
+    "components": []
+  },
+  {
+    "id": "E-033",
+    "character": "𠂉",
+    "name": "Lie Down",
+    "order": 31,
     "description": "",
     "components": []
   },

@@ -474,17 +474,6 @@
   },
   {
     "id": "K-0043",
-    "character": "歩",
-    "keyword": "Walk",
-    "order": 43,
-    "elements": [],
-    "grade": "2",
-    "description": "",
-    "same_element": null,
-    "vocabulary": []
-  },
-  {
-    "id": "K-0044",
     "character": "上",
     "keyword": "Above",
     "order": 44,
@@ -495,7 +484,7 @@
     "vocabulary": []
   },
   {
-    "id": "K-0045",
+    "id": "K-0044",
     "character": "下",
     "keyword": "Below",
     "order": 45,
@@ -506,7 +495,7 @@
     "vocabulary": []
   },
   {
-    "id": "K-0046",
+    "id": "K-0045",
     "character": "外",
     "keyword": "Outside",
     "order": 46,
@@ -517,10 +506,21 @@
     "vocabulary": []
   },
   {
-    "id": "K-0047",
+    "id": "K-0046",
     "character": "止",
     "keyword": "Stop",
     "order": 38,
+    "elements": [],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0047",
+    "character": "歩",
+    "keyword": "Walk",
+    "order": 43,
     "elements": [],
     "grade": "2",
     "description": "",
@@ -540,17 +540,6 @@
   },
   {
     "id": "K-0049",
-    "character": "年",
-    "keyword": "Year",
-    "order": 49,
-    "elements": [],
-    "grade": "1",
-    "description": "",
-    "same_element": null,
-    "vocabulary": []
-  },
-  {
-    "id": "K-0050",
     "character": "自",
     "keyword": "Oneself",
     "order": 50,
@@ -561,7 +550,7 @@
     "vocabulary": []
   },
   {
-    "id": "K-0051",
+    "id": "K-0050",
     "character": "母",
     "keyword": "Mother",
     "order": 51,
@@ -572,7 +561,7 @@
     "vocabulary": []
   },
   {
-    "id": "K-0052",
+    "id": "K-0051",
     "character": "毎",
     "keyword": "Every",
     "order": 52,
@@ -583,7 +572,7 @@
     "vocabulary": []
   },
   {
-    "id": "K-0053",
+    "id": "K-0052",
     "character": "父",
     "keyword": "Father",
     "order": 52,
@@ -594,7 +583,7 @@
     "vocabulary": []
   },
   {
-    "id": "K-0054",
+    "id": "K-0053",
     "character": "交",
     "keyword": "Mingle",
     "order": 54,
@@ -605,10 +594,21 @@
     "vocabulary": []
   },
   {
-    "id": "K-0055",
+    "id": "K-0054",
     "character": "校",
     "keyword": "School",
     "order": 55,
+    "elements": [],
+    "grade": "1",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0055",
+    "character": "年",
+    "keyword": "Year",
+    "order": 49,
     "elements": [],
     "grade": "1",
     "description": "",
