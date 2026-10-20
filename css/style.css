@@ -137,6 +137,54 @@ footer {
     transition: border-color 0.2s, box-shadow 0.2s;
 }
 
+.kanji-button--kanji {
+    background-color: white;
+}
+
+.kanji-button--element {
+    background-color: turquoise;
+}
+
+.kanji-button--combined {
+    padding: 0;
+    gap: 0;
+    overflow: hidden;
+
+    display: flex;
+    flex-direction: column;
+
+    background-color: white;
+}
+
+.kanji-button-main {
+    flex: 3;
+    width: 100%;
+    min-height: 105px;
+    padding: 0.5rem;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 0.3rem;
+
+    box-sizing: border-box;
+    background-color: white;
+}
+
+.kanji-button-element-id {
+    flex: 1;
+    width: 100%;
+    min-height: 35px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    box-sizing: border-box;
+    background-color: turquoise;
+}
+
 .kanji-button:hover {
     /* Hover effect */
     border-color: #555555;

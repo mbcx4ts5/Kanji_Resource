@@ -46,9 +46,18 @@ Promise.all([
                 return;
             }
 
+            // Check to see if button type is Kanji, Kanji+Element or Element
+            if (kanji) {
+                buttonType = kanji.same_element
+                ? "kanji-button--combined"
+                : "kanji-button--kanji";
+            } else {
+                buttonType = "kanji-button--element";
+            }
+
             // Create buttons, character, ID and keyword labels for buttons
             const button = document.createElement("button");
-            button.className = "kanji-button";
+            button.className = `kanji-button ${buttonType}`;
 
             const character = document.createElement("span");
             character.className = "kanji-button-character";
@@ -62,10 +71,32 @@ Promise.all([
             keyword.className = "kanji-button-keyword";
             keyword.textContent = kanji ? kanji.keyword : entry.name;
 
-            button.appendChild(character);
-            button.appendChild(id);
-            button.appendChild(keyword);
+            // If kanji + element, make the button reflect this
+            if (buttonType === "kanji-button--combined") {
 
+                // Main section
+                const mainContent = document.createElement("span");
+                mainContent.className = "kanji-button-main";
+                mainContent.appendChild(character);
+                mainContent.appendChild(id);
+                mainContent.appendChild(keyword);
+
+                // Element section
+                const elementId = document.createElement("span");
+                elementId.className = "kanji-button-element-id";
+                elementId.textContent = kanji.same_element;
+
+                // Create the button
+                button.appendChild(mainContent);
+                button.appendChild(elementId);
+            } else {
+                // Usual kanji and element layout
+                button.appendChild(character);
+                button.appendChild(id);
+                button.appendChild(keyword);
+
+            }
+            
             button.addEventListener("click", () => {
                 if (kanji) {
                     window.location.href = `kanji.html?id=${entry.id}`;
