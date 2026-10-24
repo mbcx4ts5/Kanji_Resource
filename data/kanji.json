@@ -17,7 +17,7 @@
     "order": 1,
     "elements": ["E-001"],
     "grade": 1,
-    "description": "",
+    "description": "We start our journey of over 2000 kanji with a single stroke. The kanji for one is but a single horizontal line written from left to right. Any learner of Japanese will likely have encountered this kanji as one of, if not the first kanji they learn, and it is easy to see why.",
     "same_element": "E-001",
     "vocabulary": ["一・いち", "一つ・ひとつ"]
   },
@@ -28,7 +28,7 @@
     "order": 2,
     "elements": [],
     "grade": 1,
-    "description": "",
+    "description": "The character for two is, unsurprisingly, made up of two lines. The top line, which is written first, is also slightly shorter than the below line. Though Japanese still use kanji to represent numbers, depending on the context, Arabic numerals are also commonly used, so don't be surprised if you see a '2' appear when perusing a Japanese text.",
     "same_element": null,
     "vocabulary": ["二・に", "二つ・ふたつ"]
   },
@@ -39,7 +39,7 @@
     "order": 3,
     "elements": [],
     "grade": 1,
-    "description": "",
+    "description": "The character for three is made up of a three horizontal lines. Once again, pay close attention to the size of each line when writing out this kanji.",
     "same_element": null,
     "vocabulary": ["三・さん", "三つ・みっつ"]
   },
@@ -50,7 +50,7 @@
     "order": 4,
     "elements": [],
     "grade": 1,
-    "description": "",
+    "description": "If you were expecting a kanji with four lines to continue the pattern, then you will be disappointed by this kanji. In general, a kanji won't be introduced without first introudcing the elements that comprise it, but an exception has been made for the kanji relating to numbers. The character shows two 'human legs' which have been 'pent in' by a box-shaped enclosure.",
     "same_element": null,
     "vocabulary": ["四・よん・し", "四つ・よっつ"]
   },
@@ -61,7 +61,7 @@
     "order": 5,
     "elements": ["E-002"],
     "grade": 1,
-    "description": "",
+    "description": "This somewhat unique collection of strokes represents the number five. If you cover up the left had side of this kanji, you can sort of make out the Arabic numeral 5. This one may be a bit of a stretch but this should help you keep this kanji apart from the other numbers.",
     "same_element": "E-002",
     "vocabulary": ["五・ご", "五つ・いつつ"]
   },
@@ -72,7 +72,7 @@
     "order": 6,
     "elements": [],
     "grade": 1,
-    "description": "",
+    "description": "The kanji for six is actually made up of two elements 'pot lid' and 'animal legs', both of which we will learn in the next few chapters. For now, just remember the four strokes that make up this kanji.",
     "same_element": null,
     "vocabulary": ["六・ろく", "六つ・むっつ"]
   },
@@ -83,7 +83,7 @@
     "order": 7,
     "elements": ["E-003"],
     "grade": 1,
-    "description": "",
+    "description": "This character for seven has the visual appearance of a so-called 'French seven' that has been flipped upside down.",
     "same_element": "E-003",
     "vocabulary": ["七・なな・しち", "七つ・ななつ"]
   },
@@ -94,7 +94,7 @@
     "order": 8,
     "elements": ["E-004"],
     "grade": 1,
-    "description": "",
+    "description": "This character, representing eight, also consists of two strokes, though this time they do not intersect.",
     "same_element": "E-004",
     "vocabulary": ["八・はち", "八つ・やっつ"]
   },
@@ -105,7 +105,7 @@
     "order": 9,
     "elements": ["E-005"],
     "grade": 1,
-    "description": "",
+    "description": "Keep the stroke order in mind when learning this kanji to help keep it distinct from the similar looking kanji 力.",
     "same_element": "E-005",
     "vocabulary": ["九・きゅう", "九つ・ここのつ"]
   },
@@ -116,7 +116,7 @@
     "order": 10,
     "elements": ["E-006"],
     "grade": 1,
-    "description": "",
+    "description": "Another two stroke kanji, only this time the strokes form a very simple plus shape.",
     "same_element": "E-006",
     "vocabulary": ["十・じゅう"]
   },
@@ -127,7 +127,7 @@
     "order": 11,
     "elements": ["E-007"],
     "grade": 1,
-    "description": "",
+    "description": "A simple pictogram of an open mouth. The stroke order is exactly the same as with 四 except for th dangling 'human legs'.",
     "same_element": "E-007",
     "vocabulary": ["口・くち", "一口・ひとくち"]
   },
@@ -138,7 +138,7 @@
     "order": 12,
     "elements": ["E-008"],
     "grade": 1,
-    "description": "",
+    "description": "To keep this kanji distinct from 口, a single line was added before the final bottom stroke.",
     "same_element": "E-008",
     "vocabulary": ["日・ひ", "日々・ひび", "一日・いちにち・ついたち"]
   },
@@ -149,7 +149,7 @@
     "order": 13,
     "elements": ["E-009"],
     "grade": 1,
-    "description": "",
+    "description": "The first stroke for this kanji curves to the left in much the same way as the first stroke of 九 does. This kanji is a pictogram of a moon.",
     "same_element": "E-009",
     "vocabulary": ["月・つき", "三日月・みかづき", "一月・いちがつ"]
   },
@@ -160,7 +160,7 @@
     "order": 14,
     "elements": ["E-010"],
     "grade": 1,
-    "description": "",
+    "description": "The kanji for evening also represents a moon. Here the moon is somewhat distorted when compared to 月, almost as though the evening has not yet fully surrended to the night.",
     "same_element": "E-010",
     "vocabulary": ["夕・ゆう", "夕日・ゆうひ"]
   },
@@ -171,7 +171,7 @@
     "order": 15,
     "elements": ["E-011"],
     "grade": 1,
-    "description": "",
+    "description": "This kanji represents a rice field that has been split into four. Pay close attention to the stroke order whne writing this kanji.",
     "same_element": "E-011",
     "vocabulary": ["田・た"]
   },
@@ -182,7 +182,7 @@
     "order": 16,
     "elements": ["E-012"],
     "grade": 1,
-    "description": "",
+    "description": "This kanji is a pictogram of a tree. The first stroke represents the leafy boughs of the tree, with the second stroke representing its trunk. Finally the two downward sweeping strokes represent the trees roots anchoring it down.",
     "same_element": "E-012",
     "vocabulary": ["木・き"]
   },
@@ -193,7 +193,7 @@
     "order": 17,
     "elements": ["E-013"],
     "grade": 1,
-    "description": "",
+    "description": "The three vertical parts of this kanji represent three mountain peaks with the central peak being taller than the other two.",
     "same_element": "E-013",
     "vocabulary": ["山・やま"]
   },
@@ -204,7 +204,7 @@
     "order": 18,
     "elements": ["E-014"],
     "grade": 1,
-    "description": "",
+    "description": "Keep this character distinct from 右, by making sure the second stroke does not cross above the first. Here the small 'mouth' is representative of a little 'stone'.",
     "same_element": "E-014",
     "vocabulary": ["石・いし"]
   },
@@ -215,7 +215,7 @@
     "order": 19,
     "elements": ["E-015"],
     "grade": 1,
-    "description": "",
+    "description": "The kanji for eye looks similar to 日 but with two inner strokes instead of one. Imagine the two inner strokes representing two eyelids with an invisible pupil interposed between them.",
     "same_element": "E-015",
     "vocabulary": ["目・め", "一目・ひとめ"]
   },
@@ -226,7 +226,7 @@
     "order": 20,
     "elements": ["E-016"],
     "grade": 1,
-    "description": "",
+    "description": "The kanji for shellfish itself consists of the element for 'eye' and the 'animal legs' we encountered in 六. The kanji represents a pictogram of the shell of a shellfish with two small legs to help it walk on the sea floor.",
     "same_element": "E-016",
     "vocabulary": ["貝・かい"]
   },
@@ -237,7 +237,7 @@
     "order": 21,
     "elements": ["E-017"],
     "grade": 1,
-    "description": "",
+    "description": "Whether this kanji represents a bent arm or a plow is still debated, but this kanji is used for the idea of 'power'.",
     "same_element": "E-017",
     "vocabulary": ["力・ちから"]
   },
@@ -248,7 +248,7 @@
     "order": 22,
     "elements": ["E-018"],
     "grade": 2,
-    "description": "",
+    "description": "Here we see a 'mouth' with sound waves coming out as represented by the first four strokes. Note that in print, the first stroke appears as a vertical stroke, but when written by hand the stroke is written as downward 'drop'. From time to time, we will see that the print form of a kanji doesn't always match up with how it would be written by hand.",
     "same_element": "E-018",
     "vocabulary": ["言う・いう", "一言・ひとこと"]
   },
@@ -259,7 +259,7 @@
     "order": 23,
     "elements": ["E-008", "E-009"],
     "grade": 2,
-    "description": "",
+    "description": "Combining the characters for the sun 日 and moon 月 creates a kanji meaning 'bright'. It's easy to relate this kanji to the two brightest things seen within the sky, those being the sun and the moon.",
     "same_element": null,
     "vocabulary": ["明るい・あかるい", "明らか・あきらか", "明日・あした"]
   },
@@ -270,7 +270,7 @@
     "order": 24,
     "elements": ["E-006", "E-007"],
     "grade": 2,
-    "description": "",
+    "description": "The kanji for 'old' is made up of the elements 'ten' and 'mouth'. Instead of using these keywords, it may be best to think of the 'ten' as a 'cross'-shaped gravestone above an opening in the ground which presumably leads to an old crypt. Here we see why sometimes having more than one name or idea associated with an element can help create a more memorable mnemonic.",
     "same_element": "E-019",
     "vocabulary": ["古い・ふるい"]
   },
@@ -281,7 +281,7 @@
     "order": 25,
     "elements": ["E-008", "E-006"],
     "grade": 1,
-    "description": "",
+    "description": "This kanji depicts a 'sun' rising over a 'cross' creating the picture of church bells ringing out in the early morning.",
     "same_element": null,
     "vocabulary": ["早い・はやい", "早口・はやくち", "早める・はやめる"]
   },
@@ -292,7 +292,7 @@
     "order": 26,
     "elements": ["E-011", "E-017"],
     "grade": 1,
-    "description": "",
+    "description": "A 'male' is depicted here as someone flexing their arm in a rice field, providing the physical strength for the harvest.",
     "same_element": null,
     "vocabulary": ["男・おとこ"]
   },
@@ -303,7 +303,7 @@
     "order": 27,
     "elements": ["E-014", "E-015"],
     "grade": 2,
-    "description": "",
+    "description": "A rock is simply a stone the size of a mountain. This kanji really needs no further explanation.",
     "same_element": null,
     "vocabulary": ["岩・いわ", "岩石・がんせき"]
   },
@@ -314,7 +314,7 @@
     "order": 28,
     "elements": ["E-012", "E-015"],
     "grade": 3,
-    "description": "",
+    "description": "This kanji represents quite an abstract concept. Imagine a forrest containing trees with eyes which watch over each other. Each tree watches another tree to ensure their mutual safety.",
     "same_element": null,
     "vocabulary": []
   },
@@ -325,7 +325,7 @@
     "order": 29,
     "elements": ["E-012"],
     "grade": 1,
-    "description": "",
+    "description": "A tree with a line striking through its trunk came to mean 'book'. Imagine a tree being chopped down near the roots, the wood later being used to create the paper for the books.",
     "same_element": null,
     "vocabulary": ["本・ほん", "日本・にほん", "本日・ほんじつ", "古本・ふるほん"]
   },
@@ -336,7 +336,7 @@
     "order": 30,
     "elements": ["E-018", "E-006"],
     "grade": 2,
-    "description": "",
+    "description": "This kanji always reminds me of one of those complicated architectural blueprints with lots of annotating 'words', 'crosses' indicating the important parts of the plan, and of course the all important measurements.",
     "same_element": null,
     "vocabulary": ["計る・はかる"]
   },
@@ -347,7 +347,7 @@
     "order": 31,
     "elements": ["E-018", "E-002", "E-007"],
     "grade": 2,
-    "description": "",
+    "description": "'Say five mouths' clearly refers to the five senses used to fully communicate across a language barrier. Of course we must use our mouths to say words, but we must also use our other senses to fully appreciate the language and culture.",
     "same_element": null,
     "vocabulary": ["語・ご", "言語・げんご", "日本語・にほんご", "語る・かたる"]
   },
@@ -358,7 +358,7 @@
     "order": 32,
     "elements": ["E-007", "E-016"],
     "grade": 3,
-    "description": "",
+    "description": "A 'mouth' above a 'shellfish' could represent someone eating lots of seafood, but here, the mouth is in fact eating all the 'money' generated by the company they work for, presumably to the dismay of the big bosses.",
     "same_element": null,
     "vocabulary": ["員・いん"]
   },
@@ -369,7 +369,7 @@
     "order": 33,
     "elements": ["E-010", "E-007"],
     "grade": 1,
-    "description": "",
+    "description": "Imagine an evening so 'dark' that the only way to identify your friend in a crowd is if they open their 'mouth' and say their name.",
     "same_element": null,
     "vocabulary": ["名・な", "名目・めいもく"]
   },
@@ -380,7 +380,7 @@
     "order": 34,
     "elements": ["E-010"],
     "grade": 2,
-    "description": "",
+    "description": "Sometimes, the simple reduplication of an element can create a new kanji. Here we have 'evening' written twice to mean 'many', demonstrating the many evenings we have to rest.",
     "same_element": null,
     "vocabulary": ["多い・おおい"]
   },
@@ -391,7 +391,7 @@
     "order": 35,
     "elements": ["E-007"],
     "grade": 3,
-    "description": "",
+    "description": "'Mouth' is reduplicated here three times to create a kanji meaning 'goods'. When buying new goods, it's important to think of how many mouths you need to feed in order to purchase the correct amount.",
     "same_element": null,
     "vocabulary": ["品・しな"]
   },

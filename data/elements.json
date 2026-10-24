@@ -12,7 +12,7 @@
     "character": "一",
     "name": "One",
     "order": 1,
-    "description": "",
+    "description": "As an element, the character will retain its original meaning of one, and can occasionally represent either a ceiling or a floor, depending on where the element is written within the kanji.",
     "components": []
   },
   {
@@ -20,7 +20,7 @@
     "character": "五",
     "name": "Five",
     "order": 2,
-    "description": "",
+    "description": "This somewhat rare element will carry the meaning of 'five', and will also carry its on reading of ゴ.",
     "components": []
   },
   {
@@ -28,7 +28,7 @@
     "character": "七",
     "name": "Seven",
     "order": 3,
-    "description": "",
+    "description": "As an element, this kanji references something being cut up into seven pieces. Note how the second stroke cuts through the first? You may wonder to yourself 'why seven pieces?' It is best not to dwell on such questions in life.",
     "components": []
   },
   {
@@ -36,7 +36,7 @@
     "character": "八",
     "name": "Eight",
     "order": 4,
-    "description": "",
+    "description": "As an element, the kanji retains the meaning of 'eight' and also represents something which has been split in half, relating to the many times the number eight can be divided.",
     "components": []
   },
   {
@@ -44,7 +44,7 @@
     "character": "九",
     "name": "Nine",
     "order": 5,
-    "description": "",
+    "description": "As an element, keep the idea of 'nine' in mind, such as with the nine-player game baseball. This element is very similar to 丸 but is of course missing the short 'drop' stroke. In the same way that nine is 'not quite ten', this retains the feeling of something that is not quite complete",
     "components": []
   },
   {
@@ -52,7 +52,7 @@
     "character": "十",
     "name": "Ten",
     "order": 6,
-    "description": "",
+    "description": "As an element, it's easy to extend the idea of 'ten' to that of a 'cross'.",
     "components": []
   },
   {
@@ -60,7 +60,7 @@
     "character": "口",
     "name": "Mouth",
     "order": 7,
-    "description": "",
+    "description": "As an element, extend the idea of 'mouth' to any opening, such as a doorway, river mouth etc.",
     "components": []
   },
   {
@@ -68,7 +68,7 @@
     "character": "日",
     "name": "Sun",
     "order": 8,
-    "description": "",
+    "description": "As an element, this can mean either 'sun' or 'day'.",
     "components": []
   },
   {
@@ -76,7 +76,7 @@
     "character": "月",
     "name": "Moon",
     "order": 9,
-    "description": "",
+    "description": "This element can either mean 'moon', or 'body part' and appears in the kanji for many anatmocical features.",
     "components": []
   },
   {
@@ -84,7 +84,7 @@
     "character": "夕",
     "name": "Evening",
     "order": 10,
-    "description": "",
+    "description": "This element will retain its meaning of 'evening'",
     "components": []
   },
   {
@@ -92,7 +92,7 @@
     "character": "田",
     "name": "Rice Field",
     "order": 11,
-    "description": "",
+    "description": "As an element, keep the meaning of 'rice field'.",
     "components": []
   },
   {
@@ -100,7 +100,7 @@
     "character": "木",
     "name": "Tree",
     "order": 12,
-    "description": "",
+    "description": "As an element, the idea of 'tree' is also extended to 'wood' and all things wooden.",
     "components": []
   },
   {
@@ -108,7 +108,7 @@
     "character": "山",
     "name": "Mountain",
     "order": 13,
-    "description": "",
+    "description": "As an element, keep the idea of a very large 'mountain', not just a small hill.",
     "components": []
   },
   {
@@ -116,7 +116,7 @@
     "character": "石",
     "name": "Stone",
     "order": 14,
-    "description": "",
+    "description": "As an element, keep the idea of 'stone' and use it to include any object made of stone.",
     "components": []
   },
   {
@@ -124,7 +124,7 @@
     "character": "目",
     "name": "Eye",
     "order": 15,
-    "description": "",
+    "description": "This kanji keeps the meaning of 'eye' when used as an element.",
     "components": []
   },
   {
@@ -132,7 +132,7 @@
     "character": "貝",
     "name": "Shellfish",
     "order": 16,
-    "description": "",
+    "description": "Though this element still retains the idea of 'shellfish', it also extends to the idea of 'money'. One can imagine that before modern coin minting procedures, people used seashells when trading for goods and services.",
     "components": []
   },
   {
@@ -140,7 +140,7 @@
     "character": "力",
     "name": "Power",
     "order": 17,
-    "description": "",
+    "description": "It might be easier to think of this element as representing the flexing arm of someone with immense physical 'power'. Be sure not to mix this up with 刀 and the previously encountered element 九.",
     "components": []
   },
   {
@@ -148,7 +148,7 @@
     "character": "言",
     "name": "Say",
     "order": 18,
-    "description": "",
+    "description": "As an element, use 'say' or 'words' when creating stories.",
     "components": []
   },
   {
@@ -156,7 +156,7 @@
     "character": "古",
     "name": "Old",
     "order": 19,
-    "description": "",
+    "description": "Despite being made up of two pre-existing elements, this too can be used as an element and carries the same meaning of 'old'. Despite the tombstone symbolism, try to avoid linking with this element with the idea of 'death' or a 'grave' as these elements associated with these will be introduced later.",
     "components": []
   },
   {
