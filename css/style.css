@@ -16,7 +16,7 @@ header {
     background-color: #263d35;
     color: white;
     text-align: center;
-    padding: 3rem 1rem;
+    padding: 0.5rem 0.5rem;
 }
 
 .site-header-link {
@@ -48,17 +48,20 @@ h2, h3, p, li {
 main {
     max-width: 900px;
     margin: 2rem auto;
-    padding: 0 1.25rem;
+    padding: 0 2.25rem;
 }
 
-section {
+section, nav {
     background-color: white;
-    padding: 1.5rem;
+    padding: 0.1rem;
+    /* border: 1px solid #dddddd; */
     border-radius: 10px;
 }
 
+
 article {
     border-top: 1px solid #dddddd;
+    border: 1px solid #dddddd;
     margin-top: 1rem;
     padding-top: 1rem;
 }
@@ -220,12 +223,12 @@ footer {
     /* Kanji Page */
     max-width: 800px;
     margin-inline: auto;
-    padding: 1.5rem;
+    padding: 1rem;
 }
 
 .kanji-id {
     text-align: center;
-    margin: 1rem 0 0;
+    margin: 0rem 0 0;
 }
 
 .kanji-navigation { 
@@ -234,7 +237,7 @@ footer {
     justify-content: space-between;
     align-items: center;
     gap: 1rem;
-    margin-bottom: 2rem;
+    max-height: 60px;
 }
 
 .kanji-navigation button {
@@ -253,7 +256,8 @@ footer {
 .kanji-hero { 
     /* Main Character and Keyword Card*/
     text-align: center;
-    margin-bottom: 2rem;
+    margin-bottom: 1.5rem;
+    margin-top: 1.5rem;
 }
 
 .kanji-character {
@@ -261,7 +265,8 @@ footer {
     font-size: 7rem;
     font-weight: normal;
     line-height: 1.2;
-    margin: 0;
+    margin-top: 1rem;
+    margin-bottom: 0;
 }
 
 .english-keyword {
@@ -270,23 +275,10 @@ footer {
     margin: 0.5rem 0 0;
 }
 
-.kanji-description, .kanji-vocabulary, .kanji-elements {
-    /* Misc */
-    margin-top: 2rem;
-}
-
 .kanji-information {
     /* Kanji Informatio card */
-    margin-top: 2rem;
-    padding: 1.5rem;
     border: 1px solid #dddddd;
-    border-radius: 8px;
     background-color: #ffffff;
-}
-
-.kanji-information > section + section {
-    /* Spacing between information sections*/
-    margin-top: 1.5rem;
 }
 
 .kanji-information h2 {
@@ -298,6 +290,7 @@ footer {
 .kanji-information p {
     /* Paragraphs inside the card */
     line-height: 1.6;
+    margin: 1rem;
 }
 /* Kanji Page */
 

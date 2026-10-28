@@ -74,13 +74,12 @@ Promise.all([
         }
     });
 
-    // Create the kanji ID
-    const kanjiIdSection = document.createElement("p");
-    kanjiIdSection.className = "kanji-id";
-    kanjiIdSection.textContent = kanji.id;
+    // Create the kanji icon
+    const kanji_icon = document.createElement("h1");
+    kanji_icon.textContent = kanji.character
 
     navigation.appendChild(previousButton);
-    navigation.appendChild(kanjiIdSection);
+    navigation.appendChild(kanji_icon);
     navigation.appendChild(nextButton);
 
     page.appendChild(navigation);
@@ -89,6 +88,12 @@ Promise.all([
     const kanjiHero = document.createElement("div");
     kanjiHero.className = "kanji-hero";
 
+    // Create the kanji ID
+    const kanjiIdSection = document.createElement("p");
+    kanjiIdSection.className = "kanji-id";
+    kanjiIdSection.textContent = kanji.id;
+    kanjiHero.appendChild(kanjiIdSection)
+    
     // Create character and keywords and append to hero
     const characterHeading = document.createElement("h1");
     characterHeading.className = "kanji-character";
@@ -106,16 +111,41 @@ Promise.all([
     const kanjiInformationCard = document.createElement("section");
     kanjiInformationCard.className = "kanji-information";
     
+    //Create the elements section
+    const elementsSection = document.createElement("section");
+    // const elementsHeading = document.createElement("h2");
+    // elementsHeading.textContent = "Elements";
+
+    const elementsText = document.createElement("p");
+    kanji.elements.forEach((elementId, index) => {
+        const element = elementList.find(item => item.id === elementId);
+        if (element) {
+            if (index > 0) {
+                elementsText.appendChild(document.createTextNode(", "));
+            }
+            const elementName = document.createElement("em"); // Emphasised text in italics
+            elementName.textContent = element.name.toLowerCase();
+            elementsText.appendChild(elementName);
+        }
+
+    
+    });
+
+    // elementsSection.appendChild(elementsHeading);
+    elementsSection.appendChild(elementsText);
+
+    kanjiInformationCard.appendChild(elementsSection);
+
     // Create the description section
     const descriptionSection = document.createElement("section");
 
-    const descriptionHeading = document.createElement("h2");
-    descriptionHeading.textContent = "About this kanji";
+    // const descriptionHeading = document.createElement("h2");
+    // descriptionHeading.textContent = "About this kanji";
 
     const descriptionText = document.createElement("p");
     descriptionText.textContent = kanji.description;
 
-    descriptionSection.appendChild(descriptionHeading);
+    // descriptionSection.appendChild(descriptionHeading);
     descriptionSection.appendChild(descriptionText);
 
     kanjiInformationCard.appendChild(descriptionSection);
@@ -123,13 +153,13 @@ Promise.all([
     // Create the grade section
     const gradeSection = document.createElement("section");
     
-    const gradeHeading = document.createElement("h2");
-    gradeHeading.textContent = "Grade";
+    //const gradeHeading = document.createElement("h2");
+    //gradeHeading.textContent = "Grade";
 
     const gradeText = document.createElement("p");
-    gradeText.textContent = kanji.grade;
+    gradeText.textContent = `Grade: ${kanji.grade}`;
 
-    gradeSection.appendChild(gradeHeading);
+    //gradeSection.appendChild(gradeHeading);
     gradeSection.appendChild(gradeText);
     kanjiInformationCard.appendChild(gradeSection);
 
@@ -149,34 +179,8 @@ Promise.all([
     vocabularySection.appendChild(vocabularyList);
     kanjiInformationCard.appendChild(vocabularySection)
 
-    //Create the elements section
-    const elementsSection = document.createElement("section");
-    const elementsHeading = document.createElement("h2");
-    elementsHeading.textContent = "Elements";
-
-    const elementsText = document.createElement("p");
-    kanji.elements.forEach((elementId, index) => {
-        const element = elementList.find(item => item.id === elementId);
-        if (element) {
-            if (index > 0) {
-                elementsText.appendChild(document.createTextNode(", "));
-            }
-            const elementName = document.createElement("em"); // Emphasised text in italics
-            elementName.textContent = element.name.toLowerCase();
-            elementsText.appendChild(elementName);
-        }
-
-    
-    });
-
-    elementsSection.appendChild(elementsHeading);
-    elementsSection.appendChild(elementsText);
-
-    kanjiInformationCard.appendChild(elementsSection);
-
     // Append Kanji information card
     page.appendChild(kanjiInformationCard);
-
 
 
     // Find the kanji-page element
