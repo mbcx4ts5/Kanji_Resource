@@ -51,7 +51,7 @@ main {
     padding: 0 2.25rem;
 }
 
-section, nav {
+section {
     background-color: white;
     padding: 0.1rem;
     /* border: 1px solid #dddddd; */
@@ -219,7 +219,7 @@ footer {
 /* Kanji Buttons */
 
 /* Kanji Page */
-.kanji-page { 
+#kanji-page { 
     /* Kanji Page */
     max-width: 800px;
     margin-inline: auto;
@@ -298,6 +298,6 @@ footer {
 #element-subsection {
     max-width: 800px;
     margin-inline: auto;
-    padding: 1.5rem;
+    padding: 1rem;
     background-color: turquoise;
 }

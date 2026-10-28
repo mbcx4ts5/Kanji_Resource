@@ -66,13 +66,12 @@ Promise.all([
         }
     });
 
-    // Create the kanji ID
-    const elementIdSection = document.createElement("p");
-    elementIdSection.className = "kanji-id";
-    elementIdSection.textContent = element.id;
+    // Create the element icon
+    const element_icon = document.createElement("h2")
+    element_icon.textContent = element.character
 
     navigation.appendChild(previousButton);
-    navigation.appendChild(elementIdSection);
+    navigation.appendChild(element_icon);
     navigation.appendChild(nextButton);
 
     page.appendChild(navigation);
@@ -80,6 +79,13 @@ Promise.all([
     // Create the kanji hero
     const kanjiHero = document.createElement("div");
     kanjiHero.className = "kanji-hero";
+
+    // Create the kanji ID
+    const elementIdSection = document.createElement("p");
+    elementIdSection.className = "kanji-id";
+    elementIdSection.textContent = element.id;
+    kanjiHero.appendChild(elementIdSection);
+
 
     // Create character and keywords and append to hero
     const characterHeading = document.createElement("h1");
@@ -101,13 +107,9 @@ Promise.all([
     // Create the description section
     const descriptionSection = document.createElement("section");
 
-    const descriptionHeading = document.createElement("h2");
-    descriptionHeading.textContent = "About this element";
-
     const descriptionText = document.createElement("p");
     descriptionText.textContent = element.description;
 
-    descriptionSection.appendChild(descriptionHeading);
     descriptionSection.appendChild(descriptionText);
 
     kanjiInformationCard.appendChild(descriptionSection);

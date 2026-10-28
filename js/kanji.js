@@ -112,7 +112,7 @@ Promise.all([
     kanjiInformationCard.className = "kanji-information";
     
     //Create the elements section
-    const elementsSection = document.createElement("section");
+    const elementsSection = document.createElement("element-subsection");
     // const elementsHeading = document.createElement("h2");
     // elementsHeading.textContent = "Elements";
 
@@ -192,10 +192,6 @@ Promise.all([
         // Unhide the section
         elementsSubsection.hidden = false;
         
-        // Create the navigation bar
-        const idBar = document.createElement("nav");
-        idBar.className = "kanji-navigation";    
-        
         // Create the element ID
         const elementId = document.createElement("p");
         elementId.className = "kanji-id";
@@ -227,20 +223,14 @@ Promise.all([
         // Create the element subsection description section
         const elementSSDescriptionSection = document.createElement("section")
         
-        const elementSSDescriptionHeading = document.createElement("h2");
-        elementSSDescriptionHeading.textContent = "About this element";
-
         const elementSSDescriptionText = document.createElement("p");
         elementSSDescriptionText.textContent = sameElement.description;
 
-        elementSSDescriptionSection.appendChild(elementSSDescriptionHeading);
         elementSSDescriptionSection.appendChild(elementSSDescriptionText);
         elementSSInformationCard.append(elementSSDescriptionSection);
 
         // Create the element sub section component section
         const elementSSComponentSection = document.createElement("section");
-        const elementSSComponentHeading = document.createElement("h2");
-        elementSSComponentHeading.textContent = "Components";
 
         const elementSSComponentText = document.createElement("p");
         sameElement.components.forEach((elementID, index) => {
@@ -255,7 +245,6 @@ Promise.all([
             }
         });
 
-        elementSSComponentSection.appendChild(elementSSComponentHeading);
         elementSSComponentSection.appendChild(elementSSComponentText);
 
         // Append Element Component Section
