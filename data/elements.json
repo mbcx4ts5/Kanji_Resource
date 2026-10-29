@@ -569,7 +569,7 @@
   },
   {
     "id": "E-071",
-    "character": "𫜹",
+    "character": "ヨ",
     "name": "Rake",
     "order": 71,
     "description": "",
@@ -817,7 +817,7 @@
   },
   {
     "id": "E-102",
-    "character": "楽*",
+    "character": "氺",
     "name": "Sparkler",
     "order": 102,
     "description": "",
@@ -1569,14 +1569,6 @@
   },
   {
     "id": "E-196",
-    "character": "啇",
-    "name": "Antique",
-    "order": 196,
-    "description": "",
-    "components": []
-  },
-  {
-    "id": "E-197",
     "character": "咅",
     "name": "Muzzle",
     "order": 197,
@@ -1584,7 +1576,7 @@
     "components": []
   },
   {
-    "id": "E-198",
+    "id": "E-197",
     "character": "尸",
     "name": "Flag",
     "order": 198,
@@ -1592,7 +1584,7 @@
     "components": []
   },
   {
-    "id": "E-199",
+    "id": "E-198",
     "character": "斤",
     "name": "Axe",
     "order": 199,
@@ -1600,7 +1592,7 @@
     "components": []
   },
   {
-    "id": "E-200",
+    "id": "E-199",
     "character": "戸",
     "name": "Door",
     "order": 200,
@@ -1608,7 +1600,7 @@
     "components": []
   },
   {
-    "id": "E-201",
+    "id": "E-200",
     "character": "𠃌",
     "name": "Clothes Hanger",
     "order": 201,
@@ -1616,7 +1608,7 @@
     "components": []
   },
   {
-    "id": "E-202",
+    "id": "E-201",
     "character": "干",
     "name": "Clothes Line",
     "order": 202,
@@ -1624,7 +1616,7 @@
     "components": []
   },
   {
-    "id": "E-203",
+    "id": "E-202",
     "character": "巾",
     "name": "Towel",
     "order": 203,
@@ -1632,7 +1624,7 @@
     "components": []
   },
   {
-    "id": "E-204",
+    "id": "E-203",
     "character": "リ*",
     "name": "Spear",
     "order": 204,
@@ -1640,7 +1632,7 @@
     "components": []
   },
   {
-    "id": "E-205",
+    "id": "E-204",
     "character": "衣",
     "name": "Clothes",
     "order": 205,
@@ -1648,7 +1640,7 @@
     "components": []
   },
   {
-    "id": "E-206",
+    "id": "E-205",
     "character": "長",
     "name": "Long",
     "order": 206,
@@ -1656,7 +1648,7 @@
     "components": []
   },
   {
-    "id": "E-207",
+    "id": "E-206",
     "character": "丂",
     "name": "Slingshot",
     "order": 207,
@@ -1664,7 +1656,7 @@
     "components": []
   },
   {
-    "id": "E-208",
+    "id": "E-207",
     "character": "罒",
     "name": "Net",
     "order": 208,
@@ -1672,7 +1664,7 @@
     "components": []
   },
   {
-    "id": "E-209",
+    "id": "E-208",
     "character": "袁",
     "name": "Scarf",
     "order": 209,
@@ -1680,7 +1672,7 @@
     "components": []
   },
   {
-    "id": "E-210",
+    "id": "E-209",
     "character": "云",
     "name": "Cloud",
     "order": 210,
@@ -1688,7 +1680,7 @@
     "components": []
   },
   {
-    "id": "E-211",
+    "id": "E-210",
     "character": "雨",
     "name": "Rain",
     "order": 211,
@@ -1696,7 +1688,7 @@
     "components": []
   },
   {
-    "id": "E-212",
+    "id": "E-211",
     "character": "辰",
     "name": "Dragon (Western)",
     "order": 212,
@@ -1704,7 +1696,7 @@
     "components": []
   },
   {
-    "id": "E-213",
+    "id": "E-212",
     "character": "𠆢",
     "name": "Umbrella",
     "order": 213,
@@ -1712,7 +1704,7 @@
     "components": []
   },
   {
-    "id": "E-214",
+    "id": "E-213",
     "character": "合",
     "name": "Fit",
     "order": 214,
@@ -1720,7 +1712,7 @@
     "components": []
   },
   {
-    "id": "E-215",
+    "id": "E-214",
     "character": "今",
     "name": "Clock",
     "order": 215,
@@ -1728,7 +1720,7 @@
     "components": []
   },
   {
-    "id": "E-216",
+    "id": "E-215",
     "character": "金",
     "name": "Metal",
     "order": 216,
@@ -1736,7 +1728,7 @@
     "components": []
   },
   {
-    "id": "E-217",
+    "id": "E-216",
     "character": "艮",
     "name": "Silver",
     "order": 217,
@@ -1744,7 +1736,7 @@
     "components": []
   },
   {
-    "id": "E-218",
+    "id": "E-217",
     "character": "食",
     "name": "Eat",
     "order": 218,
@@ -1752,7 +1744,7 @@
     "components": []
   },
   {
-    "id": "E-219",
+    "id": "E-218",
     "character": "曲",
     "name": "Bend",
     "order": 219,
@@ -1760,7 +1752,7 @@
     "components": []
   },
   {
-    "id": "E-220",
+    "id": "E-219",
     "character": "周",
     "name": "Circumference",
     "order": 220,
@@ -1768,7 +1760,7 @@
     "components": []
   },
   {
-    "id": "E-221",
+    "id": "E-220",
     "character": "用",
     "name": "Use",
     "order": 221,
@@ -1776,7 +1768,7 @@
     "components": []
   },
   {
-    "id": "E-222",
+    "id": "E-221",
     "character": "龴",
     "name": "Seal",
     "order": 222,
@@ -1784,7 +1776,7 @@
     "components": []
   },
   {
-    "id": "E-223",
+    "id": "E-222",
     "character": "疒",
     "name": "Illness",
     "order": 223,
@@ -1792,7 +1784,7 @@
     "components": []
   },
   {
-    "id": "E-224",
+    "id": "E-223",
     "character": "欠",
     "name": "Lack",
     "order": 224,
@@ -1800,7 +1792,7 @@
     "components": []
   },
   {
-    "id": "E-225",
+    "id": "E-224",
     "character": "𠂤",
     "name": "Hammer",
     "order": 225,
@@ -1808,7 +1800,7 @@
     "components": []
   },
   {
-    "id": "E-226",
+    "id": "E-225",
     "character": "谷",
     "name": "Valley",
     "order": 226,
@@ -1816,7 +1808,7 @@
     "components": []
   },
   {
-    "id": "E-227",
+    "id": "E-226",
     "character": "川",
     "name": "River",
     "order": 227,
@@ -1824,7 +1816,7 @@
     "components": []
   },
   {
-    "id": "E-228",
+    "id": "E-227",
     "character": "喬",
     "name": "Angel",
     "order": 228,
@@ -1832,7 +1824,7 @@
     "components": []
   },
   {
-    "id": "E-229",
+    "id": "E-228",
     "character": "酉",
     "name": "Bottle",
     "order": 229,
@@ -1840,7 +1832,7 @@
     "components": []
   },
   {
-    "id": "E-230",
+    "id": "E-229",
     "character": "平",
     "name": "Flat",
     "order": 230,
@@ -1848,7 +1840,7 @@
     "components": []
   },
   {
-    "id": "E-231",
+    "id": "E-230",
     "character": "𠦝",
     "name": "Morning",
     "order": 231,
@@ -1856,7 +1848,7 @@
     "components": []
   },
   {
-    "id": "E-232",
+    "id": "E-231",
     "character": "京",
     "name": "Capital",
     "order": 232,
@@ -1864,7 +1856,7 @@
     "components": []
   },
   {
-    "id": "E-233",
+    "id": "E-232",
     "character": "市",
     "name": "Market",
     "order": 233,
@@ -1872,7 +1864,7 @@
     "components": []
   },
   {
-    "id": "E-234",
+    "id": "E-233",
     "character": "𰃮",
     "name": "Schoolhouse",
     "order": 234,
@@ -1880,7 +1872,7 @@
     "components": []
   },
   {
-    "id": "E-235",
+    "id": "E-234",
     "character": "央",
     "name": "Centre",
     "order": 235,
@@ -1888,7 +1880,7 @@
     "components": []
   },
   {
-    "id": "E-236",
+    "id": "E-235",
     "character": "行",
     "name": "Go",
     "order": 236,
@@ -1896,7 +1888,7 @@
     "components": []
   },
   {
-    "id": "E-237",
+    "id": "E-236",
     "character": "幺",
     "name": "Cocoon",
     "order": 237,
@@ -1904,7 +1896,7 @@
     "components": []
   },
   {
-    "id": "E-238",
+    "id": "E-237",
     "character": "殳",
     "name": "Missile",
     "order": 238,
@@ -1912,7 +1904,7 @@
     "components": []
   },
   {
-    "id": "E-239",
+    "id": "E-238",
     "character": "走",
     "name": "Run",
     "order": 239,
@@ -1920,7 +1912,7 @@
     "components": []
   },
   {
-    "id": "E-240",
+    "id": "E-239",
     "character": "⻏",
     "name": "Suburb",
     "order": 240,
@@ -1928,7 +1920,7 @@
     "components": []
   },
   {
-    "id": "E-241",
+    "id": "E-240",
     "character": "文",
     "name": "Sentence",
     "order": 241,
@@ -1936,7 +1928,7 @@
     "components": []
   },
   {
-    "id": "E-242",
+    "id": "E-241",
     "character": "弋",
     "name": "Arrow",
     "order": 242,
@@ -1944,7 +1936,7 @@
     "components": []
   },
   {
-    "id": "E-243",
+    "id": "E-242",
     "character": "戌",
     "name": "March",
     "order": 243,
@@ -1952,15 +1944,15 @@
     "components": []
   },
   {
-    "id": "E-244",
-    "character": "祭*",
+    "id": "E-243",
+    "character": "祭",
     "name": "Ritual",
     "order": 244,
     "description": "",
     "components": []
   },
   {
-    "id": "E-245",
+    "id": "E-244",
     "character": "卩",
     "name": "Stamp",
     "order": 245,
@@ -1968,7 +1960,7 @@
     "components": []
   },
   {
-    "id": "E-246",
+    "id": "E-245",
     "character": "南",
     "name": "South",
     "order": 246,
@@ -1976,7 +1968,7 @@
     "components": []
   },
   {
-    "id": "E-247",
+    "id": "E-246",
     "character": "西",
     "name": "West",
     "order": 247,
@@ -1984,7 +1976,7 @@
     "components": []
   },
   {
-    "id": "E-248",
+    "id": "E-247",
     "character": "毛",
     "name": "Fur",
     "order": 248,
@@ -1992,7 +1984,7 @@
     "components": []
   },
   {
-    "id": "E-249",
+    "id": "E-248",
     "character": "午",
     "name": "Noon",
     "order": 249,
@@ -2000,15 +1992,15 @@
     "components": []
   },
   {
-    "id": "E-250",
-    "character": "业*",
+    "id": "E-249",
+    "character": "业",
     "name": "Chandelier",
     "order": 250,
     "description": "",
     "components": []
   },
   {
-    "id": "E-251",
+    "id": "E-250",
     "character": "幸",
     "name": "Happiness",
     "order": 251,

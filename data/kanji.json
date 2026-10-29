@@ -4646,7 +4646,7 @@
     "character": "道",
     "keyword": "Road",
     "order": 369,
-    "elements": ["E-236", "E-185"],
+    "elements": ["E-235", "E-185"],
     "grade": "2",
     "description": "",
     "same_element": null,
@@ -4964,7 +4964,7 @@
     "order": 394,
     "elements": [
       "E-038",
-      "E-197"
+      "E-196"
     ],
     "grade": "3",
     "description": "",
@@ -4977,7 +4977,7 @@
     "keyword": "Roof",
     "order": 395,
     "elements": [
-      "E-198",
+      "E-197",
       "E-059"
     ],
     "grade": "3",
@@ -4991,7 +4991,7 @@
     "keyword": "Near",
     "order": 396,
     "elements": [
-      "E-199",
+      "E-198",
       "E-185"
     ],
     "grade": "2",
@@ -5006,7 +5006,7 @@
     "order": 397,
     "elements": [
       "E-012",
-      "E-199"
+      "E-198"
     ],
     "grade": "2",
     "description": "",
@@ -5019,11 +5019,11 @@
     "keyword": "Door",
     "order": 398,
     "elements": [
-      "E-200"
+      "E-199"
     ],
     "grade": "2",
     "description": "",
-    "same_element": "E-200",
+    "same_element": "E-199",
     "vocabulary": []
   },
   {
@@ -5032,8 +5032,8 @@
     "keyword": "Place",
     "order": 399,
     "elements": [
-      "E-200",
-      "E-199"
+      "E-199",
+      "E-198"
     ],
     "grade": "3",
     "description": "",
@@ -5046,7 +5046,7 @@
     "keyword": "Director",
     "order": 400,
     "elements": [
-      "E-201",
+      "E-200",
       "E-001",
       "E-007"
     ],
@@ -5061,8 +5061,8 @@
     "keyword": "Office",
     "order": 401,
     "elements": [
-      "E-198",
-      "E-201",
+      "E-197",
+      "E-200",
       "E-007"
     ],
     "grade": "3",
@@ -5076,11 +5076,11 @@
     "keyword": "Dry",
     "order": 402,
     "elements": [
-      "E-202"
+      "E-201"
     ],
     "grade": "6",
     "description": "",
-    "same_element": "E-202",
+    "same_element": "E-201",
     "vocabulary": []
   },
   {
@@ -5090,7 +5090,7 @@
     "order": 403,
     "elements": [
       "E-119",
-      "E-202"
+      "E-201"
     ],
     "grade": "3",
     "description": "",
@@ -5104,7 +5104,7 @@
     "order": 404,
     "elements": [
       "E-178",
-      "E-203"
+      "E-202"
     ],
     "grade": "4",
     "description": "",
@@ -5117,9 +5117,9 @@
     "keyword": "Return",
     "order": 405,
     "elements": [
-      "E-204",
+      "E-203",
       "E-171",
-      "E-203"
+      "E-202"
     ],
     "grade": "2",
     "description": "",
@@ -5133,7 +5133,7 @@
     "order": 406,
     "elements": [
       "E-172",
-      "E-204"
+      "E-203"
     ],
     "grade": "6",
     "description": "",
@@ -5147,7 +5147,7 @@
     "order": 407,
     "elements": [
       "E-131",
-      "E-205"
+      "E-204"
     ],
     "grade": "3",
     "description": "",
@@ -5160,11 +5160,11 @@
     "keyword": "Long, leader",
     "order": 408,
     "elements": [
-      "E-206"
+      "E-205"
     ],
     "grade": "2",
     "description": "",
-    "same_element": "E-206",
+    "same_element": "E-205",
     "vocabulary": []
   },
   {
@@ -5173,8 +5173,8 @@
     "keyword": "Notebook",
     "order": 409,
     "elements": [
-      "E-203",
-      "E-206"
+      "E-202",
+      "E-205"
     ],
     "grade": "3",
     "description": "",
@@ -5188,7 +5188,7 @@
     "order": 410,
     "elements": [
       "E-171",
-      "E-207",
+      "E-206",
       "E-001"
     ],
     "grade": "3",
@@ -5203,7 +5203,7 @@
     "order": 411,
     "elements": [
       "E-007",
-      "E-207"
+      "E-206"
     ],
     "grade": "3",
     "description": "",
@@ -5217,7 +5217,7 @@
     "order": 412,
     "elements": [
       "E-165",
-      "E-207"
+      "E-206"
     ],
     "grade": "2",
     "description": "",
@@ -5230,7 +5230,7 @@
     "keyword": "Buy",
     "order": 413,
     "elements": [
-      "E-208"
+      "E-207"
     ],
     "grade": "2",
     "description": "",
@@ -5244,7 +5244,7 @@
     "order": 414,
     "elements": [
       "E-129",
-      "E-208",
+      "E-207",
       "E-171"
     ],
     "grade": "5",
@@ -5258,7 +5258,7 @@
     "keyword": "Far",
     "order": 415,
     "elements": [
-      "E-209",
+      "E-208",
       "E-185"
     ],
     "grade": "2",
@@ -5273,7 +5273,7 @@
     "order": 416,
     "elements": [
       "E-176",
-      "E-209"
+      "E-208"
     ],
     "grade": "2",
     "description": "",
@@ -5287,7 +5287,7 @@
     "order": 417,
     "elements": [
       "E-179",
-      "E-210"
+      "E-209"
     ],
     "grade": "3",
     "description": "",
@@ -5300,11 +5300,11 @@
     "keyword": "Rain",
     "order": 418,
     "elements": [
-      "E-211"
+      "E-210"
     ],
     "grade": "1",
     "description": "",
-    "same_element": "E-211",
+    "same_element": "E-210",
     "vocabulary": []
   },
   {
@@ -5313,8 +5313,8 @@
     "keyword": "Cloud",
     "order": 419,
     "elements": [
-      "E-211",
-      "E-210"
+      "E-210",
+      "E-209"
     ],
     "grade": "2",
     "description": "",
@@ -5327,7 +5327,7 @@
     "keyword": "Snow",
     "order": 420,
     "elements": [
-      "E-211"
+      "E-210"
     ],
     "grade": "2",
     "description": "",
@@ -5340,7 +5340,7 @@
     "keyword": "Electricity",
     "order": 421,
     "elements": [
-      "E-211",
+      "E-210",
       "E-011"
     ],
     "grade": "2",
@@ -5354,7 +5354,7 @@
     "keyword": "Atmosphere",
     "order": 422,
     "elements": [
-      "E-211"
+      "E-210"
     ],
     "grade": "S",
     "description": "",
@@ -5367,8 +5367,8 @@
     "keyword": "Earthquake",
     "order": 423,
     "elements": [
-      "E-211",
-      "E-212"
+      "E-210",
+      "E-211"
     ],
     "grade": "S",
     "description": "",
@@ -5382,7 +5382,7 @@
     "order": 424,
     "elements": [
       "E-129",
-      "E-213",
+      "E-212",
       "E-012"
     ],
     "grade": "2",
@@ -5396,8 +5396,8 @@
     "keyword": "Meet",
     "order": 425,
     "elements": [
-      "E-213",
-      "E-210"
+      "E-212",
+      "E-209"
     ],
     "grade": "2",
     "description": "",
@@ -5410,8 +5410,8 @@
     "keyword": "Picture",
     "order": 426,
     "elements": [
-      "E-213",
-      "E-210"
+      "E-212",
+      "E-209"
     ],
     "grade": "2",
     "description": "",
@@ -5424,11 +5424,11 @@
     "keyword": "Fit",
     "order": 427,
     "elements": [
-      "E-214"
+      "E-213"
     ],
     "grade": "2",
     "description": "",
-    "same_element": "E-214",
+    "same_element": "E-213",
     "vocabulary": []
   },
   {
@@ -5438,7 +5438,7 @@
     "order": 428,
     "elements": [
       "E-110",
-      "E-214"
+      "E-213"
     ],
     "grade": "3",
     "description": "",
@@ -5452,7 +5452,7 @@
     "order": 429,
     "elements": [
       "E-045",
-      "E-214"
+      "E-213"
     ],
     "grade": "2",
     "description": "",
@@ -5465,11 +5465,11 @@
     "keyword": "Now",
     "order": 430,
     "elements": [
-      "E-215"
+      "E-214"
     ],
     "grade": "2",
     "description": "",
-    "same_element": "E-215",
+    "same_element": "E-214",
     "vocabulary": []
   },
   {
@@ -5478,7 +5478,7 @@
     "keyword": "Whole",
     "order": 431,
     "elements": [
-      "E-213",
+      "E-212",
       "E-172"
     ],
     "grade": "3",
@@ -5492,11 +5492,11 @@
     "keyword": "Gold, money",
     "order": 432,
     "elements": [
-      "E-216"
+      "E-215"
     ],
     "grade": "1",
     "description": "",
-    "same_element": "E-216",
+    "same_element": "E-215",
     "vocabulary": []
   },
   {
@@ -5505,7 +5505,7 @@
     "keyword": "Iron",
     "order": 433,
     "elements": [
-      "E-216",
+      "E-215",
       "E-147"
     ],
     "grade": "3",
@@ -5519,8 +5519,8 @@
     "keyword": "Silver",
     "order": 434,
     "elements": [
-      "E-216",
-      "E-217"
+      "E-215",
+      "E-216"
     ],
     "grade": "3",
     "description": "",
@@ -5534,7 +5534,7 @@
     "order": 435,
     "elements": [
       "E-012",
-      "E-217"
+      "E-216"
     ],
     "grade": "3",
     "description": "",
@@ -5547,11 +5547,11 @@
     "keyword": "Eat",
     "order": 436,
     "elements": [
-      "E-218"
+      "E-217"
     ],
     "grade": "2",
     "description": "",
-    "same_element": "E-218",
+    "same_element": "E-217",
     "vocabulary": []
   },
   {
@@ -5560,11 +5560,11 @@
     "keyword": "Melody, curve",
     "order": 437,
     "elements": [
-      "E-219"
+      "E-218"
     ],
     "grade": "3",
     "description": "",
-    "same_element": "E-219",
+    "same_element": "E-218",
     "vocabulary": []
   },
   {
@@ -5573,8 +5573,8 @@
     "keyword": "Agriculture",
     "order": 438,
     "elements": [
-      "E-219",
-      "E-212"
+      "E-218",
+      "E-211"
     ],
     "grade": "3",
     "description": "",
@@ -5587,7 +5587,7 @@
     "keyword": "Week",
     "order": 439,
     "elements": [
-      "E-220",
+      "E-219",
       "E-185"
     ],
     "grade": "2",
@@ -5601,7 +5601,7 @@
     "keyword": "Tone, find",
     "order": 440,
     "elements": [
-      "E-220"
+      "E-219"
     ],
     "grade": "3",
     "description": "",
@@ -5614,11 +5614,11 @@
     "keyword": "Use",
     "order": 441,
     "elements": [
-      "E-221"
+      "E-220"
     ],
     "grade": "2",
     "description": "",
-    "same_element": "E-221",
+    "same_element": "E-220",
     "vocabulary": []
   },
   {
@@ -5627,8 +5627,8 @@
     "keyword": "Pass through, commute",
     "order": 442,
     "elements": [
-      "E-222",
       "E-221",
+      "E-220",
       "E-185"
     ],
     "grade": "2",
@@ -5642,9 +5642,9 @@
     "keyword": "Pain",
     "order": 443,
     "elements": [
-      "E-223",
       "E-222",
-      "E-221"
+      "E-221",
+      "E-220"
     ],
     "grade": "6",
     "description": "",
@@ -5657,7 +5657,7 @@
     "keyword": "Sick",
     "order": 444,
     "elements": [
-      "E-223",
+      "E-222",
       "E-001",
       "E-194"
     ],
@@ -5673,7 +5673,7 @@
     "order": 445,
     "elements": [
       "E-040",
-      "E-224"
+      "E-223"
     ],
     "grade": "3",
     "description": "",
@@ -5686,11 +5686,11 @@
     "keyword": "Song",
     "order": 446,
     "elements": [
-      "E-224"
+      "E-223"
     ],
     "grade": "2",
     "description": "",
-    "same_element": "E-224",
+    "same_element": "E-223",
     "vocabulary": []
   },
   {
@@ -5699,8 +5699,8 @@
     "keyword": "Drink",
     "order": 447,
     "elements": [
-      "E-218",
-      "E-224"
+      "E-217",
+      "E-223"
     ],
     "grade": "3",
     "description": "",
@@ -5713,7 +5713,7 @@
     "keyword": "Follow",
     "order": 448,
     "elements": [
-      "E-225",
+      "E-224",
       "E-185"
     ],
     "grade": "3",
@@ -5727,9 +5727,9 @@
     "keyword": "Public building",
     "order": 449,
     "elements": [
-      "E-218",
+      "E-217",
       "E-057",
-      "E-225"
+      "E-224"
     ],
     "grade": "3",
     "description": "",
@@ -5742,11 +5742,11 @@
     "keyword": "Valley",
     "order": 450,
     "elements": [
-      "E-226"
+      "E-225"
     ],
     "grade": "2",
     "description": "",
-    "same_element": "E-226",
+    "same_element": "E-225",
     "vocabulary": []
   },
   {
@@ -5756,7 +5756,7 @@
     "order": 451,
     "elements": [
       "E-057",
-      "E-226"
+      "E-225"
     ],
     "grade": "5",
     "description": "",
@@ -5770,7 +5770,7 @@
     "order": 452,
     "elements": [
       "E-039",
-      "E-226"
+      "E-225"
     ],
     "grade": "4",
     "description": "",
@@ -5785,7 +5785,7 @@
     "elements": [
       "E-039",
       "E-057",
-      "E-226"
+      "E-225"
     ],
     "grade": "S",
     "description": "",
@@ -5798,11 +5798,11 @@
     "keyword": "River",
     "order": 454,
     "elements": [
-      "E-227"
+      "E-226"
     ],
     "grade": "1",
     "description": "",
-    "same_element": "E-227",
+    "same_element": "E-226",
     "vocabulary": []
   },
   {
@@ -5811,11 +5811,11 @@
     "keyword": "State, province",
     "order": 455,
     "elements": [
-      "E-227"
+      "E-226"
     ],
     "grade": "3",
     "description": "",
-    "same_element": "E-227",
+    "same_element": "E-226",
     "vocabulary": []
   },
   {
@@ -5825,7 +5825,7 @@
     "order": 456,
     "elements": [
       "E-039",
-      "E-227"
+      "E-226"
     ],
     "grade": "3",
     "description": "",
@@ -5839,7 +5839,7 @@
     "order": 457,
     "elements": [
       "E-012",
-      "E-228"
+      "E-227"
     ],
     "grade": "3",
     "description": "",
@@ -5853,7 +5853,7 @@
     "order": 458,
     "elements": [
       "E-039",
-      "E-229"
+      "E-228"
     ],
     "grade": "3",
     "description": "",
@@ -5866,7 +5866,7 @@
     "keyword": "Distribute",
     "order": 459,
     "elements": [
-      "E-229",
+      "E-228",
       "E-159"
     ],
     "grade": "3",
@@ -5880,11 +5880,11 @@
     "keyword": "Flat",
     "order": 460,
     "elements": [
-      "E-230"
+      "E-229"
     ],
     "grade": "3",
     "description": "",
-    "same_element": "E-230",
+    "same_element": "E-229",
     "vocabulary": []
   },
   {
@@ -5893,7 +5893,7 @@
     "keyword": "Evaluate",
     "order": 461,
     "elements": [
-      "E-230"
+      "E-229"
     ],
     "grade": "5",
     "description": "",
@@ -5906,7 +5906,7 @@
     "keyword": "Morning",
     "order": 462,
     "elements": [
-      "E-231",
+      "E-230",
       "E-009"
     ],
     "grade": "2",
@@ -5920,9 +5920,9 @@
     "keyword": "Trunk",
     "order": 463,
     "elements": [
-      "E-231",
-      "E-202",
-      "E-213"
+      "E-230",
+      "E-201",
+      "E-212"
     ],
     "grade": "5",
     "description": "",
@@ -5935,11 +5935,11 @@
     "keyword": "Capital",
     "order": 464,
     "elements": [
-      "E-232"
+      "E-231"
     ],
     "grade": "2",
     "description": "",
-    "same_element": "E-232",
+    "same_element": "E-231",
     "vocabulary": []
   },
   {
@@ -5949,7 +5949,7 @@
     "order": 465,
     "elements": [
       "E-008",
-      "E-232"
+      "E-231"
     ],
     "grade": "4",
     "description": "",
@@ -5962,11 +5962,11 @@
     "keyword": "City",
     "order": 466,
     "elements": [
-      "E-233"
+      "E-232"
     ],
     "grade": "2",
     "description": "",
-    "same_element": "E-233",
+    "same_element": "E-232",
     "vocabulary": []
   },
   {
@@ -5976,7 +5976,7 @@
     "order": 467,
     "elements": [
       "E-123",
-      "E-233"
+      "E-232"
     ],
     "grade": "2",
     "description": "",
@@ -5989,7 +5989,7 @@
     "keyword": "Study",
     "order": 468,
     "elements": [
-      "E-234",
+      "E-233",
       "E-124"
     ],
     "grade": "1",
@@ -6003,7 +6003,7 @@
     "keyword": "Operate",
     "order": 469,
     "elements": [
-      "E-234"
+      "E-233"
     ],
     "grade": "5",
     "description": "",
@@ -6029,11 +6029,11 @@
     "keyword": "Center",
     "order": 471,
     "elements": [
-      "E-235"
+      "E-234"
     ],
     "grade": "3",
     "description": "",
-    "same_element": "E-235",
+    "same_element": "E-234",
     "vocabulary": []
   },
   {
@@ -6042,11 +6042,11 @@
     "keyword": "Go",
     "order": 472,
     "elements": [
-      "E-236"
+      "E-235"
     ],
     "grade": "2",
     "description": "",
-    "same_element": "E-236",
+    "same_element": "E-235",
     "vocabulary": []
   },
   {
@@ -6055,7 +6055,7 @@
     "keyword": "Wait",
     "order": 473,
     "elements": [
-      "E-236",
+      "E-235",
       "E-048"
     ],
     "grade": "3",
@@ -6069,8 +6069,8 @@
     "keyword": "After",
     "order": 474,
     "elements": [
+      "E-235",
       "E-236",
-      "E-237",
       "E-095"
     ],
     "grade": "2",
@@ -6084,8 +6084,8 @@
     "keyword": "Role",
     "order": 475,
     "elements": [
-      "E-236",
-      "E-238"
+      "E-235",
+      "E-237"
     ],
     "grade": "3",
     "description": "",
@@ -6099,7 +6099,7 @@
     "order": 476,
     "elements": [
       "E-110",
-      "E-238"
+      "E-237"
     ],
     "grade": "3",
     "description": "",
@@ -6112,11 +6112,11 @@
     "keyword": "Run",
     "order": 477,
     "elements": [
-      "E-239"
+      "E-238"
     ],
     "grade": "2",
     "description": "",
-    "same_element": "E-239",
+    "same_element": "E-238",
     "vocabulary": []
   },
   {
@@ -6125,7 +6125,7 @@
     "keyword": "Awaken",
     "order": 478,
     "elements": [
-      "E-239",
+      "E-238",
       "E-159"
     ],
     "grade": "3",
@@ -6139,8 +6139,8 @@
     "keyword": "Part",
     "order": 479,
     "elements": [
-      "E-197",
-      "E-240"
+      "E-196",
+      "E-239"
     ],
     "grade": "3",
     "description": "",
@@ -6154,7 +6154,7 @@
     "order": 480,
     "elements": [
       "E-165",
-      "E-240"
+      "E-239"
     ],
     "grade": "3",
     "description": "",
@@ -6167,11 +6167,11 @@
     "keyword": "Text",
     "order": 481,
     "elements": [
-      "E-241"
+      "E-240"
     ],
     "grade": "1",
     "description": "",
-    "same_element": "E-241",
+    "same_element": "E-240",
     "vocabulary": []
   },
   {
@@ -6180,7 +6180,7 @@
     "keyword": "Opposite, against",
     "order": 482,
     "elements": [
-      "E-241"
+      "E-240"
     ],
     "grade": "3",
     "description": "",
@@ -6193,7 +6193,7 @@
     "keyword": "Style, ceremony, numerical formula",
     "order": 483,
     "elements": [
-      "E-242"
+      "E-241"
     ],
     "grade": "3",
     "description": "",
@@ -6207,7 +6207,7 @@
     "order": 484,
     "elements": [
       "E-038",
-      "E-242"
+      "E-241"
     ],
     "grade": "3",
     "description": "",
@@ -6220,7 +6220,7 @@
     "keyword": "Feel",
     "order": 485,
     "elements": [
-      "E-243",
+      "E-242",
       "E-007"
     ],
     "grade": "3",
@@ -6245,12 +6245,12 @@
     "keyword": "Festival",
     "order": 487,
     "elements": [
-      "E-244",
+      "E-243",
       "E-048"
     ],
     "grade": "3",
     "description": "",
-    "same_element": null,
+    "same_element": "E-242",
     "vocabulary": []
   },
   {
@@ -6260,7 +6260,7 @@
     "order": 488,
     "elements": [
       "E-057",
-      "E-244"
+      "E-243"
     ],
     "grade": "4",
     "description": "",
@@ -6274,7 +6274,7 @@
     "order": 489,
     "elements": [
       "E-009",
-      "E-245",
+      "E-244",
       "E-120"
     ],
     "grade": "3",
@@ -6288,10 +6288,10 @@
     "keyword": "Fate, life",
     "order": 490,
     "elements": [
-      "E-213",
+      "E-212",
       "E-001",
       "E-007",
-      "E-245"
+      "E-244"
     ],
     "grade": "3",
     "description": "",
@@ -6304,11 +6304,11 @@
     "keyword": "South",
     "order": 491,
     "elements": [
-      "E-246"
+      "E-245"
     ],
     "grade": "2",
     "description": "",
-    "same_element": "E-246",
+    "same_element": "E-245",
     "vocabulary": []
   },
   {
@@ -6317,11 +6317,11 @@
     "keyword": "West",
     "order": 492,
     "elements": [
-      "E-247"
+      "E-246"
     ],
     "grade": "2",
     "description": "",
-    "same_element": "E-247",
+    "same_element": "E-246",
     "vocabulary": []
   },
   {
@@ -6354,11 +6354,11 @@
     "keyword": "Hair",
     "order": 495,
     "elements": [
-      "E-248"
+      "E-247"
     ],
     "grade": "2",
     "description": "",
-    "same_element": "E-248",
+    "same_element": "E-247",
     "vocabulary": []
   },
   {
@@ -6367,11 +6367,11 @@
     "keyword": "Noon",
     "order": 496,
     "elements": [
-      "E-249"
+      "E-248"
     ],
     "grade": "2",
     "description": "",
-    "same_element": "E-249",
+    "same_element": "E-248",
     "vocabulary": []
   },
   {
@@ -6404,7 +6404,7 @@
     "keyword": "Business",
     "order": 499,
     "elements": [
-      "E-250",
+      "E-249",
       "E-141"
     ],
     "grade": "3",
@@ -6418,11 +6418,11 @@
     "keyword": "Happiness",
     "order": 500,
     "elements": [
-      "E-251"
+      "E-250"
     ],
     "grade": "3",
     "description": "",
-    "same_element": "E-251",
+    "same_element": "E-250",
     "vocabulary": []
   }
 ]
