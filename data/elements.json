@@ -1313,7 +1313,7 @@
   },
   {
     "id": "E-164",
-    "character": "受*",
+    "character": "受",
     "name": "Birdhouse",
     "order": 164,
     "description": "",
@@ -1425,7 +1425,7 @@
   },
   {
     "id": "E-178",
-    "character": "度*",
+    "character": "度",
     "name": "Lantern",
     "order": 178,
     "description": "",
@@ -1625,7 +1625,7 @@
   },
   {
     "id": "E-203",
-    "character": "リ*",
+    "character": "リ",
     "name": "Spear",
     "order": 204,
     "description": "",
