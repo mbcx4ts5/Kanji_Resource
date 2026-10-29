@@ -1646,7 +1646,7 @@
     "elements": ["E-083"],
     "grade": "3",
     "description": "",
-    "same_element": null,
+    "same_element": "E-083",
     "vocabulary": []
   },
   {
@@ -2119,7 +2119,7 @@
     "elements": ["E-059", "E-107"],
     "grade": "3",
     "description": "",
-    "same_element": null,
+    "same_element": "E-108",
     "vocabulary": []
   },
   {
