@@ -398,13 +398,13 @@
   {
     "id": "K-0036",
     "character": "丸",
-    "keyword": "Circle",
+    "keyword": "Round",
     "order": 36,
     "elements": ["E-005", "E-020"],
     "grade": "2",
-    "description": "",
+    "description": "The kanji for 'nine' is here accompanied by a single drop that changes the meaning entirely into that of 'Round'. Though this kanji refers to the shape of something, a number can too be considered 'round'. Here we turn 'nine' into a round number by adding a small 'drop'.",
     "same_element": null,
-    "vocabulary": []
+    "vocabulary": ["丸い・まるい"]
   },
   {
     "id": "K-0037",
@@ -413,9 +413,9 @@
     "order": 37,
     "elements": ["E-020", "E-008"],
     "grade": "1",
-    "description": "",
+    "description": "The only difference between the kanji for 'sun' and 'white' is the presence of the small 'drop' on top. To protect our skin from the 'sun', we often apply a 'drop' of white sunscreen.",
     "same_element": "E-021",
-    "vocabulary": []
+    "vocabulary": ["白い・しろい"]
   },
 {
     "id": "K-0038",
@@ -424,9 +424,9 @@
     "order": 38,
     "elements": ["E-001", "E-021"],
     "grade": "1",
-    "description": "",
+    "description": "'One' plus 'white', makes a hundred. One can imagine that the number 'one' sunscreen blocks 100% of the sun's rays.",
     "same_element": "E-022",
-    "vocabulary": []
+    "vocabulary": ["百・ひゃく"]
   },
   {
     "id": "K-0039",
@@ -435,9 +435,9 @@
     "order": 39,
     "elements": ["E-020", "E-001", "E-023"],
     "grade": "1",
-    "description": "",
+    "description": "It might be easier to think of this as a 'drop' + 'ten', though it can be broken down further to reveal the walking stick that is being driven through the horizontal floor through the power of a thousand drops.",
     "same_element": "E-024",
-    "vocabulary": []
+    "vocabulary": ["千・せん"]
   },
   {
     "id": "K-0040",
@@ -446,9 +446,9 @@
     "order": 40,
     "elements": ["E-007", "E-023"],
     "grade": "1",
-    "description": "",
+    "description": "You can break this down into its elements if you wish, but it might be easier to see this as simply a line passing through an opening marking its middle.",
     "same_element": "E-025",
-    "vocabulary": []
+    "vocabulary": ["中・なか", "中古・ちゅうこ"]
   },
   {
     "id": "K-0041",
@@ -457,9 +457,9 @@
     "order": 41,
     "elements": ["E-023", "E-020"],
     "grade": "1",
-    "description": "",
+    "description": "A pole accompanied by two small drops. Note how the drops are written after the central vertical stroke, and also that the central stroke contains a little hook at the end. The smallness here refers to the small drops, presumably small side effects caused by the larger central stroke.",
     "same_element": "E-026",
-    "vocabulary": []
+    "vocabulary": ["小さい・ちいさい"]
   },
   {
     "id": "K-0042",
@@ -468,9 +468,9 @@
     "order": 42,
     "elements": ["E-026", "E-020"],
     "grade": "2",
-    "description": "",
+    "description": "Small plus an extra drop makes 'few'. Imagine a few drops of water hitting a window. After a while, the drops will slide down the window, creating a trail represnted by the final stroke.",
     "same_element": "E-027",
-    "vocabulary": []
+    "vocabulary": ["少ない・すくない", "多少・たしょう"]
   },
   {
     "id": "K-0043",
@@ -479,9 +479,9 @@
     "order": 44,
     "elements": ["E-028", "E-001"],
     "grade": "1",
-    "description": "",
+    "description": "Once again, you can break this down into its components if you wish, but this kanji symbolically represents a small line raised 'above' a larger line.",
     "same_element": null,
-    "vocabulary": []
+    "vocabulary": ["上・うえ", "上がる・あがる"]
   },
   {
     "id": "K-0044",
@@ -490,9 +490,9 @@
     "order": 45,
     "elements": ["E-001", "E-028"],
     "grade": "1",
-    "description": "",
+    "description": "In contrast to the previous kanji, the small line now resides 'below' the large line. These two kanji become easier to remember when learned as a pair.",
     "same_element": null,
-    "vocabulary": []
+    "vocabulary": ["下・した", "下がる・さがる", "上下・じょうげ"]
   },
   {
     "id": "K-0045",
@@ -501,9 +501,9 @@
     "order": 46,
     "elements": ["E-010", "E-028"],
     "grade": "2",
-    "description": "",
+    "description": "Have you ever been at a gathering or party that is lasting way too long into the evening? Well this magic wand allows you to teleport outside. The catch is that it only works in the evening.",
     "same_element": null,
-    "vocabulary": []
+    "vocabulary": ["外・そと", "外す・はずす"]
   },
   {
     "id": "K-0046",
@@ -512,7 +512,7 @@
     "order": 38,
     "elements": ["E-028", "E-023", "E-001"],
     "grade": "2",
-    "description": "",
+    "description": "Here a walking stick with a magic wand attached that automatically 'stops' things for the user.",
     "same_element": "E-029",
     "vocabulary": []
   },
@@ -523,7 +523,7 @@
     "order": 43,
     "elements": ["E-029", "E-027"],
     "grade": "2",
-    "description": "",
+    "description": "We combine the elements for 'stop' and 'a few' that we just encountered to create the kanji for 'walk'. The etymological form of the stop element being a 'footprint' comes in handy here. We see 'a few footprints' to indicate where someone has been walking.",
     "same_element": null,
     "vocabulary": []
   },
@@ -534,7 +534,7 @@
     "order": 48,
     "elements": ["E-001", "E-029"],
     "grade": "1",
-    "description": "",
+    "description": "This kanji represents the 'correct' way to start a race, with the footprint just before the line. After all, putting your foot over the line before the race starts would not be correct.",
     "same_element": "E-030",
     "vocabulary": []
   },
@@ -545,7 +545,7 @@
     "order": 50,
     "elements": ["E-020", "E-015"],
     "grade": "2",
-    "description": "",
+    "description": "Oneself here is represented by a single drop over an eye. If you've ever tried to put eye drops in, you'd know it can sometimes by tricky to administer them by oneself.",
     "same_element": "E-031",
     "vocabulary": []
   },
@@ -556,7 +556,7 @@
     "order": 51,
     "elements": [],
     "grade": "2",
-    "description": "",
+    "description": "The kanji for mother here is a pictograph of two breasts. Take good care with the stroke order here; this is not the simple 'mouth' shape we are used to dealing with. ",
     "same_element": "E-032",
     "vocabulary": []
   },
@@ -567,7 +567,7 @@
     "order": 52,
     "elements": ["E-033", "E-032"],
     "grade": "2",
-    "description": "",
+    "description": "Every mother deserves a lie down. Or perhaps this kanji represents the collective experience of every mother having a child lie down on top of them.",
     "same_element": "E-034",
     "vocabulary": []
   },
@@ -578,7 +578,7 @@
     "order": 52,
     "elements": [],
     "grade": "2",
-    "description": "",
+    "description": "The pictograph of a father here is considerably more abstract than that for mother. It might be easier to see the father's face here though, the two eyes represented by the first two strokes and then a nose that forms the outline of a moustache with the last two strokes.",
     "same_element": "E-035",
     "vocabulary": []
   },
@@ -589,7 +589,7 @@
     "order": 54,
     "elements": ["E-036", "E-035"],
     "grade": "2",
-    "description": "",
+    "description": "A father with a pot lid on his head represents the idea of mingling or the meeting of people. Here we see a father who has put a pot lid on his head so that he can stand out in the crowd whilst mingling with other fathers.",
     "same_element": "E-037",
     "vocabulary": []
   },
@@ -600,7 +600,7 @@
     "order": 55,
     "elements": ["E-012", "E-037"],
     "grade": "1",
-    "description": "",
+    "description": "A school is obviously a place where lots of pupils mingle, but what does this have to do with trees? Perhaps it is a really old building made from wood, or the tree represents the growth of the pupils whilst in attendance. However you imagine it, combine these two elements to create the kanji for school.",
     "same_element": null,
     "vocabulary": []
   },
@@ -611,7 +611,7 @@
     "order": 49,
     "elements": [],
     "grade": "1",
-    "description": "",
+    "description": "Be careful with the stroke order with this kanji. Here we see a strange conglomeration of strokes that look like elements. Can you see 'lie down', 'walking stick', perhaps the outline of 'correct' or 'stop'. This kanji is one of those rare occasions where simply learning the kanji as a unit is probably the simplest path forward.",
     "same_element": null,
     "vocabulary": []
   },
@@ -622,7 +622,7 @@
     "order": 56,
     "elements": [],
     "grade": "1",
-    "description": "",
+    "description": "The kanji for person is simply a pictograph of a person with two outsrtetched legs.",
     "same_element": "E-038",
     "vocabulary": []
   },
@@ -633,7 +633,7 @@
     "order": 57,
     "elements": ["E-038", "E-012"],
     "grade": "1",
-    "description": "",
+    "description": "Here we see a pictograph of your chosen 'person' from the previous kanji resting against a 'tree'.",
     "same_element": null,
     "vocabulary": []
   },
@@ -644,7 +644,7 @@
     "order": 58,
     "elements": ["E-038", "E-012", "E-001"],
     "grade": "1",
-    "description": "",
+    "description": "The kanji for 'body' differs from 'rest' by a single stroke. We saw this combination of 'tree' and 'one' earlier in the kanji for book. In a similar way to reading a book, you can tell a lot about a person by reading their body language.",
     "same_element": null,
     "vocabulary": []
   },
@@ -655,7 +655,7 @@
     "order": 59,
     "elements": [],
     "grade": "1",
-    "description": "",
+    "description": "This kanji has a striking resemblance to 'small', 小, except where the central stick in 'small' only produced two small drops, here we see two large splashes of water.",
     "same_element": "E-039",
     "vocabulary": []
   },
@@ -666,7 +666,7 @@
     "order": 60,
     "elements": ["E-039", "E-020"],
     "grade": "3",
-    "description": "",
+    "description": "The kanji for ice is simply the kanji for water but with an extra drop. Now the form almost represents a snowflake.",
     "same_element": "E-040",
     "vocabulary": []
   },
@@ -677,7 +677,7 @@
     "order": 61,
     "elements": ["E-039", "E-020", "E-039"],
     "grade": "3",
-    "description": "",
+    "description": "'Water', 'drop', 'water', almost seems to tell the story of someone swimming. Notice how the vertical stroke appears to have a small handle at the top this time. We will encounter the right-hand side as a standalone kanji later.",
     "same_element": null,
     "vocabulary": []
   },
@@ -688,7 +688,7 @@
     "order": 62,
     "elements": ["E-039", "E-034"],
     "grade": "2",
-    "description": "",
+    "description": "The ultimate destination of each and every drop of water is ultimately the sea.",
     "same_element": null,
     "vocabulary": []
   },
@@ -699,7 +699,7 @@
     "order": 63,
     "elements": ["E-039", "E-019", "E-009"],
     "grade": "3",
-    "description": "",
+    "description": "We see an old, possibly ancient, ritual of admiring the moon's reflection in the waters of a lake.",
     "same_element": null,
     "vocabulary": []
   },
@@ -710,7 +710,7 @@
     "order": 64,
     "elements": ["E-039", "E-041"],
     "grade": "6",
-    "description": "",
+    "description": "The idea of this kanji is something running alongside something else, or in accordance with. The kanji represnts this as water running alongside a gully.",
     "same_element": null,
     "vocabulary": []
   },
@@ -721,7 +721,7 @@
     "order": 65,
     "elements": ["E-039", "E-042"],
     "grade": "3",
-    "description": "",
+    "description": "Here an unfortunate execusion decision is to be made, either by water or by the guillotine.",
     "same_element": null,
     "vocabulary": []
   },
@@ -732,7 +732,7 @@
     "order": 66,
     "elements": [],
     "grade": "1",
-    "description": "",
+    "description": "Here we see a pictograph of a fire, or perhaps a person on fire! The two drops represent the smoke rising up from the flames.",
     "same_element": "E-043",
     "vocabulary": []
   },

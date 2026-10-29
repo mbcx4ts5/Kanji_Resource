@@ -157,14 +157,14 @@
     "name": "Old",
     "order": 19,
     "description": "Despite being made up of two pre-existing elements, this too can be used as an element and carries the same meaning of 'old'. Despite the tombstone symbolism, try to avoid linking with this element with the idea of 'death' or a 'grave' as these elements associated with these will be introduced later.",
-    "components": []
+    "components": ["E-006", "E-007"]
   },
   {
     "id": "E-020",
     "character": "丶",
     "name": "Drop",
     "order": 20,
-    "description": "",
+    "description": "Here we have a single drop of something, perhaps a drop of water or ink, created with a single stroke. The 'drop' can be written both left to right and right to left depending on the kanji. We will notice a few instances where the only difference between two kanji is the existence (or lack) of a single drop.",
     "components": []
   },
   {
@@ -172,23 +172,23 @@
     "character": "白",
     "name": "White",
     "order": 21,
-    "description": "",
-    "components": []
+    "description": "As an element, maintain the idea of white, though it may be easier to think of something that is itself white.",
+    "components": ["E-020", "E-008"]
   },
   {
     "id": "E-022",
     "character": "百",
     "name": "Hundred",
     "order": 22,
-    "description": "",
-    "components": []
+    "description": "As an element, imagine the idea of something being 100%.",
+    "components": ["E-001", "E-021"]
   },
   {
     "id": "E-023",
     "character": "丨",
     "name": "Walking Stick",
     "order": 23,
-    "description": "",
+    "description": "We've already seen the horizontal version of this element. The single vertical line can have a variety of meanings when used as an element, for example, a walking stick, a column, or sometimes a stake driving through something.",
     "components": []
   },
   {
@@ -196,7 +196,7 @@
     "character": "千",
     "name": "Thousand",
     "order": 24,
-    "description": "",
+    "description": "As an element, keep the idea of a thousand where it makes sense to, though it may be easier to view this element pictorally as some sort of stake being forced into the top something when this element is seen above something else.",
     "components": []
   },
   {
@@ -204,15 +204,15 @@
     "character": "中",
     "name": "Middle",
     "order": 25,
-    "description": "",
+    "description": "This form carries the same meaning of 'middle' when used as an element.",
     "components": []
   },
   {
     "id": "E-026",
-    "character": "小",
+    "character": "小・⺌",
     "name": "Small",
     "order": 26,
-    "description": "",
+    "description": "The element keeps the same meaning and commonly appears above or below other elements. When appearing at the top of a kanji, the outer drops instead hook inwards. We will continue to encounter elements whose shape change depending on the kanji.",
     "components": []
   },
   {
@@ -220,7 +220,7 @@
     "character": "少",
     "name": "Few",
     "order": 27,
-    "description": "",
+    "description": "This form also appears as an element, and again takes on the meaning of 'a few' of something.",
     "components": []
   },
   {
@@ -228,7 +228,7 @@
     "character": "卜",
     "name": "Magic Wand",
     "order": 28,
-    "description": "",
+    "description": "A pole with a drop coming off it must be a magic wand. You can almost see the magic sparkles coming right off it.",
     "components": []
   },
   {
@@ -236,7 +236,7 @@
     "character": "止",
     "name": "Stop",
     "order": 29,
-    "description": "",
+    "description": "This kanji originally took the form of a footprint, though it has become heavily abstracted with time. As an element, extend the idea of 'stop' to something which has 'stopped dead in its tracks'.",
     "components": []
   },
   {
@@ -244,7 +244,7 @@
     "character": "正",
     "name": "Correct",
     "order": 30,
-    "description": "",
+    "description": "Keep the idea of correctness when using this element.",
     "components": []
   },
   {
@@ -252,7 +252,7 @@
     "character": "自",
     "name": "Oneself",
     "order": 32,
-    "description": "",
+    "description": "We will meet many elements associated with people, so it might be better to consider this element as 'nose'. We will meet the full kanji for nose where this element appears, 鼻, much later.",
     "components": []
   },
   {
@@ -260,7 +260,7 @@
     "character": "母",
     "name": "Mother",
     "order": 33,
-    "description": "",
+    "description": "As an element, this form retains the idea of motherhood.",
     "components": []
   },
   {
@@ -268,7 +268,7 @@
     "character": "𠂉",
     "name": "Lie Down",
     "order": 31,
-    "description": "",
+    "description": "A drop and a horizontal stroke creates the image of someone lying down in a bed with one leg slipping down off the side.",
     "components": []
   },
   {
@@ -276,7 +276,7 @@
     "character": "毎",
     "name": "Each",
     "order": 34,
-    "description": "",
+    "description": "As an element, this form takes the meaning of 'each' or 'every'. Note how the two 'drops' inside the 'mother' component are combined together into a single stroke.",
     "components": []
   },
   {
@@ -284,7 +284,7 @@
     "character": "父",
     "name": "Father",
     "order": 35,
-    "description": "",
+    "description": "As with mother, this element represents the idea of fatherhood.",
     "components": []
   },
   {
@@ -292,7 +292,7 @@
     "character": "亠",
     "name": "Pot Lid",
     "order": 36,
-    "description": "",
+    "description": "The shape of a pot lid should be quite easy to make out here, see the handle represented by the first stroke? Occasionally, it might also be easier to think of this element as a 'top hat'.",
     "components": []
   },
   {
@@ -300,7 +300,7 @@
     "character": "交",
     "name": "Mingle",
     "order": 37,
-    "description": "",
+    "description": "The element here should also conjur up the idea of people mingling about.",
     "components": []
   },
   {
@@ -308,15 +308,15 @@
     "character": "人",
     "name": "Person",
     "order": 38,
-    "description": "",
+    "description": "Be careful when using this element. It might be a good idea to ascribe this to a single, specific person rather than a general idea as there are many elements associated with people.",
     "components": []
   },
   {
     "id": "E-039",
-    "character": "水",
+    "character": "水・氵",
     "name": "Water",
     "order": 39,
-    "description": "",
+    "description": "The element for water is another one of those shape shifting elements. It is often seen on the left-hand side where it is reduced to just three strokes.",
     "components": []
   },
   {
@@ -324,7 +324,7 @@
     "character": "冫",
     "name": "Ice",
     "order": 40,
-    "description": "",
+    "description": "As with 'water', the element for ice is also reduced down, but this time even further to just two strokes. As with water, it normally appears on the left-hand side of the kanji.",
     "components": []
   },
   {
@@ -332,7 +332,7 @@
     "character": "㕣",
     "name": "Gully",
     "order": 41,
-    "description": "",
+    "description": "Previously we discussed how the element for eight '八' could represent something split in two. Here we see a gully that has been eroded by running water and the mouth representing the water running through it.",
     "components": []
   },
   {
@@ -340,15 +340,15 @@
     "character": "夬",
     "name": "Guillotine",
     "order": 42,
-    "description": "",
+    "description": "Here the person we encountered a few frames earlier has met an unfortunate demise, with their head about to be chopped off by a guillotine represented by the first two strokes.",
     "components": []
   },
   {
     "id": "E-043",
-    "character": "火",
+    "character": "火・灬",
     "name": "Fire",
     "order": 43,
-    "description": "",
+    "description": "The element for fire often appears either on the left-hand side or bottom of the kanji. However, when it appears at the bottom, it is often reduced to four 'drop'-like strokes.",
     "components": []
   },
   {
