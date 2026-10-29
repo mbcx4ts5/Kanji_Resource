@@ -999,5 +999,5430 @@
     "description": "",
     "same_element": null,
     "vocabulary": []
+  },
+{
+    "id": "K-0091",
+    "character": "作",
+    "keyword": "Make",
+    "order": 91,
+    "elements": ["E-038", "E-054"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0092",
+    "character": "昨",
+    "keyword": "Yesterday",
+    "order": 92,
+    "elements": ["E-008", "E-054"],
+    "grade": "4",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0093",
+    "character": "組",
+    "keyword": "Team",
+    "order": 93,
+    "elements": ["E-046", "E-055"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0094",
+    "character": "助",
+    "keyword": "Help",
+    "order": 94,
+    "elements": ["E-055", "E-017"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0095",
+    "character": "工",
+    "keyword": "Craft",
+    "order": 95,
+    "elements": ["E-056"],
+    "grade": "2",
+    "description": "",
+    "same_element": "E-056",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0096",
+    "character": "穴",
+    "keyword": "Hole",
+    "order": 96,
+    "elements": ["E-058"],
+    "grade": "5",
+    "description": "",
+    "same_element": "E-058",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0097",
+    "character": "空",
+    "keyword": "Sky, empty",
+    "order": 97,
+    "elements": ["E-058", "E-056"],
+    "grade": "1",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0098",
+    "character": "究",
+    "keyword": "Research",
+    "order": 98,
+    "elements": ["E-058", "E-005"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0099",
+    "character": "宿",
+    "keyword": "Inn",
+    "order": 99,
+    "elements": ["E-057", "E-038", "E-022"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0100",
+    "character": "土",
+    "keyword": "Soil",
+    "order": 100,
+    "elements": ["E-059"],
+    "grade": "1",
+    "description": "",
+    "same_element": "E-059",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0101",
+    "character": "社",
+    "keyword": "Company",
+    "order": 101,
+    "elements": ["E-048", "E-059"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0102",
+    "character": "丁",
+    "keyword": "Street, district",
+    "order": 102,
+    "elements": ["E-060"],
+    "grade": "3",
+    "description": "",
+    "same_element": "E-060",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0103",
+    "character": "町",
+    "keyword": "Town",
+    "order": 103,
+    "elements": ["E-011", "E-060"],
+    "grade": "1",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0104",
+    "character": "何",
+    "keyword": "What",
+    "order": 104,
+    "elements": ["E-038", "E-061"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0105",
+    "character": "弓",
+    "keyword": "Bow",
+    "order": 105,
+    "elements": ["E-062"],
+    "grade": "2",
+    "description": "",
+    "same_element": "E-062",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0106",
+    "character": "引",
+    "keyword": "Pull",
+    "order": 106,
+    "elements": ["E-062", "E-023"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0107",
+    "character": "第",
+    "keyword": "Ordinal",
+    "order": 107,
+    "elements": ["E-045", "E-062", "E-023"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0108",
+    "character": "矢",
+    "keyword": "Arrow",
+    "order": 108,
+    "elements": ["E-063"],
+    "grade": "2",
+    "description": "",
+    "same_element": "E-063",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0109",
+    "character": "知",
+    "keyword": "Know",
+    "order": 109,
+    "elements": ["E-063", "E-007"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0110",
+    "character": "礼",
+    "keyword": "Manners",
+    "order": 110,
+    "elements": ["E-048", "E-064"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0111",
+    "character": "県",
+    "keyword": "Prefecture",
+    "order": 111,
+    "elements": ["E-015", "E-064", "E-026"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0112",
+    "character": "直",
+    "keyword": "Straight, fix",
+    "order": 112,
+    "elements": ["E-065"],
+    "grade": "2",
+    "description": "",
+    "same_element": "E-065",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0113",
+    "character": "植",
+    "keyword": "Plant",
+    "order": 113,
+    "elements": ["E-012", "E-065"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0114",
+    "character": "医",
+    "keyword": "Doctor",
+    "order": 114,
+    "elements": ["E-066", "E-063"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0115",
+    "character": "区",
+    "keyword": "District",
+    "order": 115,
+    "elements": ["E-067", "E-066"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0116",
+    "character": "気",
+    "keyword": "Spirit, air",
+    "order": 116,
+    "elements": ["E-068", "E-067"],
+    "grade": "1",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0117",
+    "character": "汽",
+    "keyword": "Steam",
+    "order": 117,
+    "elements": ["E-039", "E-068"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0118",
+    "character": "負",
+    "keyword": "Lose",
+    "order": 118,
+    "elements": ["E-069", "E-016"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0119",
+    "character": "色",
+    "keyword": "Colour",
+    "order": 119,
+    "elements": ["E-069", "E-070"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0120",
+    "character": "当",
+    "keyword": "This, hit",
+    "order": 120,
+    "elements": ["E-026", "E-071"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0121",
+    "character": "急",
+    "keyword": "Hurry",
+    "order": 121,
+    "elements": ["E-069", "E-071", "E-044"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0122",
+    "character": "化",
+    "keyword": "Change",
+    "order": 122,
+    "elements": ["E-038", "E-072"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0123",
+    "character": "北",
+    "keyword": "North",
+    "order": 123,
+    "elements": ["E-072"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0124",
+    "character": "皿",
+    "keyword": "Dish",
+    "order": 124,
+    "elements": ["E-073"],
+    "grade": "3",
+    "description": "",
+    "same_element": "E-073",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0125",
+    "character": "血",
+    "keyword": "Blood",
+    "order": 125,
+    "elements": ["E-073"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0126",
+    "character": "温",
+    "keyword": "Warm",
+    "order": 126,
+    "elements": ["E-039", "E-008", "E-073"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0127",
+    "character": "寸",
+    "keyword": "Measurement",
+    "order": 127,
+    "elements": ["E-074"],
+    "grade": "6",
+    "description": "",
+    "same_element": "E-074",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0128",
+    "character": "村",
+    "keyword": "Village",
+    "order": 128,
+    "elements": ["E-012", "E-074"],
+    "grade": "1",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0129",
+    "character": "守",
+    "keyword": "Protect",
+    "order": 129,
+    "elements": ["E-057", "E-074"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0130",
+    "character": "討",
+    "keyword": "Attack",
+    "order": 130,
+    "elements": ["E-018", "E-074"],
+    "grade": "6",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0131",
+    "character": "身",
+    "keyword": "Body",
+    "order": 131,
+    "elements": ["E-075"],
+    "grade": "3",
+    "description": "",
+    "same_element": "E-075",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0132",
+    "character": "謝",
+    "keyword": "Apologise",
+    "order": 132,
+    "elements": ["E-018", "E-075", "E-074"],
+    "grade": "5",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0133",
+    "character": "寺",
+    "keyword": "Buddhist temple",
+    "order": 133,
+    "elements": ["E-076"],
+    "grade": "2",
+    "description": "",
+    "same_element": "E-076",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0134",
+    "character": "時",
+    "keyword": "Time",
+    "order": 134,
+    "elements": ["E-008", "E-076"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0135",
+    "character": "等",
+    "keyword": "Class",
+    "order": 135,
+    "elements": ["E-045", "E-076"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0136",
+    "character": "詩",
+    "keyword": "Poem",
+    "order": 136,
+    "elements": ["E-018", "E-076"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0137",
+    "character": "使",
+    "keyword": "Use",
+    "order": 137,
+    "elements": ["E-038", "E-077", "E-007"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0138",
+    "character": "史",
+    "keyword": "History",
+    "order": 138,
+    "elements": ["E-077"],
+    "grade": "5",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0139",
+    "character": "書",
+    "keyword": "Write",
+    "order": 139,
+    "elements": ["E-078", "E-008"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0140",
+    "character": "筆",
+    "keyword": "Writing brush",
+    "order": 140,
+    "elements": ["E-045", "E-078"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0141",
+    "character": "刀",
+    "keyword": "Sword",
+    "order": 141,
+    "elements": ["E-079"],
+    "grade": "2",
+    "description": "",
+    "same_element": "E-079",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0142",
+    "character": "昭",
+    "keyword": "Shine",
+    "order": 142,
+    "elements": ["E-008", "E-079", "E-007"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0143",
+    "character": "切",
+    "keyword": "Cut",
+    "order": 143,
+    "elements": ["E-003", "E-079"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0144",
+    "character": "分",
+    "keyword": "Minute, understand",
+    "order": 144,
+    "elements": ["E-080"],
+    "grade": "2",
+    "description": "",
+    "same_element": "E-080",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0145",
+    "character": "里",
+    "keyword": "Hometown",
+    "order": 145,
+    "elements": ["E-081"],
+    "grade": "2",
+    "description": "",
+    "same_element": "E-081",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0146",
+    "character": "黒",
+    "keyword": "Black",
+    "order": 146,
+    "elements": ["E-081", "E-043"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0147",
+    "character": "重",
+    "keyword": "Heavy, gravity, pile",
+    "order": 147,
+    "elements": ["E-082"],
+    "grade": "3",
+    "description": "",
+    "same_element": "E-082",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0148",
+    "character": "動",
+    "keyword": "Move",
+    "order": 148,
+    "elements": ["E-082", "E-017"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0149",
+    "character": "予",
+    "keyword": "Beforehand",
+    "order": 149,
+    "elements": ["E-083"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0150",
+    "character": "野",
+    "keyword": "Field",
+    "order": 150,
+    "elements": ["E-081", "E-083"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0151",
+    "character": "角",
+    "keyword": "Corner, horn",
+    "order": 151,
+    "elements": ["E-084"],
+    "grade": "2",
+    "description": "",
+    "same_element": "E-084",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0152",
+    "character": "解",
+    "keyword": "Untie / solve",
+    "order": 152,
+    "elements": ["E-084", "E-079", "E-049"],
+    "grade": "5",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0153",
+    "character": "列",
+    "keyword": "Row",
+    "order": 153,
+    "elements": ["E-085", "E-079"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0154",
+    "character": "死",
+    "keyword": "Death",
+    "order": 154,
+    "elements": ["E-086"],
+    "grade": "3",
+    "description": "",
+    "same_element": "E-086",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0155",
+    "character": "消",
+    "keyword": "Extinguish",
+    "order": 155,
+    "elements": ["E-039", "E-087"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+{
+    "id": "K-0156",
+    "character": "見",
+    "keyword": "See",
+    "order": 156,
+    "elements": ["E-089"],
+    "grade": "1",
+    "description": "",
+    "same_element": "E-089",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0157",
+    "character": "先",
+    "keyword": "Previous",
+    "order": 157,
+    "elements": ["E-049", "E-088"],
+    "grade": "1",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0158",
+    "character": "光",
+    "keyword": "Light",
+    "order": 158,
+    "elements": ["E-090"],
+    "grade": "2",
+    "description": "",
+    "same_element": "E-090",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0159",
+    "character": "元",
+    "keyword": "Origin",
+    "order": 159,
+    "elements": ["E-091"],
+    "grade": "2",
+    "description": "",
+    "same_element": "E-091",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0160",
+    "character": "兄",
+    "keyword": "Older brother",
+    "order": 160,
+    "elements": ["E-092"],
+    "grade": "2",
+    "description": "",
+    "same_element": "E-092",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0161",
+    "character": "祝",
+    "keyword": "Celebrate",
+    "order": 161,
+    "elements": ["E-048", "E-092"],
+    "grade": "4",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0162",
+    "character": "立",
+    "keyword": "Stand up",
+    "order": 162,
+    "elements": ["E-093"],
+    "grade": "1",
+    "description": "",
+    "same_element": "E-093",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0163",
+    "character": "親",
+    "keyword": "Parent",
+    "order": 163,
+    "elements": ["E-093", "E-012", "E-089"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0164",
+    "character": "童",
+    "keyword": "Juvenile",
+    "order": 164,
+    "elements": ["E-093", "E-081"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0165",
+    "character": "音",
+    "keyword": "Sound",
+    "order": 165,
+    "elements": ["E-094"],
+    "grade": "1",
+    "description": "",
+    "same_element": "E-094",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0166",
+    "character": "章",
+    "keyword": "Chapter",
+    "order": 166,
+    "elements": ["E-094", "E-006"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0167",
+    "character": "意",
+    "keyword": "Idea",
+    "order": 167,
+    "elements": ["E-094", "E-044"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0168",
+    "character": "暗",
+    "keyword": "Dark",
+    "order": 168,
+    "elements": ["E-008", "E-094"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0169",
+    "character": "冬",
+    "keyword": "Winter",
+    "order": 169,
+    "elements": ["E-095", "E-040"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0170",
+    "character": "終",
+    "keyword": "End",
+    "order": 170,
+    "elements": ["E-046", "E-095", "E-040"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0171",
+    "character": "夜",
+    "keyword": "Night",
+    "order": 171,
+    "elements": ["E-036", "E-038", "E-095"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0172",
+    "character": "夏",
+    "keyword": "Summer",
+    "order": 172,
+    "elements": ["E-001", "E-032", "E-095"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0173",
+    "character": "各",
+    "keyword": "Each",
+    "order": 173,
+    "elements": ["E-096"],
+    "grade": "4",
+    "description": "",
+    "same_element": "E-096",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0174",
+    "character": "客",
+    "keyword": "Guest",
+    "order": 174,
+    "elements": ["E-057", "E-096"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0175",
+    "character": "具",
+    "keyword": "Tool",
+    "order": 175,
+    "elements": ["E-015", "E-001", "E-097"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0176",
+    "character": "共",
+    "keyword": "Together",
+    "order": 176,
+    "elements": ["E-098"],
+    "grade": "4",
+    "description": "",
+    "same_element": "E-098",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0177",
+    "character": "真",
+    "keyword": "Truth",
+    "order": 177,
+    "elements": ["E-099"],
+    "grade": "3",
+    "description": "",
+    "same_element": "E-099",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0178",
+    "character": "前",
+    "keyword": "Before",
+    "order": 178,
+    "elements": ["E-100", "E-001", "E-009", "E-079"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0179",
+    "character": "弟",
+    "keyword": "Younger brother",
+    "order": 179,
+    "elements": ["E-100", "E-062", "E-023"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0180",
+    "character": "首",
+    "keyword": "Neck",
+    "order": 180,
+    "elements": ["E-101"],
+    "grade": "2",
+    "description": "",
+    "same_element": "E-101",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0181",
+    "character": "楽",
+    "keyword": "Music, pleasure",
+    "order": 181,
+    "elements": ["E-021", "E-102", "E-012"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0182",
+    "character": "緑",
+    "keyword": "Green",
+    "order": 182,
+    "elements": ["E-046", "E-071", "E-023", "E-102"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0183",
+    "character": "手",
+    "keyword": "Hand",
+    "order": 183,
+    "elements": ["E-103"],
+    "grade": "1",
+    "description": "",
+    "same_element": "E-103",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0184",
+    "character": "打",
+    "keyword": "Hit",
+    "order": 184,
+    "elements": ["E-103", "E-060"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0185",
+    "character": "持",
+    "keyword": "Hold",
+    "order": 185,
+    "elements": ["E-103", "E-076"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0186",
+    "character": "指",
+    "keyword": "Finger, point",
+    "order": 186,
+    "elements": ["E-103", "E-072", "E-008"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0187",
+    "character": "強",
+    "keyword": "Strong",
+    "order": 187,
+    "elements": ["E-062", "E-104", "E-051"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0188",
+    "character": "弱",
+    "keyword": "Weak",
+    "order": 188,
+    "elements": ["E-062", "E-040"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0189",
+    "character": "台",
+    "keyword": "Pedestal",
+    "order": 189,
+    "elements": ["E-105"],
+    "grade": "2",
+    "description": "",
+    "same_element": "E-105",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0190",
+    "character": "公",
+    "keyword": "Public",
+    "order": 190,
+    "elements": ["E-106"],
+    "grade": "2",
+    "description": "",
+    "same_element": "E-106",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0191",
+    "character": "室",
+    "keyword": "Room",
+    "order": 191,
+    "elements": ["E-057", "E-107", "E-059"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0192",
+    "character": "去",
+    "keyword": "Leave",
+    "order": 192,
+    "elements": ["E-059", "E-107"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0193",
+    "character": "育",
+    "keyword": "Raise",
+    "order": 193,
+    "elements": ["E-109", "E-009"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0194",
+    "character": "統",
+    "keyword": "Relationship",
+    "order": 194,
+    "elements": ["E-046", "E-109", "E-088"],
+    "grade": "5",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0195",
+    "character": "算",
+    "keyword": "Calculate",
+    "order": 195,
+    "elements": ["E-045", "E-015", "E-110"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0196",
+    "character": "研",
+    "keyword": "Sharpen",
+    "order": 196,
+    "elements": ["E-014", "E-110"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0197",
+    "character": "鼻",
+    "keyword": "Nose",
+    "order": 197,
+    "elements": ["E-032", "E-011", "E-110"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0198",
+    "character": "有",
+    "keyword": "Possess",
+    "order": 198,
+    "elements": ["E-111", "E-009"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0199",
+    "character": "左",
+    "keyword": "Left",
+    "order": 199,
+    "elements": ["E-111", "E-056"],
+    "grade": "1",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0200",
+    "character": "右",
+    "keyword": "Right",
+    "order": 200,
+    "elements": ["E-111", "E-007"],
+    "grade": "1",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0201",
+    "character": "級",
+    "keyword": "Rank",
+    "order": 201,
+    "elements": ["E-046", "E-112"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0202",
+    "character": "吸",
+    "keyword": "Suck",
+    "order": 202,
+    "elements": ["E-007", "E-112"],
+    "grade": "6",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0203",
+    "character": "足",
+    "keyword": "Foot, suffice",
+    "order": 203,
+    "elements": ["E-113"],
+    "grade": "1",
+    "description": "",
+    "same_element": "E-113",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0204",
+    "character": "路",
+    "keyword": "Path",
+    "order": 204,
+    "elements": ["E-113", "E-096"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0205",
+    "character": "耳",
+    "keyword": "Ear",
+    "order": 205,
+    "elements": ["E-114"],
+    "grade": "1",
+    "description": "",
+    "same_element": "E-114",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0206",
+    "character": "舌",
+    "keyword": "Tongue",
+    "order": 206,
+    "elements": ["E-115"],
+    "grade": "6",
+    "description": "",
+    "same_element": "E-115",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0207",
+    "character": "話",
+    "keyword": "Talk",
+    "order": 207,
+    "elements": ["E-018", "E-115"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0208",
+    "character": "活",
+    "keyword": "Active",
+    "order": 208,
+    "elements": ["E-039", "E-115"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0156",
+    "character": "見",
+    "keyword": "See",
+    "order": 156,
+    "elements": ["E-089"],
+    "grade": "1",
+    "description": "",
+    "same_element": "E-089",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0157",
+    "character": "先",
+    "keyword": "Previous",
+    "order": 157,
+    "elements": ["E-049", "E-088"],
+    "grade": "1",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0158",
+    "character": "光",
+    "keyword": "Light",
+    "order": 158,
+    "elements": ["E-090"],
+    "grade": "2",
+    "description": "",
+    "same_element": "E-090",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0159",
+    "character": "元",
+    "keyword": "Origin",
+    "order": 159,
+    "elements": ["E-091"],
+    "grade": "2",
+    "description": "",
+    "same_element": "E-091",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0160",
+    "character": "兄",
+    "keyword": "Older brother",
+    "order": 160,
+    "elements": ["E-092"],
+    "grade": "2",
+    "description": "",
+    "same_element": "E-092",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0161",
+    "character": "祝",
+    "keyword": "Celebrate",
+    "order": 161,
+    "elements": ["E-048", "E-092"],
+    "grade": "4",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0162",
+    "character": "立",
+    "keyword": "Stand up",
+    "order": 162,
+    "elements": ["E-093"],
+    "grade": "1",
+    "description": "",
+    "same_element": "E-093",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0163",
+    "character": "親",
+    "keyword": "Parent",
+    "order": 163,
+    "elements": ["E-093", "E-012", "E-089"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0164",
+    "character": "童",
+    "keyword": "Juvenile",
+    "order": 164,
+    "elements": ["E-093", "E-081"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0165",
+    "character": "音",
+    "keyword": "Sound",
+    "order": 165,
+    "elements": ["E-094"],
+    "grade": "1",
+    "description": "",
+    "same_element": "E-094",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0166",
+    "character": "章",
+    "keyword": "Chapter",
+    "order": 166,
+    "elements": ["E-094", "E-006"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0167",
+    "character": "意",
+    "keyword": "Idea",
+    "order": 167,
+    "elements": ["E-094", "E-044"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0168",
+    "character": "暗",
+    "keyword": "Dark",
+    "order": 168,
+    "elements": ["E-008", "E-094"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0169",
+    "character": "冬",
+    "keyword": "Winter",
+    "order": 169,
+    "elements": ["E-095", "E-040"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0170",
+    "character": "終",
+    "keyword": "End",
+    "order": 170,
+    "elements": ["E-046", "E-095", "E-040"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0171",
+    "character": "夜",
+    "keyword": "Night",
+    "order": 171,
+    "elements": ["E-036", "E-038", "E-095"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0172",
+    "character": "夏",
+    "keyword": "Summer",
+    "order": 172,
+    "elements": ["E-001", "E-032", "E-095"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0173",
+    "character": "各",
+    "keyword": "Each",
+    "order": 173,
+    "elements": ["E-096"],
+    "grade": "4",
+    "description": "",
+    "same_element": "E-096",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0174",
+    "character": "客",
+    "keyword": "Guest",
+    "order": 174,
+    "elements": ["E-057", "E-096"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0175",
+    "character": "具",
+    "keyword": "Tool",
+    "order": 175,
+    "elements": ["E-015", "E-001", "E-097"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0176",
+    "character": "共",
+    "keyword": "Together",
+    "order": 176,
+    "elements": ["E-098"],
+    "grade": "4",
+    "description": "",
+    "same_element": "E-098",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0177",
+    "character": "真",
+    "keyword": "Truth",
+    "order": 177,
+    "elements": ["E-099"],
+    "grade": "3",
+    "description": "",
+    "same_element": "E-099",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0178",
+    "character": "前",
+    "keyword": "Before",
+    "order": 178,
+    "elements": ["E-100", "E-001", "E-009", "E-079"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0179",
+    "character": "弟",
+    "keyword": "Younger brother",
+    "order": 179,
+    "elements": ["E-100", "E-062", "E-023"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0180",
+    "character": "首",
+    "keyword": "Neck",
+    "order": 180,
+    "elements": ["E-101"],
+    "grade": "2",
+    "description": "",
+    "same_element": "E-101",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0181",
+    "character": "楽",
+    "keyword": "Music, pleasure",
+    "order": 181,
+    "elements": ["E-021", "E-102", "E-012"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0182",
+    "character": "緑",
+    "keyword": "Green",
+    "order": 182,
+    "elements": ["E-046", "E-071", "E-023", "E-102"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0183",
+    "character": "手",
+    "keyword": "Hand",
+    "order": 183,
+    "elements": ["E-103"],
+    "grade": "1",
+    "description": "",
+    "same_element": "E-103",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0184",
+    "character": "打",
+    "keyword": "Hit",
+    "order": 184,
+    "elements": ["E-103", "E-060"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0185",
+    "character": "持",
+    "keyword": "Hold",
+    "order": 185,
+    "elements": ["E-103", "E-076"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0186",
+    "character": "指",
+    "keyword": "Finger, point",
+    "order": 186,
+    "elements": ["E-103", "E-072", "E-008"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0187",
+    "character": "強",
+    "keyword": "Strong",
+    "order": 187,
+    "elements": ["E-062", "E-104", "E-051"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0188",
+    "character": "弱",
+    "keyword": "Weak",
+    "order": 188,
+    "elements": ["E-062", "E-040"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0189",
+    "character": "台",
+    "keyword": "Pedestal",
+    "order": 189,
+    "elements": ["E-105"],
+    "grade": "2",
+    "description": "",
+    "same_element": "E-105",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0190",
+    "character": "公",
+    "keyword": "Public",
+    "order": 190,
+    "elements": ["E-106"],
+    "grade": "2",
+    "description": "",
+    "same_element": "E-106",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0191",
+    "character": "室",
+    "keyword": "Room",
+    "order": 191,
+    "elements": ["E-057", "E-107", "E-059"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0192",
+    "character": "去",
+    "keyword": "Leave",
+    "order": 192,
+    "elements": ["E-059", "E-107"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0193",
+    "character": "育",
+    "keyword": "Raise",
+    "order": 193,
+    "elements": ["E-109", "E-009"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0194",
+    "character": "統",
+    "keyword": "Relationship",
+    "order": 194,
+    "elements": ["E-046", "E-109", "E-088"],
+    "grade": "5",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0195",
+    "character": "算",
+    "keyword": "Calculate",
+    "order": 195,
+    "elements": ["E-045", "E-015", "E-110"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0196",
+    "character": "研",
+    "keyword": "Sharpen",
+    "order": 196,
+    "elements": ["E-014", "E-110"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0197",
+    "character": "鼻",
+    "keyword": "Nose",
+    "order": 197,
+    "elements": ["E-032", "E-011", "E-110"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0198",
+    "character": "有",
+    "keyword": "Possess",
+    "order": 198,
+    "elements": ["E-111", "E-009"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0199",
+    "character": "左",
+    "keyword": "Left",
+    "order": 199,
+    "elements": ["E-111", "E-056"],
+    "grade": "1",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0200",
+    "character": "右",
+    "keyword": "Right",
+    "order": 200,
+    "elements": ["E-111", "E-007"],
+    "grade": "1",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0201",
+    "character": "級",
+    "keyword": "Rank",
+    "order": 201,
+    "elements": ["E-046", "E-112"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0202",
+    "character": "吸",
+    "keyword": "Suck",
+    "order": 202,
+    "elements": ["E-007", "E-112"],
+    "grade": "6",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0203",
+    "character": "足",
+    "keyword": "Foot, suffice",
+    "order": 203,
+    "elements": ["E-113"],
+    "grade": "1",
+    "description": "",
+    "same_element": "E-113",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0204",
+    "character": "路",
+    "keyword": "Path",
+    "order": 204,
+    "elements": ["E-113", "E-096"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0205",
+    "character": "耳",
+    "keyword": "Ear",
+    "order": 205,
+    "elements": ["E-114"],
+    "grade": "1",
+    "description": "",
+    "same_element": "E-114",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0206",
+    "character": "舌",
+    "keyword": "Tongue",
+    "order": 206,
+    "elements": ["E-115"],
+    "grade": "6",
+    "description": "",
+    "same_element": "E-115",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0207",
+    "character": "話",
+    "keyword": "Talk",
+    "order": 207,
+    "elements": ["E-018", "E-115"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0208",
+    "character": "活",
+    "keyword": "Active",
+    "order": 208,
+    "elements": ["E-039", "E-115"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0209",
+    "character": "豆",
+    "keyword": "Bean",
+    "order": 209,
+    "elements": ["E-116"],
+    "grade": "3",
+    "description": "",
+    "same_element": "E-116",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0210",
+    "character": "短",
+    "keyword": "Short",
+    "order": 210,
+    "elements": ["E-063", "E-116"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0211",
+    "character": "発",
+    "keyword": "Departure",
+    "order": 211,
+    "elements": ["E-117", "E-110"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0212",
+    "character": "登",
+    "keyword": "Climb",
+    "order": 212,
+    "elements": ["E-117", "E-116"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0213",
+    "character": "形",
+    "keyword": "Shape",
+    "order": 213,
+    "elements": ["E-110", "E-118"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0214",
+    "character": "原",
+    "keyword": "Meadow, plain",
+    "order": 214,
+    "elements": ["E-119", "E-021", "E-026"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0215",
+    "character": "炭",
+    "keyword": "Charcoal",
+    "order": 215,
+    "elements": ["E-013", "E-119", "E-043"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0216",
+    "character": "反",
+    "keyword": "Anti-",
+    "order": 216,
+    "elements": ["E-119", "E-120"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0217",
+    "character": "坂",
+    "keyword": "Slope",
+    "order": 217,
+    "elements": ["E-059", "E-119", "E-120"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0218",
+    "character": "板",
+    "keyword": "Board",
+    "order": 218,
+    "elements": ["E-012", "E-119", "E-120"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0219",
+    "character": "友",
+    "keyword": "Friend",
+    "order": 219,
+    "elements": ["E-111", "E-120"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0220",
+    "character": "取",
+    "keyword": "Take",
+    "order": 220,
+    "elements": ["E-114", "E-120"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0221",
+    "character": "非",
+    "keyword": "Not",
+    "order": 221,
+    "elements": ["E-121"],
+    "grade": "5",
+    "description": "",
+    "same_element": "E-121",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0222",
+    "character": "悲",
+    "keyword": "Sad",
+    "order": 222,
+    "elements": ["E-121", "E-044"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0223",
+    "character": "士",
+    "keyword": "Gentleman",
+    "order": 223,
+    "elements": ["E-122"],
+    "grade": "5",
+    "description": "",
+    "same_element": "E-122",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0224",
+    "character": "仕",
+    "keyword": "Serve",
+    "order": 224,
+    "elements": ["E-038", "E-122"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0225",
+    "character": "声",
+    "keyword": "Voice",
+    "order": 225,
+    "elements": ["E-122", "E-070"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0226",
+    "character": "女",
+    "keyword": "Female",
+    "order": 226,
+    "elements": ["E-123"],
+    "grade": "1",
+    "description": "",
+    "same_element": "E-123",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0227",
+    "character": "始",
+    "keyword": "Begin",
+    "order": 227,
+    "elements": ["E-123", "E-105"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0228",
+    "character": "安",
+    "keyword": "Cheap, calm",
+    "order": 228,
+    "elements": ["E-057", "E-123"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0229",
+    "character": "子",
+    "keyword": "Child",
+    "order": 229,
+    "elements": ["E-124"],
+    "grade": "1",
+    "description": "",
+    "same_element": "E-124",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0230",
+    "character": "好",
+    "keyword": "Fond",
+    "order": 230,
+    "elements": ["E-123", "E-124"],
+    "grade": "4",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0231",
+    "character": "字",
+    "keyword": "Character",
+    "order": 231,
+    "elements": ["E-057", "E-124"],
+    "grade": "1",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0232",
+    "character": "大",
+    "keyword": "Large",
+    "order": 232,
+    "elements": ["E-125"],
+    "grade": "1",
+    "description": "",
+    "same_element": "E-125",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0233",
+    "character": "犬",
+    "keyword": "Dog",
+    "order": 233,
+    "elements": ["E-126"],
+    "grade": "1",
+    "description": "",
+    "same_element": "E-126",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0234",
+    "character": "定",
+    "keyword": "Determine",
+    "order": 234,
+    "elements": ["E-057", "E-127"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0235",
+    "character": "頭",
+    "keyword": "Head",
+    "order": 235,
+    "elements": ["E-116", "E-128"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0236",
+    "character": "顔",
+    "keyword": "Face",
+    "order": 236,
+    "elements": ["E-093", "E-119", "E-118", "E-128"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0237",
+    "character": "題",
+    "keyword": "Topic",
+    "order": 237,
+    "elements": ["E-008", "E-127", "E-128"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0238",
+    "character": "草",
+    "keyword": "Grass",
+    "order": 238,
+    "elements": ["E-129", "E-008", "E-006"],
+    "grade": "1",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0239",
+    "character": "花",
+    "keyword": "Flower",
+    "order": 239,
+    "elements": ["E-129", "E-038", "E-072"],
+    "grade": "1",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0240",
+    "character": "荷",
+    "keyword": "Luggage",
+    "order": 240,
+    "elements": ["E-129", "E-038", "E-061"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0241",
+    "character": "落",
+    "keyword": "Fall",
+    "order": 241,
+    "elements": ["E-129", "E-039", "E-096"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0242",
+    "character": "苦",
+    "keyword": "Suffer, bitter",
+    "order": 242,
+    "elements": ["E-129", "E-019"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0243",
+    "character": "薬",
+    "keyword": "Medicine",
+    "order": 243,
+    "elements": ["E-129", "E-021", "E-102", "E-012"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0244",
+    "character": "世",
+    "keyword": "Generation",
+    "order": 244,
+    "elements": [],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0245",
+    "character": "葉",
+    "keyword": "Leaf",
+    "order": 245,
+    "elements": ["E-129", "E-012"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0246",
+    "character": "昔",
+    "keyword": "Long ago",
+    "order": 246,
+    "elements": ["E-130"],
+    "grade": "3",
+    "description": "",
+    "same_element": "E-130",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0247",
+    "character": "麦",
+    "keyword": "Wheat",
+    "order": 247,
+    "elements": ["E-131", "E-095"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0248",
+    "character": "青",
+    "keyword": "Blue",
+    "order": 248,
+    "elements": ["E-132"],
+    "grade": "1",
+    "description": "",
+    "same_element": "E-132",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0249",
+    "character": "晴",
+    "keyword": "Clear",
+    "order": 249,
+    "elements": ["E-008", "E-132"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0250",
+    "character": "生",
+    "keyword": "Living, birth, raw",
+    "order": 250,
+    "elements": ["E-133"],
+    "grade": "1",
+    "description": "",
+    "same_element": "E-133",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0251",
+    "character": "星",
+    "keyword": "Star",
+    "order": 251,
+    "elements": ["E-008", "E-133"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0252",
+    "character": "寒",
+    "keyword": "Cold (weather)",
+    "order": 252,
+    "elements": ["E-057", "E-134", "E-040"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0253",
+    "character": "塞",
+    "keyword": "Stuff up",
+    "order": 253,
+    "elements": ["E-057", "E-134", "E-059"],
+    "grade": "S",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0254",
+    "character": "実",
+    "keyword": "Fruit, realization",
+    "order": 254,
+    "elements": ["E-057", "E-135"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0255",
+    "character": "春",
+    "keyword": "Spring",
+    "order": 255,
+    "elements": ["E-135", "E-008"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0256",
+    "character": "秋",
+    "keyword": "Autumn",
+    "order": 256,
+    "elements": ["E-136", "E-043"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0257",
+    "character": "和",
+    "keyword": "Harmony, Japanese",
+    "order": 257,
+    "elements": ["E-136", "E-007"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0258",
+    "character": "秒",
+    "keyword": "Second",
+    "order": 258,
+    "elements": ["E-136", "E-027"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0259",
+    "character": "委",
+    "keyword": "Committee",
+    "order": 259,
+    "elements": ["E-136", "E-123"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0260",
+    "character": "科",
+    "keyword": "Section, grade",
+    "order": 260,
+    "elements": ["E-136", "E-137"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0261",
+    "character": "由",
+    "keyword": "Reason",
+    "order": 261,
+    "elements": ["E-138"],
+    "grade": "3",
+    "description": "",
+    "same_element": "E-138",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0262",
+    "character": "油",
+    "keyword": "Oil",
+    "order": 262,
+    "elements": ["E-039", "E-138"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0263",
+    "character": "笛",
+    "keyword": "Flute",
+    "order": 263,
+    "elements": ["E-045", "E-138"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0264",
+    "character": "申",
+    "keyword": "Say",
+    "order": 264,
+    "elements": ["E-139"],
+    "grade": "3",
+    "description": "",
+    "same_element": "E-139",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0265",
+    "character": "神",
+    "keyword": "Deity",
+    "order": 265,
+    "elements": ["E-048", "E-139"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0266",
+    "character": "米",
+    "keyword": "Rice",
+    "order": 266,
+    "elements": ["E-140"],
+    "grade": "2",
+    "description": "",
+    "same_element": "E-140",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0267",
+    "character": "林",
+    "keyword": "Woods",
+    "order": 267,
+    "elements": ["E-012"],
+    "grade": "1",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0268",
+    "character": "森",
+    "keyword": "Forest",
+    "order": 268,
+    "elements": ["E-012"],
+    "grade": "1",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0269",
+    "character": "未",
+    "keyword": "Not yet",
+    "order": 269,
+    "elements": ["E-141"],
+    "grade": "4",
+    "description": "",
+    "same_element": "E-141",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0270",
+    "character": "味",
+    "keyword": "Flavor",
+    "order": 270,
+    "elements": ["E-007", "E-141"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0271",
+    "character": "妹",
+    "keyword": "Younger sister",
+    "order": 271,
+    "elements": ["E-123", "E-141"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0272",
+    "character": "来",
+    "keyword": "Come",
+    "order": 272,
+    "elements": ["E-141"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0273",
+    "character": "画",
+    "keyword": "Brush stroke",
+    "order": 273,
+    "elements": ["E-001", "E-011", "E-142"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0274",
+    "character": "歯",
+    "keyword": "Tooth",
+    "order": 274,
+    "elements": ["E-029", "E-140", "E-142"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0275",
+    "character": "君",
+    "keyword": "You, monarch",
+    "order": 275,
+    "elements": ["E-143", "E-007"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0276",
+    "character": "事",
+    "keyword": "Intangible thing",
+    "order": 276,
+    "elements": ["E-001", "E-007", "E-143"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0277",
+    "character": "半",
+    "keyword": "Half",
+    "order": 277,
+    "elements": ["E-144"],
+    "grade": "2",
+    "description": "",
+    "same_element": "E-144",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0278",
+    "character": "勝",
+    "keyword": "Win",
+    "order": 278,
+    "elements": ["E-009", "E-144", "E-017"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0279",
+    "character": "東",
+    "keyword": "East",
+    "order": 279,
+    "elements": ["E-145"],
+    "grade": "2",
+    "description": "",
+    "same_element": "E-145",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0280",
+    "character": "練",
+    "keyword": "Practice",
+    "order": 280,
+    "elements": ["E-046", "E-145"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0281",
+    "character": "垂",
+    "keyword": "Droop",
+    "order": 281,
+    "elements": ["E-146"],
+    "grade": "6",
+    "description": "",
+    "same_element": "E-146",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0282",
+    "character": "乗",
+    "keyword": "Ride",
+    "order": 282,
+    "elements": ["E-146", "E-012"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0283",
+    "character": "失",
+    "keyword": "Lose",
+    "order": 283,
+    "elements": ["E-147"],
+    "grade": "6",
+    "description": "",
+    "same_element": "E-147",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0284",
+    "character": "赤",
+    "keyword": "Red",
+    "order": 284,
+    "elements": ["E-148"],
+    "grade": "1",
+    "description": "",
+    "same_element": "E-148",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0285",
+    "character": "黄",
+    "keyword": "Yellow",
+    "order": 285,
+    "elements": [],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0286",
+    "character": "横",
+    "keyword": "Horizontal",
+    "order": 286,
+    "elements": ["E-012"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0287",
+    "character": "羽",
+    "keyword": "Feather",
+    "order": 287,
+    "elements": ["E-149"],
+    "grade": "2",
+    "description": "",
+    "same_element": "E-149",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0288",
+    "character": "習",
+    "keyword": "Learn",
+    "order": 288,
+    "elements": ["E-149", "E-021"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0289",
+    "character": "集",
+    "keyword": "Gather",
+    "order": 289,
+    "elements": ["E-150", "E-012"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0290",
+    "character": "曜",
+    "keyword": "Day of the week",
+    "order": 290,
+    "elements": ["E-008", "E-149", "E-150"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0291",
+    "character": "昼",
+    "keyword": "Daytime",
+    "order": 291,
+    "elements": ["E-151", "E-008", "E-001"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0292",
+    "character": "馬",
+    "keyword": "Horse",
+    "order": 292,
+    "elements": ["E-152"],
+    "grade": "2",
+    "description": "",
+    "same_element": "E-152",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0293",
+    "character": "駅",
+    "keyword": "Station",
+    "order": 293,
+    "elements": ["E-152", "E-151"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0294",
+    "character": "釈",
+    "keyword": "Interpret",
+    "order": 294,
+    "elements": ["E-153", "E-151"],
+    "grade": "S",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0295",
+    "character": "番",
+    "keyword": "Number",
+    "order": 295,
+    "elements": ["E-153", "E-011"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0296",
+    "character": "翻",
+    "keyword": "Flip",
+    "order": 296,
+    "elements": ["E-153", "E-011", "E-149"],
+    "grade": "S",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0297",
+    "character": "鳥",
+    "keyword": "Bird",
+    "order": 297,
+    "elements": ["E-154"],
+    "grade": "2",
+    "description": "",
+    "same_element": "E-154",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0298",
+    "character": "鳴",
+    "keyword": "Chirp",
+    "order": 298,
+    "elements": ["E-007", "E-154"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0299",
+    "character": "島",
+    "keyword": "Island",
+    "order": 299,
+    "elements": ["E-154"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0300",
+    "character": "魚",
+    "keyword": "Fish",
+    "order": 300,
+    "elements": ["E-155"],
+    "grade": "2",
+    "description": "",
+    "same_element": "E-155",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0301",
+    "character": "家",
+    "keyword": "House",
+    "order": 301,
+    "elements": ["E-057", "E-156"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0302",
+    "character": "豚",
+    "keyword": "Pig",
+    "order": 302,
+    "elements": ["E-009", "E-156"],
+    "grade": "S",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0303",
+    "character": "場",
+    "keyword": "Place",
+    "order": 303,
+    "elements": ["E-059", "E-157"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0304",
+    "character": "湯",
+    "keyword": "Hot water",
+    "order": 304,
+    "elements": ["E-039", "E-157"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0305",
+    "character": "地",
+    "keyword": "Ground",
+    "order": 305,
+    "elements": ["E-059", "E-158"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0306",
+    "character": "池",
+    "keyword": "Pond",
+    "order": 306,
+    "elements": ["E-039", "E-158"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0307",
+    "character": "他",
+    "keyword": "Other",
+    "order": 307,
+    "elements": ["E-038", "E-158"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0308",
+    "character": "港",
+    "keyword": "Harbor",
+    "order": 308,
+    "elements": ["E-039", "E-159"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0309",
+    "character": "記",
+    "keyword": "Record",
+    "order": 309,
+    "elements": ["E-159"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0310",
+    "character": "羊",
+    "keyword": "Sheep",
+    "order": 310,
+    "elements": ["E-160"],
+    "grade": "3",
+    "description": "",
+    "same_element": "E-160",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0311",
+    "character": "美",
+    "keyword": "Beauty",
+    "order": 311,
+    "elements": ["E-160", "E-125"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0312",
+    "character": "群",
+    "keyword": "Group",
+    "order": 312,
+    "elements": ["E-143", "E-007", "E-160"],
+    "grade": "5",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0313",
+    "character": "様",
+    "keyword": "Appearance",
+    "order": 313,
+    "elements": ["E-012", "E-160", "E-102"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0314",
+    "character": "洋",
+    "keyword": "Ocean",
+    "order": 314,
+    "elements": ["E-039", "E-160"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0315",
+    "character": "着",
+    "keyword": "Wear, arrive",
+    "order": 315,
+    "elements": ["E-160"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0316",
+    "character": "晩",
+    "keyword": "Evening",
+    "order": 316,
+    "elements": ["E-008", "E-161"],
+    "grade": "6",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0317",
+    "character": "勉",
+    "keyword": "Diligence",
+    "order": 317,
+    "elements": ["E-161", "E-017"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0318",
+    "character": "皮",
+    "keyword": "Skin",
+    "order": 318,
+    "elements": ["E-162"],
+    "grade": "3",
+    "description": "",
+    "same_element": "E-162",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0319",
+    "character": "波",
+    "keyword": "Wave",
+    "order": 319,
+    "elements": ["E-039", "E-162"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0320",
+    "character": "漢",
+    "keyword": "Chinese",
+    "order": 320,
+    "elements": ["E-039", "E-163"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0321",
+    "character": "難",
+    "keyword": "Difficult",
+    "order": 321,
+    "elements": ["E-163", "E-150"],
+    "grade": "6",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0322",
+    "character": "受",
+    "keyword": "Receive",
+    "order": 322,
+    "elements": ["E-164", "E-120"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0323",
+    "character": "愛",
+    "keyword": "Love",
+    "order": 323,
+    "elements": ["E-164", "E-095"],
+    "grade": "4",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0324",
+    "character": "者",
+    "keyword": "Someone",
+    "order": 324,
+    "elements": ["E-165"],
+    "grade": "3",
+    "description": "",
+    "same_element": "E-165",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0325",
+    "character": "暑",
+    "keyword": "Hot",
+    "order": 325,
+    "elements": ["E-008", "E-165"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0326",
+    "character": "数",
+    "keyword": "Number, count",
+    "order": 326,
+    "elements": ["E-140", "E-123", "E-166"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0327",
+    "character": "教",
+    "keyword": "Teach",
+    "order": 327,
+    "elements": ["E-165", "E-124", "E-166"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0328",
+    "character": "求",
+    "keyword": "Request",
+    "order": 328,
+    "elements": ["E-167"],
+    "grade": "4",
+    "description": "",
+    "same_element": "E-167",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0329",
+    "character": "救",
+    "keyword": "Rescue",
+    "order": 329,
+    "elements": ["E-167", "E-166"],
+    "grade": "5",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0330",
+    "character": "任",
+    "keyword": "Duty",
+    "order": 330,
+    "elements": ["E-038", "E-168"],
+    "grade": "5",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0331",
+    "character": "才",
+    "keyword": "Age, ability",
+    "order": 331,
+    "elements": ["E-169"],
+    "grade": "2",
+    "description": "",
+    "same_element": "E-169",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0332",
+    "character": "氏",
+    "keyword": "Family name",
+    "order": 332,
+    "elements": ["E-170"],
+    "grade": "4",
+    "description": "",
+    "same_element": "E-170",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0333",
+    "character": "紙",
+    "keyword": "Paper",
+    "order": 333,
+    "elements": ["E-046", "E-170"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0334",
+    "character": "深",
+    "keyword": "Deep",
+    "order": 334,
+    "elements": ["E-039", "E-171", "E-012"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0335",
+    "character": "売",
+    "keyword": "Sell",
+    "order": 335,
+    "elements": ["E-122", "E-171"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0336",
+    "character": "読",
+    "keyword": "Read",
+    "order": 336,
+    "elements": ["E-171", "E-122"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0337",
+    "character": "王",
+    "keyword": "King",
+    "order": 337,
+    "elements": ["E-172"],
+    "grade": "1",
+    "description": "",
+    "same_element": "E-172",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0338",
+    "character": "玉",
+    "keyword": "Jewel, ball",
+    "order": 338,
+    "elements": ["E-172"],
+    "grade": "1",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0339",
+    "character": "理",
+    "keyword": "Reason",
+    "order": 339,
+    "elements": ["E-172"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0340",
+    "character": "主",
+    "keyword": "Master, main",
+    "order": 340,
+    "elements": ["E-173"],
+    "grade": "3",
+    "description": "",
+    "same_element": "E-173",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0341",
+    "character": "住",
+    "keyword": "Dwell",
+    "order": 341,
+    "elements": ["E-038", "E-173"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0342",
+    "character": "柱",
+    "keyword": "Pillar",
+    "order": 342,
+    "elements": ["E-012", "E-173"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0343",
+    "character": "球",
+    "keyword": "Sphere",
+    "order": 343,
+    "elements": ["E-172", "E-167"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0344",
+    "character": "注",
+    "keyword": "Pour",
+    "order": 344,
+    "elements": ["E-039", "E-173"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0345",
+    "character": "院",
+    "keyword": "Institution",
+    "order": 345,
+    "elements": ["E-174", "E-057"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0346",
+    "character": "階",
+    "keyword": "Storey",
+    "order": 346,
+    "elements": ["E-174", "E-072", "E-021"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0347",
+    "character": "陽",
+    "keyword": "Sun",
+    "order": 347,
+    "elements": ["E-174", "E-157"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0348",
+    "character": "天",
+    "keyword": "Heaven, sky",
+    "order": 348,
+    "elements": ["E-175"],
+    "grade": "1",
+    "description": "",
+    "same_element": "E-175",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0349",
+    "character": "国",
+    "keyword": "Country",
+    "order": 349,
+    "elements": ["E-176", "E-172"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0350",
+    "character": "回",
+    "keyword": "Number of times, revolve",
+    "order": 350,
+    "elements": ["E-176", "E-007"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0351",
+    "character": "図",
+    "keyword": "Drawing",
+    "order": 351,
+    "elements": ["E-176", "E-137"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0352",
+    "character": "広",
+    "keyword": "Wide",
+    "order": 352,
+    "elements": ["E-177"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0353",
+    "character": "店",
+    "keyword": "Store",
+    "order": 353,
+    "elements": ["E-177", "E-007"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0354",
+    "character": "度",
+    "keyword": "Degrees",
+    "order": 354,
+    "elements": ["E-178", "E-120"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0355",
+    "character": "車",
+    "keyword": "Vehicle",
+    "order": 355,
+    "elements": ["E-179"],
+    "grade": "1",
+    "description": "",
+    "same_element": "E-179",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0356",
+    "character": "庫",
+    "keyword": "Warehouse",
+    "order": 356,
+    "elements": ["E-177", "E-179"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0357",
+    "character": "軽",
+    "keyword": "Lightweight",
+    "order": 357,
+    "elements": ["E-179", "E-180"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0358",
+    "character": "経",
+    "keyword": "Pass through",
+    "order": 358,
+    "elements": ["E-046", "E-180"],
+    "grade": "5",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0359",
+    "character": "入",
+    "keyword": "Enter",
+    "order": 359,
+    "elements": ["E-181"],
+    "grade": "1",
+    "description": "",
+    "same_element": "E-181",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0360",
+    "character": "出",
+    "keyword": "Exit",
+    "order": 360,
+    "elements": ["E-182"],
+    "grade": "1",
+    "description": "",
+    "same_element": "E-182",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0361",
+    "character": "門",
+    "keyword": "Gates",
+    "order": 361,
+    "elements": ["E-183"],
+    "grade": "2",
+    "description": "",
+    "same_element": "E-183",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0362",
+    "character": "問",
+    "keyword": "Question",
+    "order": 362,
+    "elements": ["E-183", "E-007"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0363",
+    "character": "間",
+    "keyword": "Interval",
+    "order": 363,
+    "elements": ["E-183", "E-008"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0364",
+    "character": "聞",
+    "keyword": "Hear, listen, ask",
+    "order": 364,
+    "elements": ["E-183", "E-114"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0365",
+    "character": "開",
+    "keyword": "Open",
+    "order": 365,
+    "elements": ["E-183", "E-110"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0366",
+    "character": "閉",
+    "keyword": "Close",
+    "order": 366,
+    "elements": ["E-183", "E-169"],
+    "grade": "6",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0367",
+    "character": "関",
+    "keyword": "Connection",
+    "order": 367,
+    "elements": ["E-183", "E-184"],
+    "grade": "4",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0368",
+    "character": "込",
+    "keyword": "Crowded",
+    "order": 368,
+    "elements": ["E-185", "E-181"],
+    "grade": "S",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0369",
+    "character": "道",
+    "keyword": "Road",
+    "order": 369,
+    "elements": ["E-236", "E-185"],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0370",
+    "character": "送",
+    "keyword": "Send",
+    "order": 370,
+    "elements": ["E-184", "E-185"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0371",
+    "character": "返",
+    "keyword": "Return",
+    "order": 371,
+    "elements": ["E-119", "E-120", "E-185"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0372",
+    "character": "進",
+    "keyword": "Progress",
+    "order": 372,
+    "elements": ["E-150", "E-185"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0373",
+    "character": "運",
+    "keyword": "Carry",
+    "order": 373,
+    "elements": ["E-171", "E-179", "E-185"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0374",
+    "character": "選",
+    "keyword": "Choose",
+    "order": 374,
+    "elements": ["E-159", "E-185"],
+    "grade": "4",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0375",
+    "character": "整",
+    "keyword": "Organize",
+    "order": 375,
+    "elements": ["E-186", "E-166"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0376",
+    "character": "速",
+    "keyword": "Fast",
+    "order": 376,
+    "elements": ["E-186", "E-185"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0377",
+    "character": "建",
+    "keyword": "Build",
+    "order": 377,
+    "elements": ["E-187"],
+    "grade": "4",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0378",
+    "character": "庭",
+    "keyword": "Yard",
+    "order": 378,
+    "elements": ["E-177", "E-187", "E-168"],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0379",
+    "character": "万",
+    "keyword": "Ten thousand",
+    "order": 379,
+    "elements": [
+      "E-188"
+    ],
+    "grade": "2",
+    "description": "",
+    "same_element": "E-188",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0380",
+    "character": "方",
+    "keyword": "Direction",
+    "order": 380,
+    "elements": [
+      "E-188"
+    ],
+    "grade": "2",
+    "description": "",
+    "same_element": "E-188",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0381",
+    "character": "放",
+    "keyword": "Release",
+    "order": 381,
+    "elements": [
+      "E-188",
+      "E-166"
+    ],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0382",
+    "character": "族",
+    "keyword": "Tribe",
+    "order": 382,
+    "elements": [
+      "E-189",
+      "E-063"
+    ],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0383",
+    "character": "旅",
+    "keyword": "Trip",
+    "order": 383,
+    "elements": [
+      "E-189",
+      "E-190"
+    ],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0384",
+    "character": "遊",
+    "keyword": "Play",
+    "order": 384,
+    "elements": [
+      "E-189",
+      "E-124",
+      "E-185"
+    ],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0385",
+    "character": "旗",
+    "keyword": "Flag",
+    "order": 385,
+    "elements": [
+      "E-189",
+      "E-191"
+    ],
+    "grade": "4",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0386",
+    "character": "期",
+    "keyword": "Period of time",
+    "order": 386,
+    "elements": [
+      "E-191",
+      "E-009"
+    ],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0387",
+    "character": "同",
+    "keyword": "Same",
+    "order": 387,
+    "elements": [
+      "E-192",
+      "E-001",
+      "E-007"
+    ],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0388",
+    "character": "高",
+    "keyword": "High",
+    "order": 388,
+    "elements": [
+      "E-193"
+    ],
+    "grade": "2",
+    "description": "",
+    "same_element": "E-193",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0389",
+    "character": "両",
+    "keyword": "Both",
+    "order": 389,
+    "elements": [
+      "E-001",
+      "E-192"
+    ],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0390",
+    "character": "向",
+    "keyword": "Face",
+    "order": 390,
+    "elements": [
+      "E-192",
+      "E-007"
+    ],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0391",
+    "character": "内",
+    "keyword": "Inside",
+    "order": 391,
+    "elements": [
+      "E-194"
+    ],
+    "grade": "2",
+    "description": "",
+    "same_element": "E-194",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0392",
+    "character": "肉",
+    "keyword": "Meat",
+    "order": 392,
+    "elements": [
+      "E-195"
+    ],
+    "grade": "2",
+    "description": "",
+    "same_element": "E-195",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0393",
+    "character": "商",
+    "keyword": "Commerce",
+    "order": 393,
+    "elements": [
+      "E-196"
+    ],
+    "grade": "3",
+    "description": "",
+    "same_element": "E-196",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0394",
+    "character": "倍",
+    "keyword": "Double",
+    "order": 394,
+    "elements": [
+      "E-038",
+      "E-197"
+    ],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0395",
+    "character": "屋",
+    "keyword": "Roof",
+    "order": 395,
+    "elements": [
+      "E-198",
+      "E-059"
+    ],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0396",
+    "character": "近",
+    "keyword": "Near",
+    "order": 396,
+    "elements": [
+      "E-199",
+      "E-185"
+    ],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0397",
+    "character": "新",
+    "keyword": "New",
+    "order": 397,
+    "elements": [
+      "E-012",
+      "E-199"
+    ],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0398",
+    "character": "戸",
+    "keyword": "Door",
+    "order": 398,
+    "elements": [
+      "E-200"
+    ],
+    "grade": "2",
+    "description": "",
+    "same_element": "E-200",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0399",
+    "character": "所",
+    "keyword": "Place",
+    "order": 399,
+    "elements": [
+      "E-200",
+      "E-199"
+    ],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0400",
+    "character": "司",
+    "keyword": "Director",
+    "order": 400,
+    "elements": [
+      "E-201",
+      "E-001",
+      "E-007"
+    ],
+    "grade": "4",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0401",
+    "character": "局",
+    "keyword": "Office",
+    "order": 401,
+    "elements": [
+      "E-198",
+      "E-201",
+      "E-007"
+    ],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0402",
+    "character": "干",
+    "keyword": "Dry",
+    "order": 402,
+    "elements": [
+      "E-202"
+    ],
+    "grade": "6",
+    "description": "",
+    "same_element": "E-202",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0403",
+    "character": "岸",
+    "keyword": "Shore",
+    "order": 403,
+    "elements": [
+      "E-119",
+      "E-202"
+    ],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0404",
+    "character": "席",
+    "keyword": "Seat",
+    "order": 404,
+    "elements": [
+      "E-178",
+      "E-203"
+    ],
+    "grade": "4",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0405",
+    "character": "帰",
+    "keyword": "Return",
+    "order": 405,
+    "elements": [
+      "E-204",
+      "E-171",
+      "E-203"
+    ],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0406",
+    "character": "班",
+    "keyword": "Group / squad",
+    "order": 406,
+    "elements": [
+      "E-172",
+      "E-204"
+    ],
+    "grade": "6",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0407",
+    "character": "表",
+    "keyword": "Express",
+    "order": 407,
+    "elements": [
+      "E-131",
+      "E-205"
+    ],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0408",
+    "character": "長",
+    "keyword": "Long, leader",
+    "order": 408,
+    "elements": [
+      "E-206"
+    ],
+    "grade": "2",
+    "description": "",
+    "same_element": "E-206",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0409",
+    "character": "帳",
+    "keyword": "Notebook",
+    "order": 409,
+    "elements": [
+      "E-203",
+      "E-206"
+    ],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0410",
+    "character": "写",
+    "keyword": "Copy",
+    "order": 410,
+    "elements": [
+      "E-171",
+      "E-207",
+      "E-001"
+    ],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0411",
+    "character": "号",
+    "keyword": "Number",
+    "order": 411,
+    "elements": [
+      "E-007",
+      "E-207"
+    ],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0412",
+    "character": "考",
+    "keyword": "Consider",
+    "order": 412,
+    "elements": [
+      "E-165",
+      "E-207"
+    ],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0413",
+    "character": "買",
+    "keyword": "Buy",
+    "order": 413,
+    "elements": [
+      "E-208"
+    ],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0414",
+    "character": "夢",
+    "keyword": "Dream",
+    "order": 414,
+    "elements": [
+      "E-129",
+      "E-208",
+      "E-171"
+    ],
+    "grade": "5",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0415",
+    "character": "遠",
+    "keyword": "Far",
+    "order": 415,
+    "elements": [
+      "E-209",
+      "E-185"
+    ],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0416",
+    "character": "園",
+    "keyword": "Garden",
+    "order": 416,
+    "elements": [
+      "E-176",
+      "E-209"
+    ],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0417",
+    "character": "転",
+    "keyword": "To shift, fall down",
+    "order": 417,
+    "elements": [
+      "E-179",
+      "E-210"
+    ],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0418",
+    "character": "雨",
+    "keyword": "Rain",
+    "order": 418,
+    "elements": [
+      "E-211"
+    ],
+    "grade": "1",
+    "description": "",
+    "same_element": "E-211",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0419",
+    "character": "雲",
+    "keyword": "Cloud",
+    "order": 419,
+    "elements": [
+      "E-211",
+      "E-210"
+    ],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0420",
+    "character": "雪",
+    "keyword": "Snow",
+    "order": 420,
+    "elements": [
+      "E-211"
+    ],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0421",
+    "character": "電",
+    "keyword": "Electricity",
+    "order": 421,
+    "elements": [
+      "E-211",
+      "E-011"
+    ],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0422",
+    "character": "雰",
+    "keyword": "Atmosphere",
+    "order": 422,
+    "elements": [
+      "E-211"
+    ],
+    "grade": "S",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0423",
+    "character": "震",
+    "keyword": "Earthquake",
+    "order": 423,
+    "elements": [
+      "E-211",
+      "E-212"
+    ],
+    "grade": "S",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0424",
+    "character": "茶",
+    "keyword": "Tea",
+    "order": 424,
+    "elements": [
+      "E-129",
+      "E-213",
+      "E-012"
+    ],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0425",
+    "character": "会",
+    "keyword": "Meet",
+    "order": 425,
+    "elements": [
+      "E-213",
+      "E-210"
+    ],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0426",
+    "character": "絵",
+    "keyword": "Picture",
+    "order": 426,
+    "elements": [
+      "E-213",
+      "E-210"
+    ],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0427",
+    "character": "合",
+    "keyword": "Fit",
+    "order": 427,
+    "elements": [
+      "E-214"
+    ],
+    "grade": "2",
+    "description": "",
+    "same_element": "E-214",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0428",
+    "character": "拾",
+    "keyword": "Pick up",
+    "order": 428,
+    "elements": [
+      "E-110",
+      "E-214"
+    ],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0429",
+    "character": "答",
+    "keyword": "Answer",
+    "order": 429,
+    "elements": [
+      "E-045",
+      "E-214"
+    ],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0430",
+    "character": "今",
+    "keyword": "Now",
+    "order": 430,
+    "elements": [
+      "E-215"
+    ],
+    "grade": "2",
+    "description": "",
+    "same_element": "E-215",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0431",
+    "character": "全",
+    "keyword": "Whole",
+    "order": 431,
+    "elements": [
+      "E-213",
+      "E-172"
+    ],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0432",
+    "character": "金",
+    "keyword": "Gold, money",
+    "order": 432,
+    "elements": [
+      "E-216"
+    ],
+    "grade": "1",
+    "description": "",
+    "same_element": "E-216",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0433",
+    "character": "鉄",
+    "keyword": "Iron",
+    "order": 433,
+    "elements": [
+      "E-216",
+      "E-147"
+    ],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0434",
+    "character": "銀",
+    "keyword": "Silver",
+    "order": 434,
+    "elements": [
+      "E-216",
+      "E-217"
+    ],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0435",
+    "character": "根",
+    "keyword": "Root",
+    "order": 435,
+    "elements": [
+      "E-012",
+      "E-217"
+    ],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0436",
+    "character": "食",
+    "keyword": "Eat",
+    "order": 436,
+    "elements": [
+      "E-218"
+    ],
+    "grade": "2",
+    "description": "",
+    "same_element": "E-218",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0437",
+    "character": "曲",
+    "keyword": "Melody, curve",
+    "order": 437,
+    "elements": [
+      "E-219"
+    ],
+    "grade": "3",
+    "description": "",
+    "same_element": "E-219",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0438",
+    "character": "農",
+    "keyword": "Agriculture",
+    "order": 438,
+    "elements": [
+      "E-219",
+      "E-212"
+    ],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0439",
+    "character": "週",
+    "keyword": "Week",
+    "order": 439,
+    "elements": [
+      "E-220",
+      "E-185"
+    ],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0440",
+    "character": "調",
+    "keyword": "Tone, find",
+    "order": 440,
+    "elements": [
+      "E-220"
+    ],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0441",
+    "character": "用",
+    "keyword": "Use",
+    "order": 441,
+    "elements": [
+      "E-221"
+    ],
+    "grade": "2",
+    "description": "",
+    "same_element": "E-221",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0442",
+    "character": "通",
+    "keyword": "Pass through, commute",
+    "order": 442,
+    "elements": [
+      "E-222",
+      "E-221",
+      "E-185"
+    ],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0443",
+    "character": "痛",
+    "keyword": "Pain",
+    "order": 443,
+    "elements": [
+      "E-223",
+      "E-222",
+      "E-221"
+    ],
+    "grade": "6",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0444",
+    "character": "病",
+    "keyword": "Sick",
+    "order": 444,
+    "elements": [
+      "E-223",
+      "E-001",
+      "E-194"
+    ],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0445",
+    "character": "次",
+    "keyword": "Next",
+    "order": 445,
+    "elements": [
+      "E-040",
+      "E-224"
+    ],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0446",
+    "character": "歌",
+    "keyword": "Song",
+    "order": 446,
+    "elements": [
+      "E-224"
+    ],
+    "grade": "2",
+    "description": "",
+    "same_element": "E-224",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0447",
+    "character": "飲",
+    "keyword": "Drink",
+    "order": 447,
+    "elements": [
+      "E-218",
+      "E-224"
+    ],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0448",
+    "character": "追",
+    "keyword": "Follow",
+    "order": 448,
+    "elements": [
+      "E-225",
+      "E-185"
+    ],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0449",
+    "character": "館",
+    "keyword": "Public building",
+    "order": 449,
+    "elements": [
+      "E-218",
+      "E-057",
+      "E-225"
+    ],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0450",
+    "character": "谷",
+    "keyword": "Valley",
+    "order": 450,
+    "elements": [
+      "E-226"
+    ],
+    "grade": "2",
+    "description": "",
+    "same_element": "E-226",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0451",
+    "character": "容",
+    "keyword": "Contain",
+    "order": 451,
+    "elements": [
+      "E-057",
+      "E-226"
+    ],
+    "grade": "5",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0452",
+    "character": "浴",
+    "keyword": "Bathe",
+    "order": 452,
+    "elements": [
+      "E-039",
+      "E-226"
+    ],
+    "grade": "4",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0453",
+    "character": "溶",
+    "keyword": "Melt",
+    "order": 453,
+    "elements": [
+      "E-039",
+      "E-057",
+      "E-226"
+    ],
+    "grade": "S",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0454",
+    "character": "川",
+    "keyword": "River",
+    "order": 454,
+    "elements": [
+      "E-227"
+    ],
+    "grade": "1",
+    "description": "",
+    "same_element": "E-227",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0455",
+    "character": "州",
+    "keyword": "State, province",
+    "order": 455,
+    "elements": [
+      "E-227"
+    ],
+    "grade": "3",
+    "description": "",
+    "same_element": "E-227",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0456",
+    "character": "流",
+    "keyword": "Stream",
+    "order": 456,
+    "elements": [
+      "E-039",
+      "E-227"
+    ],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0457",
+    "character": "橋",
+    "keyword": "Bridge",
+    "order": 457,
+    "elements": [
+      "E-012",
+      "E-228"
+    ],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0458",
+    "character": "酒",
+    "keyword": "Liquor",
+    "order": 458,
+    "elements": [
+      "E-039",
+      "E-229"
+    ],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0459",
+    "character": "配",
+    "keyword": "Distribute",
+    "order": 459,
+    "elements": [
+      "E-229",
+      "E-159"
+    ],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0460",
+    "character": "平",
+    "keyword": "Flat",
+    "order": 460,
+    "elements": [
+      "E-230"
+    ],
+    "grade": "3",
+    "description": "",
+    "same_element": "E-230",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0461",
+    "character": "評",
+    "keyword": "Evaluate",
+    "order": 461,
+    "elements": [
+      "E-230"
+    ],
+    "grade": "5",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0462",
+    "character": "朝",
+    "keyword": "Morning",
+    "order": 462,
+    "elements": [
+      "E-231",
+      "E-009"
+    ],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0463",
+    "character": "幹",
+    "keyword": "Trunk",
+    "order": 463,
+    "elements": [
+      "E-231",
+      "E-202",
+      "E-213"
+    ],
+    "grade": "5",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0464",
+    "character": "京",
+    "keyword": "Capital",
+    "order": 464,
+    "elements": [
+      "E-232"
+    ],
+    "grade": "2",
+    "description": "",
+    "same_element": "E-232",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0465",
+    "character": "景",
+    "keyword": "Scenery",
+    "order": 465,
+    "elements": [
+      "E-008",
+      "E-232"
+    ],
+    "grade": "4",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0466",
+    "character": "市",
+    "keyword": "City",
+    "order": 466,
+    "elements": [
+      "E-233"
+    ],
+    "grade": "2",
+    "description": "",
+    "same_element": "E-233",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0467",
+    "character": "姉",
+    "keyword": "Older sister",
+    "order": 467,
+    "elements": [
+      "E-123",
+      "E-233"
+    ],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0468",
+    "character": "学",
+    "keyword": "Study",
+    "order": 468,
+    "elements": [
+      "E-234",
+      "E-124"
+    ],
+    "grade": "1",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0469",
+    "character": "営",
+    "keyword": "Operate",
+    "order": 469,
+    "elements": [
+      "E-234"
+    ],
+    "grade": "5",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0470",
+    "character": "宮",
+    "keyword": "Shinto shrine, prince",
+    "order": 470,
+    "elements": [
+      "E-057"
+    ],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0471",
+    "character": "央",
+    "keyword": "Center",
+    "order": 471,
+    "elements": [
+      "E-235"
+    ],
+    "grade": "3",
+    "description": "",
+    "same_element": "E-235",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0472",
+    "character": "行",
+    "keyword": "Go",
+    "order": 472,
+    "elements": [
+      "E-236"
+    ],
+    "grade": "2",
+    "description": "",
+    "same_element": "E-236",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0473",
+    "character": "待",
+    "keyword": "Wait",
+    "order": 473,
+    "elements": [
+      "E-236",
+      "E-048"
+    ],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0474",
+    "character": "後",
+    "keyword": "After",
+    "order": 474,
+    "elements": [
+      "E-236",
+      "E-237",
+      "E-095"
+    ],
+    "grade": "2",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0475",
+    "character": "役",
+    "keyword": "Role",
+    "order": 475,
+    "elements": [
+      "E-236",
+      "E-238"
+    ],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0476",
+    "character": "投",
+    "keyword": "Throw",
+    "order": 476,
+    "elements": [
+      "E-110",
+      "E-238"
+    ],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0477",
+    "character": "走",
+    "keyword": "Run",
+    "order": 477,
+    "elements": [
+      "E-239"
+    ],
+    "grade": "2",
+    "description": "",
+    "same_element": "E-239",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0478",
+    "character": "起",
+    "keyword": "Awaken",
+    "order": 478,
+    "elements": [
+      "E-239",
+      "E-159"
+    ],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0479",
+    "character": "部",
+    "keyword": "Part",
+    "order": 479,
+    "elements": [
+      "E-197",
+      "E-240"
+    ],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0480",
+    "character": "都",
+    "keyword": "Metropolis",
+    "order": 480,
+    "elements": [
+      "E-165",
+      "E-240"
+    ],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0481",
+    "character": "文",
+    "keyword": "Text",
+    "order": 481,
+    "elements": [
+      "E-241"
+    ],
+    "grade": "1",
+    "description": "",
+    "same_element": "E-241",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0482",
+    "character": "対",
+    "keyword": "Opposite, against",
+    "order": 482,
+    "elements": [
+      "E-241"
+    ],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0483",
+    "character": "式",
+    "keyword": "Style, ceremony, numerical formula",
+    "order": 483,
+    "elements": [
+      "E-242"
+    ],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0484",
+    "character": "代",
+    "keyword": "Era, substitute",
+    "order": 484,
+    "elements": [
+      "E-038",
+      "E-242"
+    ],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0485",
+    "character": "感",
+    "keyword": "Feel",
+    "order": 485,
+    "elements": [
+      "E-243",
+      "E-007"
+    ],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0486",
+    "character": "悪",
+    "keyword": "Bad",
+    "order": 486,
+    "elements": [],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0487",
+    "character": "祭",
+    "keyword": "Festival",
+    "order": 487,
+    "elements": [
+      "E-244",
+      "E-048"
+    ],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0488",
+    "character": "察",
+    "keyword": "Inspect",
+    "order": 488,
+    "elements": [
+      "E-057",
+      "E-244"
+    ],
+    "grade": "4",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0489",
+    "character": "服",
+    "keyword": "Clothes",
+    "order": 489,
+    "elements": [
+      "E-009",
+      "E-245",
+      "E-120"
+    ],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0490",
+    "character": "命",
+    "keyword": "Fate, life",
+    "order": 490,
+    "elements": [
+      "E-213",
+      "E-001",
+      "E-007",
+      "E-245"
+    ],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0491",
+    "character": "南",
+    "keyword": "South",
+    "order": 491,
+    "elements": [
+      "E-246"
+    ],
+    "grade": "2",
+    "description": "",
+    "same_element": "E-246",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0492",
+    "character": "西",
+    "keyword": "West",
+    "order": 492,
+    "elements": [
+      "E-247"
+    ],
+    "grade": "2",
+    "description": "",
+    "same_element": "E-247",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0493",
+    "character": "太",
+    "keyword": "Thick",
+    "order": 493,
+    "elements": [
+      "E-125"
+    ],
+    "grade": "2",
+    "description": "",
+    "same_element": "E-125",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0494",
+    "character": "円",
+    "keyword": "Yen, circle",
+    "order": 494,
+    "elements": [],
+    "grade": "1",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0495",
+    "character": "毛",
+    "keyword": "Hair",
+    "order": 495,
+    "elements": [
+      "E-248"
+    ],
+    "grade": "2",
+    "description": "",
+    "same_element": "E-248",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0496",
+    "character": "午",
+    "keyword": "Noon",
+    "order": 496,
+    "elements": [
+      "E-249"
+    ],
+    "grade": "2",
+    "description": "",
+    "same_element": "E-249",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0497",
+    "character": "界",
+    "keyword": "World",
+    "order": 497,
+    "elements": [
+      "E-011"
+    ],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0498",
+    "character": "面",
+    "keyword": "Surface",
+    "order": 498,
+    "elements": [],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0499",
+    "character": "業",
+    "keyword": "Business",
+    "order": 499,
+    "elements": [
+      "E-250",
+      "E-141"
+    ],
+    "grade": "3",
+    "description": "",
+    "same_element": null,
+    "vocabulary": []
+  },
+  {
+    "id": "K-0500",
+    "character": "幸",
+    "keyword": "Happiness",
+    "order": 500,
+    "elements": [
+      "E-251"
+    ],
+    "grade": "3",
+    "description": "",
+    "same_element": "E-251",
+    "vocabulary": []
   }
 ]
