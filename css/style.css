@@ -76,7 +76,7 @@ footer {
 
 /* Chapter Explorer */
 #chapter-explorer {
-    margin: 2rem 0;
+    margin: 2rem 0rem;
 }
 
 #chapter-explorer table {
@@ -117,7 +117,8 @@ footer {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
     gap: 1rem;
-    margin: 1.5rem 0;
+    margin: 1.5rem 1.5rem;
+    /* border: 1px solid #dddddd; */
 }
 .kanji-button {
     /* Individual kanji buttons */
