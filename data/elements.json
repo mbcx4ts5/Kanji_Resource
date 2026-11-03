@@ -348,23 +348,23 @@
     "character": "火・灬",
     "name": "Fire",
     "order": 43,
-    "description": "The element for fire often appears either on the left-hand side or bottom of the kanji. However, when it appears at the bottom, it is often reduced to four 'drop'-like strokes.",
+    "description": "As an element, this form can take the meaning of 'fire', 'flames' or anything on fire. The element often appears either on the left-hand side or bottom of the kanji. However, when it appears at the bottom, it is often reduced to four 'drop'-like strokes.",
     "components": []
   },
   {
     "id": "E-044",
-    "character": "心",
+    "character": "心・忄",
     "name": "Heart",
     "order": 44,
-    "description": "",
+    "description": "As an element, this form often appears in kanji related to thoughts and emotions and can take on the meaning of 'heart' or 'feeling'. When it appears on the left hand side, it is reduced to just three strokes. It may be worthwhile to attach a slightly different meaning to the form when it appears in its three stroke form, such as one's 'state of mind' to differentiate it from the four stroke variant 'heart'. This element can be tricky to create pneumonics with due to the relatively abstract nature of many of the kanji that it appears as part of. For this reason, make sure your pnemonics are especially strong and unusual.",
     "components": []
   },
   {
     "id": "E-045",
-    "character": "竹",
+    "character": "竹・𥫗",
     "name": "Bamboo",
     "order": 45,
-    "description": "",
+    "description": "This element often appears at the top of the kanji, occupying the same position as the 'grass' element would. This is another example of an element that changes form slightly, often having the long stalks reduced to mere drops.",
     "components": []
   },
   {
@@ -372,7 +372,7 @@
     "character": "糸",
     "name": "Thread",
     "order": 46,
-    "description": "",
+    "description": "This element is often used for kanji to do with textiles, fabrics and thin objects. However, this also extends to more abstract ideas of tying and joining things together. When this element appears on the left side, some of it's strokes are shortened in a similar way to tree and fire elements.",
     "components": []
   },
   {
@@ -380,31 +380,31 @@
     "character": "系",
     "name": "Lineage",
     "order": 47,
-    "description": "",
+    "description": "As an element, this form continues the theme of a 'lineage' or some sort of grouping. Unlike the related 'thread' element, this element doesn't normally appear on the left hand side.",
     "components": []
   },
   {
     "id": "E-048",
-    "character": "示",
+    "character": "示・礻",
     "name": "Altar",
     "order": 48,
-    "description": "",
+    "description": "This element carries the meaning of 'altar'. It becomes heavily stylised when it appears on the left hand side of a kanji. It often appears in kanji associated with spirtuality, blessings and taboos.",
     "components": []
   },
   {
     "id": "E-049",
-    "character": "牛",
+    "character": "牛・牜・𠂒",
     "name": "Cow",
     "order": 49,
-    "description": "",
+    "description": "Another element that shape-shifts significantly. When this element appears on the left hand side, the second horizontal stroke because slightly diagonal and the order of the final two strokes switches. When this element appears at the top of the kanji, the second horizontal stroke once again forms the final stroke and the central vertical stroke does not pass all the way through it. As an element, keep the idea of 'cow' in mind.",
     "components": []
   },
   {
     "id": "E-050",
     "character": "勿",
-    "name": "Knot",
+    "name": "Bloody Knife",
     "order": 50,
-    "description": "",
+    "description": "This element is a pictograph of a bloody knife, the two final strokes represent the blood running down the edge of the knife. This element acts as a rare standalone kanji which originally had the meaning of 'not' or 'must not'.",
     "components": []
   },
   {
@@ -412,15 +412,15 @@
     "character": "虫",
     "name": "Insect",
     "order": 51,
-    "description": "",
+    "description": "As an element, keep the idea strictly to that of 'insect'. We will see a different element used for 'snake' later.",
     "components": []
   },
   {
     "id": "E-052",
-    "character": "几",
+    "character": "几・𠘨",
     "name": "Wind",
     "order": 52,
-    "description": "",
+    "description": "It is hard to draw a pictograph for the wind, so here we see the outline of something like a baloon or sail being blown out from the bottom. The form of the hooking tail changes slightly depending on the kanji.",
     "components": []
   },
   {
@@ -428,7 +428,7 @@
     "character": "舟",
     "name": "Boat",
     "order": 53,
-    "description": "",
+    "description": "This form keeps the meaning of 'boat'. It is used for kanji associated with boats and navigation.",
     "components": []
   },
   {
@@ -665,8 +665,8 @@
   },
   {
     "id": "E-083",
-    "character": "矛",
-    "name": "Halberd",
+    "character": "予",
+    "name": "Beforehand",
     "order": 83,
     "description": "",
     "components": []
