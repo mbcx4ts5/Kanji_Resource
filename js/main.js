@@ -15,6 +15,13 @@ fetch("data/elements.json").then(response => response.json())
 // Clear the loading message.
 chapterExplorer.replaceChildren();
 
+// Create a map to store the display numbers.
+const kanjiDisplayNumbers = new Map();
+const elementDisplayNumbers = new Map();
+
+// Keep counters for kanji and elements.
+let kanjiCount = 0;
+let elementCount = 0;
 
 // Iterate over every chapter.
 chapters.forEach(chapter => {
@@ -41,11 +48,23 @@ chapters.forEach(chapter => {
         const kanji = kanjiList.find(item => item.id === entryId);
         const element = elementList.find(item => item.id === entryId);
 
-        // Skip IDs that don't exist in either JSON file.
         const entry = kanji || element;
-        if (!entry) {
+
+        // Update the kanji and element numbers
+        if (kanji) {
+            kanjiCount++;
+            kanjiDisplayNumbers.set(entryId, kanjiCount)
+            
+            if (kanji.same_element) {
+                elementCount++;
+                elementDisplayNumbers.set(entryId, elementCount);
+            }
+        } else if (element) {
+            elementCount++;
+            elementDisplayNumbers.set(entryId, elementCount);
+        } else {
+            // Skip IDs that don't exist in either JSON file.
             console.warn(`Entry not found: ${entryId}`);
-            return;
         }
 
         // Check to see if button type is Kanji, Kanji+Element or Element
@@ -68,7 +87,11 @@ chapters.forEach(chapter => {
 
         const id = document.createElement("span");
         id.className = "kanji-button-id";
-        id.textContent = entry.id;
+        if (kanji) {
+            id.textContent = kanjiDisplayNumbers.get(entry.id);
+        } else {
+            id.textContent = `E${elementDisplayNumbers.get(entry.id)}`;
+        }
 
         const keyword = document.createElement("span");
         keyword.className = "kanji-button-keyword";
@@ -87,7 +110,7 @@ chapters.forEach(chapter => {
             // Element section
             const elementId = document.createElement("span");
             elementId.className = "kanji-button-element-id";
-            elementId.textContent = kanji.same_element;
+            elementId.textContent = `E${elementDisplayNumbers.get(entry.id)}`;
 
             // Create the button
             button.appendChild(mainContent);

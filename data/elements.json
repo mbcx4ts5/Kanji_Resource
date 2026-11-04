@@ -1998,5 +1998,13 @@
     "order": 251,
     "description": "",
     "components": []
+  },
+  {
+    "id": "E-250",
+    "character": "反",
+    "name": "Anti",
+    "order": 252,
+    "description": "",
+    "components": []
   }
 ]

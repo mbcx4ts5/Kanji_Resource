@@ -2966,7 +2966,7 @@
     "elements": ["E-119", "E-120"],
     "grade": "3",
     "description": "",
-    "same_element": null,
+    "same_element": "E-250",
     "vocabulary": []
   },
   {
