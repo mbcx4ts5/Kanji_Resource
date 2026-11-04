@@ -15,14 +15,6 @@ fetch("data/elements.json").then(response => response.json())
 // Clear the loading message.
 chapterExplorer.replaceChildren();
 
-// Create a map to store the display numbers.
-const kanjiDisplayNumbers = new Map();
-const elementDisplayNumbers = new Map();
-
-// Keep counters for kanji and elements.
-let kanjiCount = 0;
-let elementCount = 0;
-
 // Iterate over every chapter.
 chapters.forEach(chapter => {
 
@@ -50,22 +42,7 @@ chapters.forEach(chapter => {
 
         const entry = kanji || element;
 
-        // Update the kanji and element numbers
-        if (kanji) {
-            kanjiCount++;
-            kanjiDisplayNumbers.set(entryId, kanjiCount)
-            
-            if (kanji.same_element) {
-                elementCount++;
-                elementDisplayNumbers.set(entryId, elementCount);
-            }
-        } else if (element) {
-            elementCount++;
-            elementDisplayNumbers.set(entryId, elementCount);
-        } else {
-            // Skip IDs that don't exist in either JSON file.
-            console.warn(`Entry not found: ${entryId}`);
-        }
+        const { kanjiDisplayNumbers, elementDisplayNumbers } = generateDisplayNumbers(chapters, kanjiList, elementList);
 
         // Check to see if button type is Kanji, Kanji+Element or Element
         let buttonType;
