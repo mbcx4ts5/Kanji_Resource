@@ -31,6 +31,9 @@ Promise.all([
     // Clear the loading message
     page.replaceChildren();
 
+    // Run the numbering function
+    const { kanjiDisplayNumbers, elementDisplayNumbers } = generateDisplayNumbers(chapters, kanjiList, elementList);
+
     // Get the full curriculum from chapters.json and current position
     const curriculumEntries = chapters.flatMap(chapter => chapter.entries);
     const currentIndex = curriculumEntries.indexOf(kanjiId);
@@ -91,7 +94,7 @@ Promise.all([
     // Create the kanji ID
     const kanjiIdSection = document.createElement("p");
     kanjiIdSection.className = "kanji-id";
-    kanjiIdSection.textContent = kanji.id;
+    kanjiIdSection.textContent = `${kanjiDisplayNumbers.get(kanji.id)} (${kanji.id})`;
     kanjiHero.appendChild(kanjiIdSection)
     
     // Create character and keywords and append to hero
@@ -195,7 +198,7 @@ Promise.all([
         // Create the element ID
         const elementId = document.createElement("p");
         elementId.className = "kanji-id";
-        elementId.textContent = sameElement.id;
+        elementId.textContent = `E${elementDisplayNumbers.get(kanji.id)} (${sameElement.id})`;
 
         elementsSubsection.appendChild(elementId);
 

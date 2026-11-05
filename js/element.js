@@ -31,6 +31,9 @@ Promise.all([
     // Clear the loading message
     page.replaceChildren();
 
+    // Run the numbering function
+    const { kanjiDisplayNumbers, elementDisplayNumbers } = generateDisplayNumbers(chapters, kanjiList, elementList);
+
     // Get the full curriculum from chapters.json and current position
     const curriculumEntries = chapters.flatMap(chapter => chapter.entries);
     const currentIndex = curriculumEntries.indexOf(elementId);
@@ -83,7 +86,7 @@ Promise.all([
     // Create the kanji ID
     const elementIdSection = document.createElement("p");
     elementIdSection.className = "kanji-id";
-    elementIdSection.textContent = element.id;
+    elementIdSection.textContent = `E${elementDisplayNumbers.get(element.id)} (${element.id})`;
     kanjiHero.appendChild(elementIdSection);
 
 
