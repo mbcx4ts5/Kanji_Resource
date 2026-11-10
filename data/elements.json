@@ -44,7 +44,7 @@
     "character": "九",
     "name": "Nine",
     "order": 5,
-    "description": "As an element, keep the idea of 'nine' in mind, such as with the nine-player game baseball. This element is very similar to 丸 but is of course missing the short 'drop' stroke. In the same way that nine is 'not quite ten', this retains the feeling of something that is not quite complete",
+    "description": "As an element, keep the idea of 'nine' in mind, such as with the nine-player game baseball. This element is very similar to 丸 but is of course missing the short 'drop' stroke. In the same way that nine is 'not quite ten', this retains the feeling of something that is 'not quite' complete.",
     "components": []
   },
   {
@@ -404,7 +404,7 @@
     "character": "勿",
     "name": "Bloody Knife",
     "order": 50,
-    "description": "This element is a pictograph of a bloody knife, the two final strokes represent the blood running down the edge of the knife. This element acts as a rare standalone kanji which originally had the meaning of 'not' or 'must not'.",
+    "description": "This element is a pictogram of a bloody knife, the two final strokes represent the blood running down the edge of the knife. This element acts as a rare standalone kanji which originally had the meaning of 'not' or 'must not'.",
     "components": []
   },
   {
@@ -420,7 +420,7 @@
     "character": "几・𠘨",
     "name": "Wind",
     "order": 52,
-    "description": "It is hard to draw a pictograph for the wind, so here we see the outline of something like a baloon or sail being blown out from the bottom. The form of the hooking tail changes slightly depending on the kanji.",
+    "description": "It is hard to draw a pictogram for the wind, so here we see the outline of something like a baloon or sail being blown out from the bottom. The form of the hooking tail changes slightly depending on the kanji.",
     "components": []
   },
   {
@@ -436,7 +436,7 @@
     "character": "乍",
     "name": "Saw",
     "order": 54,
-    "description": "",
+    "description": "Our first tool-based element is a 'saw'. The form starts with 'lie down', then the handle is represented by a vertical stroke. Finally, two horizontal strokes represent the teeth of the saw.",
     "components": []
   },
   {
@@ -444,7 +444,7 @@
     "character": "且",
     "name": "Shelf",
     "order": 55,
-    "description": "",
+    "description": "Another tool-related element is the shelf. It is identical to 'eye' if not for the final stroke which is longer and forms the stable foundation for the shelf.",
     "components": []
   },
   {
@@ -452,7 +452,7 @@
     "character": "工",
     "name": "Craft",
     "order": 56,
-    "description": "",
+    "description": "However you choose to visualise this element, it maintains the meaning of 'craft'.",
     "components": []
   },
   {
@@ -460,7 +460,7 @@
     "character": "宀",
     "name": "House",
     "order": 57,
-    "description": "",
+    "description": "This element represnets the roof of a house but will stand in for the general meaning of 'house'. You can see the eaves at the sides and even the chimney poking out of the top.",
     "components": []
   },
   {
@@ -468,7 +468,7 @@
     "character": "穴",
     "name": "Hole",
     "order": 58,
-    "description": "",
+    "description": "This combination of elements continues the meaning of a 'hole'. When this element appears at the top of the kanji, the final two strokes a morphed into the 'human legs' element we have seen earlier.",
     "components": []
   },
   {
@@ -476,7 +476,7 @@
     "character": "土",
     "name": "Earth",
     "order": 59,
-    "description": "",
+    "description": "When using this form as an element, this form is associated with the 'earth', 'soil' and such things.",
     "components": []
   },
   {
@@ -484,7 +484,7 @@
     "character": "丁",
     "name": "Nail",
     "order": 60,
-    "description": "",
+    "description": "As an element, when the idea of 'street' feels difficult to encorporate into a mnemonic, see this form instead as a nail., .",
     "components": []
   },
   {
@@ -492,7 +492,7 @@
     "character": "可",
     "name": "Possible",
     "order": 61,
-    "description": "",
+    "description": "We will meet the kanji of the same form later. But for now, it is indeed possible to get your daily intake of iron by putting 'nails' in your 'mouth', so use this form when something is possible (though perhaps unlikely).",
     "components": []
   },
   {
@@ -500,15 +500,15 @@
     "character": "弓",
     "name": "Bow",
     "order": 62,
-    "description": "",
+    "description": "As an element, this form keeps the meaning of a bow.",
     "components": []
   },
   {
     "id": "E-063",
     "character": "矢",
-    "name": "Dart",
+    "name": "Arrow",
     "order": 63,
-    "description": "",
+    "description": "As with bow, keep this form's meaning as arrow when using as an element.",
     "components": []
   },
   {
@@ -516,7 +516,7 @@
     "character": "㇟",
     "name": "Hook",
     "order": 64,
-    "description": "",
+    "description": "This element's relation to the idea of 'hook' is pretty self explanatory.",
     "components": []
   },
   {
@@ -524,7 +524,7 @@
     "character": "直",
     "name": "Straightaway",
     "order": 65,
-    "description": "",
+    "description": "As an element, keep immediacy in mind, either doing something directly or straightaway.",
     "components": []
   },
   {
@@ -532,7 +532,7 @@
     "character": "匚",
     "name": "First Aid Box",
     "order": 66,
-    "description": "",
+    "description": "Though this element could represent any box, try to think of a first aid box to aid in mnemonic creation.",
     "components": []
   },
   {
@@ -540,7 +540,7 @@
     "character": "㐅",
     "name": "Sheaf",
     "order": 67,
-    "description": "",
+    "description": "Let this element represent a sheaf: a bundle of flowers, wheat, herbs or some other produce held together with string.",
     "components": []
   },
   {
@@ -548,15 +548,15 @@
     "character": "气",
     "name": "Spirit",
     "order": 68,
-    "description": "",
+    "description": "This is an unusual element, made up of 'lie down', 'one' and one half of 'wind'. Imagine a spirit-like being lying down on a floating platform, held aloft by a gust of wind.",
     "components": []
   },
   {
     "id": "E-069",
-    "character": "⺈",
+    "character": "勹・⺈",
     "name": "Bound Up",
     "order": 69,
-    "description": "",
+    "description": "Similar to sheaf, this element instead represent something tightly bound up or wrapped. This element either acts as enclosure, or appears at top of a kanji with a much shorter second stroke.",
     "components": []
   },
   {
@@ -564,15 +564,15 @@
     "character": "巴",
     "name": "Mosaic",
     "order": 70,
-    "description": "",
+    "description": "This element brings the idea of something colourful to the physical embodiment of that being a 'mosaic'. The first three strokes are somewhat unique, followed by the familiar 'hook'.",
     "components": []
   },
   {
     "id": "E-071",
     "character": "ヨ",
-    "name": "Rake",
+    "name": "Broom",
     "order": 71,
-    "description": "",
+    "description": "The element for a broom here is missing the handle! Thankfully, the other end of the broom is depicted in this element.",
     "components": []
   },
   {
@@ -580,7 +580,7 @@
     "character": "匕",
     "name": "Spoon",
     "order": 72,
-    "description": "",
+    "description": "This element represents a spoon. It is made up of a swooping drop moving from right to left and the 'hook' element we've seen before.",
     "components": []
   },
   {
@@ -588,7 +588,7 @@
     "character": "皿",
     "name": "Dish",
     "order": 73,
-    "description": "",
+    "description": "Other than the dish itself, you may instead see it as a dish rack with spaces ready to put dishes in. Note the similarity to the the 'shelf' element.",
     "components": []
   },
   {
@@ -596,7 +596,7 @@
     "character": "寸",
     "name": "Measurement",
     "order": 74,
-    "description": "",
+    "description": "As an element, if a height measurer doesn't work well for mnemonics, consider this element as a glue dispenser dispensing a drop of sticky glue.",
     "components": []
   },
   {
@@ -604,7 +604,7 @@
     "character": "身",
     "name": "Somebody",
     "order": 75,
-    "description": "",
+    "description": "As an element, the idea needs to relate directly to either somebody, or a person's physical body.",
     "components": []
   },
   {
@@ -1922,7 +1922,7 @@
   {
     "id": "E-240",
     "character": "弋",
-    "name": "Arrow",
+    "name": "Ceremony",
     "order": 242,
     "description": "",
     "components": []
@@ -1938,7 +1938,7 @@
   {
     "id": "E-242",
     "character": "祭",
-    "name": "Ritual",
+    "name": "Party",
     "order": 244,
     "description": "",
     "components": []

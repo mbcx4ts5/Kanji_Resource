@@ -556,7 +556,7 @@
     "order": 51,
     "elements": [],
     "grade": "2",
-    "description": "The kanji for mother here is a pictograph of two breasts. Take good care with the stroke order here; this is not the simple 'mouth' shape we are used to dealing with. ",
+    "description": "The kanji for mother here is a pictogram of two breasts. Take good care with the stroke order here; this is not the simple 'mouth' shape we are used to dealing with. ",
     "same_element": "E-032",
     "vocabulary": []
   },
@@ -578,7 +578,7 @@
     "order": 52,
     "elements": [],
     "grade": "2",
-    "description": "The pictograph of a father here is considerably more abstract than that for mother. It might be easier to see the father's face here though, the two eyes represented by the first two strokes and then a nose that forms the outline of a moustache with the last two strokes.",
+    "description": "The pictogram of a father here is considerably more abstract than that for mother. It might be easier to see the father's face here though, the two eyes represented by the first two strokes and then a nose that forms the outline of a moustache with the last two strokes.",
     "same_element": "E-035",
     "vocabulary": []
   },
@@ -622,7 +622,7 @@
     "order": 56,
     "elements": [],
     "grade": "1",
-    "description": "The kanji for person is simply a pictograph of a person with two outsrtetched legs.",
+    "description": "The kanji for person is simply a pictogram of a person with two outsrtetched legs.",
     "same_element": "E-038",
     "vocabulary": []
   },
@@ -633,7 +633,7 @@
     "order": 57,
     "elements": ["E-038", "E-012"],
     "grade": "1",
-    "description": "Here we see a pictograph of your chosen 'person' from the previous kanji resting against a 'tree'.",
+    "description": "Here we see a pictogram of your chosen 'person' from the previous kanji resting against a 'tree'.",
     "same_element": null,
     "vocabulary": []
   },
@@ -732,7 +732,7 @@
     "order": 66,
     "elements": [],
     "grade": "1",
-    "description": "Here we see a pictograph of a fire, or perhaps a person on fire! The two drops represent the smoke rising up from the flames.",
+    "description": "Here we see a pictogram of a fire, or perhaps a person on fire! The two drops represent the smoke rising up from the flames.",
     "same_element": "E-043",
     "vocabulary": []
   },
@@ -908,7 +908,7 @@
     "order": 82,
     "elements": [],
     "grade": "5",
-    "description": "Combine the kanji for 'two' with the element of 'small' to get 'show off'. Try to think of this as a pictograph of an altar or small table meant to display something. The table has small tassles falling down the sides of it to exemplify the object's special nature.",
+    "description": "Combine the kanji for 'two' with the element of 'small' to get 'show off'. Try to think of this as a pictogram of an altar or small table meant to display something. The table has small tassles falling down the sides of it to exemplify the object's special nature.",
     "same_element": "E-048",
     "vocabulary": []
   },
@@ -930,7 +930,7 @@
     "order": 84,
     "elements": [],
     "grade": "2",
-    "description": "Originally a pictograph of a cow's face with horns, the kanji has since become heavily styalised and reduced to the strokes for 'lie down' and 'ten'.",
+    "description": "Originally a pictogram of a cow's face with horns, the kanji has since become heavily styalised and reduced to the strokes for 'lie down' and 'ten'.",
     "same_element": "E-049",
     "vocabulary": []
   },
@@ -952,7 +952,7 @@
     "order": 86,
     "elements": [],
     "grade": "1",
-    "description": "Originally a pictograph of a snake, however this kanji now refers to an insect. The kanji contains 'middle', with two extra strokes at the bottom.",
+    "description": "Originally a pictogram of a snake, however this kanji now refers to an insect. The kanji contains 'middle', with two extra strokes at the bottom.",
     "same_element": "E-051",
     "vocabulary": []
   },
@@ -974,7 +974,7 @@
     "order": 88,
     "elements": [],
     "grade": "S",
-    "description": "This kanji is a pictograph of rowboat. The first stroke represents the boat's rudder (or perhaps properller). Inside we see a person sitting with a oar sticking out either side of the boat.",
+    "description": "This kanji is a pictogram of rowboat. The first stroke represents the boat's rudder (or perhaps properller). Inside we see a person sitting with a oar sticking out either side of the boat.",
     "same_element": "E-053",
     "vocabulary": []
   },
@@ -1007,7 +1007,7 @@
     "order": 91,
     "elements": ["E-038", "E-054"],
     "grade": "2",
-    "description": "",
+    "description": "A person with a saw making something. Try to think of a creative use of the saw to help solidify the meaning of 'make'.",
     "same_element": null,
     "vocabulary": []
   },
@@ -1018,7 +1018,7 @@
     "order": 92,
     "elements": ["E-008", "E-054"],
     "grade": "4",
-    "description": "",
+    "description": "This is a play on words, the last time you 'saw' the 'sun' was yesterday. Alternatively think of the metaphorical sense of the sun being cut or 'sawed' out of the sky 'yesterday', only to reappear the day after.",
     "same_element": null,
     "vocabulary": []
   },
@@ -1029,7 +1029,7 @@
     "order": 93,
     "elements": ["E-046", "E-055"],
     "grade": "2",
-    "description": "",
+    "description": "Imagine a team of helpful robots that you keep on your 'shelf'. To make sure that the team are collected together, you tie a piece of 'thread' around them all.",
     "same_element": null,
     "vocabulary": []
   },
@@ -1040,7 +1040,7 @@
     "order": 94,
     "elements": ["E-055", "E-017"],
     "grade": "3",
-    "description": "",
+    "description": "The so-called 'power of writing' here is extended to the entire shelf. Think of how shelves have helped people throughout the ages.",
     "same_element": null,
     "vocabulary": []
   },
@@ -1051,7 +1051,7 @@
     "order": 95,
     "elements": ["E-056"],
     "grade": "2",
-    "description": "",
+    "description": "This kanji is a bit abstract, so there are many interpretations on how it can represent 'craft'. Perhaps it is a crafting table or pottery wheel, a tool to plough the ground or a carpenter's square.",
     "same_element": "E-056",
     "vocabulary": []
   },
@@ -1062,18 +1062,18 @@
     "order": 96,
     "elements": ["E-058"],
     "grade": "5",
-    "description": "",
+    "description": "A 'house' with the element for 'eight' below it. The 'eight' here continues the theme of something being parted. Here we see a hole being parted in the roof of a 'house'.",
     "same_element": "E-058",
     "vocabulary": []
   },
   {
     "id": "K-0097",
     "character": "空",
-    "keyword": "Sky, empty",
+    "keyword": "Sky",
     "order": 97,
     "elements": ["E-058", "E-056"],
     "grade": "1",
-    "description": "",
+    "description": "Here, we see the crafting table taking up the bottom position. Above it we see a 'hole', presumably produced by the craftsperson to the let the light in and illuminate their crafting table.",
     "same_element": null,
     "vocabulary": []
   },
@@ -1084,7 +1084,7 @@
     "order": 98,
     "elements": ["E-058", "E-005"],
     "grade": "3",
-    "description": "",
+    "description": "We do research to fill in the academic 'holes' of things that are 'not quite' understood.",
     "same_element": null,
     "vocabulary": []
   },
@@ -1095,7 +1095,7 @@
     "order": 99,
     "elements": ["E-057", "E-038", "E-022"],
     "grade": "3",
-    "description": "",
+    "description": "A 'house' that houses 'a hundred' people is of course an inn. Think of a busy inn with a hundred rooms housing a hundred people.",
     "same_element": null,
     "vocabulary": []
   },
@@ -1106,7 +1106,7 @@
     "order": 100,
     "elements": ["E-059"],
     "grade": "1",
-    "description": "",
+    "description": "If you used the picture of a crafting table in your mind for the kanji for 'craft', this kanji can be seen as a pictogram of that same crafting table with a lump of soil or clay on it, with the meaning of the kanji focusing on the soil on top. Take care with the stroke order with this kanji. This kanji has three strokes, with the first horizontal stroke being shorter than the final horizontal stroke.",
     "same_element": "E-059",
     "vocabulary": []
   },
@@ -1117,18 +1117,18 @@
     "order": 101,
     "elements": ["E-048", "E-059"],
     "grade": "2",
-    "description": "",
+    "description": "This kanji represents a company as an organisation. Unfortunately this company is very hierarchical, with the higher ups being placed on a figurative 'altar', and the employees being treated no better than the 'earth' at their feet.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0102",
     "character": "丁",
-    "keyword": "Street, district",
+    "keyword": "Street",
     "order": 102,
     "elements": ["E-060"],
     "grade": "3",
-    "description": "",
+    "description": "A street here is represented by a simple street sign.",
     "same_element": "E-060",
     "vocabulary": []
   },
@@ -1139,7 +1139,7 @@
     "order": 103,
     "elements": ["E-011", "E-060"],
     "grade": "1",
-    "description": "",
+    "description": "Here we see the very bare necessetities for a town. These being a rice field with a street running alongside it.",
     "same_element": null,
     "vocabulary": []
   },
@@ -1150,7 +1150,7 @@
     "order": 104,
     "elements": ["E-038", "E-061"],
     "grade": "2",
-    "description": "",
+    "description": "If you've learned any amount of Japanese, you'll probably have encountered the word for 'what'. But it's 'possible', that not every 'person' has. When asked whether it would be possible for a person to learn over 2000 kanji, their first thought would likely be 'WHAT'?!",
     "same_element": null,
     "vocabulary": []
   },
@@ -1161,7 +1161,7 @@
     "order": 105,
     "elements": ["E-062"],
     "grade": "2",
-    "description": "",
+    "description": "This form is a heavily styalised pictogram of a bow that you migh use for archery. Take good care with the stroke order of this kanji's three strokes.",
     "same_element": "E-062",
     "vocabulary": []
   },
@@ -1172,7 +1172,7 @@
     "order": 106,
     "elements": ["E-062", "E-023"],
     "grade": "2",
-    "description": "",
+    "description": "What else would you use to pull on a 'bow' than a 'walking stick'. Alternatively, see this as visualisation of a bow being pulled taught.",
     "same_element": null,
     "vocabulary": []
   },
@@ -1183,7 +1183,7 @@
     "order": 107,
     "elements": ["E-045", "E-062", "E-023"],
     "grade": "3",
-    "description": "",
+    "description": "Ordinal does not seem like a very common idea to introduce so early on, but this kanji represents the nth item in an ordering. For example, 第１ represents the first, 第２ represents the second and so on. Imagine a sequence of 'bows' and their 'walking sticks' arranged in a line. Attached to each is a 'bamboo' tag and a piece of ribbon (the final stroke) which tells us which order to put the bows in: first, second, third, and so on.",
     "same_element": null,
     "vocabulary": []
   },
@@ -1194,7 +1194,7 @@
     "order": 108,
     "elements": ["E-063"],
     "grade": "2",
-    "description": "",
+    "description": "Where would we be with a bow but no arrow. Of course the form has become heavily styalised, with the arrow head being turned into 'lie down'.",
     "same_element": "E-063",
     "vocabulary": []
   },
@@ -1205,18 +1205,18 @@
     "order": 109,
     "elements": ["E-063", "E-007"],
     "grade": "2",
-    "description": "",
+    "description": "Here we have a new method for delivering information. You write all that you know onto an 'arrow' and fire it into someone's 'mouth'.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0110",
     "character": "礼",
-    "keyword": "Manners",
+    "keyword": "Gratitude",
     "order": 110,
     "elements": ["E-048", "E-064"],
     "grade": "3",
-    "description": "",
+    "description": "Under the pretense of Gratitude, this organisation 'hooks' their faithful into feeling obliged to visit the 'altar'. Don't you want to show you're gratitude by visiting the altar?",
     "same_element": null,
     "vocabulary": []
   },
@@ -1227,18 +1227,18 @@
     "order": 111,
     "elements": ["E-015", "E-064", "E-026"],
     "grade": "3",
-    "description": "",
+    "description": "This kanji represents an administrative region, known in Japan as a prefecture. The government keeps an 'eye' on each prefecture, and consequently a metaphorical 'small hook' on each of its citizens.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0112",
     "character": "直",
-    "keyword": "Straight, fix",
+    "keyword": "Straightaway",
     "order": 112,
     "elements": ["E-065"],
     "grade": "2",
-    "description": "",
+    "description": "This kanji can be used for both the temporal sense of doing something straightaway, but also physical sense of directly. After a difficult breakup, imagine someone collecting photos of their ex and putting 'crosses' in their 'eyes' and hanging the photos on the end of a 'hook'.",
     "same_element": "E-065",
     "vocabulary": []
   },
@@ -1249,7 +1249,7 @@
     "order": 113,
     "elements": ["E-012", "E-065"],
     "grade": "3",
-    "description": "",
+    "description": "When you think of a plant, one often thinks of a 'tree straightaway' as the first example.",
     "same_element": null,
     "vocabulary": []
   },
@@ -1260,7 +1260,7 @@
     "order": 114,
     "elements": ["E-066", "E-063"],
     "grade": "3",
-    "description": "",
+    "description": "A doctor carries a single 'arrow' in their 'first aid box'. Back before modern injections were commonplace, medicines were instead administered via tipped arrows from a first aid box.",
     "same_element": null,
     "vocabulary": []
   },
@@ -1271,40 +1271,40 @@
     "order": 115,
     "elements": ["E-067", "E-066"],
     "grade": "3",
-    "description": "",
+    "description": "In this kanji, we see the legal requirement for every district to have one accessible 'first aid box'. However, instead of useful medicine inside, this box just contains a 'sheaf' of the district's local produce.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0116",
     "character": "気",
-    "keyword": "Spirit, air",
+    "keyword": "Spirit",
     "order": 116,
     "elements": ["E-068", "E-067"],
     "grade": "1",
-    "description": "",
+    "description": "The kanji for Spirit contains the element of 'spirit' which gives the element its name. This kanji adds the element of 'sheaf', so imagine a sheaf of laurels presumably held by the spirit.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0117",
     "character": "汽",
-    "keyword": "Steam",
+    "keyword": "Vapour",
     "order": 117,
     "elements": ["E-039", "E-068"],
     "grade": "2",
-    "description": "",
+    "description": "One can imagine the water vapour rising up from water as being equivalent to the invisible 'spirit' of 'water'.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0118",
     "character": "負",
-    "keyword": "Lose",
+    "keyword": "Defeat",
     "order": 118,
     "elements": ["E-069", "E-016"],
     "grade": "3",
-    "description": "",
+    "description": "Here, someone is Defeated and forced to pay up a wad of tightly 'bound up shells' to the winner.",
     "same_element": null,
     "vocabulary": []
   },
@@ -1315,29 +1315,29 @@
     "order": 119,
     "elements": ["E-069", "E-070"],
     "grade": "2",
-    "description": "",
+    "description": "The kanji for colour is represented here by pieces of a 'mosaic bound up' tightly.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0120",
     "character": "当",
-    "keyword": "This, hit",
+    "keyword": "Hit",
     "order": 120,
     "elements": ["E-026", "E-071"],
     "grade": "2",
-    "description": "",
+    "description": "A 'small broom' that you have to Hit with a 'small' tap to get the debris off.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0121",
     "character": "急",
-    "keyword": "Hurry",
+    "keyword": "Sudden",
     "order": 121,
     "elements": ["E-069", "E-071", "E-044"],
     "grade": "3",
-    "description": "",
+    "description": "Imagine a bundle of 'bound up brooms' all tightly held together and stored upright. Now imagine the 'heart' stopping sound of all those brooms suddenly falling over all at once.",
     "same_element": null,
     "vocabulary": []
   },
@@ -1348,7 +1348,7 @@
     "order": 122,
     "elements": ["E-038", "E-072"],
     "grade": "3",
-    "description": "",
+    "description": "Here, imagine a 'person' standing on a street corner waving about a 'spoon' and demanding for Change.",
     "same_element": null,
     "vocabulary": []
   },
@@ -1359,7 +1359,7 @@
     "order": 123,
     "elements": ["E-072"],
     "grade": "2",
-    "description": "",
+    "description": "This unusual kanji shows 'two spoons' back to back which has come to mean 'north'. The spoon on the left has a different and unique form. Since it's cold in the north, imagine someone rubbing two spoons together trying to generate a spark in order to start a fire.",
     "same_element": null,
     "vocabulary": []
   },
@@ -1370,7 +1370,7 @@
     "order": 124,
     "elements": ["E-073"],
     "grade": "3",
-    "description": "",
+    "description": "A simple pictogram of a plate or dish.",
     "same_element": "E-073",
     "vocabulary": []
   },
@@ -1381,7 +1381,7 @@
     "order": 125,
     "elements": ["E-073"],
     "grade": "3",
-    "description": "",
+    "description": "Here, a 'drop' of blood rests on top of a 'plate', perhaps due to an unfortunate kitchen mishap... or some other reason.",
     "same_element": null,
     "vocabulary": []
   },
@@ -1392,7 +1392,7 @@
     "order": 126,
     "elements": ["E-039", "E-008", "E-073"],
     "grade": "3",
-    "description": "",
+    "description": "The kanji for Warm is here represented by the act of placing a 'wet dish' out in the 'sun'. The warmth from the sun will surely dry the plate.",
     "same_element": null,
     "vocabulary": []
   },
@@ -1403,7 +1403,7 @@
     "order": 127,
     "elements": ["E-074"],
     "grade": "6",
-    "description": "",
+    "description": "These three strokes represent a 'measurement'. You may want to see it as a pictogram of some height measuring aparatus consisting of a moveable rod to measure someone's height. Don't forget the drop that has come detached from the measurer.",
     "same_element": "E-074",
     "vocabulary": []
   },
@@ -1414,40 +1414,40 @@
     "order": 128,
     "elements": ["E-012", "E-074"],
     "grade": "1",
-    "description": "",
+    "description": "To get into this village, you have to be a certain height. Not only do they make you 'measure' your height, you then have to stand next to a 'tree'.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0129",
     "character": "守",
-    "keyword": "Protect",
+    "keyword": "Guard",
     "order": 129,
     "elements": ["E-057", "E-074"],
     "grade": "3",
-    "description": "",
+    "description": "If you want to Protect something in your 'house', seal all the doors shut with 'glue'.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0130",
     "character": "討",
-    "keyword": "Attack",
+    "keyword": "Chastise",
     "order": 130,
     "elements": ["E-018", "E-074"],
     "grade": "6",
-    "description": "",
+    "description": "When someone gets Chastised, imagine what has been 'said' sticking to them like 'glue'",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0131",
     "character": "身",
-    "keyword": "Body",
+    "keyword": "One's Body",
     "order": 131,
     "elements": ["E-075"],
     "grade": "3",
-    "description": "",
+    "description": "We've previously seen the kanji and element for 'oneself', and now that element is extended to include the entire body.",
     "same_element": "E-075",
     "vocabulary": []
   },
@@ -1458,7 +1458,7 @@
     "order": 132,
     "elements": ["E-018", "E-075", "E-074"],
     "grade": "5",
-    "description": "",
+    "description": "'Somebody' who was chastised in the earlier frame (recall the chastising words sticking to them like glue) is now demanding that they Apologise for their harmful words.",
     "same_element": null,
     "vocabulary": []
   },
