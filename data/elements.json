@@ -468,7 +468,7 @@
     "character": "穴",
     "name": "Hole",
     "order": 58,
-    "description": "This combination of elements continues the meaning of a 'hole'. When this element appears at the top of the kanji, the final two strokes a morphed into the 'human legs' element we have seen earlier.",
+    "description": "This combination of elements continues the meaning of a 'hole'. When this element appears at the top of the kanji, the final two strokes a morphed into the 'human legs' element we have seen in the kanji for Four.",
     "components": []
   },
   {
@@ -708,7 +708,7 @@
     "character": "儿",
     "name": "Human Legs",
     "order": 88,
-    "description": "",
+    "description": "This is the formal introduction of the 'human legs' element we have seen briefly before. You'll often see this element at the bottom of the kanji or suspended from another element",
     "components": []
   },
   {
@@ -716,7 +716,7 @@
     "character": "見",
     "name": "See",
     "order": 89,
-    "description": "",
+    "description": "As an element, this form retains the meaning of 'seeing' something.",
     "components": []
   },
   {
@@ -724,7 +724,7 @@
     "character": "光",
     "name": "Light",
     "order": 90,
-    "description": "",
+    "description": "As an element, continue with the theme of 'light' and 'light rays'",
     "components": []
   },
   {
@@ -732,15 +732,15 @@
     "character": "元",
     "name": "Origin",
     "order": 91,
-    "description": "",
+    "description": "This form also recurrs as an element and will take the meaning of something's 'origin' or 'beginning'.",
     "components": []
   },
   {
     "id": "E-092",
     "character": "兄",
-    "name": "Older Brother",
+    "name": "Teenager",
     "order": 92,
-    "description": "",
+    "description": "Another form with human legs that recurrs. This time, use the more specific term of a 'teenager' when this form is used as an element..",
     "components": []
   },
   {
@@ -748,7 +748,7 @@
     "character": "立",
     "name": "Stand Up",
     "order": 93,
-    "description": "",
+    "description": "As an element, keep the idea of 'stand up' for the meaning of this form.",
     "components": []
   },
   {
@@ -756,7 +756,7 @@
     "character": "音",
     "name": "Sound",
     "order": 94,
-    "description": "",
+    "description": "This element will carry the same meaning of 'sound'.",
     "components": []
   },
   {
@@ -764,7 +764,7 @@
     "character": "夂",
     "name": "Walking Legs",
     "order": 95,
-    "description": "",
+    "description": "After standing up, the legs now start to go for a walk. This element carries the visual of 'walking legs'.",
     "components": []
   },
   {
@@ -772,7 +772,7 @@
     "character": "各",
     "name": "Each",
     "order": 96,
-    "description": "",
+    "description": "As an element, concentrate on uniqueness or 'each'ness.",
     "components": []
   },
   {
@@ -780,7 +780,7 @@
     "character": "ハ",
     "name": "Animal Legs",
     "order": 97,
-    "description": "",
+    "description": "This element is very similar to the 'eight' element we have encountered before. The main difference is that the size of the strokes are reduced and appear as a pair of 'animal legs' This form has already appeared as part of the 'shellfish' element.",
     "components": []
   },
   {
@@ -788,7 +788,7 @@
     "character": "共",
     "name": "Together",
     "order": 98,
-    "description": "",
+    "description": "This element carries the meaning of doing something 'together'.",
     "components": []
   },
   {
@@ -796,7 +796,7 @@
     "character": "真",
     "name": "Truth",
     "order": 99,
-    "description": "",
+    "description": "This recurring element also carries the meaning of 'truth'.",
     "components": []
   },
   {
@@ -804,7 +804,7 @@
     "character": "丷",
     "name": "Devil Horns",
     "order": 100,
-    "description": "",
+    "description": "When the short 'animal legs' appear at the top of the kanji and are angled inwards, they resemble little devil horns.",
     "components": []
   },
   {
