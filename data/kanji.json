@@ -1469,7 +1469,7 @@
     "order": 133,
     "elements": ["E-076"],
     "grade": "2",
-    "description": "",
+    "description": "Japan is home to many ancient Buddhist temples, many of which are so old that to keep them standing, people have started 'glueing' the buildings to the 'earth'.",
     "same_element": "E-076",
     "vocabulary": []
   },
@@ -1480,7 +1480,7 @@
     "order": 134,
     "elements": ["E-008", "E-076"],
     "grade": "2",
-    "description": "",
+    "description": "In ancient times, the 'temples' were in charge of keeping Time for the local community by tracking the movement of the 'sun'.",
     "same_element": null,
     "vocabulary": []
   },
@@ -1491,7 +1491,7 @@
     "order": 135,
     "elements": ["E-045", "E-076"],
     "grade": "3",
-    "description": "",
+    "description": "This kanji refers to things being of a certain level or Class and is also associated with equality. 'Temples' get classed based on the age of the 'bamboo' on their grounds, with older 'temples' containing older 'bamboo' obviously ranking in a higher class.",
     "same_element": null,
     "vocabulary": []
   },
@@ -1502,7 +1502,7 @@
     "order": 136,
     "elements": ["E-018", "E-076"],
     "grade": "3",
-    "description": "",
+    "description": "A Poem here is depicted as 'words' recounted at a 'temple'.",
     "same_element": null,
     "vocabulary": []
   },
@@ -1513,7 +1513,7 @@
     "order": 137,
     "elements": ["E-038", "E-077", "E-007"],
     "grade": "3",
-    "description": "",
+    "description": "A 'person' here is Using something the measure the 'length' of a hole, here represented by a 'mouth'. Note the stroke order of the right side part of this kanji and how the mouth is formed inside the 'measurement' element.",
     "same_element": null,
     "vocabulary": []
   },
@@ -1522,9 +1522,9 @@
     "character": "史",
     "keyword": "History",
     "order": 138,
-    "elements": ["E-077"],
+    "elements": ["E-077", "E-007"],
     "grade": "5",
-    "description": "",
+    "description": "Once again, we have the combination of 'mouth' and 'length', except that the first stroke of length has been omitted. Someone reciting Japan's long History at 'length', and is taking so long that no 'one' person is there anymore.",
     "same_element": null,
     "vocabulary": []
   },
@@ -1535,7 +1535,7 @@
     "order": 139,
     "elements": ["E-078", "E-008"],
     "grade": "2",
-    "description": "",
+    "description": "The kanji used for writing contains a 'brush' above a 'sun', though it might be easier to think of the 'sun' as a piece of paper with a line drawn on it. Alternatively, consider the idea of someone saving their writing for when the 'sun' is out to maximise visibility.",
     "same_element": null,
     "vocabulary": []
   },
@@ -1546,7 +1546,7 @@
     "order": 140,
     "elements": ["E-045", "E-078"],
     "grade": "3",
-    "description": "",
+    "description": "This kanji refers to the traditional writing 'brushes' used to write Japanese characters which are often made from a stick of 'bamboo'",
     "same_element": null,
     "vocabulary": []
   },
@@ -1557,7 +1557,7 @@
     "order": 141,
     "elements": ["E-079"],
     "grade": "2",
-    "description": "",
+    "description": "What is mightier, the brush or the sword? This pictogram of a sword has become heavily styalised. Be sure to keep the strokes distinct from the similar 'power' kanji and element.",
     "same_element": "E-079",
     "vocabulary": []
   },
@@ -1568,7 +1568,7 @@
     "order": 142,
     "elements": ["E-008", "E-079", "E-007"],
     "grade": "3",
-    "description": "",
+    "description": "Here we have a depiction of the famous 'Sword in the Stone' A Shining 'sword' is stuck into a hole in the ground here represented by the 'mouth'. Of course, the 'sword' is reflecting the rays of the 'sun', shining brightly.",
     "same_element": null,
     "vocabulary": []
   },
@@ -1579,18 +1579,18 @@
     "order": 143,
     "elements": ["E-003", "E-079"],
     "grade": "2",
-    "description": "",
+    "description": "A 'sword' being used to slice something and Cut it 'into pieces' is here used to represent the action of Cutting.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0144",
     "character": "分",
-    "keyword": "Minute, understand",
+    "keyword": "Part",
     "order": 144,
     "elements": ["E-080"],
     "grade": "2",
-    "description": "",
+    "description": "Similar to the last frame, here the sword is cutting something 'apart' into Parts. This kanji is more about the act of dividing something into smaller, more manageable pieces as opposed to the act of cutting itself.",
     "same_element": "E-080",
     "vocabulary": []
   },
@@ -1601,7 +1601,7 @@
     "order": 145,
     "elements": ["E-081"],
     "grade": "2",
-    "description": "",
+    "description": "Hometown here is represented by a 'rice field' and 'soil' to represent humble beginnings. However, note how the rice field and soil elements combine to create an entirely new form.",
     "same_element": "E-081",
     "vocabulary": []
   },
@@ -1612,18 +1612,18 @@
     "order": 146,
     "elements": ["E-081", "E-043"],
     "grade": "2",
-    "description": "",
+    "description": "An old desktop 'computer' has here been thrown onto a 'fire' and become charred and Black. Even the screen has gone Black.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0147",
     "character": "重",
-    "keyword": "Heavy, gravity, pile",
+    "keyword": "Heavy",
     "order": 147,
     "elements": ["E-082"],
     "grade": "3",
-    "description": "",
+    "description": "As 'computers' continue to get lighter, they increasingly need to be fasted to the desk with a Heavy 'stake' Whether forcing a heavy 'stake' through the top of a 'computer' would affect the performance, I'll leave that judgement up to the user.",
     "same_element": "E-082",
     "vocabulary": []
   },
@@ -1634,7 +1634,7 @@
     "order": 148,
     "elements": ["E-082", "E-017"],
     "grade": "3",
-    "description": "",
+    "description": "A pretty straightfoward combination, someone using all their 'power' to Move a 'heavy' object. Really imagine someone with flexing arms pushing against a heavy object, trying to get it to move.",
     "same_element": null,
     "vocabulary": []
   },
@@ -1663,22 +1663,22 @@
   {
     "id": "K-0151",
     "character": "角",
-    "keyword": "Corner, horn",
+    "keyword": "Corner",
     "order": 151,
     "elements": ["E-084"],
     "grade": "2",
-    "description": "",
+    "description": "This kanji refers to a corner or angle of a shape and combines 'bound up', 'moon' and 'rice field' into a unique form.",
     "same_element": "E-084",
     "vocabulary": []
   },
   {
     "id": "K-0152",
     "character": "解",
-    "keyword": "Untie / solve",
+    "keyword": "Solve",
     "order": 152,
     "elements": ["E-084", "E-079", "E-049"],
     "grade": "5",
-    "description": "",
+    "description": "This kanji shows a 'cow' having its 'horn' cut off by a 'sword'. Over time, the notion of removing something was abstracted to mean 'removing a problem', or Solving something.",
     "same_element": null,
     "vocabulary": []
   },
@@ -1689,7 +1689,7 @@
     "order": 153,
     "elements": ["E-085", "E-079"],
     "grade": "3",
-    "description": "",
+    "description": "Here we see a morbid display of bones arranged in a 'row'. The 'sword' provides the context and how the bones were seperated from their bodies.",
     "same_element": null,
     "vocabulary": []
   },
@@ -1700,7 +1700,7 @@
     "order": 154,
     "elements": ["E-086"],
     "grade": "3",
-    "description": "",
+    "description": "The top part of 'bone' here extends to the right to cover a 'spoon'. If you replace all the 'bones' in your body with 'spoons', you would quickly succumb to Death.",
     "same_element": "E-086",
     "vocabulary": []
   },
@@ -1711,7 +1711,7 @@
     "order": 155,
     "elements": ["E-039", "E-087"],
     "grade": "3",
-    "description": "",
+    "description": "If we consider the right-hand side of this kanji as a candlestick, the kanji's meaning of Extinguish becomes immediately apart when you introduce the 'water' element on the left.",
     "same_element": null,
     "vocabulary": []
   },

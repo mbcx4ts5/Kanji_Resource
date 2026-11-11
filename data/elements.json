@@ -612,7 +612,7 @@
     "character": "寺",
     "name": "Temple",
     "order": 76,
-    "description": "",
+    "description": "As an element, keep to the idea of a 'temple'.",
     "components": []
   },
   {
@@ -620,7 +620,7 @@
     "character": "丈",
     "name": "Length",
     "order": 77,
-    "description": "",
+    "description": "Somewhat similar to the 'element' for measurement, this element also relates to measuring a height or a length of something. Imagine someone laying a piece of fabric flat and ironing out the creases in order to measure its 'length'. You can even see the remaining crease yet to be ironed out shown by the third stroke.",
     "components": []
   },
   {
@@ -628,15 +628,15 @@
     "character": "聿",
     "name": "Brush",
     "order": 78,
-    "description": "",
+    "description": "This unusual combination of strokes refers to a brush, especially one used for writing. Perhaps you can see the many bristles of the brush here represented by the main horizontal strokes in this element.",
     "components": []
   },
   {
     "id": "E-079",
-    "character": "刀",
+    "character": "刀・刂",
     "name": "Sword",
     "order": 79,
-    "description": "",
+    "description": "As an element, the form continues the meaning of 'sword'. The element will often change to two vertical lines when it appears on the right-hand side of a kanji and ends up looking a tad more like a sword.",
     "components": []
   },
   {
@@ -644,7 +644,7 @@
     "character": "分",
     "name": "Part",
     "order": 80,
-    "description": "",
+    "description": "As an element, consider something being only a small 'part' of a larger whole.",
     "components": []
   },
   {
@@ -652,7 +652,7 @@
     "character": "里",
     "name": "Computer",
     "order": 81,
-    "description": "",
+    "description": "As an element, this form visually represents a desktop computer complete with a keyboard. It might be better to consider the physical representation of computer instead of using 'hometown'.",
     "components": []
   },
   {
@@ -660,7 +660,7 @@
     "character": "重",
     "name": "Heavy",
     "order": 82,
-    "description": "",
+    "description": "As an element, if the idea of 'heavy' is too broad, you may want to consider a heavy item, such as a dumbbell or a heavy stack of items.",
     "components": []
   },
   {
@@ -674,9 +674,9 @@
   {
     "id": "E-084",
     "character": "角",
-    "name": "Angle",
+    "name": "Horn",
     "order": 84,
-    "description": "",
+    "description": "This kanji originally represented a 'horn' from an animal and came to refer to the 'corner' or 'angle' produced by the horn. As an element, use the idea specifically of a horn removed from an animal.",
     "components": []
   },
   {
@@ -684,7 +684,7 @@
     "character": "歹",
     "name": "Bone",
     "order": 85,
-    "description": "",
+    "description": "This element represents a bone and is made up of 'one' and 'evening'. We've already seen how 'moon' is often a stand in for 'flesh' or 'body part'. Now the 'evening' is representing the last pieces of flesh hanging from a single bone.",
     "components": []
   },
   {
@@ -692,7 +692,7 @@
     "character": "死",
     "name": "Death",
     "order": 86,
-    "description": "",
+    "description": "As an element, keep this kanji related to the moment of death, rather than simply a deceased ancestor.",
     "components": []
   },
   {
@@ -700,7 +700,7 @@
     "character": "肖",
     "name": "Candlestick",
     "order": 87,
-    "description": "",
+    "description": "This somewhat uncommon element is comprised of a 'small moon', although its form looks similar to a lit candle. Use this visual when creating mnemonics.",
     "components": []
   },
   {
@@ -802,7 +802,7 @@
   {
     "id": "E-100",
     "character": "丷",
-    "name": "Horns",
+    "name": "Devil Horns",
     "order": 100,
     "description": "",
     "components": []
