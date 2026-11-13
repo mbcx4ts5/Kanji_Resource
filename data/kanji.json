@@ -1964,7 +1964,7 @@
     "order": 178,
     "elements": ["E-100", "E-001", "E-009", "E-079"],
     "grade": "2",
-    "description": "",
+    "description": "A person cutting up 'flesh' with their 'sword' grows a pair of 'devil horns' for some reason. Imagine them standing Before a mirror and watching the devil horns grow out.",
     "same_element": null,
     "vocabulary": []
   },
@@ -1975,7 +1975,7 @@
     "order": 179,
     "elements": ["E-100", "E-062", "E-023"],
     "grade": "2",
-    "description": "",
+    "description": "We have seen the unique combinationf of 'bow', 'walking stick' and 'drop' in the kanji for Ordinal. Imagine an especially wicked Younger Brother with 'devil horns' playing pranks with their 'bow on a walking stick'.",
     "same_element": null,
     "vocabulary": []
   },
@@ -1986,18 +1986,18 @@
     "order": 180,
     "elements": ["E-101"],
     "grade": "2",
-    "description": "",
+    "description": "Continuing with the theme of body parts, we have the kanji for the 'neck'. Imagine a grotesque image of a monster with a big 'nose', 'devil horns' and a bag of heads all cut off at the Neck.",
     "same_element": "E-101",
     "vocabulary": []
   },
   {
     "id": "K-0181",
     "character": "楽",
-    "keyword": "Music, pleasure",
+    "keyword": "Music",
     "order": 181,
     "elements": ["E-021", "E-102", "E-012"],
     "grade": "2",
-    "description": "",
+    "description": " The top part of this kanji resembles a disco ball, a 'sparkling white' object often found alongside Music. Below, we have the dancefloor made of 'wood'.",
     "same_element": null,
     "vocabulary": []
   },
@@ -2006,9 +2006,9 @@
     "character": "緑",
     "keyword": "Green",
     "order": 182,
-    "elements": ["E-046", "E-071", "E-023", "E-102"],
+    "elements": ["E-046", "E-071", "E-102"],
     "grade": "3",
-    "description": "",
+    "description": "The Green initiative has created an all-purpose tool of gathering fallen leaves to recycle as fuel. It contains a 'broom' to collect the leaves, 'thread' to bundle it together and a 'sparkler' to start the fire.",
     "same_element": null,
     "vocabulary": []
   },
@@ -2019,18 +2019,18 @@
     "order": 183,
     "elements": ["E-103"],
     "grade": "1",
-    "description": "",
+    "description": "A pictograph of a hand. Although it seems to have morphed an extra finger, the original form can still be made out from the character.",
     "same_element": "E-103",
     "vocabulary": []
   },
   {
     "id": "K-0184",
     "character": "打",
-    "keyword": "Hit",
+    "keyword": "Strike",
     "order": 184,
     "elements": ["E-103", "E-060"],
     "grade": "3",
-    "description": "",
+    "description": "You Strike down a 'nail', but end up Striking your 'finger' instead.",
     "same_element": null,
     "vocabulary": []
   },
@@ -2041,18 +2041,18 @@
     "order": 185,
     "elements": ["E-103", "E-076"],
     "grade": "3",
-    "description": "",
+    "description": "Imagine a monk at a 'temple' Holding something like rosary beads. Now imagine those beads intertwined round their 'fingers'.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0186",
     "character": "指",
-    "keyword": "Finger, point",
+    "keyword": "Finger",
     "order": 186,
     "elements": ["E-103", "E-072", "E-008"],
     "grade": "3",
-    "description": "",
+    "description": "This kanji represents the fingers themselves. A person who eats all 'day' has grown tired of using 'spoons' and has just resorted to using their 'fingers' instead.",
     "same_element": null,
     "vocabulary": []
   },
@@ -2063,7 +2063,7 @@
     "order": 187,
     "elements": ["E-062", "E-104", "E-051"],
     "grade": "2",
-    "description": "",
+    "description": "A Strong archer has a good 'bow', good 'posture' shown here by their bent 'elbow' and good aim with the ability to target a single 'insect'.",
     "same_element": null,
     "vocabulary": []
   },
@@ -2074,7 +2074,7 @@
     "order": 188,
     "elements": ["E-062", "E-040"],
     "grade": "2",
-    "description": "",
+    "description": "We see 'two bows' here covered in 'ice' to mean Weak. Of course, a frozen 'bow' wouldn't flex very well and would make for a Weak bow.",
     "same_element": null,
     "vocabulary": []
   },
@@ -2085,7 +2085,7 @@
     "order": 189,
     "elements": ["E-105"],
     "grade": "2",
-    "description": "",
+    "description": "An 'elbow' over a 'mouth'. Alternatively imagine someone resting their 'elbows' over a pedestal (here represented) by a mouth, perhaps in boredom or frustration.",
     "same_element": "E-105",
     "vocabulary": []
   },
@@ -2096,7 +2096,7 @@
     "order": 190,
     "elements": ["E-106"],
     "grade": "2",
-    "description": "",
+    "description": "An 'elbow' is a useful tool to use in Public. Imagine a busy crowd and 'elbowing' people out the way to 'split apart' the group.",
     "same_element": "E-106",
     "vocabulary": []
   },
@@ -2107,7 +2107,7 @@
     "order": 191,
     "elements": ["E-057", "E-107", "E-059"],
     "grade": "2",
-    "description": "",
+    "description": "Imagine going to a fancy 'house' to rub 'shoulder with the elites, but instead you end up in a cramped Room instead rubbing shoulders with 'dirt'.",
     "same_element": null,
     "vocabulary": []
   },
@@ -2118,29 +2118,29 @@
     "order": 192,
     "elements": ["E-059", "E-107"],
     "grade": "3",
-    "description": "",
+    "description": "You tried to Leave the room from the previous room, but the 'dirt' follows you out, creeping over the top of your 'shoulder'. Note that the soil element now appears on top and doubles up with the 'shoulder' element.",
     "same_element": "E-108",
     "vocabulary": []
   },
   {
     "id": "K-0193",
     "character": "育",
-    "keyword": "Raise",
+    "keyword": "Bring Up",
     "order": 193,
     "elements": ["E-109", "E-009"],
     "grade": "3",
-    "description": "",
+    "description": "This kanji refers to Bringing Up or raising a child. When Bringing Up an 'infant', make sure it's needs are met, including that they get to sleep before the 'moon' is out.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0194",
     "character": "統",
-    "keyword": "Relationship",
+    "keyword": "Overall",
     "order": 194,
     "elements": ["E-046", "E-109", "E-088"],
     "grade": "5",
-    "description": "",
+    "description": "This kanji refers to the overall control over or overall connection between a group. To make sure you have Overall control over a group of 'infants', tie their 'human legs' up together with 'thread'.",
     "same_element": null,
     "vocabulary": []
   },
@@ -2151,7 +2151,7 @@
     "order": 195,
     "elements": ["E-045", "E-015", "E-110"],
     "grade": "2",
-    "description": "",
+    "description": "This character seems to resemble an abacus used to Calculate something. Notice the abacus in the centre, here represented by the 'eye' element, the 'bamboo' beads and the 'two hands' used to separate the beads. Note as well that the last stroke of 'eye' doubles up with 'two hands'.",
     "same_element": null,
     "vocabulary": []
   },
@@ -2162,7 +2162,7 @@
     "order": 196,
     "elements": ["E-014", "E-110"],
     "grade": "3",
-    "description": "",
+    "description": "A 'stone' being held steady with 'two hands' whilst we sharpen it.",
     "same_element": null,
     "vocabulary": []
   },
@@ -2171,9 +2171,9 @@
     "character": "鼻",
     "keyword": "Nose",
     "order": 197,
-    "elements": ["E-032", "E-011", "E-110"],
+    "elements": ["E-031", "E-011", "E-110"],
     "grade": "3",
-    "description": "",
+    "description": "We come to the kanji for Nose from which the 'oneself' element gets its alternative interpretation. Consider this as a pictogram of a nose, with the bridge represented by 'oneself', two flared nostrils represnted by 'rice field' and 'two hands' pressed into each nostril. Once again, we see a doubling up of the first stroke of 'two hands'.",
     "same_element": null,
     "vocabulary": []
   },
@@ -2184,7 +2184,7 @@
     "order": 198,
     "elements": ["E-111", "E-009"],
     "grade": "3",
-    "description": "",
+    "description": "The kanji from which the element gets its name. Even if we don't possess any material goods, we at least possess our own body, here represented by our 'flesh'.",
     "same_element": null,
     "vocabulary": []
   },
@@ -2195,7 +2195,7 @@
     "order": 199,
     "elements": ["E-111", "E-056"],
     "grade": "1",
-    "description": "",
+    "description": "Leftness is often associated with the sinister and evil. Here we see a sinister lefthander who 'possesses' the ability to perform witch 'craft'. They also possess the ability to reverse the stroke order of 'possess' and make the final stroke slightly longer as part of their sinister deeds, so don't forget this distinction with this kanji.",
     "same_element": null,
     "vocabulary": []
   },
@@ -2206,7 +2206,7 @@
     "order": 200,
     "elements": ["E-111", "E-007"],
     "grade": "1",
-    "description": "",
+    "description": "In contrast, rightness is often associate with the good and righteous. Not only is the usual stroke order restored, but shows that we 'possess a mouth' to voice all our righteous opinions.",
     "same_element": null,
     "vocabulary": []
   },
@@ -2217,7 +2217,7 @@
     "order": 201,
     "elements": ["E-046", "E-112"],
     "grade": "3",
-    "description": "",
+    "description": "To Rank finalists in a competition, a special type of medal has been invented. The 'thread' on the medal is elastic and 'extends' downwards in proportion with the wearer's Rank.",
     "same_element": null,
     "vocabulary": []
   },
@@ -2228,18 +2228,18 @@
     "order": 202,
     "elements": ["E-007", "E-112"],
     "grade": "6",
-    "description": "",
+    "description": "To Suck something, we naturally have to 'extend' our 'mouths' around the object.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0203",
     "character": "足",
-    "keyword": "Foot, suffice",
+    "keyword": "Foot",
     "order": 203,
     "elements": ["E-113"],
     "grade": "1",
-    "description": "",
+    "description": "This unusual kanji is a pictogram of leg and Foot though it's somewhat difficult to make out now.",
     "same_element": "E-113",
     "vocabulary": []
   },
@@ -2250,7 +2250,7 @@
     "order": 204,
     "elements": ["E-113", "E-096"],
     "grade": "3",
-    "description": "",
+    "description": "To start your journey on a Path, it's no good to just dip one 'foot' in, you need to put 'each foot' onto the path and walk forward with confidence.",
     "same_element": null,
     "vocabulary": []
   },
@@ -2261,7 +2261,7 @@
     "order": 205,
     "elements": ["E-114"],
     "grade": "1",
-    "description": "",
+    "description": "This kanji is a pictogram of an Ear. You might notice the relation with 'eye' and 'nose', though be careful with the revised stroke order here.",
     "same_element": "E-114",
     "vocabulary": []
   },
@@ -2272,7 +2272,7 @@
     "order": 206,
     "elements": ["E-115"],
     "grade": "6",
-    "description": "",
+    "description": "This kanji resembles a mouth with something sticking out of it and carries the meaning of Tongue. The thing sticking out is a 'stake', perhaps referencing a tongue piercing.",
     "same_element": "E-115",
     "vocabulary": []
   },
@@ -2283,18 +2283,18 @@
     "order": 207,
     "elements": ["E-018", "E-115"],
     "grade": "2",
-    "description": "",
+    "description": "This kanji is quite self explanatory. When we Talk 'words', we move our 'tongues'.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0208",
     "character": "活",
-    "keyword": "Active",
+    "keyword": "Lively",
     "order": 208,
     "elements": ["E-039", "E-115"],
     "grade": "2",
-    "description": "",
+    "description": "Here we see a lively discussion with lots of 'tongues' wagging back and forth. It's so lively you can even see the drops of 'watery' saliva coming off the tongue.",
     "same_element": null,
     "vocabulary": []
   },

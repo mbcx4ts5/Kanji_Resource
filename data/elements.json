@@ -812,7 +812,7 @@
     "character": "首",
     "name": "Neck",
     "order": 101,
-    "description": "",
+    "description": "This element continues to carry the meaning of 'neck'.",
     "components": []
   },
   {
@@ -820,15 +820,15 @@
     "character": "氺",
     "name": "Sparkler",
     "order": 102,
-    "description": "",
+    "description": "A sparkler here is represnted by a stick with sparks flying off it in all directions. Occasionally, the sparkler itself will be absent, leaving behind just the sparks.",
     "components": []
   },
   {
     "id": "E-103",
-    "character": "手",
-    "name": "Hand",
+    "character": "手・扌",
+    "name": "Finger",
     "order": 103,
-    "description": "",
+    "description": "As an element, this form can either take the usual form, or shapeshifts when it is in the left-hand position. When it takes its regular form, use 'hand', but when it takes its abreviated shape-shifted form, reduce its meaning to a 'finger'.",
     "components": []
   },
   {
@@ -836,7 +836,7 @@
     "character": "厶",
     "name": "Elbow",
     "order": 104,
-    "description": "",
+    "description": "The sharp angle in this element invokes the idea of an 'elbow'.",
     "components": []
   },
   {
@@ -844,7 +844,7 @@
     "character": "台",
     "name": "Pedestal",
     "order": 105,
-    "description": "",
+    "description": "As an element, keep the idea of a 'pedestal'.",
     "components": []
   },
   {
@@ -852,15 +852,15 @@
     "character": "公",
     "name": "Public",
     "order": 106,
-    "description": "",
+    "description": "As an element, imagine something that is open to the 'public'.",
     "components": []
   },
   {
     "id": "E-107",
     "character": "𠫔",
-    "name": "Climax",
+    "name": "Shoulder",
     "order": 107,
-    "description": "",
+    "description": "Going further up the arm, the 'elbow' below a vertical line here is referring to the 'upper arm' and 'shoulder'.",
     "components": []
   },
   {
@@ -876,7 +876,7 @@
     "character": "𠫓",
     "name": "Infant",
     "order": 109,
-    "description": "",
+    "description": "The element here refers to an 'infant' young enough to be carried on someone's shoulders. ",
     "components": []
   },
   {
@@ -884,7 +884,7 @@
     "character": "开",
     "name": "Two Hands",
     "order": 110,
-    "description": "",
+    "description": "This element represnts 'two hands'. Compare with the frame for 共 Together which showed 'two hands' raising something up, though the forms are different.",
     "components": []
   },
   {
@@ -892,7 +892,7 @@
     "character": "𠂇",
     "name": "Possess",
     "order": 111,
-    "description": "",
+    "description": "These two strokes represent a hand holding an object. Which stroke is the hand and which stroke is object, I'll leave up you.",
     "components": []
   },
   {
@@ -900,7 +900,7 @@
     "character": "及",
     "name": "Extend",
     "order": 112,
-    "description": "",
+    "description": "This element represents a person stretching and 'extending' their limbs in order to reach for something.",
     "components": []
   },
   {
@@ -908,7 +908,7 @@
     "character": "足",
     "name": "Foot",
     "order": 113,
-    "description": "",
+    "description": "As an element, this form continues its meaning of a 'foot'.",
     "components": []
   },
   {
@@ -916,7 +916,7 @@
     "character": "耳",
     "name": "Ear",
     "order": 114,
-    "description": "",
+    "description": "As an element, continue to use 'ear'.",
     "components": []
   },
   {
@@ -924,7 +924,7 @@
     "character": "舌",
     "name": "Tongue",
     "order": 115,
-    "description": "",
+    "description": "As an element, this form continues with the meaning of 'tongue'.",
     "components": []
   },
   {
