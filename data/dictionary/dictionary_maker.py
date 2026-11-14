@@ -3,9 +3,9 @@ import json
 import re
 
 # Input and output files and jlpt level
-input_file = "data/dictionary/N4_dictionary_jisho.csv"
+input_file = "data/dictionary/N3_dictionary_jisho.csv"
 output_file = "data/dictionary/vocabulary.json"
-jlpt_level = "N4"
+jlpt_level = "N3"
 
 
 def simplify_meaning(original):
