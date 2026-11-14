@@ -3946,5 +3946,3473 @@
         "reading": "わるい",
         "meaning": "Bad",
         "jlpt": "N5"
+    },
+    {
+        "word": "ああ",
+        "reading": "ああ",
+        "meaning": "Like that (used for something or someone distant from both speaker and listener)",
+        "jlpt": "N4"
+    },
+    {
+        "word": "間",
+        "reading": "あいだ",
+        "meaning": "Space (between)",
+        "jlpt": "N4"
+    },
+    {
+        "word": "合う",
+        "reading": "あう",
+        "meaning": "To come together",
+        "jlpt": "N4"
+    },
+    {
+        "word": "赤ちゃん",
+        "reading": "あかちゃん",
+        "meaning": "Baby",
+        "jlpt": "N4"
+    },
+    {
+        "word": "上がる",
+        "reading": "あがる",
+        "meaning": "To rise",
+        "jlpt": "N4"
+    },
+    {
+        "word": "赤ん坊",
+        "reading": "あかんぼう",
+        "meaning": "Baby",
+        "jlpt": "N4"
+    },
+    {
+        "word": "開く",
+        "reading": "あく",
+        "meaning": "To open (e.g. doors)",
+        "jlpt": "N4"
+    },
+    {
+        "word": "アクセサリー",
+        "reading": "アクセサリー",
+        "meaning": "Accessory",
+        "jlpt": "N4"
+    },
+    {
+        "word": "上げる",
+        "reading": "あげる",
+        "meaning": "To raise",
+        "jlpt": "N4"
+    },
+    {
+        "word": "浅い",
+        "reading": "あさい",
+        "meaning": "Shallow",
+        "jlpt": "N4"
+    },
+    {
+        "word": "味",
+        "reading": "あじ",
+        "meaning": "Flavor",
+        "jlpt": "N4"
+    },
+    {
+        "word": "アジア",
+        "reading": "アジア",
+        "meaning": "Asia (esp. \"the Far East\")",
+        "jlpt": "N4"
+    },
+    {
+        "word": "明日",
+        "reading": "あした",
+        "meaning": "Tomorrow",
+        "jlpt": "N4"
+    },
+    {
+        "word": "遊び",
+        "reading": "あそび",
+        "meaning": "Playing",
+        "jlpt": "N4"
+    },
+    {
+        "word": "あっ",
+        "reading": "あっ",
+        "meaning": "Ah!",
+        "jlpt": "N4"
+    },
+    {
+        "word": "集まる",
+        "reading": "あつまる",
+        "meaning": "To gather",
+        "jlpt": "N4"
+    },
+    {
+        "word": "集める",
+        "reading": "あつめる",
+        "meaning": "To collect",
+        "jlpt": "N4"
+    },
+    {
+        "word": "アナウンサー",
+        "reading": "アナウンサー",
+        "meaning": "Announcer",
+        "jlpt": "N4"
+    },
+    {
+        "word": "阿弗利加",
+        "reading": "アフリカ",
+        "meaning": "Africa",
+        "jlpt": "N4"
+    },
+    {
+        "word": "亜米利加",
+        "reading": "アメリカ",
+        "meaning": "America",
+        "jlpt": "N4"
+    },
+    {
+        "word": "謝る",
+        "reading": "あやまる",
+        "meaning": "To apologize",
+        "jlpt": "N4"
+    },
+    {
+        "word": "アルコール",
+        "reading": "アルコール",
+        "meaning": "Alcohol",
+        "jlpt": "N4"
+    },
+    {
+        "word": "アルバイト",
+        "reading": "アルバイト",
+        "meaning": "Part-time job",
+        "jlpt": "N4"
+    },
+    {
+        "word": "安心",
+        "reading": "あんしん",
+        "meaning": "Relief",
+        "jlpt": "N4"
+    },
+    {
+        "word": "安全",
+        "reading": "あんぜん",
+        "meaning": "Safety",
+        "jlpt": "N4"
+    },
+    {
+        "word": "あんな",
+        "reading": "あんな",
+        "meaning": "Such (about something or someone distant from both speaker and listener, or about a situation unfamiliar to both speaker and listener)",
+        "jlpt": "N4"
+    },
+    {
+        "word": "以下",
+        "reading": "いか",
+        "meaning": "Not exceeding",
+        "jlpt": "N4"
+    },
+    {
+        "word": "以外",
+        "reading": "いがい",
+        "meaning": "With the exception of",
+        "jlpt": "N4"
+    },
+    {
+        "word": "医学",
+        "reading": "いがく",
+        "meaning": "Medical science",
+        "jlpt": "N4"
+    },
+    {
+        "word": "生きる",
+        "reading": "いきる",
+        "meaning": "To live",
+        "jlpt": "N4"
+    },
+    {
+        "word": "意見",
+        "reading": "いけん",
+        "meaning": "Opinion",
+        "jlpt": "N4"
+    },
+    {
+        "word": "石",
+        "reading": "いし",
+        "meaning": "Stone",
+        "jlpt": "N4"
+    },
+    {
+        "word": "苛める",
+        "reading": "いじめる",
+        "meaning": "To tease",
+        "jlpt": "N4"
+    },
+    {
+        "word": "以上",
+        "reading": "いじょう",
+        "meaning": "Not less than",
+        "jlpt": "N4"
+    },
+    {
+        "word": "急ぐ",
+        "reading": "いそぐ",
+        "meaning": "To hurry",
+        "jlpt": "N4"
+    },
+    {
+        "word": "致す",
+        "reading": "いたす",
+        "meaning": "To do",
+        "jlpt": "N4"
+    },
+    {
+        "word": "一度",
+        "reading": "いちど",
+        "meaning": "Once",
+        "jlpt": "N4"
+    },
+    {
+        "word": "一生懸命",
+        "reading": "いっしょうけんめい",
+        "meaning": "Very hard",
+        "jlpt": "N4"
+    },
+    {
+        "word": "一杯",
+        "reading": "いっぱい",
+        "meaning": "Amount necessary to fill a container (e.g. cupful, spoonful, etc.)",
+        "jlpt": "N4"
+    },
+    {
+        "word": "糸",
+        "reading": "いと",
+        "meaning": "Thread",
+        "jlpt": "N4"
+    },
+    {
+        "word": "以内",
+        "reading": "いない",
+        "meaning": "Within",
+        "jlpt": "N4"
+    },
+    {
+        "word": "田舎",
+        "reading": "いなか",
+        "meaning": "Rural area",
+        "jlpt": "N4"
+    },
+    {
+        "word": "祈る",
+        "reading": "いのる",
+        "meaning": "To pray",
+        "jlpt": "N4"
+    },
+    {
+        "word": "いらっしゃる",
+        "reading": "いらっしゃる",
+        "meaning": "To come",
+        "jlpt": "N4"
+    },
+    {
+        "word": "植える",
+        "reading": "うえる",
+        "meaning": "To plant",
+        "jlpt": "N4"
+    },
+    {
+        "word": "受付",
+        "reading": "うけつけ",
+        "meaning": "Reception (desk)",
+        "jlpt": "N4"
+    },
+    {
+        "word": "受ける",
+        "reading": "うける",
+        "meaning": "To receive",
+        "jlpt": "N4"
+    },
+    {
+        "word": "動く",
+        "reading": "うごく",
+        "meaning": "To move",
+        "jlpt": "N4"
+    },
+    {
+        "word": "内",
+        "reading": "うち",
+        "meaning": "Inside",
+        "jlpt": "N4"
+    },
+    {
+        "word": "打つ",
+        "reading": "うつ",
+        "meaning": "To hit",
+        "jlpt": "N4"
+    },
+    {
+        "word": "美しい",
+        "reading": "うつくしい",
+        "meaning": "Beautiful",
+        "jlpt": "N4"
+    },
+    {
+        "word": "写す",
+        "reading": "うつす",
+        "meaning": "To transcribe",
+        "jlpt": "N4"
+    },
+    {
+        "word": "移る",
+        "reading": "うつる",
+        "meaning": "To move (house)",
+        "jlpt": "N4"
+    },
+    {
+        "word": "腕",
+        "reading": "うで",
+        "meaning": "Arm",
+        "jlpt": "N4"
+    },
+    {
+        "word": "裏",
+        "reading": "うら",
+        "meaning": "Bottom (or another side that is hidden from view)",
+        "jlpt": "N4"
+    },
+    {
+        "word": "売り場",
+        "reading": "うりば",
+        "meaning": "Place where things are sold",
+        "jlpt": "N4"
+    },
+    {
+        "word": "うん",
+        "reading": "うん",
+        "meaning": "Yes",
+        "jlpt": "N4"
+    },
+    {
+        "word": "運転手",
+        "reading": "うんてんしゅ",
+        "meaning": "Driver",
+        "jlpt": "N4"
+    },
+    {
+        "word": "エスカレーター",
+        "reading": "エスカレーター",
+        "meaning": "Escalator",
+        "jlpt": "N4"
+    },
+    {
+        "word": "枝",
+        "reading": "えだ",
+        "meaning": "Branch",
+        "jlpt": "N4"
+    },
+    {
+        "word": "選ぶ",
+        "reading": "えらぶ",
+        "meaning": "To choose",
+        "jlpt": "N4"
+    },
+    {
+        "word": "遠慮",
+        "reading": "えんりょ",
+        "meaning": "Reserve",
+        "jlpt": "N4"
+    },
+    {
+        "word": "オートバイ",
+        "reading": "オートバイ",
+        "meaning": "Motorcycle   オートバイ: gai1, ichi1.",
+        "jlpt": "N4"
+    },
+    {
+        "word": "お出でになる",
+        "reading": "おいでになる",
+        "meaning": "To be",
+        "jlpt": "N4"
+    },
+    {
+        "word": "お祝い",
+        "reading": "おいわい",
+        "meaning": "Congratulation",
+        "jlpt": "N4"
+    },
+    {
+        "word": "お蔭",
+        "reading": "おかげ",
+        "meaning": "Grace (of God)",
+        "jlpt": "N4"
+    },
+    {
+        "word": "可笑しい",
+        "reading": "おかしい",
+        "meaning": "Funny",
+        "jlpt": "N4"
+    },
+    {
+        "word": "億",
+        "reading": "おく",
+        "meaning": "10^8",
+        "jlpt": "N4"
+    },
+    {
+        "word": "屋上",
+        "reading": "おくじょう",
+        "meaning": "Rooftop",
+        "jlpt": "N4"
+    },
+    {
+        "word": "送る",
+        "reading": "おくる",
+        "meaning": "To send (a thing)",
+        "jlpt": "N4"
+    },
+    {
+        "word": "遅れる",
+        "reading": "おくれる",
+        "meaning": "To be late",
+        "jlpt": "N4"
+    },
+    {
+        "word": "起こす",
+        "reading": "おこす",
+        "meaning": "To raise",
+        "jlpt": "N4"
+    },
+    {
+        "word": "行う",
+        "reading": "おこなう",
+        "meaning": "To perform",
+        "jlpt": "N4"
+    },
+    {
+        "word": "怒る",
+        "reading": "おこる",
+        "meaning": "To get angry",
+        "jlpt": "N4"
+    },
+    {
+        "word": "押し入れ",
+        "reading": "おしいれ",
+        "meaning": "Closet",
+        "jlpt": "N4"
+    },
+    {
+        "word": "お嬢さん",
+        "reading": "おじょうさん",
+        "meaning": "Daughter",
+        "jlpt": "N4"
+    },
+    {
+        "word": "お宅",
+        "reading": "おたく",
+        "meaning": "Your house",
+        "jlpt": "N4"
+    },
+    {
+        "word": "落ちる",
+        "reading": "おちる",
+        "meaning": "To fall down",
+        "jlpt": "N4"
+    },
+    {
+        "word": "仰る",
+        "reading": "おっしゃる",
+        "meaning": "To say",
+        "jlpt": "N4"
+    },
+    {
+        "word": "夫",
+        "reading": "おっと",
+        "meaning": "Husband",
+        "jlpt": "N4"
+    },
+    {
+        "word": "お釣り",
+        "reading": "おつり",
+        "meaning": "Change (i.e. money)",
+        "jlpt": "N4"
+    },
+    {
+        "word": "音",
+        "reading": "おと",
+        "meaning": "Sound",
+        "jlpt": "N4"
+    },
+    {
+        "word": "落とす",
+        "reading": "おとす",
+        "meaning": "To drop",
+        "jlpt": "N4"
+    },
+    {
+        "word": "踊り",
+        "reading": "おどり",
+        "meaning": "Dance",
+        "jlpt": "N4"
+    },
+    {
+        "word": "踊る",
+        "reading": "おどる",
+        "meaning": "To dance (orig. a hopping dance)",
+        "jlpt": "N4"
+    },
+    {
+        "word": "驚く",
+        "reading": "おどろく",
+        "meaning": "To be surprised",
+        "jlpt": "N4"
+    },
+    {
+        "word": "お祭り",
+        "reading": "おまつり",
+        "meaning": "Festival",
+        "jlpt": "N4"
+    },
+    {
+        "word": "お見舞い",
+        "reading": "おみまい",
+        "meaning": "Calling on someone who is ill",
+        "jlpt": "N4"
+    },
+    {
+        "word": "お土産",
+        "reading": "おみやげ",
+        "meaning": "Present",
+        "jlpt": "N4"
+    },
+    {
+        "word": "思い出す",
+        "reading": "おもいだす",
+        "meaning": "To recall",
+        "jlpt": "N4"
+    },
+    {
+        "word": "思う",
+        "reading": "おもう",
+        "meaning": "To think",
+        "jlpt": "N4"
+    },
+    {
+        "word": "玩具",
+        "reading": "おもちゃ",
+        "meaning": "Toy",
+        "jlpt": "N4"
+    },
+    {
+        "word": "表",
+        "reading": "おもて",
+        "meaning": "Surface",
+        "jlpt": "N4"
+    },
+    {
+        "word": "親",
+        "reading": "おや",
+        "meaning": "Parent",
+        "jlpt": "N4"
+    },
+    {
+        "word": "泳ぎ方",
+        "reading": "およぎかた",
+        "meaning": "Way of swimming",
+        "jlpt": "N4"
+    },
+    {
+        "word": "降りる",
+        "reading": "おりる",
+        "meaning": "To descend (e.g. a mountain)",
+        "jlpt": "N4"
+    },
+    {
+        "word": "折る",
+        "reading": "おる",
+        "meaning": "To break",
+        "jlpt": "N4"
+    },
+    {
+        "word": "お礼",
+        "reading": "おれい",
+        "meaning": "Thanks",
+        "jlpt": "N4"
+    },
+    {
+        "word": "折れる",
+        "reading": "おれる",
+        "meaning": "To break",
+        "jlpt": "N4"
+    },
+    {
+        "word": "終わり",
+        "reading": "おわり",
+        "meaning": "The end",
+        "jlpt": "N4"
+    },
+    {
+        "word": "カーテン",
+        "reading": "カーテン",
+        "meaning": "Curtain",
+        "jlpt": "N4"
+    },
+    {
+        "word": "海岸",
+        "reading": "かいがん",
+        "meaning": "Coast",
+        "jlpt": "N4"
+    },
+    {
+        "word": "会議",
+        "reading": "かいぎ",
+        "meaning": "Meeting",
+        "jlpt": "N4"
+    },
+    {
+        "word": "会議室",
+        "reading": "かいぎしつ",
+        "meaning": "Conference room",
+        "jlpt": "N4"
+    },
+    {
+        "word": "会場",
+        "reading": "かいじょう",
+        "meaning": "Assembly hall",
+        "jlpt": "N4"
+    },
+    {
+        "word": "会話",
+        "reading": "かいわ",
+        "meaning": "Conversation",
+        "jlpt": "N4"
+    },
+    {
+        "word": "帰り",
+        "reading": "かえり",
+        "meaning": "Return",
+        "jlpt": "N4"
+    },
+    {
+        "word": "変える",
+        "reading": "かえる",
+        "meaning": "To change",
+        "jlpt": "N4"
+    },
+    {
+        "word": "科学",
+        "reading": "かがく",
+        "meaning": "Science",
+        "jlpt": "N4"
+    },
+    {
+        "word": "鏡",
+        "reading": "かがみ",
+        "meaning": "Mirror",
+        "jlpt": "N4"
+    },
+    {
+        "word": "掛ける",
+        "reading": "かける",
+        "meaning": "To hang (e.g. picture)",
+        "jlpt": "N4"
+    },
+    {
+        "word": "飾る",
+        "reading": "かざる",
+        "meaning": "To decorate",
+        "jlpt": "N4"
+    },
+    {
+        "word": "火事",
+        "reading": "かじ",
+        "meaning": "Fire",
+        "jlpt": "N4"
+    },
+    {
+        "word": "瓦斯",
+        "reading": "ガス",
+        "meaning": "Gas (state of matter, e.g. poison gas, natural gas)",
+        "jlpt": "N4"
+    },
+    {
+        "word": "ガソリン",
+        "reading": "ガソリン",
+        "meaning": "Gasoline",
+        "jlpt": "N4"
+    },
+    {
+        "word": "ガソリンスタンド",
+        "reading": "ガソリンスタンド",
+        "meaning": "Gas station",
+        "jlpt": "N4"
+    },
+    {
+        "word": "硬い",
+        "reading": "かたい",
+        "meaning": "Hard",
+        "jlpt": "N4"
+    },
+    {
+        "word": "形",
+        "reading": "かたち",
+        "meaning": "Form",
+        "jlpt": "N4"
+    },
+    {
+        "word": "片付ける",
+        "reading": "かたづける",
+        "meaning": "To tidy up",
+        "jlpt": "N4"
+    },
+    {
+        "word": "課長",
+        "reading": "かちょう",
+        "meaning": "Section manager",
+        "jlpt": "N4"
+    },
+    {
+        "word": "勝つ",
+        "reading": "かつ",
+        "meaning": "To win",
+        "jlpt": "N4"
+    },
+    {
+        "word": "家内",
+        "reading": "かない",
+        "meaning": "(my) wife",
+        "jlpt": "N4"
+    },
+    {
+        "word": "悲しい",
+        "reading": "かなしい",
+        "meaning": "Sad",
+        "jlpt": "N4"
+    },
+    {
+        "word": "必ず",
+        "reading": "かならず",
+        "meaning": "Always",
+        "jlpt": "N4"
+    },
+    {
+        "word": "彼女",
+        "reading": "かのじょ",
+        "meaning": "She",
+        "jlpt": "N4"
+    },
+    {
+        "word": "壁",
+        "reading": "かべ",
+        "meaning": "Wall",
+        "jlpt": "N4"
+    },
+    {
+        "word": "髪",
+        "reading": "かみ",
+        "meaning": "Hair (on the head)",
+        "jlpt": "N4"
+    },
+    {
+        "word": "噛む",
+        "reading": "かむ",
+        "meaning": "To bite",
+        "jlpt": "N4"
+    },
+    {
+        "word": "通う",
+        "reading": "かよう",
+        "meaning": "To go to and from (a place)",
+        "jlpt": "N4"
+    },
+    {
+        "word": "硝子",
+        "reading": "ガラス",
+        "meaning": "Glass",
+        "jlpt": "N4"
+    },
+    {
+        "word": "彼",
+        "reading": "かれ",
+        "meaning": "He",
+        "jlpt": "N4"
+    },
+    {
+        "word": "乾く",
+        "reading": "かわく",
+        "meaning": "To get dry",
+        "jlpt": "N4"
+    },
+    {
+        "word": "代わり",
+        "reading": "かわり",
+        "meaning": "Substitute",
+        "jlpt": "N4"
+    },
+    {
+        "word": "変わる",
+        "reading": "かわる",
+        "meaning": "To change",
+        "jlpt": "N4"
+    },
+    {
+        "word": "考える",
+        "reading": "かんがえる",
+        "meaning": "To think about",
+        "jlpt": "N4"
+    },
+    {
+        "word": "関係",
+        "reading": "かんけい",
+        "meaning": "Relation",
+        "jlpt": "N4"
+    },
+    {
+        "word": "看護師",
+        "reading": "かんごし",
+        "meaning": "(hospital) nurse",
+        "jlpt": "N4"
+    },
+    {
+        "word": "簡単",
+        "reading": "かんたん",
+        "meaning": "Simple",
+        "jlpt": "N4"
+    },
+    {
+        "word": "気",
+        "reading": "き",
+        "meaning": "Spirit",
+        "jlpt": "N4"
+    },
+    {
+        "word": "機会",
+        "reading": "きかい",
+        "meaning": "Chance",
+        "jlpt": "N4"
+    },
+    {
+        "word": "危険",
+        "reading": "きけん",
+        "meaning": "Danger",
+        "jlpt": "N4"
+    },
+    {
+        "word": "聞こえる",
+        "reading": "きこえる",
+        "meaning": "To be heard",
+        "jlpt": "N4"
+    },
+    {
+        "word": "汽車",
+        "reading": "きしゃ",
+        "meaning": "Train (sometimes specifically a steam train)",
+        "jlpt": "N4"
+    },
+    {
+        "word": "技術",
+        "reading": "ぎじゅつ",
+        "meaning": "Technology",
+        "jlpt": "N4"
+    },
+    {
+        "word": "季節",
+        "reading": "きせつ",
+        "meaning": "Season",
+        "jlpt": "N4"
+    },
+    {
+        "word": "規則",
+        "reading": "きそく",
+        "meaning": "Rules",
+        "jlpt": "N4"
+    },
+    {
+        "word": "屹度",
+        "reading": "きっと",
+        "meaning": "Surely",
+        "jlpt": "N4"
+    },
+    {
+        "word": "絹",
+        "reading": "きぬ",
+        "meaning": "Silk  きぬ: ichi1, news1, nf12. 絹: ichi1, news1, nf12.",
+        "jlpt": "N4"
+    },
+    {
+        "word": "厳しい",
+        "reading": "きびしい",
+        "meaning": "Severe",
+        "jlpt": "N4"
+    },
+    {
+        "word": "気分",
+        "reading": "きぶん",
+        "meaning": "Feeling",
+        "jlpt": "N4"
+    },
+    {
+        "word": "決まる",
+        "reading": "きまる",
+        "meaning": "To be decided",
+        "jlpt": "N4"
+    },
+    {
+        "word": "君",
+        "reading": "きみ",
+        "meaning": "You",
+        "jlpt": "N4"
+    },
+    {
+        "word": "決める",
+        "reading": "きめる",
+        "meaning": "To decide",
+        "jlpt": "N4"
+    },
+    {
+        "word": "気持ち",
+        "reading": "きもち",
+        "meaning": "Feeling",
+        "jlpt": "N4"
+    },
+    {
+        "word": "着物",
+        "reading": "きもの",
+        "meaning": "Clothing",
+        "jlpt": "N4"
+    },
+    {
+        "word": "客",
+        "reading": "きゃく",
+        "meaning": "Guest",
+        "jlpt": "N4"
+    },
+    {
+        "word": "急",
+        "reading": "きゅう",
+        "meaning": "Urgent",
+        "jlpt": "N4"
+    },
+    {
+        "word": "急行",
+        "reading": "きゅうこう",
+        "meaning": "Moving at high speed",
+        "jlpt": "N4"
+    },
+    {
+        "word": "教育",
+        "reading": "きょういく",
+        "meaning": "Training",
+        "jlpt": "N4"
+    },
+    {
+        "word": "教会",
+        "reading": "きょうかい",
+        "meaning": "Church",
+        "jlpt": "N4"
+    },
+    {
+        "word": "競争",
+        "reading": "きょうそう",
+        "meaning": "Competition",
+        "jlpt": "N4"
+    },
+    {
+        "word": "興味",
+        "reading": "きょうみ",
+        "meaning": "Interest (in something)",
+        "jlpt": "N4"
+    },
+    {
+        "word": "近所",
+        "reading": "きんじょ",
+        "meaning": "Neighbourhood",
+        "jlpt": "N4"
+    },
+    {
+        "word": "具合",
+        "reading": "ぐあい",
+        "meaning": "Condition",
+        "jlpt": "N4"
+    },
+    {
+        "word": "空気",
+        "reading": "くうき",
+        "meaning": "Air",
+        "jlpt": "N4"
+    },
+    {
+        "word": "空港",
+        "reading": "くうこう",
+        "meaning": "Airport",
+        "jlpt": "N4"
+    },
+    {
+        "word": "草",
+        "reading": "くさ",
+        "meaning": "Grass",
+        "jlpt": "N4"
+    },
+    {
+        "word": "首",
+        "reading": "くび",
+        "meaning": "Neck",
+        "jlpt": "N4"
+    },
+    {
+        "word": "雲",
+        "reading": "くも",
+        "meaning": "Cloud",
+        "jlpt": "N4"
+    },
+    {
+        "word": "比べる",
+        "reading": "くらべる",
+        "meaning": "To compare",
+        "jlpt": "N4"
+    },
+    {
+        "word": "呉れる",
+        "reading": "くれる",
+        "meaning": "To give",
+        "jlpt": "N4"
+    },
+    {
+        "word": "暮れる",
+        "reading": "くれる",
+        "meaning": "To get dark",
+        "jlpt": "N4"
+    },
+    {
+        "word": "君",
+        "reading": "くん",
+        "meaning": "Mr (junior)",
+        "jlpt": "N4"
+    },
+    {
+        "word": "毛",
+        "reading": "け",
+        "meaning": "Hair",
+        "jlpt": "N4"
+    },
+    {
+        "word": "ケーキ",
+        "reading": "ケーキ",
+        "meaning": "Cake",
+        "jlpt": "N4"
+    },
+    {
+        "word": "経済",
+        "reading": "けいざい",
+        "meaning": "Economics",
+        "jlpt": "N4"
+    },
+    {
+        "word": "警察",
+        "reading": "けいさつ",
+        "meaning": "Police",
+        "jlpt": "N4"
+    },
+    {
+        "word": "景色",
+        "reading": "けしき",
+        "meaning": "Scenery",
+        "jlpt": "N4"
+    },
+    {
+        "word": "消しゴム",
+        "reading": "けしゴム",
+        "meaning": "Eraser",
+        "jlpt": "N4"
+    },
+    {
+        "word": "下宿",
+        "reading": "げしゅく",
+        "meaning": "Boarding",
+        "jlpt": "N4"
+    },
+    {
+        "word": "決して",
+        "reading": "けっして",
+        "meaning": "Never",
+        "jlpt": "N4"
+    },
+    {
+        "word": "けど",
+        "reading": "けど",
+        "meaning": "But",
+        "jlpt": "N4"
+    },
+    {
+        "word": "原因",
+        "reading": "げんいん",
+        "meaning": "Cause",
+        "jlpt": "N4"
+    },
+    {
+        "word": "喧嘩",
+        "reading": "けんか",
+        "meaning": "Quarrel",
+        "jlpt": "N4"
+    },
+    {
+        "word": "研究",
+        "reading": "けんきゅう",
+        "meaning": "Study",
+        "jlpt": "N4"
+    },
+    {
+        "word": "研究室",
+        "reading": "けんきゅうしつ",
+        "meaning": "Laboratory",
+        "jlpt": "N4"
+    },
+    {
+        "word": "見物",
+        "reading": "けんぶつ",
+        "meaning": "Sightseeing",
+        "jlpt": "N4"
+    },
+    {
+        "word": "子",
+        "reading": "こ",
+        "meaning": "Child",
+        "jlpt": "N4"
+    },
+    {
+        "word": "斯う",
+        "reading": "こう",
+        "meaning": "In this way (used for something or someone close to the speaker, including the speaker himself, or for the opinions of the speaker)",
+        "jlpt": "N4"
+    },
+    {
+        "word": "郊外",
+        "reading": "こうがい",
+        "meaning": "Suburb",
+        "jlpt": "N4"
+    },
+    {
+        "word": "講義",
+        "reading": "こうぎ",
+        "meaning": "Lecture",
+        "jlpt": "N4"
+    },
+    {
+        "word": "工業",
+        "reading": "こうぎょう",
+        "meaning": "(manufacturing) industry",
+        "jlpt": "N4"
+    },
+    {
+        "word": "高校",
+        "reading": "こうこう",
+        "meaning": "Senior high school",
+        "jlpt": "N4"
+    },
+    {
+        "word": "高校生",
+        "reading": "こうこうせい",
+        "meaning": "Senior high school student",
+        "jlpt": "N4"
+    },
+    {
+        "word": "工場",
+        "reading": "こうじょう",
+        "meaning": "Factory",
+        "jlpt": "N4"
+    },
+    {
+        "word": "校長",
+        "reading": "こうちょう",
+        "meaning": "Principal",
+        "jlpt": "N4"
+    },
+    {
+        "word": "交通",
+        "reading": "こうつう",
+        "meaning": "Traffic",
+        "jlpt": "N4"
+    },
+    {
+        "word": "講堂",
+        "reading": "こうどう",
+        "meaning": "Auditorium",
+        "jlpt": "N4"
+    },
+    {
+        "word": "高等学校",
+        "reading": "こうとうがっこう",
+        "meaning": "Senior high school",
+        "jlpt": "N4"
+    },
+    {
+        "word": "公務員",
+        "reading": "こうむいん",
+        "meaning": "Government worker",
+        "jlpt": "N4"
+    },
+    {
+        "word": "国際",
+        "reading": "こくさい",
+        "meaning": "International",
+        "jlpt": "N4"
+    },
+    {
+        "word": "心",
+        "reading": "こころ",
+        "meaning": "Mind",
+        "jlpt": "N4"
+    },
+    {
+        "word": "ご主人",
+        "reading": "ごしゅじん",
+        "meaning": "Your husband",
+        "jlpt": "N4"
+    },
+    {
+        "word": "故障",
+        "reading": "こしょう",
+        "meaning": "Breakdown",
+        "jlpt": "N4"
+    },
+    {
+        "word": "ご存じ",
+        "reading": "ごぞんじ",
+        "meaning": "Knowing",
+        "jlpt": "N4"
+    },
+    {
+        "word": "答え",
+        "reading": "こたえ",
+        "meaning": "Answer",
+        "jlpt": "N4"
+    },
+    {
+        "word": "ご馳走",
+        "reading": "ごちそう",
+        "meaning": "Feast",
+        "jlpt": "N4"
+    },
+    {
+        "word": "小鳥",
+        "reading": "ことり",
+        "meaning": "Small bird",
+        "jlpt": "N4"
+    },
+    {
+        "word": "この間",
+        "reading": "このあいだ",
+        "meaning": "The other day",
+        "jlpt": "N4"
+    },
+    {
+        "word": "この頃",
+        "reading": "このごろ",
+        "meaning": "Recently",
+        "jlpt": "N4"
+    },
+    {
+        "word": "細かい",
+        "reading": "こまかい",
+        "meaning": "Small",
+        "jlpt": "N4"
+    },
+    {
+        "word": "込む",
+        "reading": "こむ",
+        "meaning": "To be crowded",
+        "jlpt": "N4"
+    },
+    {
+        "word": "米",
+        "reading": "こめ",
+        "meaning": "(husked grains of) rice",
+        "jlpt": "N4"
+    },
+    {
+        "word": "ご覧になる",
+        "reading": "ごらんになる",
+        "meaning": "To see",
+        "jlpt": "N4"
+    },
+    {
+        "word": "此れから",
+        "reading": "これから",
+        "meaning": "After this",
+        "jlpt": "N4"
+    },
+    {
+        "word": "怖い",
+        "reading": "こわい",
+        "meaning": "Scary",
+        "jlpt": "N4"
+    },
+    {
+        "word": "壊す",
+        "reading": "こわす",
+        "meaning": "To break",
+        "jlpt": "N4"
+    },
+    {
+        "word": "壊れる",
+        "reading": "こわれる",
+        "meaning": "To be broken",
+        "jlpt": "N4"
+    },
+    {
+        "word": "コンサート",
+        "reading": "コンサート",
+        "meaning": "Concert",
+        "jlpt": "N4"
+    },
+    {
+        "word": "今度",
+        "reading": "こんど",
+        "meaning": "This time",
+        "jlpt": "N4"
+    },
+    {
+        "word": "コンピュータ",
+        "reading": "コンピュータ",
+        "meaning": "Computer",
+        "jlpt": "N4"
+    },
+    {
+        "word": "今夜",
+        "reading": "こんや",
+        "meaning": "This evening",
+        "jlpt": "N4"
+    },
+    {
+        "word": "最近",
+        "reading": "さいきん",
+        "meaning": "Most recent",
+        "jlpt": "N4"
+    },
+    {
+        "word": "最後",
+        "reading": "さいご",
+        "meaning": "Last",
+        "jlpt": "N4"
+    },
+    {
+        "word": "最初",
+        "reading": "さいしょ",
+        "meaning": "Beginning",
+        "jlpt": "N4"
+    },
+    {
+        "word": "坂",
+        "reading": "さか",
+        "meaning": "Slope",
+        "jlpt": "N4"
+    },
+    {
+        "word": "探す",
+        "reading": "さがす",
+        "meaning": "To search (for something desired, needed)",
+        "jlpt": "N4"
+    },
+    {
+        "word": "下がる",
+        "reading": "さがる",
+        "meaning": "To come down",
+        "jlpt": "N4"
+    },
+    {
+        "word": "盛ん",
+        "reading": "さかん",
+        "meaning": "Popular",
+        "jlpt": "N4"
+    },
+    {
+        "word": "下げる",
+        "reading": "さげる",
+        "meaning": "To hang",
+        "jlpt": "N4"
+    },
+    {
+        "word": "差し上げる",
+        "reading": "さしあげる",
+        "meaning": "To give",
+        "jlpt": "N4"
+    },
+    {
+        "word": "さっき",
+        "reading": "さっき",
+        "meaning": "Some time ago",
+        "jlpt": "N4"
+    },
+    {
+        "word": "寂しい",
+        "reading": "さびしい",
+        "meaning": "Lonely",
+        "jlpt": "N4"
+    },
+    {
+        "word": "再来月",
+        "reading": "さらいげつ",
+        "meaning": "Month after next",
+        "jlpt": "N4"
+    },
+    {
+        "word": "再来週",
+        "reading": "さらいしゅう",
+        "meaning": "Week after next",
+        "jlpt": "N4"
+    },
+    {
+        "word": "サラダ",
+        "reading": "サラダ",
+        "meaning": "Salad",
+        "jlpt": "N4"
+    },
+    {
+        "word": "騒ぐ",
+        "reading": "さわぐ",
+        "meaning": "To make noise",
+        "jlpt": "N4"
+    },
+    {
+        "word": "触る",
+        "reading": "さわる",
+        "meaning": "To touch",
+        "jlpt": "N4"
+    },
+    {
+        "word": "産業",
+        "reading": "さんぎょう",
+        "meaning": "Industry",
+        "jlpt": "N4"
+    },
+    {
+        "word": "サンダル",
+        "reading": "サンダル",
+        "meaning": "Sandal  サンダル: gai1.",
+        "jlpt": "N4"
+    },
+    {
+        "word": "サンドイッチ",
+        "reading": "サンドイッチ",
+        "meaning": "Sandwich",
+        "jlpt": "N4"
+    },
+    {
+        "word": "残念",
+        "reading": "ざんねん",
+        "meaning": "Deplorable",
+        "jlpt": "N4"
+    },
+    {
+        "word": "市",
+        "reading": "し",
+        "meaning": "City",
+        "jlpt": "N4"
+    },
+    {
+        "word": "字",
+        "reading": "じ",
+        "meaning": "Character (i.e. kanji)",
+        "jlpt": "N4"
+    },
+    {
+        "word": "試合",
+        "reading": "しあい",
+        "meaning": "Match",
+        "jlpt": "N4"
+    },
+    {
+        "word": "仕方",
+        "reading": "しかた",
+        "meaning": "Way",
+        "jlpt": "N4"
+    },
+    {
+        "word": "試験",
+        "reading": "しけん",
+        "meaning": "Examination",
+        "jlpt": "N4"
+    },
+    {
+        "word": "事故",
+        "reading": "じこ",
+        "meaning": "Accident",
+        "jlpt": "N4"
+    },
+    {
+        "word": "地震",
+        "reading": "じしん",
+        "meaning": "Earthquake",
+        "jlpt": "N4"
+    },
+    {
+        "word": "時代",
+        "reading": "じだい",
+        "meaning": "Period",
+        "jlpt": "N4"
+    },
+    {
+        "word": "下着",
+        "reading": "したぎ",
+        "meaning": "Underwear",
+        "jlpt": "N4"
+    },
+    {
+        "word": "確り",
+        "reading": "しっかり",
+        "meaning": "Tightly (holding on)",
+        "jlpt": "N4"
+    },
+    {
+        "word": "失敗",
+        "reading": "しっぱい",
+        "meaning": "Failure",
+        "jlpt": "N4"
+    },
+    {
+        "word": "辞典",
+        "reading": "じてん",
+        "meaning": "Dictionary",
+        "jlpt": "N4"
+    },
+    {
+        "word": "品物",
+        "reading": "しなもの",
+        "meaning": "Goods",
+        "jlpt": "N4"
+    },
+    {
+        "word": "暫く",
+        "reading": "しばらく",
+        "meaning": "Little while",
+        "jlpt": "N4"
+    },
+    {
+        "word": "島",
+        "reading": "しま",
+        "meaning": "Island",
+        "jlpt": "N4"
+    },
+    {
+        "word": "市民",
+        "reading": "しみん",
+        "meaning": "Citizen",
+        "jlpt": "N4"
+    },
+    {
+        "word": "事務所",
+        "reading": "じむしょ",
+        "meaning": "Office",
+        "jlpt": "N4"
+    },
+    {
+        "word": "社会",
+        "reading": "しゃかい",
+        "meaning": "Society",
+        "jlpt": "N4"
+    },
+    {
+        "word": "社長",
+        "reading": "しゃちょう",
+        "meaning": "Company president",
+        "jlpt": "N4"
+    },
+    {
+        "word": "ジャム",
+        "reading": "ジャム",
+        "meaning": "Jam",
+        "jlpt": "N4"
+    },
+    {
+        "word": "自由",
+        "reading": "じゆう",
+        "meaning": "Freedom",
+        "jlpt": "N4"
+    },
+    {
+        "word": "習慣",
+        "reading": "しゅうかん",
+        "meaning": "Habit",
+        "jlpt": "N4"
+    },
+    {
+        "word": "住所",
+        "reading": "じゅうしょ",
+        "meaning": "Address (e.g. of house)",
+        "jlpt": "N4"
+    },
+    {
+        "word": "柔道",
+        "reading": "じゅうどう",
+        "meaning": "Judo",
+        "jlpt": "N4"
+    },
+    {
+        "word": "十分",
+        "reading": "じゅうぶん",
+        "meaning": "Plenty",
+        "jlpt": "N4"
+    },
+    {
+        "word": "趣味",
+        "reading": "しゅみ",
+        "meaning": "Hobby",
+        "jlpt": "N4"
+    },
+    {
+        "word": "紹介",
+        "reading": "しょうかい",
+        "meaning": "Introduction",
+        "jlpt": "N4"
+    },
+    {
+        "word": "小学校",
+        "reading": "しょうがっこう",
+        "meaning": "Primary school",
+        "jlpt": "N4"
+    },
+    {
+        "word": "小説",
+        "reading": "しょうせつ",
+        "meaning": "Novel",
+        "jlpt": "N4"
+    },
+    {
+        "word": "将来",
+        "reading": "しょうらい",
+        "meaning": "Future (usually near)",
+        "jlpt": "N4"
+    },
+    {
+        "word": "食料品",
+        "reading": "しょくりょうひん",
+        "meaning": "Foodstuff",
+        "jlpt": "N4"
+    },
+    {
+        "word": "女性",
+        "reading": "じょせい",
+        "meaning": "Woman",
+        "jlpt": "N4"
+    },
+    {
+        "word": "知らせる",
+        "reading": "しらせる",
+        "meaning": "To notify",
+        "jlpt": "N4"
+    },
+    {
+        "word": "調べる",
+        "reading": "しらべる",
+        "meaning": "To examine",
+        "jlpt": "N4"
+    },
+    {
+        "word": "人口",
+        "reading": "じんこう",
+        "meaning": "Population",
+        "jlpt": "N4"
+    },
+    {
+        "word": "神社",
+        "reading": "じんじゃ",
+        "meaning": "Shinto shrine",
+        "jlpt": "N4"
+    },
+    {
+        "word": "親切",
+        "reading": "しんせつ",
+        "meaning": "Kindness",
+        "jlpt": "N4"
+    },
+    {
+        "word": "新聞社",
+        "reading": "しんぶんしゃ",
+        "meaning": "Newspaper company",
+        "jlpt": "N4"
+    },
+    {
+        "word": "スーツ",
+        "reading": "スーツ",
+        "meaning": "Suit  スーツ: gai1, ichi1.",
+        "jlpt": "N4"
+    },
+    {
+        "word": "スーツケース",
+        "reading": "スーツケース",
+        "meaning": "Suitcase",
+        "jlpt": "N4"
+    },
+    {
+        "word": "水泳",
+        "reading": "すいえい",
+        "meaning": "Swimming",
+        "jlpt": "N4"
+    },
+    {
+        "word": "水道",
+        "reading": "すいどう",
+        "meaning": "Water service",
+        "jlpt": "N4"
+    },
+    {
+        "word": "数学",
+        "reading": "すうがく",
+        "meaning": "Mathematics",
+        "jlpt": "N4"
+    },
+    {
+        "word": "過ぎる",
+        "reading": "すぎる",
+        "meaning": "To pass through",
+        "jlpt": "N4"
+    },
+    {
+        "word": "スクリーン",
+        "reading": "スクリーン",
+        "meaning": "Screen",
+        "jlpt": "N4"
+    },
+    {
+        "word": "凄い",
+        "reading": "すごい",
+        "meaning": "Terrible",
+        "jlpt": "N4"
+    },
+    {
+        "word": "進む",
+        "reading": "すすむ",
+        "meaning": "To advance",
+        "jlpt": "N4"
+    },
+    {
+        "word": "すっかり",
+        "reading": "すっかり",
+        "meaning": "All",
+        "jlpt": "N4"
+    },
+    {
+        "word": "すっと",
+        "reading": "すっと",
+        "meaning": "Straight",
+        "jlpt": "N4"
+    },
+    {
+        "word": "ステーキ",
+        "reading": "ステーキ",
+        "meaning": "Steak  ステーキ: gai1.",
+        "jlpt": "N4"
+    },
+    {
+        "word": "捨てる",
+        "reading": "すてる",
+        "meaning": "To throw away",
+        "jlpt": "N4"
+    },
+    {
+        "word": "ステレオ",
+        "reading": "ステレオ",
+        "meaning": "Stereo  ステレオ: gai1, ichi1.",
+        "jlpt": "N4"
+    },
+    {
+        "word": "砂",
+        "reading": "すな",
+        "meaning": "Sand",
+        "jlpt": "N4"
+    },
+    {
+        "word": "滑る",
+        "reading": "すべる",
+        "meaning": "To glide",
+        "jlpt": "N4"
+    },
+    {
+        "word": "隅",
+        "reading": "すみ",
+        "meaning": "Corner",
+        "jlpt": "N4"
+    },
+    {
+        "word": "済む",
+        "reading": "すむ",
+        "meaning": "To finish",
+        "jlpt": "N4"
+    },
+    {
+        "word": "掏摸",
+        "reading": "すり",
+        "meaning": "Pickpocket",
+        "jlpt": "N4"
+    },
+    {
+        "word": "すると",
+        "reading": "すると",
+        "meaning": "Thereupon",
+        "jlpt": "N4"
+    },
+    {
+        "word": "生活",
+        "reading": "せいかつ",
+        "meaning": "Living",
+        "jlpt": "N4"
+    },
+    {
+        "word": "生産",
+        "reading": "せいさん",
+        "meaning": "Production",
+        "jlpt": "N4"
+    },
+    {
+        "word": "政治",
+        "reading": "せいじ",
+        "meaning": "Politics",
+        "jlpt": "N4"
+    },
+    {
+        "word": "西洋",
+        "reading": "せいよう",
+        "meaning": "The west",
+        "jlpt": "N4"
+    },
+    {
+        "word": "世界",
+        "reading": "せかい",
+        "meaning": "The world",
+        "jlpt": "N4"
+    },
+    {
+        "word": "席",
+        "reading": "せき",
+        "meaning": "Seat",
+        "jlpt": "N4"
+    },
+    {
+        "word": "説明",
+        "reading": "せつめい",
+        "meaning": "Explanation",
+        "jlpt": "N4"
+    },
+    {
+        "word": "背中",
+        "reading": "せなか",
+        "meaning": "Back (of body)",
+        "jlpt": "N4"
+    },
+    {
+        "word": "線",
+        "reading": "せん",
+        "meaning": "Line",
+        "jlpt": "N4"
+    },
+    {
+        "word": "戦争",
+        "reading": "せんそう",
+        "meaning": "War",
+        "jlpt": "N4"
+    },
+    {
+        "word": "先輩",
+        "reading": "せんぱい",
+        "meaning": "Senior (at work or school)",
+        "jlpt": "N4"
+    },
+    {
+        "word": "そう",
+        "reading": "そう",
+        "meaning": "So",
+        "jlpt": "N4"
+    },
+    {
+        "word": "育てる",
+        "reading": "そだてる",
+        "meaning": "To raise",
+        "jlpt": "N4"
+    },
+    {
+        "word": "卒業",
+        "reading": "そつぎょう",
+        "meaning": "Graduation",
+        "jlpt": "N4"
+    },
+    {
+        "word": "祖父",
+        "reading": "そふ",
+        "meaning": "Grandfather",
+        "jlpt": "N4"
+    },
+    {
+        "word": "ソフト",
+        "reading": "ソフト",
+        "meaning": "Soft",
+        "jlpt": "N4"
+    },
+    {
+        "word": "祖母",
+        "reading": "そぼ",
+        "meaning": "Grandmother",
+        "jlpt": "N4"
+    },
+    {
+        "word": "其れで",
+        "reading": "それで",
+        "meaning": "And",
+        "jlpt": "N4"
+    },
+    {
+        "word": "其れに",
+        "reading": "それに",
+        "meaning": "Besides",
+        "jlpt": "N4"
+    },
+    {
+        "word": "それ程",
+        "reading": "それほど",
+        "meaning": "To that degree",
+        "jlpt": "N4"
+    },
+    {
+        "word": "そろそろ",
+        "reading": "そろそろ",
+        "meaning": "Slowly",
+        "jlpt": "N4"
+    },
+    {
+        "word": "そんな",
+        "reading": "そんな",
+        "meaning": "Such (about the actions of the listener, or about ideas expressed or understood by the listener)",
+        "jlpt": "N4"
+    },
+    {
+        "word": "そんなに",
+        "reading": "そんなに",
+        "meaning": "So much",
+        "jlpt": "N4"
+    },
+    {
+        "word": "退院",
+        "reading": "たいいん",
+        "meaning": "Leaving hospital",
+        "jlpt": "N4"
+    },
+    {
+        "word": "大学生",
+        "reading": "だいがくせい",
+        "meaning": "University student",
+        "jlpt": "N4"
+    },
+    {
+        "word": "大事",
+        "reading": "だいじ",
+        "meaning": "Important",
+        "jlpt": "N4"
+    },
+    {
+        "word": "大体",
+        "reading": "だいたい",
+        "meaning": "Outline",
+        "jlpt": "N4"
+    },
+    {
+        "word": "大抵",
+        "reading": "たいてい",
+        "meaning": "Mostly",
+        "jlpt": "N4"
+    },
+    {
+        "word": "タイプ",
+        "reading": "タイプ",
+        "meaning": "Type",
+        "jlpt": "N4"
+    },
+    {
+        "word": "大分",
+        "reading": "だいぶ",
+        "meaning": "Considerably",
+        "jlpt": "N4"
+    },
+    {
+        "word": "台風",
+        "reading": "たいふう",
+        "meaning": "Typhoon",
+        "jlpt": "N4"
+    },
+    {
+        "word": "倒れる",
+        "reading": "たおれる",
+        "meaning": "To fall",
+        "jlpt": "N4"
+    },
+    {
+        "word": "だから",
+        "reading": "だから",
+        "meaning": "So",
+        "jlpt": "N4"
+    },
+    {
+        "word": "確か",
+        "reading": "たしか",
+        "meaning": "Sure",
+        "jlpt": "N4"
+    },
+    {
+        "word": "足す",
+        "reading": "たす",
+        "meaning": "To add (numbers)",
+        "jlpt": "N4"
+    },
+    {
+        "word": "尋ねる",
+        "reading": "たずねる",
+        "meaning": "To ask",
+        "jlpt": "N4"
+    },
+    {
+        "word": "訪ねる",
+        "reading": "たずねる",
+        "meaning": "To visit",
+        "jlpt": "N4"
+    },
+    {
+        "word": "正しい",
+        "reading": "ただしい",
+        "meaning": "Right",
+        "jlpt": "N4"
+    },
+    {
+        "word": "畳",
+        "reading": "たたみ",
+        "meaning": "Tatami mat",
+        "jlpt": "N4"
+    },
+    {
+        "word": "建てる",
+        "reading": "たてる",
+        "meaning": "To build",
+        "jlpt": "N4"
+    },
+    {
+        "word": "立てる",
+        "reading": "たてる",
+        "meaning": "To stand up",
+        "jlpt": "N4"
+    },
+    {
+        "word": "例えば",
+        "reading": "たとえば",
+        "meaning": "For example",
+        "jlpt": "N4"
+    },
+    {
+        "word": "棚",
+        "reading": "たな",
+        "meaning": "Shelf",
+        "jlpt": "N4"
+    },
+    {
+        "word": "楽しみ",
+        "reading": "たのしみ",
+        "meaning": "Enjoyment",
+        "jlpt": "N4"
+    },
+    {
+        "word": "楽しむ",
+        "reading": "たのしむ",
+        "meaning": "To enjoy (oneself)",
+        "jlpt": "N4"
+    },
+    {
+        "word": "偶に",
+        "reading": "たまに",
+        "meaning": "Occasionally",
+        "jlpt": "N4"
+    },
+    {
+        "word": "為",
+        "reading": "ため",
+        "meaning": "Good",
+        "jlpt": "N4"
+    },
+    {
+        "word": "足りる",
+        "reading": "たりる",
+        "meaning": "To be sufficient",
+        "jlpt": "N4"
+    },
+    {
+        "word": "男性",
+        "reading": "だんせい",
+        "meaning": "Man",
+        "jlpt": "N4"
+    },
+    {
+        "word": "暖房",
+        "reading": "だんぼう",
+        "meaning": "(indoor) heating",
+        "jlpt": "N4"
+    },
+    {
+        "word": "血",
+        "reading": "ち",
+        "meaning": "Blood",
+        "jlpt": "N4"
+    },
+    {
+        "word": "チェック",
+        "reading": "チェック",
+        "meaning": "Check",
+        "jlpt": "N4"
+    },
+    {
+        "word": "力",
+        "reading": "ちから",
+        "meaning": "Force",
+        "jlpt": "N4"
+    },
+    {
+        "word": "些とも",
+        "reading": "ちっとも",
+        "meaning": "Not at all (neg. verb)   ちっとも: ichi1. 些とも: ichi1.",
+        "jlpt": "N4"
+    },
+    {
+        "word": "ちゃん",
+        "reading": "ちゃん",
+        "meaning": "Suffix for familiar person",
+        "jlpt": "N4"
+    },
+    {
+        "word": "注意",
+        "reading": "ちゅうい",
+        "meaning": "Caution",
+        "jlpt": "N4"
+    },
+    {
+        "word": "中学校",
+        "reading": "ちゅうがっこう",
+        "meaning": "Junior high school",
+        "jlpt": "N4"
+    },
+    {
+        "word": "注射",
+        "reading": "ちゅうしゃ",
+        "meaning": "Injection",
+        "jlpt": "N4"
+    },
+    {
+        "word": "駐車場",
+        "reading": "ちゅうしゃじょう",
+        "meaning": "Parking lot",
+        "jlpt": "N4"
+    },
+    {
+        "word": "地理",
+        "reading": "ちり",
+        "meaning": "Geography",
+        "jlpt": "N4"
+    },
+    {
+        "word": "捕まえる",
+        "reading": "つかまえる",
+        "meaning": "To catch",
+        "jlpt": "N4"
+    },
+    {
+        "word": "付く",
+        "reading": "つく",
+        "meaning": "To be attached",
+        "jlpt": "N4"
+    },
+    {
+        "word": "漬ける",
+        "reading": "つける",
+        "meaning": "To soak",
+        "jlpt": "N4"
+    },
+    {
+        "word": "都合",
+        "reading": "つごう",
+        "meaning": "Circumstances",
+        "jlpt": "N4"
+    },
+    {
+        "word": "伝える",
+        "reading": "つたえる",
+        "meaning": "To convey",
+        "jlpt": "N4"
+    },
+    {
+        "word": "続く",
+        "reading": "つづく",
+        "meaning": "To continue",
+        "jlpt": "N4"
+    },
+    {
+        "word": "続ける",
+        "reading": "つづける",
+        "meaning": "To continue",
+        "jlpt": "N4"
+    },
+    {
+        "word": "包む",
+        "reading": "つつむ",
+        "meaning": "To wrap up",
+        "jlpt": "N4"
+    },
+    {
+        "word": "妻",
+        "reading": "つま",
+        "meaning": "Wife",
+        "jlpt": "N4"
+    },
+    {
+        "word": "端",
+        "reading": "つま",
+        "meaning": "Edge",
+        "jlpt": "N4"
+    },
+    {
+        "word": "積もり",
+        "reading": "つもり",
+        "meaning": "Intention",
+        "jlpt": "N4"
+    },
+    {
+        "word": "釣る",
+        "reading": "つる",
+        "meaning": "To fish",
+        "jlpt": "N4"
+    },
+    {
+        "word": "丁寧",
+        "reading": "ていねい",
+        "meaning": "Polite",
+        "jlpt": "N4"
+    },
+    {
+        "word": "テキスト",
+        "reading": "テキスト",
+        "meaning": "Text",
+        "jlpt": "N4"
+    },
+    {
+        "word": "適当",
+        "reading": "てきとう",
+        "meaning": "Suitable",
+        "jlpt": "N4"
+    },
+    {
+        "word": "手伝う",
+        "reading": "てつだう",
+        "meaning": "To help",
+        "jlpt": "N4"
+    },
+    {
+        "word": "テニス",
+        "reading": "テニス",
+        "meaning": "Tennis  テニス: gai1, ichi1.",
+        "jlpt": "N4"
+    },
+    {
+        "word": "手袋",
+        "reading": "てぶくろ",
+        "meaning": "Glove",
+        "jlpt": "N4"
+    },
+    {
+        "word": "寺",
+        "reading": "てら",
+        "meaning": "Temple (Buddhist)",
+        "jlpt": "N4"
+    },
+    {
+        "word": "点",
+        "reading": "てん",
+        "meaning": "Spot",
+        "jlpt": "N4"
+    },
+    {
+        "word": "店員",
+        "reading": "てんいん",
+        "meaning": "Shop assistant",
+        "jlpt": "N4"
+    },
+    {
+        "word": "天気予報",
+        "reading": "てんきよほう",
+        "meaning": "Weather forecast",
+        "jlpt": "N4"
+    },
+    {
+        "word": "電灯",
+        "reading": "でんとう",
+        "meaning": "Electric light",
+        "jlpt": "N4"
+    },
+    {
+        "word": "電報",
+        "reading": "でんぽう",
+        "meaning": "Telegram",
+        "jlpt": "N4"
+    },
+    {
+        "word": "展覧会",
+        "reading": "てんらんかい",
+        "meaning": "Exhibition",
+        "jlpt": "N4"
+    },
+    {
+        "word": "都",
+        "reading": "と",
+        "meaning": "Metropolitan",
+        "jlpt": "N4"
+    },
+    {
+        "word": "道具",
+        "reading": "どうぐ",
+        "meaning": "Tool",
+        "jlpt": "N4"
+    },
+    {
+        "word": "到頭",
+        "reading": "とうとう",
+        "meaning": "Finally",
+        "jlpt": "N4"
+    },
+    {
+        "word": "動物園",
+        "reading": "どうぶつえん",
+        "meaning": "Zoo",
+        "jlpt": "N4"
+    },
+    {
+        "word": "遠く",
+        "reading": "とおく",
+        "meaning": "Far away",
+        "jlpt": "N4"
+    },
+    {
+        "word": "通る",
+        "reading": "とおる",
+        "meaning": "To go by",
+        "jlpt": "N4"
+    },
+    {
+        "word": "特に",
+        "reading": "とくに",
+        "meaning": "Particularly",
+        "jlpt": "N4"
+    },
+    {
+        "word": "特別",
+        "reading": "とくべつ",
+        "meaning": "Special",
+        "jlpt": "N4"
+    },
+    {
+        "word": "床屋",
+        "reading": "とこや",
+        "meaning": "Barbershop",
+        "jlpt": "N4"
+    },
+    {
+        "word": "途中",
+        "reading": "とちゅう",
+        "meaning": "On the way",
+        "jlpt": "N4"
+    },
+    {
+        "word": "特急",
+        "reading": "とっきゅう",
+        "meaning": "Limited express (train, faster than an express)",
+        "jlpt": "N4"
+    },
+    {
+        "word": "届ける",
+        "reading": "とどける",
+        "meaning": "To deliver",
+        "jlpt": "N4"
+    },
+    {
+        "word": "泊まる",
+        "reading": "とまる",
+        "meaning": "To stay at (e.g. hotel)",
+        "jlpt": "N4"
+    },
+    {
+        "word": "止める",
+        "reading": "とめる",
+        "meaning": "To stop",
+        "jlpt": "N4"
+    },
+    {
+        "word": "取り替える",
+        "reading": "とりかえる",
+        "meaning": "To exchange",
+        "jlpt": "N4"
+    },
+    {
+        "word": "泥棒",
+        "reading": "どろぼう",
+        "meaning": "Thief",
+        "jlpt": "N4"
+    },
+    {
+        "word": "どんどん",
+        "reading": "どんどん",
+        "meaning": "Drumming (noise)",
+        "jlpt": "N4"
+    },
+    {
+        "word": "治す",
+        "reading": "なおす",
+        "meaning": "To cure",
+        "jlpt": "N4"
+    },
+    {
+        "word": "治る",
+        "reading": "なおる",
+        "meaning": "To be cured",
+        "jlpt": "N4"
+    },
+    {
+        "word": "泣く",
+        "reading": "なく",
+        "meaning": "To cry",
+        "jlpt": "N4"
+    },
+    {
+        "word": "亡くなる",
+        "reading": "なくなる",
+        "meaning": "To die",
+        "jlpt": "N4"
+    },
+    {
+        "word": "無くなる",
+        "reading": "なくなる",
+        "meaning": "To be lost (e.g. luggage)",
+        "jlpt": "N4"
+    },
+    {
+        "word": "投げる",
+        "reading": "なげる",
+        "meaning": "To throw",
+        "jlpt": "N4"
+    },
+    {
+        "word": "為さる",
+        "reading": "なさる",
+        "meaning": "To do",
+        "jlpt": "N4"
+    },
+    {
+        "word": "鳴る",
+        "reading": "なる",
+        "meaning": "To sound",
+        "jlpt": "N4"
+    },
+    {
+        "word": "成るべく",
+        "reading": "なるべく",
+        "meaning": "As much as possible",
+        "jlpt": "N4"
+    },
+    {
+        "word": "なる程",
+        "reading": "なるほど",
+        "meaning": "I see",
+        "jlpt": "N4"
+    },
+    {
+        "word": "慣れる",
+        "reading": "なれる",
+        "meaning": "To get used to",
+        "jlpt": "N4"
+    },
+    {
+        "word": "苦い",
+        "reading": "にがい",
+        "meaning": "Bitter",
+        "jlpt": "N4"
+    },
+    {
+        "word": "二階建て",
+        "reading": "にかいだて",
+        "meaning": "Two-storied building",
+        "jlpt": "N4"
+    },
+    {
+        "word": "逃げる",
+        "reading": "にげる",
+        "meaning": "To escape",
+        "jlpt": "N4"
+    },
+    {
+        "word": "日記",
+        "reading": "にっき",
+        "meaning": "Diary",
+        "jlpt": "N4"
+    },
+    {
+        "word": "入院",
+        "reading": "にゅういん",
+        "meaning": "Hospitalization",
+        "jlpt": "N4"
+    },
+    {
+        "word": "入学",
+        "reading": "にゅうがく",
+        "meaning": "Entry to school or university",
+        "jlpt": "N4"
+    },
+    {
+        "word": "似る",
+        "reading": "にる",
+        "meaning": "To resemble",
+        "jlpt": "N4"
+    },
+    {
+        "word": "人形",
+        "reading": "にんぎょう",
+        "meaning": "Doll",
+        "jlpt": "N4"
+    },
+    {
+        "word": "盗む",
+        "reading": "ぬすむ",
+        "meaning": "To steal",
+        "jlpt": "N4"
+    },
+    {
+        "word": "塗る",
+        "reading": "ぬる",
+        "meaning": "To paint",
+        "jlpt": "N4"
+    },
+    {
+        "word": "濡れる",
+        "reading": "ぬれる",
+        "meaning": "To get wet",
+        "jlpt": "N4"
+    },
+    {
+        "word": "値段",
+        "reading": "ねだん",
+        "meaning": "Price",
+        "jlpt": "N4"
+    },
+    {
+        "word": "熱",
+        "reading": "ねつ",
+        "meaning": "Heat",
+        "jlpt": "N4"
+    },
+    {
+        "word": "寝坊",
+        "reading": "ねぼう",
+        "meaning": "Sleeping in late",
+        "jlpt": "N4"
+    },
+    {
+        "word": "眠い",
+        "reading": "ねむい",
+        "meaning": "Sleepy",
+        "jlpt": "N4"
+    },
+    {
+        "word": "眠る",
+        "reading": "ねむる",
+        "meaning": "To sleep (not necessarily lying down)",
+        "jlpt": "N4"
+    },
+    {
+        "word": "残る",
+        "reading": "のこる",
+        "meaning": "To remain",
+        "jlpt": "N4"
+    },
+    {
+        "word": "乗り換える",
+        "reading": "のりかえる",
+        "meaning": "To transfer (trains)",
+        "jlpt": "N4"
+    },
+    {
+        "word": "乗り物",
+        "reading": "のりもの",
+        "meaning": "Vehicle",
+        "jlpt": "N4"
+    },
+    {
+        "word": "葉",
+        "reading": "は",
+        "meaning": "Leaf",
+        "jlpt": "N4"
+    },
+    {
+        "word": "パート",
+        "reading": "パート",
+        "meaning": "Part",
+        "jlpt": "N4"
+    },
+    {
+        "word": "場合",
+        "reading": "ばあい",
+        "meaning": "Case",
+        "jlpt": "N4"
+    },
+    {
+        "word": "倍",
+        "reading": "ばい",
+        "meaning": "Twice",
+        "jlpt": "N4"
+    },
+    {
+        "word": "拝見",
+        "reading": "はいけん",
+        "meaning": "Seeing",
+        "jlpt": "N4"
+    },
+    {
+        "word": "歯医者",
+        "reading": "はいしゃ",
+        "meaning": "Dentist",
+        "jlpt": "N4"
+    },
+    {
+        "word": "運ぶ",
+        "reading": "はこぶ",
+        "meaning": "To carry",
+        "jlpt": "N4"
+    },
+    {
+        "word": "始める",
+        "reading": "はじめる",
+        "meaning": "To start",
+        "jlpt": "N4"
+    },
+    {
+        "word": "場所",
+        "reading": "ばしょ",
+        "meaning": "Place",
+        "jlpt": "N4"
+    },
+    {
+        "word": "筈",
+        "reading": "はず",
+        "meaning": "Expectation that something took place, will take place or was in some state",
+        "jlpt": "N4"
+    },
+    {
+        "word": "恥ずかしい",
+        "reading": "はずかしい",
+        "meaning": "Shy",
+        "jlpt": "N4"
+    },
+    {
+        "word": "パソコン",
+        "reading": "パソコン",
+        "meaning": "Personal computer",
+        "jlpt": "N4"
+    },
+    {
+        "word": "発音",
+        "reading": "はつおん",
+        "meaning": "Pronunciation",
+        "jlpt": "N4"
+    },
+    {
+        "word": "はっきり",
+        "reading": "はっきり",
+        "meaning": "Clearly",
+        "jlpt": "N4"
+    },
+    {
+        "word": "花見",
+        "reading": "はなみ",
+        "meaning": "Cherry blossom viewing",
+        "jlpt": "N4"
+    },
+    {
+        "word": "林",
+        "reading": "はやし",
+        "meaning": "Woods",
+        "jlpt": "N4"
+    },
+    {
+        "word": "払う",
+        "reading": "はらう",
+        "meaning": "To pay (e.g. money, bill)",
+        "jlpt": "N4"
+    },
+    {
+        "word": "番組",
+        "reading": "ばんぐみ",
+        "meaning": "Program (e.g. TV)",
+        "jlpt": "N4"
+    },
+    {
+        "word": "反対",
+        "reading": "はんたい",
+        "meaning": "Opposition",
+        "jlpt": "N4"
+    },
+    {
+        "word": "ハンドバッグ",
+        "reading": "ハンドバッグ",
+        "meaning": "Handbag",
+        "jlpt": "N4"
+    },
+    {
+        "word": "日",
+        "reading": "ひ",
+        "meaning": "Day",
+        "jlpt": "N4"
+    },
+    {
+        "word": "火",
+        "reading": "ひ",
+        "meaning": "Fire",
+        "jlpt": "N4"
+    },
+    {
+        "word": "ピアノ",
+        "reading": "ピアノ",
+        "meaning": "Piano",
+        "jlpt": "N4"
+    },
+    {
+        "word": "冷える",
+        "reading": "ひえる",
+        "meaning": "To grow cold (from room temperature, e.g. in refrigerator)",
+        "jlpt": "N4"
+    },
+    {
+        "word": "光",
+        "reading": "ひかり",
+        "meaning": "Light",
+        "jlpt": "N4"
+    },
+    {
+        "word": "光",
+        "reading": "ひかり",
+        "meaning": "Light",
+        "jlpt": "N4"
+    },
+    {
+        "word": "光る",
+        "reading": "ひかる",
+        "meaning": "To shine",
+        "jlpt": "N4"
+    },
+    {
+        "word": "引き出し",
+        "reading": "ひきだし",
+        "meaning": "Drawer",
+        "jlpt": "N4"
+    },
+    {
+        "word": "引き出す",
+        "reading": "ひきだす",
+        "meaning": "To pull out",
+        "jlpt": "N4"
+    },
+    {
+        "word": "髭",
+        "reading": "ひげ",
+        "meaning": "Moustache",
+        "jlpt": "N4"
+    },
+    {
+        "word": "飛行場",
+        "reading": "ひこうじょう",
+        "meaning": "Airfield",
+        "jlpt": "N4"
+    },
+    {
+        "word": "久しぶり",
+        "reading": "ひさしぶり",
+        "meaning": "A long time (since the last time)",
+        "jlpt": "N4"
+    },
+    {
+        "word": "美術館",
+        "reading": "びじゅつかん",
+        "meaning": "Art gallery",
+        "jlpt": "N4"
+    },
+    {
+        "word": "非常に",
+        "reading": "ひじょうに",
+        "meaning": "Very",
+        "jlpt": "N4"
+    },
+    {
+        "word": "引っ越す",
+        "reading": "ひっこす",
+        "meaning": "To move (house)",
+        "jlpt": "N4"
+    },
+    {
+        "word": "必要",
+        "reading": "ひつよう",
+        "meaning": "Necessary",
+        "jlpt": "N4"
+    },
+    {
+        "word": "酷い",
+        "reading": "ひどい",
+        "meaning": "Cruel",
+        "jlpt": "N4"
+    },
+    {
+        "word": "開く",
+        "reading": "ひらく",
+        "meaning": "To open",
+        "jlpt": "N4"
+    },
+    {
+        "word": "ビル",
+        "reading": "ビル",
+        "meaning": "Multi-floor building",
+        "jlpt": "N4"
+    },
+    {
+        "word": "昼間",
+        "reading": "ひるま",
+        "meaning": "Daytime",
+        "jlpt": "N4"
+    },
+    {
+        "word": "昼休み",
+        "reading": "ひるやすみ",
+        "meaning": "Lunch break",
+        "jlpt": "N4"
+    },
+    {
+        "word": "拾う",
+        "reading": "ひろう",
+        "meaning": "To pick up",
+        "jlpt": "N4"
+    },
+    {
+        "word": "ファックス",
+        "reading": "ファックス",
+        "meaning": "Facsimile",
+        "jlpt": "N4"
+    },
+    {
+        "word": "増える",
+        "reading": "ふえる",
+        "meaning": "To increase",
+        "jlpt": "N4"
+    },
+    {
+        "word": "深い",
+        "reading": "ふかい",
+        "meaning": "Deep",
+        "jlpt": "N4"
+    },
+    {
+        "word": "複雑",
+        "reading": "ふくざつ",
+        "meaning": "Complex",
+        "jlpt": "N4"
+    },
+    {
+        "word": "復習",
+        "reading": "ふくしゅう",
+        "meaning": "Review",
+        "jlpt": "N4"
+    },
+    {
+        "word": "部長",
+        "reading": "ぶちょう",
+        "meaning": "Head (chief, director) of a section or department",
+        "jlpt": "N4"
+    },
+    {
+        "word": "普通",
+        "reading": "ふつう",
+        "meaning": "General",
+        "jlpt": "N4"
+    },
+    {
+        "word": "葡萄",
+        "reading": "ぶどう",
+        "meaning": "Grape",
+        "jlpt": "N4"
+    },
+    {
+        "word": "太る",
+        "reading": "ふとる",
+        "meaning": "To grow fat (stout, plump)",
+        "jlpt": "N4"
+    },
+    {
+        "word": "布団",
+        "reading": "ふとん",
+        "meaning": "Futon (quilted Japanese-style mattress laid out on the floor)",
+        "jlpt": "N4"
+    },
+    {
+        "word": "船",
+        "reading": "ふね",
+        "meaning": "Ship",
+        "jlpt": "N4"
+    },
+    {
+        "word": "不便",
+        "reading": "ふべん",
+        "meaning": "Inconvenience",
+        "jlpt": "N4"
+    },
+    {
+        "word": "踏む",
+        "reading": "ふむ",
+        "meaning": "To step on",
+        "jlpt": "N4"
+    },
+    {
+        "word": "降り出す",
+        "reading": "ふりだす",
+        "meaning": "To begin to rain",
+        "jlpt": "N4"
+    },
+    {
+        "word": "プレゼント",
+        "reading": "プレゼント",
+        "meaning": "Present",
+        "jlpt": "N4"
+    },
+    {
+        "word": "文化",
+        "reading": "ぶんか",
+        "meaning": "Culture",
+        "jlpt": "N4"
+    },
+    {
+        "word": "文学",
+        "reading": "ぶんがく",
+        "meaning": "Literature",
+        "jlpt": "N4"
+    },
+    {
+        "word": "文法",
+        "reading": "ぶんぽう",
+        "meaning": "Grammar",
+        "jlpt": "N4"
+    },
+    {
+        "word": "別",
+        "reading": "べつ",
+        "meaning": "Distinction",
+        "jlpt": "N4"
+    },
+    {
+        "word": "ベル",
+        "reading": "ベル",
+        "meaning": "Bell",
+        "jlpt": "N4"
+    },
+    {
+        "word": "変",
+        "reading": "へん",
+        "meaning": "Strange",
+        "jlpt": "N4"
+    },
+    {
+        "word": "返事",
+        "reading": "へんじ",
+        "meaning": "Reply",
+        "jlpt": "N4"
+    },
+    {
+        "word": "貿易",
+        "reading": "ぼうえき",
+        "meaning": "Trade (foreign)",
+        "jlpt": "N4"
+    },
+    {
+        "word": "法律",
+        "reading": "ほうりつ",
+        "meaning": "Law",
+        "jlpt": "N4"
+    },
+    {
+        "word": "僕",
+        "reading": "ぼく",
+        "meaning": "I",
+        "jlpt": "N4"
+    },
+    {
+        "word": "星",
+        "reading": "ほし",
+        "meaning": "Star",
+        "jlpt": "N4"
+    },
+    {
+        "word": "殆ど",
+        "reading": "ほとんど",
+        "meaning": "Mostly",
+        "jlpt": "N4"
+    },
+    {
+        "word": "褒める",
+        "reading": "ほめる",
+        "meaning": "To praise",
+        "jlpt": "N4"
+    },
+    {
+        "word": "翻訳",
+        "reading": "ほんやく",
+        "meaning": "Translation",
+        "jlpt": "N4"
+    },
+    {
+        "word": "参る",
+        "reading": "まいる",
+        "meaning": "To go",
+        "jlpt": "N4"
+    },
+    {
+        "word": "負ける",
+        "reading": "まける",
+        "meaning": "To lose",
+        "jlpt": "N4"
+    },
+    {
+        "word": "又は",
+        "reading": "または",
+        "meaning": "Or",
+        "jlpt": "N4"
+    },
+    {
+        "word": "間違える",
+        "reading": "まちがえる",
+        "meaning": "To make a mistake (in)",
+        "jlpt": "N4"
+    },
+    {
+        "word": "間に合う",
+        "reading": "まにあう",
+        "meaning": "To be in time for",
+        "jlpt": "N4"
+    },
+    {
+        "word": "周り",
+        "reading": "まわり",
+        "meaning": "Circumference",
+        "jlpt": "N4"
+    },
+    {
+        "word": "回る",
+        "reading": "まわる",
+        "meaning": "To turn",
+        "jlpt": "N4"
+    },
+    {
+        "word": "漫画",
+        "reading": "まんが",
+        "meaning": "Cartoon",
+        "jlpt": "N4"
+    },
+    {
+        "word": "真ん中",
+        "reading": "まんなか",
+        "meaning": "Middle",
+        "jlpt": "N4"
+    },
+    {
+        "word": "見える",
+        "reading": "みえる",
+        "meaning": "To be seen",
+        "jlpt": "N4"
+    },
+    {
+        "word": "湖",
+        "reading": "みずうみ",
+        "meaning": "Lake",
+        "jlpt": "N4"
+    },
+    {
+        "word": "味噌",
+        "reading": "みそ",
+        "meaning": "Miso",
+        "jlpt": "N4"
+    },
+    {
+        "word": "見つかる",
+        "reading": "みつかる",
+        "meaning": "To be found",
+        "jlpt": "N4"
+    },
+    {
+        "word": "見つける",
+        "reading": "みつける",
+        "meaning": "To discover",
+        "jlpt": "N4"
+    },
+    {
+        "word": "港",
+        "reading": "みなと",
+        "meaning": "Harbour",
+        "jlpt": "N4"
+    },
+    {
+        "word": "皆",
+        "reading": "みんな",
+        "meaning": "All",
+        "jlpt": "N4"
+    },
+    {
+        "word": "向かう",
+        "reading": "むかう",
+        "meaning": "To face",
+        "jlpt": "N4"
+    },
+    {
+        "word": "迎える",
+        "reading": "むかえる",
+        "meaning": "To go out to meet",
+        "jlpt": "N4"
+    },
+    {
+        "word": "昔",
+        "reading": "むかし",
+        "meaning": "Olden days",
+        "jlpt": "N4"
+    },
+    {
+        "word": "虫",
+        "reading": "むし",
+        "meaning": "Insect",
+        "jlpt": "N4"
+    },
+    {
+        "word": "息子",
+        "reading": "むすこ",
+        "meaning": "Son",
+        "jlpt": "N4"
+    },
+    {
+        "word": "娘",
+        "reading": "むすめ",
+        "meaning": "(my) daughter",
+        "jlpt": "N4"
+    },
+    {
+        "word": "無理",
+        "reading": "むり",
+        "meaning": "Unreasonable",
+        "jlpt": "N4"
+    },
+    {
+        "word": "召し上がる",
+        "reading": "めしあがる",
+        "meaning": "To eat",
+        "jlpt": "N4"
+    },
+    {
+        "word": "珍しい",
+        "reading": "めずらしい",
+        "meaning": "Unusual",
+        "jlpt": "N4"
+    },
+    {
+        "word": "申し上げる",
+        "reading": "もうしあげる",
+        "meaning": "To say",
+        "jlpt": "N4"
+    },
+    {
+        "word": "申す",
+        "reading": "もうす",
+        "meaning": "To say",
+        "jlpt": "N4"
+    },
+    {
+        "word": "もう直ぐ",
+        "reading": "もうすぐ",
+        "meaning": "Very soon",
+        "jlpt": "N4"
+    },
+    {
+        "word": "若し",
+        "reading": "もし",
+        "meaning": "If",
+        "jlpt": "N4"
+    },
+    {
+        "word": "戻る",
+        "reading": "もどる",
+        "meaning": "To turn back (e.g. half-way)",
+        "jlpt": "N4"
+    },
+    {
+        "word": "木綿",
+        "reading": "もめん",
+        "meaning": "Cotton (material)",
+        "jlpt": "N4"
+    },
+    {
+        "word": "森",
+        "reading": "もり",
+        "meaning": "Forest",
+        "jlpt": "N4"
+    },
+    {
+        "word": "焼く",
+        "reading": "やく",
+        "meaning": "To burn",
+        "jlpt": "N4"
+    },
+    {
+        "word": "約束",
+        "reading": "やくそく",
+        "meaning": "Promise",
+        "jlpt": "N4"
+    },
+    {
+        "word": "役に立つ",
+        "reading": "やくにたつ",
+        "meaning": "To be helpful",
+        "jlpt": "N4"
+    },
+    {
+        "word": "焼ける",
+        "reading": "やける",
+        "meaning": "To burn",
+        "jlpt": "N4"
+    },
+    {
+        "word": "優しい",
+        "reading": "やさしい",
+        "meaning": "Tender",
+        "jlpt": "N4"
+    },
+    {
+        "word": "痩せる",
+        "reading": "やせる",
+        "meaning": "To become thin",
+        "jlpt": "N4"
+    },
+    {
+        "word": "やっと",
+        "reading": "やっと",
+        "meaning": "At last",
+        "jlpt": "N4"
+    },
+    {
+        "word": "止む",
+        "reading": "やむ",
+        "meaning": "To cease",
+        "jlpt": "N4"
+    },
+    {
+        "word": "止める",
+        "reading": "やめる",
+        "meaning": "To stop (an activity)",
+        "jlpt": "N4"
+    },
+    {
+        "word": "柔らかい",
+        "reading": "やわらかい",
+        "meaning": "Soft",
+        "jlpt": "N4"
+    },
+    {
+        "word": "湯",
+        "reading": "ゆ",
+        "meaning": "Hot water",
+        "jlpt": "N4"
+    },
+    {
+        "word": "指",
+        "reading": "ゆび",
+        "meaning": "Finger",
+        "jlpt": "N4"
+    },
+    {
+        "word": "指輪",
+        "reading": "ゆびわ",
+        "meaning": "(finger) ring",
+        "jlpt": "N4"
+    },
+    {
+        "word": "夢",
+        "reading": "ゆめ",
+        "meaning": "Dream",
+        "jlpt": "N4"
+    },
+    {
+        "word": "揺れる",
+        "reading": "ゆれる",
+        "meaning": "To shake",
+        "jlpt": "N4"
+    },
+    {
+        "word": "用",
+        "reading": "よう",
+        "meaning": "Task",
+        "jlpt": "N4"
+    },
+    {
+        "word": "用意",
+        "reading": "ようい",
+        "meaning": "Preparation",
+        "jlpt": "N4"
+    },
+    {
+        "word": "用事",
+        "reading": "ようじ",
+        "meaning": "Tasks",
+        "jlpt": "N4"
+    },
+    {
+        "word": "汚れる",
+        "reading": "よごれる",
+        "meaning": "To get dirty",
+        "jlpt": "N4"
+    },
+    {
+        "word": "予習",
+        "reading": "よしゅう",
+        "meaning": "Preparation for a lesson",
+        "jlpt": "N4"
+    },
+    {
+        "word": "予定",
+        "reading": "よてい",
+        "meaning": "Plans",
+        "jlpt": "N4"
+    },
+    {
+        "word": "予約",
+        "reading": "よやく",
+        "meaning": "Reservation",
+        "jlpt": "N4"
+    },
+    {
+        "word": "寄る",
+        "reading": "よる",
+        "meaning": "To approach",
+        "jlpt": "N4"
+    },
+    {
+        "word": "喜ぶ",
+        "reading": "よろこぶ",
+        "meaning": "To be delighted",
+        "jlpt": "N4"
+    },
+    {
+        "word": "理由",
+        "reading": "りゆう",
+        "meaning": "Reason",
+        "jlpt": "N4"
+    },
+    {
+        "word": "利用",
+        "reading": "りよう",
+        "meaning": "Use",
+        "jlpt": "N4"
+    },
+    {
+        "word": "両方",
+        "reading": "りょうほう",
+        "meaning": "Both",
+        "jlpt": "N4"
+    },
+    {
+        "word": "旅館",
+        "reading": "りょかん",
+        "meaning": "Ryokan",
+        "jlpt": "N4"
+    },
+    {
+        "word": "留守",
+        "reading": "るす",
+        "meaning": "Absence",
+        "jlpt": "N4"
+    },
+    {
+        "word": "冷房",
+        "reading": "れいぼう",
+        "meaning": "Cooling",
+        "jlpt": "N4"
+    },
+    {
+        "word": "歴史",
+        "reading": "れきし",
+        "meaning": "History",
+        "jlpt": "N4"
+    },
+    {
+        "word": "レジ",
+        "reading": "レジ",
+        "meaning": "(cash) register",
+        "jlpt": "N4"
+    },
+    {
+        "word": "レポート",
+        "reading": "レポート",
+        "meaning": "Report",
+        "jlpt": "N4"
+    },
+    {
+        "word": "連絡",
+        "reading": "れんらく",
+        "meaning": "To contact",
+        "jlpt": "N4"
+    },
+    {
+        "word": "ワープロ",
+        "reading": "ワープロ",
+        "meaning": "Word processor",
+        "jlpt": "N4"
+    },
+    {
+        "word": "沸かす",
+        "reading": "わかす",
+        "meaning": "To boil",
+        "jlpt": "N4"
+    },
+    {
+        "word": "別れる",
+        "reading": "わかれる",
+        "meaning": "To be divided",
+        "jlpt": "N4"
+    },
+    {
+        "word": "沸く",
+        "reading": "わく",
+        "meaning": "To grow hot (e.g. water)",
+        "jlpt": "N4"
+    },
+    {
+        "word": "訳",
+        "reading": "わけ",
+        "meaning": "Conclusion from reasoning, judgement or calculation based on something read or heard",
+        "jlpt": "N4"
+    },
+    {
+        "word": "忘れ物",
+        "reading": "わすれもの",
+        "meaning": "Lost article",
+        "jlpt": "N4"
+    },
+    {
+        "word": "笑う",
+        "reading": "わらう",
+        "meaning": "To laugh",
+        "jlpt": "N4"
+    },
+    {
+        "word": "割合",
+        "reading": "わりあい",
+        "meaning": "Rate",
+        "jlpt": "N4"
+    },
+    {
+        "word": "割れる",
+        "reading": "われる",
+        "meaning": "To break",
+        "jlpt": "N4"
     }
 ]

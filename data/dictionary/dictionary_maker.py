@@ -2,9 +2,10 @@ import csv
 import json
 import re
 
-# Input and output files
-input_file = "data/dictionary/N5_dictionary_jisho.csv"
+# Input and output files and jlpt level
+input_file = "data/dictionary/N4_dictionary_jisho.csv"
 output_file = "data/dictionary/vocabulary.json"
+jlpt_level = "N4"
 
 
 def simplify_meaning(original):
@@ -53,7 +54,7 @@ with open(input_file, encoding="utf-8-sig", newline="") as csv_file:
             "word": row["Word"],
             "reading": row["Reading"],
             "meaning": simplify_meaning(row["Meaning"]),
-            "jlpt": "N5"
+            "jlpt": jlpt_level
         }
 
         vocabulary.append(entry)
