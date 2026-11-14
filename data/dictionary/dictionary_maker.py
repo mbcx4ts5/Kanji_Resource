@@ -4,7 +4,7 @@ import re
 
 # Input and output files
 input_file = "data/dictionary/N5_dictionary_jisho.csv"
-output_file = "data/vocabulary.json"
+output_file = "data/dictionary/vocabulary.json"
 
 
 def simplify_meaning(original):

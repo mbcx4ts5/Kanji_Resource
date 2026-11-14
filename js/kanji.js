@@ -17,11 +17,12 @@ function navigateToEntry(entryId) {
 Promise.all([
     fetch("data/kanji.json").then(response => response.json()),
     fetch("data/elements.json").then(response => response.json()),
-    fetch("data/chapters.json").then(response => response.json())
+    fetch("data/chapters.json").then(response => response.json()),
+    fetch("data/vocabulary.json").then(response => response.json())
 ])
 
 // Find the kanji object with the same ID as kanjiId, the page ID
-.then(([kanjiList, elementList, chapters]) => {
+.then(([kanjiList, elementList, chapters, vocabularyList]) => {
     // Find the kanji from the list with the relevant id
     const kanji = kanjiList.find(item => item.id === kanjiId);
 
@@ -168,19 +169,67 @@ Promise.all([
 
     // Create the vocabulary section
     const vocabularySection = document.createElement("section");
+    vocabularySection.className = "vocabulary-section";
+
     const vocabularyHeading = document.createElement("h2");
     vocabularyHeading.textContent = "Vocabulary";
-    const vocabularyList = document.createElement("ul");
-
-    kanji.vocabulary.forEach(word => {
-        const vocabularyItem = document.createElement("li");
-        vocabularyItem.textContent = word;
-        vocabularyList.appendChild(vocabularyItem);
-    });
 
     vocabularySection.appendChild(vocabularyHeading);
-    vocabularySection.appendChild(vocabularyList);
-    kanjiInformationCard.appendChild(vocabularySection)
+
+    // Find vocabulary containing current kanji
+    const relevantVocabulary = vocabularyList.filter(entry => entry.word.includes(kanji.character));
+    if (relevantVocabulary.length > 0) {
+        const vocabularyTable = document.createElement("table");
+        vocabularyTable.className = "vocabulary-table";
+
+        // Table header
+        const tableHead = document.createElement("thead");
+        const headerRow = document.createElement("tr");
+
+        ["Word", "Reading", "Meaning", "Level"].forEach(heading => {
+            const th = document.createElement("th");
+            th.textContent = heading;
+            headerRow.appendChild(th);
+        });
+        
+        tableHead.appendChild(headerRow);
+        vocabularyTable.appendChild(tableHead);
+
+        // Table Body
+        const tableBody = document.createElement("tbody");
+        relevantVocabulary.forEach(entry => {
+            const row = document.createElement("tr");
+            
+            const wordCell = document.createElement("td");
+            wordCell.textContent = entry.word;
+
+            const readingCell = document.createElement("td");
+            readingCell.textContent = entry.reading;
+
+            const meaningCell = document.createElement("td");
+            meaningCell.textContent = entry.meaning;
+
+            const levelCell = document.createElement("td");
+            levelCell.textContent = entry.jlpt;
+
+            row.appendChild(wordCell);
+            row.appendChild(readingCell);
+            row.appendChild(meaningCell);
+            row.appendChild(levelCell);
+
+            tableBody.appendChild(row);
+        });
+
+        vocabularyTable.appendChild(tableBody);
+        vocabularySection.appendChild(vocabularyTable);
+    } else {
+        const noVocabulary = document.createElement("p");
+        noVocabulary.textContent = "No vocabulary to show.";
+        vocabularySection.appendChild(noVocabulary);
+    }
+
+    // Append the vocabulary section
+    kanjiInformationCard.appendChild(vocabularySection);
 
     // Append Kanji information card
     page.appendChild(kanjiInformationCard);
