@@ -1036,7 +1036,7 @@
     "character": "艹",
     "name": "Grass",
     "order": 129,
-    "description": "",
+    "description": "We start our journey into the world of plants and nature with the simple 'grass' element. See the sprouts of grass coming out of the horizontal ground? This element often appears at the top of kanji.",
     "components": []
   },
   {
@@ -1044,7 +1044,7 @@
     "character": "昔",
     "name": "Long Ago",
     "order": 130,
-    "description": "",
+    "description": "As an element, keep to the theme of the kanji itself, focusing on stories that happened 'long ago'.",
     "components": []
   },
   {
@@ -1052,7 +1052,7 @@
     "character": "龶",
     "name": "Grow Up",
     "order": 131,
-    "description": "",
+    "description": "This element represents a small sprout of plant life that is 'growing up'.",
     "components": []
   },
   {
@@ -1060,7 +1060,7 @@
     "character": "青",
     "name": "Blue",
     "order": 132,
-    "description": "",
+    "description": "As an element, continue to use the theme of 'blue'.",
     "components": []
   },
   {
@@ -1068,7 +1068,7 @@
     "character": "生",
     "name": "Life",
     "order": 133,
-    "description": "",
+    "description": "As an element, we will continue to use the idea of 'life'.",
     "components": []
   },
   {
@@ -1076,7 +1076,7 @@
     "character": "𠀎",
     "name": "Leek",
     "order": 134,
-    "description": "",
+    "description": "This is 'grow up' but with another vertical stroke. The plant has now grown up and developed a full stem which we will take as a 'leek'.",
     "components": []
   },
   {
@@ -1084,7 +1084,7 @@
     "character": "𡗗",
     "name": "Bonsai",
     "order": 135,
-    "description": "",
+    "description": "Let the element for 'bonsai' be represented by three horizontal lines and two sweeping downward lines. This element does not bare any use to the word for bonsai in Japanese, but will serve as a useful visual mnemonic.",
     "components": []
   },
   {
@@ -1092,7 +1092,7 @@
     "character": "禾",
     "name": "Wheat",
     "order": 136,
-    "description": "",
+    "description": "We have already me the kanji for wheat (麦), but we will ascribe the meaning of 'wheat' to this element too.",
     "components": []
   },
   {

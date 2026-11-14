@@ -2624,7 +2624,7 @@
     "order": 238,
     "elements": ["E-129", "E-008", "E-006"],
     "grade": "1",
-    "description": "",
+    "description": "The kanji that gives 'grass' its name. We have already met the combination of 'sun' and 'ten' in the kanji for Early (早). Here we see 'grass' growing early in the year to mark the dawn of spring.",
     "same_element": null,
     "vocabulary": []
   },
@@ -2635,7 +2635,7 @@
     "order": 239,
     "elements": ["E-129", "E-038", "E-072"],
     "grade": "1",
-    "description": "",
+    "description": "We met the change-demanding spoon waver in the kanji for Change (化). This time, the activis takes the form of an environmentalist with 'grasses' in their hair and calling for the advent of Flower power.",
     "same_element": null,
     "vocabulary": []
   },
@@ -2646,7 +2646,7 @@
     "order": 240,
     "elements": ["E-129", "E-038", "E-061"],
     "grade": "3",
-    "description": "",
+    "description": "At the customs office, the customs officer pulls some Luggage aside. It turns out that there's some suspicious 'grass' inside the case and the officer what's to know 'what' is inside. Recall that the combination of 'person' and 'possible' exists in the kanji for What (何).",
     "same_element": null,
     "vocabulary": []
   },
@@ -2657,18 +2657,18 @@
     "order": 241,
     "elements": ["E-129", "E-039", "E-096"],
     "grade": "3",
-    "description": "",
+    "description": "Some 'grasses' have water resistant leaves that allow 'each' drop of 'water' that comes into contact with them to Fall downwards towards the roots.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0242",
     "character": "苦",
-    "keyword": "Suffer, bitter",
+    "keyword": "Bitter",
     "order": 242,
     "elements": ["E-129", "E-019"],
     "grade": "3",
-    "description": "",
+    "description": "The once aromatic herbacious 'grass' has become Bitter as it grows 'old'.",
     "same_element": null,
     "vocabulary": []
   },
@@ -2679,7 +2679,7 @@
     "order": 243,
     "elements": ["E-129", "E-021", "E-102", "E-012"],
     "grade": "3",
-    "description": "",
+    "description": "Once again, we must recall from a previous frame the combination of 'white', 'sparkler' and 'tree' makes for the kanji for Music (楽). We now just need to complete our story with the 'grass' element. This kanji focusses on two forms of Medicine, herbaceous 'grasses' and the holistic 'music' that acts as a form of medicine for the mind.",
     "same_element": null,
     "vocabulary": []
   },
@@ -2690,7 +2690,7 @@
     "order": 244,
     "elements": [],
     "grade": "3",
-    "description": "",
+    "description": "You may notice a 'grass'-like element hidden in this kanji, along with a 'hook'. This unique arrangement of strokes represents a freshly sprouted leaf, which came to be used as a sign of a new Generation. Another interpretation is that this kanji contains three lots of ten (十) to indicate a period of thirty years.",
     "same_element": null,
     "vocabulary": []
   },
@@ -2701,7 +2701,7 @@
     "order": 245,
     "elements": ["E-129", "E-012"],
     "grade": "3",
-    "description": "",
+    "description": "The kanji for Leaf itself contains the Generation kanji we just learned alongside the elements for 'grass' and 'tree' as if to really drive home their natural origins.",
     "same_element": null,
     "vocabulary": []
   },
@@ -2712,7 +2712,7 @@
     "order": 246,
     "elements": ["E-130"],
     "grade": "3",
-    "description": "",
+    "description": "This kanji is used when recounting a story from long, Long Ago. It is believed that Long Ago, 'grass' took over the barren earth in just 'one day'.",
     "same_element": "E-130",
     "vocabulary": []
   },
@@ -2723,7 +2723,7 @@
     "order": 247,
     "elements": ["E-131", "E-095"],
     "grade": "2",
-    "description": "",
+    "description": "The kanji for Wheat not only shows the blades of Wheat 'growing up', but also growing 'walking legs' so they can walk straight to the baker after being harvested.",
     "same_element": null,
     "vocabulary": []
   },
@@ -2734,7 +2734,7 @@
     "order": 248,
     "elements": ["E-132"],
     "grade": "1",
-    "description": "",
+    "description": "This kanji references something or someone 'growing up' on the moon. The lack of oxygen there means they have turned Blue.",
     "same_element": "E-132",
     "vocabulary": []
   },
@@ -2745,18 +2745,18 @@
     "order": 249,
     "elements": ["E-008", "E-132"],
     "grade": "2",
-    "description": "",
+    "description": "The kanji here refers to Clear weather. When the sky is 'blue' and the 'sun' is out, the weather is said to be Clear.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0250",
     "character": "生",
-    "keyword": "Living, birth, raw",
+    "keyword": "Life",
     "order": 250,
     "elements": ["E-133"],
     "grade": "1",
-    "description": "",
+    "description": "'Grow up' with a single 'drop' represents Life itself. The drop represnts that extra something that brings something to life. This kanji is infamous for the number of different readings it has but it's perhaps not as bad as it may first look.",
     "same_element": "E-133",
     "vocabulary": []
   },
@@ -2767,18 +2767,18 @@
     "order": 251,
     "elements": ["E-008", "E-133"],
     "grade": "2",
-    "description": "",
+    "description": "This kanji describes a Star as being a 'sun' that has the ability to give 'life' to its planets.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0252",
     "character": "寒",
-    "keyword": "Cold (weather)",
+    "keyword": "Frigid",
     "order": 252,
     "elements": ["E-057", "E-134", "E-040"],
     "grade": "3",
-    "description": "",
+    "description": "During the Frigid weather, someone has insulated their 'house' by blocking all the holes with 'leeks'. Just look at how cold the 'leeks' are getting with all the 'ice' on them.",
     "same_element": null,
     "vocabulary": []
   },
@@ -2789,18 +2789,18 @@
     "order": 253,
     "elements": ["E-057", "E-134", "E-059"],
     "grade": "S",
-    "description": "",
+    "description": "The 'leek'-filed 'house' from the previous frame is having any holes too small to fit leeks, Stuffed up with 'soil'. ",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0254",
     "character": "実",
-    "keyword": "Fruit, realization",
+    "keyword": "Reality",
     "order": 254,
     "elements": ["E-057", "E-135"],
     "grade": "3",
-    "description": "",
+    "description": "This kanji refers to the actual Reality as opposed to a hypothetic scenario. The Reality of keeping a 'bonsai' is that you will have to spend a lot of time in your 'house' tending to it.",
     "same_element": null,
     "vocabulary": []
   },
@@ -2811,7 +2811,7 @@
     "order": 255,
     "elements": ["E-135", "E-008"],
     "grade": "2",
-    "description": "",
+    "description": "This kanji refers to season of Spring. Incidentally, spring is also the best time for 'bonsais', just imagine them sitting in the 'sun' with their Spring blossoms on show.",
     "same_element": null,
     "vocabulary": []
   },
@@ -2822,18 +2822,18 @@
     "order": 256,
     "elements": ["E-136", "E-043"],
     "grade": "2",
-    "description": "",
+    "description": "Autumn is the season when when leftover 'wheat' is set on 'fire' to help fertilise the land in preparation for planting the next year's crops.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0257",
     "character": "和",
-    "keyword": "Harmony, Japanese",
+    "keyword": "Harmony",
     "order": 257,
     "elements": ["E-136", "E-007"],
     "grade": "3",
-    "description": "",
+    "description": "This kanji is also used for Japanese things. You know when Harmony is achieved when everyone's 'mouths' are filled with enough 'wheat'.",
     "same_element": null,
     "vocabulary": []
   },
@@ -2844,7 +2844,7 @@
     "order": 258,
     "elements": ["E-136", "E-027"],
     "grade": "3",
-    "description": "",
+    "description": "A 'few' grains of 'wheat' was abstracted into the meaning of a 'few' moments of time, which was further refined into Second, the short unit of time.",
     "same_element": null,
     "vocabulary": []
   },
@@ -2855,7 +2855,7 @@
     "order": 259,
     "elements": ["E-136", "E-123"],
     "grade": "3",
-    "description": "",
+    "description": "In this society, though the menfolk would harvest the 'wheat', it was actually down to a Committee of 'women' to decide what to do with it.",
     "same_element": null,
     "vocabulary": []
   },
