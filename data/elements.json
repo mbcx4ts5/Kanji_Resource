@@ -932,7 +932,7 @@
     "character": "豆",
     "name": "Beans",
     "order": 116,
-    "description": "",
+    "description": "As an element, continue with 'beans' as the meaning of this form.",
     "components": []
   },
   {
@@ -940,7 +940,7 @@
     "character": "癶",
     "name": "Teepee",
     "order": 117,
-    "description": "",
+    "description": "This unusual element which appears at the top of kanji has the appearance of a 'teepee', a cone-shaped tent like structure associated with certain indigenous peoples of the Americas.",
     "components": []
   },
   {
@@ -948,7 +948,7 @@
     "character": "彡",
     "name": "Shape",
     "order": 118,
-    "description": "",
+    "description": "These three drops written from right to left have come to mean 'shape'. Imagine the wrinkles in a fabric or the waves in a person's hair.",
     "components": []
   },
   {
@@ -956,15 +956,15 @@
     "character": "厂",
     "name": "Cliff",
     "order": 119,
-    "description": "",
+    "description": "Be careful with this element. Make sure you ascribe the meaning to a sheer 'cliff' or 'cliff-face' and not to any sort of cave or cavern you might find in the cliffs.",
     "components": []
   },
   {
     "id": "E-120",
     "character": "又",
-    "name": "Crotch",
+    "name": "Holding Hands",
     "order": 120,
-    "description": "",
+    "description": "This element shows two hands holding one another and will use the meaning of 'holding hands'. Alternatively, a very popular interpretation is that this represents a 'crotch' which can also lead to some amusing and memorable mnemonics.",
     "components": []
   },
   {
@@ -980,7 +980,7 @@
     "character": "士",
     "name": "Gentleman",
     "order": 122,
-    "description": "",
+    "description": "When using this element, keep to the meaning of 'gentleman'. This should prevent you from getting it mixed up with the similarly written form of 'soil'.",
     "components": []
   },
   {
@@ -988,7 +988,7 @@
     "character": "女",
     "name": "Woman",
     "order": 123,
-    "description": "",
+    "description": "As an element, continue to use the meaning of a 'woman' here. You may want to pick a particular woman in your stories.",
     "components": []
   },
   {
@@ -2004,7 +2004,7 @@
     "character": "反",
     "name": "Anti",
     "order": 252,
-    "description": "",
+    "description": "As an element, this form will continue with 'anti', meaning something that is opposed to something else.",
     "components": []
   }
 ]

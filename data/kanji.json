@@ -2301,11 +2301,11 @@
   {
     "id": "K-0209",
     "character": "豆",
-    "keyword": "Bean",
+    "keyword": "Beans",
     "order": 209,
     "elements": ["E-116"],
     "grade": "3",
-    "description": "",
+    "description": "This collection of strokes has come to mean 'bean'.",
     "same_element": "E-116",
     "vocabulary": []
   },
@@ -2316,7 +2316,7 @@
     "order": 210,
     "elements": ["E-063", "E-116"],
     "grade": "3",
-    "description": "",
+    "description": "Imagine a very Short elf trying to collect 'beans', but they are too short to reach them and so use an 'arrow' to shoot them off.",
     "same_element": null,
     "vocabulary": []
   },
@@ -2327,7 +2327,7 @@
     "order": 211,
     "elements": ["E-117", "E-110"],
     "grade": "3",
-    "description": "",
+    "description": "A 'teepee' is quite useful for a quick Departure. Just collapse with your 'two hands' to take it with you. Note how the final vertical strokes of the 'two hands' instead resemble 'human legs'.",
     "same_element": null,
     "vocabulary": []
   },
@@ -2338,7 +2338,7 @@
     "order": 212,
     "elements": ["E-117", "E-116"],
     "grade": "3",
-    "description": "",
+    "description": "Here we see someone Climbing up the sides of their 'teepee' to get to some stored 'beans', presumably placed their to dry out in the wind.",
     "same_element": null,
     "vocabulary": []
   },
@@ -2349,18 +2349,18 @@
     "order": 213,
     "elements": ["E-110", "E-118"],
     "grade": "2",
-    "description": "",
+    "description": "The kanji from which the 'shape' element gets its name. Here we see 'two hands' ironing out the creases in something to restore its Shape.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0214",
     "character": "原",
-    "keyword": "Meadow, plain",
+    "keyword": "Meadow",
     "order": 214,
     "elements": ["E-119", "E-021", "E-026"],
     "grade": "2",
-    "description": "",
+    "description": "You might want to think of some famous 'white cliffs' for this kanji. Then extend your pnemonic to include a 'small' Meadow, perhaps at the base of the cliffs so that you don't accidentally misplace the 'small' element.",
     "same_element": null,
     "vocabulary": []
   },
@@ -2371,18 +2371,18 @@
     "order": 215,
     "elements": ["E-013", "E-119", "E-043"],
     "grade": "3",
-    "description": "",
+    "description": "This is a nice pictogram of a Charcoal fire being set up by the 'cliffs' at the base of a 'mountain'. Make sure you consider the fire to be strictly at the base of a cliff, and not in any sort of cave.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0216",
     "character": "反",
-    "keyword": "Anti-",
+    "keyword": "Anti",
     "order": 216,
     "elements": ["E-119", "E-120"],
     "grade": "3",
-    "description": "",
+    "description": "Two lovers driven to the edge of a 'cliff holding hands'. But what drove them to this perilous situation? Someone must have disapproved and been 'anti-' this relationship.",
     "same_element": "E-250",
     "vocabulary": []
   },
@@ -2393,7 +2393,7 @@
     "order": 217,
     "elements": ["E-059", "E-119", "E-120"],
     "grade": "3",
-    "description": "",
+    "description": "This kanji represents a steep Slope that runs against (or anti-) the naturally 'ground'.",
     "same_element": null,
     "vocabulary": []
   },
@@ -2404,7 +2404,7 @@
     "order": 218,
     "elements": ["E-012", "E-119", "E-120"],
     "grade": "3",
-    "description": "",
+    "description": "A Board here is a flat piece of wood. Whoever is making all these Boards must be 'anti tree' judging by the number of trees that are needed to be cut down in order for the person to make them.",
     "same_element": null,
     "vocabulary": []
   },
@@ -2415,7 +2415,7 @@
     "order": 219,
     "elements": ["E-111", "E-120"],
     "grade": "2",
-    "description": "",
+    "description": "A Friend here is quite elegantly represented as two people who 'possess' the ability to 'hold hands'.",
     "same_element": null,
     "vocabulary": []
   },
@@ -2426,7 +2426,7 @@
     "order": 220,
     "elements": ["E-114", "E-120"],
     "grade": "3",
-    "description": "",
+    "description": "Imagine someone here 'holding the hands' of someone who needs to Take some good advice or encouragement. You can only hope that what you say actually goes into their 'ear'.",
     "same_element": null,
     "vocabulary": []
   },
@@ -2459,18 +2459,18 @@
     "order": 223,
     "elements": ["E-122"],
     "grade": "5",
-    "description": "",
+    "description": "This kanji represents a more refined Gentleman. Note the humble relationship with the 'soil' element, except in this case, the top stroke extends over the bottom.",
     "same_element": "E-122",
     "vocabulary": []
   },
   {
     "id": "K-0224",
     "character": "仕",
-    "keyword": "Serve",
+    "keyword": "Service",
     "order": 224,
     "elements": ["E-038", "E-122"],
     "grade": "3",
-    "description": "",
+    "description": "A 'person' standing beside a 'gentleman' here has come to carry the meaning of Service.",
     "same_element": null,
     "vocabulary": []
   },
@@ -2481,7 +2481,7 @@
     "order": 225,
     "elements": ["E-122", "E-070"],
     "grade": "2",
-    "description": "",
+    "description": "The calming Voice of a refined 'gentleman' here is likened to a 'mosaic'. Note the unique form of the final stroke of mosaic in this kanji.",
     "same_element": null,
     "vocabulary": []
   },
@@ -2492,7 +2492,7 @@
     "order": 226,
     "elements": ["E-123"],
     "grade": "1",
-    "description": "",
+    "description": "This form has come to mean Woman. It was originally meant to represent an unfortunate pictogram of a woman kneeling, and you can still make out the kneeled figure in the first stroke. Despite being made up of only three strokes, balancing these three strokes into an aesthetically pleasing form can be quite challenging.",
     "same_element": "E-123",
     "vocabulary": []
   },
