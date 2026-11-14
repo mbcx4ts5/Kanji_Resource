@@ -2459,7 +2459,7 @@
     "order": 223,
     "elements": ["E-122"],
     "grade": "5",
-    "description": "This kanji represents a more refined Gentleman. Note the humble relationship with the 'soil' element, except in this case, the top stroke extends over the bottom.",
+    "description": "We start our stories centred on family life with a kanji representing a refined Gentleman. Note the humble relationship with the 'soil' element, except in this case, the top stroke extends over the bottom.",
     "same_element": "E-122",
     "vocabulary": []
   },
@@ -2488,11 +2488,11 @@
   {
     "id": "K-0226",
     "character": "女",
-    "keyword": "Female",
+    "keyword": "Woman",
     "order": 226,
     "elements": ["E-123"],
     "grade": "1",
-    "description": "This form has come to mean Woman. It was originally meant to represent an unfortunate pictogram of a woman kneeling, and you can still make out the kneeled figure in the first stroke. Despite being made up of only three strokes, balancing these three strokes into an aesthetically pleasing form can be quite challenging.",
+    "description": "Next in our family, we have the Woman of the house. It was originally meant to represent an unfortunate pictogram of a woman kneeling, and you can still make out the kneeled figure in the first stroke. Despite being made up of only three strokes, balancing these three strokes into an aesthetically pleasing form can be quite challenging.",
     "same_element": "E-123",
     "vocabulary": []
   },
@@ -2503,18 +2503,18 @@
     "order": 227,
     "elements": ["E-123", "E-105"],
     "grade": "3",
-    "description": "",
+    "description": "Life Begins with a single 'woman' who puts their babies on metaphorical 'pedestals' so that they grow up to be strong and healthy.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0228",
     "character": "安",
-    "keyword": "Cheap, calm",
+    "keyword": "Relax",
     "order": 228,
     "elements": ["E-057", "E-123"],
     "grade": "3",
-    "description": "",
+    "description": "Here we have a 'woman' Relaxing after a hard day of work. And where is best to Relax other than in your own 'house'.",
     "same_element": null,
     "vocabulary": []
   },
@@ -2525,7 +2525,7 @@
     "order": 229,
     "elements": ["E-124"],
     "grade": "1",
-    "description": "",
+    "description": "Our humble family continues with a child. Notice its over-sized head and spreading arms of joy.",
     "same_element": "E-124",
     "vocabulary": []
   },
@@ -2536,7 +2536,7 @@
     "order": 230,
     "elements": ["E-123", "E-124"],
     "grade": "4",
-    "description": "",
+    "description": "This kanji is quite straightforward. It represents a 'woman's' Fondness towards their 'child'.",
     "same_element": null,
     "vocabulary": []
   },
@@ -2547,18 +2547,18 @@
     "order": 231,
     "elements": ["E-057", "E-124"],
     "grade": "1",
-    "description": "",
+    "description": "With the great number of kanji Characters required to read Japanese, it is no wonder that a 'child' sitting in a 'house' came to mean the Characters themselves. Imagine a child sitting in their house writing out character after character.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0232",
     "character": "大",
-    "keyword": "Large",
+    "keyword": "Big",
     "order": 232,
     "elements": ["E-125"],
     "grade": "1",
-    "description": "",
+    "description": "This character represents a person with outstretched arms and has come to mean Big.",
     "same_element": "E-125",
     "vocabulary": []
   },
@@ -2569,7 +2569,7 @@
     "order": 233,
     "elements": ["E-126"],
     "grade": "1",
-    "description": "",
+    "description": "The only thing differentiating this kanji from the one in the previous frame is the 'drop' in the top-right corner. You might be familiar with the image of a pirate with a parrot on its shoulder, well here we have a 'giant' which is big enough to get an entire Dog on its shoulder, here represented by a single 'drop'.",
     "same_element": "E-126",
     "vocabulary": []
   },
@@ -2580,7 +2580,7 @@
     "order": 234,
     "elements": ["E-057", "E-127"],
     "grade": "3",
-    "description": "",
+    "description": "This is the 'house' you take a broken things to to Determine whether it can be 'mended' or not.",
     "same_element": null,
     "vocabulary": []
   },
@@ -2591,7 +2591,7 @@
     "order": 235,
     "elements": ["E-116", "E-128"],
     "grade": "2",
-    "description": "",
+    "description": "The kanji from which the 'head' element gets its name. Here it is accompanied by 'beans', representing the mushy brains inside.",
     "same_element": null,
     "vocabulary": []
   },
@@ -2602,7 +2602,7 @@
     "order": 236,
     "elements": ["E-093", "E-119", "E-118", "E-128"],
     "grade": "2",
-    "description": "",
+    "description": "This complicated kanji shows a 'cliff' Face with the 'shape' of 'heads' carved into it and a person 'standing up' on top of the 'cliff' pulling funny Faces.",
     "same_element": null,
     "vocabulary": []
   },
@@ -2613,7 +2613,7 @@
     "order": 237,
     "elements": ["E-008", "E-127", "E-128"],
     "grade": "3",
-    "description": "",
+    "description": "The Topic of a piece of writing is often laid out in its 'heading'. The rest of the document is likely full of typos and will require 'all day mending it'. See how the final stroke of 'mending' is extra long here.",
     "same_element": null,
     "vocabulary": []
   },

@@ -996,7 +996,7 @@
     "character": "子",
     "name": "Child",
     "order": 124,
-    "description": "",
+    "description": "As an element, continue to use 'child' or perhaps 'childhood' in your stories.",
     "components": []
   },
   {
@@ -1004,15 +1004,15 @@
     "character": "大",
     "name": "Big",
     "order": 125,
-    "description": "",
+    "description": "As an element, keep in mind the idea of 'bigness' or perhaps a 'giant'.",
     "components": []
   },
   {
     "id": "E-126",
-    "character": "犬",
-    "name": "Dog",
+    "character": "犬・犭",
+    "name": "Animal",
     "order": 126,
-    "description": "",
+    "description": "As an element, this form may continue with the theme of 'dogs', especially when it is written in its original form. When it occupies the left-hand side of a kanji, the form shape-shifts and may take the more general sense of 'animal'.",
     "components": []
   },
   {
@@ -1020,7 +1020,7 @@
     "character": "𤴓",
     "name": "Mending",
     "order": 127,
-    "description": "",
+    "description": "We saw these strokes previous in the kanji and element for 'foot'. Here we see a slightly altered version of the kanji for 'correct' (正). Note that the final two strokes differ as if the kanji is in the process of beint mended.",
     "components": []
   },
   {
@@ -1028,7 +1028,7 @@
     "character": "頁",
     "name": "Head",
     "order": 128,
-    "description": "",
+    "description": "We have finally learned enough elements to make learning the element for 'head' worthwhile. You might notice a resemblence to 'neck', only the 'devil horns' have migrated to the bottom of the kanji and have become 'animal legs' instead. Imagine a 'ceiling' so low you might bang your Head on it, so to shorten yourself, you replace your legs with 'animal legs'.",
     "components": []
   },
   {
