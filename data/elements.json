@@ -818,9 +818,9 @@
   {
     "id": "E-102",
     "character": "氺",
-    "name": "Sparkler",
+    "name": "Sprinkler",
     "order": 102,
-    "description": "A sparkler here is represnted by a stick with sparks flying off it in all directions. Occasionally, the sparkler itself will be absent, leaving behind just the sparks.",
+    "description": "A sprinkler here is represnted by a rod with sprinkles of water flying off it in all directions. Occasionally, the rod itself will be absent, leaving behind just the sprinkles. Especially when it is in this form, we can consider this as 'sparkles' as well, such as sparkling beads of water.",
     "components": []
   },
   {
@@ -1324,7 +1324,7 @@
     "character": "者",
     "name": "Someone",
     "order": 165,
-    "description": "",
+    "description": "As an element, we will use the idea as a humble 'someone'. They are not particularly special or well-to-do. Feel free to give them a personal name if you wish or relate it to someone you know. The 'sun' part of this element may be replaced with another form.",
     "components": []
   },
   {
@@ -1332,7 +1332,7 @@
     "character": "攵",
     "name": "Taskmaster",
     "order": 166,
-    "description": "",
+    "description": "The next person we encounter is a strict 'taskmaster'. If it helps, imagine the first stroke as the taskmaster's whip, ready to whip the workers into shape. Once again, feel free to personalise this element with harsh taskmaster you may or may not know of.",
     "components": []
   },
   {
@@ -1340,15 +1340,15 @@
     "character": "求",
     "name": "Request",
     "order": 167,
-    "description": "",
+    "description": "As an element, we will continue to use the idea of 'request'.",
     "components": []
   },
   {
     "id": "E-168",
-    "character": "𡈼",
+    "character": "壬",
     "name": "Porter",
     "order": 168,
-    "description": "",
+    "description": "The Porter here is a quite an important figure. He is of course the 'gentleman' we have met before, and has the importnat job of carrying the very import 'drop' on his head. ",
     "components": []
   },
   {
@@ -1356,7 +1356,7 @@
     "character": "才",
     "name": "Genius",
     "order": 169,
-    "description": "",
+    "description": "As an element, think of a person who might well fit the role of a 'genius'.",
     "components": []
   },
   {
@@ -1364,7 +1364,7 @@
     "character": "氏",
     "name": "Surname",
     "order": 170,
-    "description": "",
+    "description": "There is some dispute as to what this arrangement of strokes is trying to represent. It could be a person bowing, or a person holding a tool, a decorated clan stick or something elese. Whichever interpretation you give it, this form will keep the meaning  of 'surname'. ",
     "components": []
   },
   {
@@ -1372,7 +1372,7 @@
     "character": "冖",
     "name": "Crown",
     "order": 171,
-    "description": "",
+    "description": "This element represents a 'crown' and the great political power that comes with it. You may recognise it as an abbreviated form of both 'house' and 'birdhouse' without the decoration on top. Just don't mix it up with those similar looking elements.",
     "components": []
   },
   {
@@ -1380,7 +1380,7 @@
     "character": "王",
     "name": "King",
     "order": 172,
-    "description": "",
+    "description": "As an element, this form will retain the meaning of 'king' and will occasionally also carry the meaning of 'ball' as well.",
     "components": []
   },
   {
@@ -1388,7 +1388,7 @@
     "character": "主",
     "name": "Main",
     "order": 173,
-    "description": "",
+    "description": "For this element, you may think of either the 'main' part of something, or the personification of a 'master' over something.",
     "components": []
   },
   {
@@ -1396,7 +1396,7 @@
     "character": "⻖",
     "name": "Pinnacle",
     "order": 174,
-    "description": "",
+    "description": "This element represents the idea of reaching the 'pinnacle'. You can think of it as a lofty skyscraper or an ivory tower. Basically if you can make it here, you've really made it.",
     "components": []
   },
   {
@@ -1404,7 +1404,7 @@
     "character": "天",
     "name": "Heaven",
     "order": 175,
-    "description": "",
+    "description": "As an element, we will continue the theme of 'heaven' for this form..",
     "components": []
   },
   {
