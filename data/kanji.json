@@ -1535,7 +1535,7 @@
     "order": 139,
     "elements": ["E-078", "E-008"],
     "grade": "2",
-    "description": "The kanji used for writing contains a 'brush' above a 'sun', though it might be easier to think of the 'sun' as a piece of paper with a line drawn on it. Alternatively, consider the idea of someone saving their writing for when the 'sun' is out to maximise visibility.",
+    "description": "The kanji used for writing contains a 'brush' above a 'sun'. Consider the idea of someone saving their writing for when the 'sun' is out to maximise visibility.",
     "same_element": null,
     "vocabulary": []
   },
@@ -2862,11 +2862,11 @@
   {
     "id": "K-0260",
     "character": "科",
-    "keyword": "Section, grade",
+    "keyword": "Department",
     "order": 260,
     "elements": ["E-136", "E-137"],
     "grade": "2",
-    "description": "",
+    "description": "This Department is responsible for making sure everyon is fed. They carefully 'measure' out the correct amount of 'wheat' to give per household.",
     "same_element": null,
     "vocabulary": []
   },
@@ -2877,7 +2877,7 @@
     "order": 261,
     "elements": ["E-138"],
     "grade": "3",
-    "description": "",
+    "description": "This depiction of a small sprout coming from the ground has been abstracted to mean Reason, indicating that the Reason for something happening can ultimately be quite small.",
     "same_element": "E-138",
     "vocabulary": []
   },
@@ -2888,7 +2888,7 @@
     "order": 262,
     "elements": ["E-039", "E-138"],
     "grade": "3",
-    "description": "",
+    "description": "This kanji shows the creation of vegetable Oil, just 'water' the 'sprouts' so they grow up and sprout oil.",
     "same_element": null,
     "vocabulary": []
   },
@@ -2899,18 +2899,18 @@
     "order": 263,
     "elements": ["E-045", "E-138"],
     "grade": "3",
-    "description": "",
+    "description": "A Flute here is a traditional one made of 'bamboo'. Only the tender stems of newly 'sprouted bamboo' are suitable for turning into flutes however.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0264",
     "character": "申",
-    "keyword": "Say",
+    "keyword": "Sayeth",
     "order": 264,
     "elements": ["E-139"],
     "grade": "3",
-    "description": "",
+    "description": "The keyword chosen for this kanji references the humble language this kanji is often used in. It may be easier to see this kanji as something coming out of a mouth to indicate a person speaking.",
     "same_element": "E-139",
     "vocabulary": []
   },
@@ -2921,7 +2921,7 @@
     "order": 265,
     "elements": ["E-048", "E-139"],
     "grade": "3",
-    "description": "",
+    "description": "The strength of a good Deity lies in their ability to 'push through' the confines of the prayer 'altar' and merge into the life and culture of their adherents.",
     "same_element": null,
     "vocabulary": []
   },
@@ -2932,18 +2932,18 @@
     "order": 266,
     "elements": ["E-140"],
     "grade": "2",
-    "description": "",
+    "description": "The kanji for rice contains the kanji for 'tree' with two additional 'drops' to represent the individual grains of rice.",
     "same_element": "E-140",
     "vocabulary": []
   },
   {
     "id": "K-0267",
     "character": "林",
-    "keyword": "Woods",
+    "keyword": "Grove",
     "order": 267,
     "elements": ["E-012"],
     "grade": "1",
-    "description": "",
+    "description": "You may be familiar with this kanji already. Two trees together make for a grove.",
     "same_element": null,
     "vocabulary": []
   },
@@ -2954,7 +2954,7 @@
     "order": 268,
     "elements": ["E-012"],
     "grade": "1",
-    "description": "",
+    "description": "Three trees together make for a whole forest. Both this kanji and the previous are a good showcase of the intuitive nature of kanji.",
     "same_element": null,
     "vocabulary": []
   },
@@ -2965,18 +2965,18 @@
     "order": 269,
     "elements": ["E-141"],
     "grade": "4",
-    "description": "",
+    "description": "This kanji appears to depict a tree with a branch that has Not Yet fully grown. This has taken on the meaning of something that has not yet happened.",
     "same_element": "E-141",
     "vocabulary": []
   },
   {
     "id": "K-0270",
     "character": "味",
-    "keyword": "Flavor",
+    "keyword": "Flavour",
     "order": 270,
     "elements": ["E-007", "E-141"],
     "grade": "3",
-    "description": "",
+    "description": "Flavour is the thing that we experience when put food in our 'mouths' but it has 'not yet' reached our stomaches.",
     "same_element": null,
     "vocabulary": []
   },
@@ -2987,7 +2987,7 @@
     "order": 271,
     "elements": ["E-123", "E-141"],
     "grade": "2",
-    "description": "",
+    "description": "A Younger Sister here is a depiction of someone who is 'not yet' a 'woman'.",
     "same_element": null,
     "vocabulary": []
   },
@@ -2998,7 +2998,7 @@
     "order": 272,
     "elements": ["E-141"],
     "grade": "2",
-    "description": "",
+    "description": "The kanji used for the word 'to come' is a combination of both 'not yet' and 'rice'. Imagine people waiting impatiently for someone to Come, with the reason for their lateness being that they have 'not yet' finished their bowl of 'rice'.",
     "same_element": null,
     "vocabulary": []
   },
@@ -3007,9 +3007,9 @@
     "character": "画",
     "keyword": "Brush stroke",
     "order": 273,
-    "elements": ["E-001", "E-011", "E-142"],
+    "elements": ["E-001", "E-138", "E-142"],
     "grade": "2",
-    "description": "",
+    "description": "This character is used to count the number of Brush Strokes in a kanji. Lower the 'sprouting' hairs of a brush into a 'bucket' of ink just 'once' and see how many Brush Strokes you can manage.",
     "same_element": null,
     "vocabulary": []
   },
@@ -3020,18 +3020,18 @@
     "order": 274,
     "elements": ["E-029", "E-140", "E-142"],
     "grade": "3",
-    "description": "",
+    "description": "This form does loosely resemble a tooth. To put a 'stop' to Tooth decay, people moved away from eating 'rice' from 'buckets', opting for more portion controlled bowls instead.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0275",
     "character": "君",
-    "keyword": "You, monarch",
+    "keyword": "Buddy",
     "order": 275,
     "elements": ["E-143", "E-007"],
     "grade": "3",
-    "description": "",
+    "description": "Addressing others correctly is very important in Japan. Addressing someone with this kanji can sometimes be considered rude and as if you are talking down to them. Therefore, a person who frequently calls you 君, might appear to be a Buddy, but really ought to clean out their 'mouths' with a 'mop'.",
     "same_element": null,
     "vocabulary": []
   },
@@ -3042,7 +3042,7 @@
     "order": 276,
     "elements": ["E-001", "E-007", "E-143"],
     "grade": "3",
-    "description": "",
+    "description": "This kanji is probably one of the few that is best learnt via rote memorisation. Luckily this is a very common kanji. Its meaning is something non physical. Imagine the 'thing' that no 'one' talks about, so everyone just keeps their 'mouths' closed and keeps mopping the floor.",
     "same_element": null,
     "vocabulary": []
   },
@@ -3053,7 +3053,7 @@
     "order": 277,
     "elements": ["E-144"],
     "grade": "2",
-    "description": "",
+    "description": "This character appears to show a vertical knife cutting something in Half. The two drops show peices of the object coming away as it is cut.",
     "same_element": "E-144",
     "vocabulary": []
   },
@@ -3064,7 +3064,7 @@
     "order": 278,
     "elements": ["E-009", "E-144", "E-017"],
     "grade": "3",
-    "description": "",
+    "description": "The Winner of the space race gets the power to divide the 'moon' up, not just into halves but 'quarters' too.",
     "same_element": null,
     "vocabulary": []
   },
@@ -3075,7 +3075,7 @@
     "order": 279,
     "elements": ["E-145"],
     "grade": "2",
-    "description": "",
+    "description": "A common but disputed etymology for this kanji is that it shows a 'sun' rising' behind a 'tree'. Regardless of whether this is the true form of the original character, this story is enough to help us memorise this kanji's meaning of East.",
     "same_element": "E-145",
     "vocabulary": []
   },
@@ -3086,7 +3086,7 @@
     "order": 280,
     "elements": ["E-046", "E-145"],
     "grade": "3",
-    "description": "",
+    "description": "The merchants who traveled along the silk road were well Practiced at trading with those from the 'east' for their silk 'threads'.",
     "same_element": null,
     "vocabulary": []
   },
@@ -3097,7 +3097,7 @@
     "order": 281,
     "elements": ["E-146"],
     "grade": "6",
-    "description": "",
+    "description": "This kanji shows a pictogram of flowers drooping from a plant and came to be used for the general act of Drooping.",
     "same_element": "E-146",
     "vocabulary": []
   },
@@ -3108,7 +3108,7 @@
     "order": 282,
     "elements": ["E-146", "E-012"],
     "grade": "3",
-    "description": "",
+    "description": "This is another unique doubling up of 'droop' and 'tree' elements. Imagine Riding on top of some 'wooden' vehicle with your legs 'drooping' down over the sides.",
     "same_element": null,
     "vocabulary": []
   },
@@ -3119,7 +3119,7 @@
     "order": 283,
     "elements": ["E-147"],
     "grade": "6",
-    "description": "",
+    "description": "This kanji appears to show an unusual doubling up of the characters for 'dog' and 'person' with the presence of an extra drop. The person here appears to have Lost their dog and is still holding on to the leash that the dog was once attached to (here represnted by the drop-like stroke).",
     "same_element": "E-147",
     "vocabulary": []
   },
@@ -3130,7 +3130,7 @@
     "order": 284,
     "elements": ["E-148"],
     "grade": "1",
-    "description": "",
+    "description": "The kanji here for 'red' contains a few more unique strokes at the bottom. Ignoring the stroke order, the form bares a resemblence to the 'sword' element, with little drops of Red 'blood' either side.",
     "same_element": "E-148",
     "vocabulary": []
   },
@@ -3141,7 +3141,7 @@
     "order": 285,
     "elements": [],
     "grade": "2",
-    "description": "",
+    "description": "The kanji for yellow contains some more natural elements, 'animal legs', some 'grass' and 'one sprout'. This sounds like a meal that few would want to eat, so imagine the grass and sprout wilting and turning Yellow.",
     "same_element": null,
     "vocabulary": []
   },
@@ -3152,7 +3152,7 @@
     "order": 286,
     "elements": ["E-012"],
     "grade": "3",
-    "description": "",
+    "description": "Though we won't see the form of 'yellow' often enough to regard it as an element, it does recur in this kanji. A 'tree' that has fallen over and turned Horizontal, also has 'yellow' leaves.",
     "same_element": null,
     "vocabulary": []
   },
@@ -3163,7 +3163,7 @@
     "order": 287,
     "elements": ["E-149"],
     "grade": "2",
-    "description": "",
+    "description": "Staring the chapter on animal-based elements is a kanji consisting of a pictogram for Feathers",
     "same_element": "E-149",
     "vocabulary": []
   },
@@ -3174,7 +3174,7 @@
     "order": 288,
     "elements": ["E-149", "E-021"],
     "grade": "3",
-    "description": "",
+    "description": "We see a pair of 'feathers' over a 'white' piece of paper to display the covery the meaning of Learn.",
     "same_element": null,
     "vocabulary": []
   },
@@ -3185,7 +3185,7 @@
     "order": 289,
     "elements": ["E-150", "E-012"],
     "grade": "3",
-    "description": "",
+    "description": "At this Gathering, people Gather round a 'tree' and celebrate by eating a 'turkey' which, bizarrely, is placed on top of the tree.",
     "same_element": null,
     "vocabulary": []
   },
@@ -3196,18 +3196,18 @@
     "order": 290,
     "elements": ["E-008", "E-149", "E-150"],
     "grade": "2",
-    "description": "",
+    "description": "This is an ancient way of counting the Days Of The Week. Each 'day' you pluck out a couple of 'feathers' from a 'turkey' to keep track. Notice that the 'feathers' here become contracted into a pair of 'ヨ's.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0291",
     "character": "昼",
-    "keyword": "Daytime",
+    "keyword": "Noon",
     "order": 291,
     "elements": ["E-151", "E-008", "E-001"],
     "grade": "2",
-    "description": "",
+    "description": "You might be used to a bell tolling at Noon, but here we have a 'flute' that is blown just 'once a day' at Noon.",
     "same_element": null,
     "vocabulary": []
   },
@@ -3218,7 +3218,7 @@
     "order": 292,
     "elements": ["E-152"],
     "grade": "2",
-    "description": "",
+    "description": "The kanji for Horse has a similar form to 'turkey' with the addition of four galloping legs and a tail.",
     "same_element": "E-152",
     "vocabulary": []
   },
@@ -3229,7 +3229,7 @@
     "order": 293,
     "elements": ["E-152", "E-151"],
     "grade": "3",
-    "description": "",
+    "description": "The outline of this kanji has a striking resemblance to JR, the name initials given to the Japanese Railway Group. Traditionally, to communicate that a train was on its way to the Station, they a 'horse'-riding flautist would play a melody on their 'flute'.",
     "same_element": null,
     "vocabulary": []
   },
@@ -3240,18 +3240,18 @@
     "order": 294,
     "elements": ["E-153", "E-151"],
     "grade": "S",
-    "description": "",
+    "description": "When playing a song on a 'flute', the flautist can make their own Interpretation. Now imagine them sitting outside summoning animals with the sweet sounds of their flute-playing, as referenced by the 'animal tracks'.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0295",
     "character": "番",
-    "keyword": "Number",
+    "keyword": "Serial",
     "order": 295,
     "elements": ["E-153", "E-011"],
     "grade": "2",
-    "description": "",
+    "description": "Earlier we met the kanji 第 given the unusual keyword of 'Ordinal'. Now we have 'Serial'. This involves counting things in a ranked order. 一番 is first place, 二番 is second place etc. This kanji involves a competition to see who can be the best at mimicing 'animal tracks' in a 'rice field'.",
     "same_element": null,
     "vocabulary": []
   },
@@ -3262,7 +3262,7 @@
     "order": 296,
     "elements": ["E-153", "E-011", "E-149"],
     "grade": "S",
-    "description": "",
+    "description": "From the previous frame, we have to consider the chance of a tie in the 'animal tracks in a rice field' contest. Instead of Flipping a coin, we here Flip two 'feathers' to determine the winner.",
     "same_element": null,
     "vocabulary": []
   },
@@ -3273,7 +3273,7 @@
     "order": 297,
     "elements": ["E-154"],
     "grade": "2",
-    "description": "",
+    "description": "The character for bird is also a loose pictogram of a bird. Notice the relationship with 'horse' with the final five strokes.",
     "same_element": "E-154",
     "vocabulary": []
   },
@@ -3284,7 +3284,7 @@
     "order": 298,
     "elements": ["E-007", "E-154"],
     "grade": "2",
-    "description": "",
+    "description": "A 'bird' Chirping with its open 'mouth'. This kanji not only covers the sounds from birds, but other animals and even other things that might sound such as alarms and telephones.",
     "same_element": null,
     "vocabulary": []
   },
@@ -3295,7 +3295,7 @@
     "order": 299,
     "elements": ["E-154"],
     "grade": "3",
-    "description": "",
+    "description": "This unusual kanji instead replaces the four final strokes in 'bird' with a 'mountain'. Imagine a 'bird' on a remote Island which has evolved a unique display of feathers to help it perch onto the island's 'mountain'.",
     "same_element": null,
     "vocabulary": []
   },
@@ -3306,7 +3306,7 @@
     "order": 300,
     "elements": ["E-155"],
     "grade": "2",
-    "description": "",
+    "description": "The elements for this kanji are 'bound up', 'rice field', 'fire', which together form the image of a Fish with fins being represented by the four strokes normally associate with 'fire'.",
     "same_element": "E-155",
     "vocabulary": []
   },
@@ -3317,7 +3317,7 @@
     "order": 301,
     "elements": ["E-057", "E-156"],
     "grade": "2",
-    "description": "",
+    "description": "This is the kanji from which we got the 'house' element's name from. Recall the story of the Three Little 'Pigs' who each built their 'house' out of a different material.",
     "same_element": null,
     "vocabulary": []
   },
@@ -3328,7 +3328,7 @@
     "order": 302,
     "elements": ["E-009", "E-156"],
     "grade": "S",
-    "description": "",
+    "description": "This is the kanji generally used for Pigs and also 'pig flesh', more commonly known as pork.",
     "same_element": null,
     "vocabulary": []
   },
@@ -3339,7 +3339,7 @@
     "order": 303,
     "elements": ["E-059", "E-157"],
     "grade": "2",
-    "description": "",
+    "description": "Imagine that Place you always wanted to visit. Now imagine the joy of smashing your 'piggy bank' onto the 'earth' to release the cash when you have finally saved up enough money.",
     "same_element": null,
     "vocabulary": []
   },
@@ -3350,7 +3350,7 @@
     "order": 304,
     "elements": ["E-039", "E-157"],
     "grade": "3",
-    "description": "",
+    "description": "A 'piggy bank' is actually quite useful for boiling 'water'. Just put it over the stove and heat to get Hot Water.",
     "same_element": null,
     "vocabulary": []
   },
@@ -3361,7 +3361,7 @@
     "order": 305,
     "elements": ["E-059", "E-158"],
     "grade": "2",
-    "description": "",
+    "description": "No-one wants to sleep on the Ground floor, not only is there where the 'soil' gets brought in on people's shoes, but it's also susceptible to attacks from 'scorpions'.",
     "same_element": null,
     "vocabulary": []
   },
@@ -3372,7 +3372,7 @@
     "order": 306,
     "elements": ["E-039", "E-158"],
     "grade": "2",
-    "description": "",
+    "description": "We just saw that the ground was full of 'scorpions', but the waters are not safe either. Imagine a 'pond' filled with 'scorpions' that have adapted to life in the 'water'.",
     "same_element": null,
     "vocabulary": []
   },
@@ -3383,18 +3383,18 @@
     "order": 307,
     "elements": ["E-038", "E-158"],
     "grade": "3",
-    "description": "",
+    "description": "Imagine the 'person' you attributed to the person element swinging on a vine over a pit of 'scoprions' to get to the Other side.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0308",
     "character": "港",
-    "keyword": "Harbor",
+    "keyword": "Harbour",
     "order": 308,
-    "elements": ["E-039", "E-159"],
+    "elements": ["E-039", "E-098", "E-159"],
     "grade": "3",
-    "description": "",
+    "description": "This kanji reminds me of the story of St Patrick banishing all the 'snakes' from Irelend. Presumably he brought all the 'snakes together' at the Harbour and threw them all into the 'water'.",
     "same_element": null,
     "vocabulary": []
   },
@@ -3405,7 +3405,7 @@
     "order": 309,
     "elements": ["E-159"],
     "grade": "2",
-    "description": "",
+    "description": "Since 'snakes' can't write they have to Record their own 'words' using a tape Recorder.",
     "same_element": null,
     "vocabulary": []
   },
@@ -3416,7 +3416,7 @@
     "order": 310,
     "elements": ["E-160"],
     "grade": "3",
-    "description": "",
+    "description": "This form represents a Sheep with two little sheep horns.",
     "same_element": "E-160",
     "vocabulary": []
   },
@@ -3427,7 +3427,7 @@
     "order": 311,
     "elements": ["E-160", "E-125"],
     "grade": "3",
-    "description": "",
+    "description": "This kanji seems to reference the French fairy tale about a Beauty and a beast, who here is depicted as a 'big' 'horned ram'.",
     "same_element": null,
     "vocabulary": []
   },
@@ -3438,51 +3438,51 @@
     "order": 312,
     "elements": ["E-143", "E-007", "E-160"],
     "grade": "5",
-    "description": "",
+    "description": "We saw this combination of 'mop' and 'mouth' previously in the kanji for Buddy. Here we imagine our 'buddy' sheepdog rounding up a Group of 'sheep'.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0313",
     "character": "様",
-    "keyword": "Appearance",
+    "keyword": "Sama",
     "order": 313,
     "elements": ["E-012", "E-160", "E-102"],
     "grade": "3",
-    "description": "",
+    "description": "It's rare that we will encounter a Japanese keyword, but there is no good English translation for this word. This word is used as suffix when addressing someone of great respect, usually reserved for a deity or the emperor. Imagine the people, here represented by 'sheep', showing respect to a great magical 'tree' deity 'tree'-Sama by lighting ceremonial 'sparklers' at the tree's base. Note the doubling up of the vertical stroke in 'sheep' and 'sparkler'.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0314",
     "character": "洋",
-    "keyword": "Ocean",
+    "keyword": "Overseas",
     "order": 314,
     "elements": ["E-039", "E-160"],
     "grade": "3",
-    "description": "",
+    "description": "This kanji depicts a plucky 'sheep' who jumped in the 'water' and swam from Overseas all the way to Japan.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0315",
     "character": "着",
-    "keyword": "Wear, arrive",
+    "keyword": "Wear",
     "order": 315,
-    "elements": ["E-160"],
+    "elements": ["E-160", "E-015"],
     "grade": "3",
-    "description": "",
+    "description": "Occasionally we will see that the tail of the sheep returns in the form of an extra stroke. Here we see a shepherd keeping an 'eye' on his 'sheep' waiting for their wool to grow long enough so that they can be shorn and the wool turned into something to Wear.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0316",
     "character": "晩",
-    "keyword": "Evening",
+    "keyword": "Nightfall",
     "order": 316,
     "elements": ["E-008", "E-161"],
     "grade": "6",
-    "description": "",
+    "description": "Another kanji closely related with the evening. Japanese tradition states that instead of a there being a man in the moon, there is a 'rabbit' in the moon. When the 'sun' sets, the moon-'rabbit' appears for the start of Nightfall.",
     "same_element": null,
     "vocabulary": []
   },
@@ -3493,18 +3493,18 @@
     "order": 317,
     "elements": ["E-161", "E-017"],
     "grade": "3",
-    "description": "",
+    "description": "Imagine a 'rabbit' working on its burrow using its 'powerful' hind legs to hollow out its new home.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0318",
     "character": "皮",
-    "keyword": "Skin",
+    "keyword": "Pelt",
     "order": 318,
     "elements": ["E-162"],
     "grade": "3",
-    "description": "",
+    "description": "This kanji depicts a 'holding hand', this time holding onto some fur and pulling it from some animal pelt. The kanji came to carry the meaning of the Pelt left behind. As usual, take care with the order and direction of the strokes.",
     "same_element": "E-162",
     "vocabulary": []
   },
@@ -3515,18 +3515,18 @@
     "order": 319,
     "elements": ["E-039", "E-162"],
     "grade": "3",
-    "description": "",
+    "description": "This kanji likens the Wave on the surface of 'water' being like a 'pelt'.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0320",
     "character": "漢",
-    "keyword": "Chinese",
+    "keyword": "China",
     "order": 320,
     "elements": ["E-039", "E-163"],
     "grade": "3",
-    "description": "",
+    "description": "This is the first kanji in the word for kanji, representing the 'kan' part. We already encountered 'ji' (字) as Character in a previous chapter. Rice and rice argriculture was brought to Japan from China, and with it came the Chinese 'water scarecrows' standing in the wet paddies.",
     "same_element": null,
     "vocabulary": []
   },
@@ -3537,7 +3537,7 @@
     "order": 321,
     "elements": ["E-163", "E-150"],
     "grade": "6",
-    "description": "",
+    "description": "The 'scarecrows' are good keeping away smaller birds, but to keep away the larger 'turkeys', it is much more Difficult.",
     "same_element": null,
     "vocabulary": []
   },
@@ -3548,8 +3548,8 @@
     "order": 322,
     "elements": ["E-164", "E-120"],
     "grade": "3",
-    "description": "",
-    "same_element": null,
+    "description": "The top of this kanji resembles the element for 'house' but instead uses four strokes on top instead of the usual one. Together we will attribute 'birdhouse' as the meaning of this form. Then we have the 'holding hands' seemingly holding the 'birdhouse'. Imagine someone has Received a 'birdhouse' as some sort of unusual gift.",
+    "same_element": "E-164",
     "vocabulary": []
   },
   {
@@ -3557,9 +3557,9 @@
     "character": "愛",
     "keyword": "Love",
     "order": 323,
-    "elements": ["E-164", "E-095"],
+    "elements": ["E-164", "E-044", "E-095"],
     "grade": "4",
-    "description": "",
+    "description": "We end the chapter learning the kanji for Love itself. We see some metaphorical Love birds in a metaphorical 'birdhouse', though their 'hearts' may occasionally wander on 'walking legs', they always return to their true Love.",
     "same_element": null,
     "vocabulary": []
   },

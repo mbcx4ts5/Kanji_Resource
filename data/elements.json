@@ -1100,7 +1100,7 @@
     "character": "斗",
     "name": "Dipper",
     "order": 137,
-    "description": "",
+    "description": "This element is a very styalised pictogram of a ladel-shaped dipper. The naming of this element references the 'Big Dipper', also known as the 'Plough', a collection of stars in the constellation Ursa Major.",
     "components": []
   },
   {
@@ -1108,7 +1108,7 @@
     "character": "由",
     "name": "Sprout",
     "order": 138,
-    "description": "",
+    "description": "As an element, we will consider the original pictographical form of a 'sprout'ing plant.",
     "components": []
   },
   {
@@ -1116,7 +1116,7 @@
     "character": "申",
     "name": "Push Through",
     "order": 139,
-    "description": "",
+    "description": "As an element, since we already have an element associated with words and speaking, we will instead use the idea of 'push through' or 'strike through' indicated by this form's final vertical stroke.",
     "components": []
   },
   {
@@ -1124,7 +1124,7 @@
     "character": "米",
     "name": "Rice",
     "order": 140,
-    "description": "",
+    "description": "As an element, we will continue to use the theme of 'rice'.",
     "components": []
   },
   {
@@ -1132,7 +1132,7 @@
     "character": "未",
     "name": "Not Yet",
     "order": 141,
-    "description": "",
+    "description": "As an element, continue to consider things that have 'not yet' had a chance to happen.",
     "components": []
   },
   {
@@ -1140,7 +1140,7 @@
     "character": "凵",
     "name": "Bucket",
     "order": 142,
-    "description": "",
+    "description": "This form's relation to a 'bucket' should be quite self apparent.",
     "components": []
   },
   {
@@ -1148,15 +1148,15 @@
     "character": "尹",
     "name": "Mop",
     "order": 143,
-    "description": "",
+    "description": "The mop goes hand in hand with the bucket. Notice this form's relation with both 'rake' and 'brush' elements, but don't get them mixed up in your mind.",
     "components": []
   },
   {
     "id": "E-144",
-    "character": "半",
+    "character": "半・龹",
     "name": "Half",
     "order": 144,
-    "description": "",
+    "description": "As an element, we will continue to use 'half'. When this element is positioned at the top of the kanji, another the vertical stroke bends to the left and an extra stroke is added bending to the right. You make consider this form to mean 'quarter' to help differentiate the forms.",
     "components": []
   },
   {
@@ -1164,7 +1164,7 @@
     "character": "東",
     "name": "East",
     "order": 145,
-    "description": "",
+    "description": "As an element, you may want to expand the meaning of 'east' to encompass 'the east' in general.",
     "components": []
   },
   {
@@ -1172,7 +1172,7 @@
     "character": "垂",
     "name": "Droop",
     "order": 146,
-    "description": "",
+    "description": "As an element, this form may change slightly but will keep the general top strokes and the meaning of 'droop'.",
     "components": []
   },
   {
@@ -1180,15 +1180,15 @@
     "character": "失",
     "name": "Lose",
     "order": 147,
-    "description": "",
+    "description": "As an element, relate this form to the idea of losing something physical, not losing in a sport or game.",
     "components": []
   },
   {
     "id": "E-148",
-    "character": "赤",
+    "character": "赤・亦",
     "name": "Apple",
     "order": 148,
-    "description": "",
+    "description": "As an elment, once again it might be easier to think of something that is red, such as an 'apple'. When this form appears on top, it is often abbreviated by removing the first horizontal stroke.",
     "components": []
   },
   {
@@ -1196,7 +1196,7 @@
     "character": "羽",
     "name": "Feathers",
     "order": 149,
-    "description": "",
+    "description": "Continute to use the theme of 'feathers' for this element.",
     "components": []
   },
   {
@@ -1204,7 +1204,7 @@
     "character": "隹",
     "name": "Turkey",
     "order": 150,
-    "description": "",
+    "description": "Next we find where the feathers came from, a 'turkey'. ",
     "components": []
   },
   {
@@ -1212,7 +1212,7 @@
     "character": "尺",
     "name": "Flute",
     "order": 151,
-    "description": "",
+    "description": "You may look at this element and wonder how it relates to a 'flute'. The Komuso or 'monks of emptiness' were a class of monks known for playing the fute with a basket hat on their head. The flute they played is called a 'shakuhachi (尺八)' which is the inspiration for this element's given name. Originally, this form was used as an imperial measurement of length.",
     "components": []
   },
   {
@@ -1220,7 +1220,7 @@
     "character": "馬",
     "name": "Horse",
     "order": 152,
-    "description": "",
+    "description": "As an element, continue to consider the form as a 'horse'.",
     "components": []
   },
   {
@@ -1228,7 +1228,7 @@
     "character": "釆",
     "name": "Animal Tracks",
     "order": 153,
-    "description": "",
+    "description": "This is the animal equivalent to the human footprints we've seen before. The form is made up of a 'drop' over 'rice'.",
     "components": []
   },
   {
@@ -1236,7 +1236,7 @@
     "character": "鳥",
     "name": "Bird",
     "order": 154,
-    "description": "",
+    "description": "As an element, continue to use a 'bird'.",
     "components": []
   },
   {
@@ -1244,7 +1244,7 @@
     "character": "魚",
     "name": "Fish",
     "order": 155,
-    "description": "",
+    "description": "As an element, continue to use 'fish'.",
     "components": []
   },
   {
@@ -1252,15 +1252,15 @@
     "character": "豕",
     "name": "Pig",
     "order": 156,
-    "description": "",
+    "description": "For this unique collection of strokes, we will asign the meaning of 'pig'. Its original form is a pictogram of a pig on its side.",
     "components": []
   },
   {
     "id": "E-157",
     "character": "昜",
-    "name": "Piglet",
+    "name": "Piggy Bank",
     "order": 157,
-    "description": "",
+    "description": "The bottom of this element is a abbreviated form of the 'pig' element. Combining with a 'day', we get a 'piggy bank'. Imagine someone saving up each 'day' in their 'piggy bank' so that they can one day buy an actual 'pig'.",
     "components": []
   },
   {
@@ -1268,7 +1268,7 @@
     "character": "也",
     "name": "Scorpion",
     "order": 158,
-    "description": "",
+    "description": "The distinctive first stroke of this element looks like the stinger of a 'scorpion' leading to the name we will use for this element.",
     "components": []
   },
   {
@@ -1276,15 +1276,15 @@
     "character": "己",
     "name": "Snake",
     "order": 159,
-    "description": "",
+    "description": "This backwards S-shaped element will take on the meaning of a 'snake'.",
     "components": []
   },
   {
     "id": "E-160",
-    "character": "羊",
+    "character": "羊・𦍌",
     "name": "Sheep",
     "order": 160,
-    "description": "",
+    "description": "As an element, this form continues with the image of 'sheep' or perhaps a 'horned ram'. As with the 'cow' element, the appearance of this form changes subtly when placed at the top of the kanji by having the final vertical stroke not pass through the lowest horizontal stroke.",
     "components": []
   },
   {
@@ -1292,7 +1292,7 @@
     "character": "免",
     "name": "Rabbit",
     "order": 161,
-    "description": "",
+    "description": "The next animal in our list is a rabbit. This form takes the form of 'bound up' to represent the rabbit's floppy ear along, a sideways 'sun' for its eyes and a pair of springly legs.",
     "components": []
   },
   {
@@ -1300,7 +1300,7 @@
     "character": "皮",
     "name": "Pelt",
     "order": 162,
-    "description": "",
+    "description": "This form continues its meaning of 'pelt'.",
     "components": []
   },
   {
@@ -1308,7 +1308,7 @@
     "character": "𦰩",
     "name": "Scarecrow",
     "order": 163,
-    "description": "",
+    "description": "This is an interesting arrangement of strokes including the 'grass' element and a sideways sun. We will give it the meaning of 'scarecrow' for our mnemonics.",
     "components": []
   },
   {
@@ -1316,7 +1316,7 @@
     "character": "受",
     "name": "Birdhouse",
     "order": 164,
-    "description": "",
+    "description": "As stated earlier, this element will take on the meaning of a 'birdhouse' and will often drop the two strokes that make up 'holding hands'.",
     "components": []
   },
   {
