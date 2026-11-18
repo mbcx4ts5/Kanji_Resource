@@ -1412,7 +1412,7 @@
     "character": "囗",
     "name": "Pent In",
     "order": 176,
-    "description": "",
+    "description": "This element represents a pen and the idea of being 'pent in' on all sides. We have already seen how some elements partially surround others, but this one encloses elements completely.",
     "components": []
   },
   {
@@ -1420,7 +1420,7 @@
     "character": "广",
     "name": "Cave",
     "order": 177,
-    "description": "",
+    "description": "The element for 'cave' shares a striking similarity with the element for 'cliff' only with an extra stroke at the top. As previously warned, keep the two elements as separate as possible in your mind.",
     "components": []
   },
   {
@@ -1428,7 +1428,7 @@
     "character": "度",
     "name": "Lantern",
     "order": 178,
-    "description": "",
+    "description": "As an element, this form will take the meaning of 'lantern' and will often forgo the two 'holding hands'. See the 'lantern'-like object hanging from the ceiling of the 'cave'.",
     "components": []
   },
   {
@@ -1436,23 +1436,23 @@
     "character": "車",
     "name": "Car",
     "order": 179,
-    "description": "",
+    "description": "As an element, this form is used for kanji associated with 'cars' and 'vehicles'.",
     "components": []
   },
   {
     "id": "E-180",
     "character": "圣",
-    "name": "Spool",
+    "name": "Ditch",
     "order": 180,
-    "description": "",
+    "description": "Two holding hands holding some soil appears to be a pictogram of someone digging at the earth with the bare hands creating a ditch.",
     "components": []
   },
   {
     "id": "E-181",
     "character": "入",
-    "name": "Entrance",
+    "name": "Enter",
     "order": 181,
-    "description": "",
+    "description": "As an element, think of the act of 'entering' something rather than a physical entrance.",
     "components": []
   },
   {
@@ -1460,7 +1460,7 @@
     "character": "出",
     "name": "Exit",
     "order": 182,
-    "description": "",
+    "description": "As with 'enter', you should think of the act of exiting when using this form as an element. If you must, think of an emergency exit, but don't get it mixed up with elements for 'door' or 'gates' that we will meet shortly.",
     "components": []
   },
   {
@@ -1468,15 +1468,15 @@
     "character": "門",
     "name": "Gate",
     "order": 183,
-    "description": "",
+    "description": "As an element, continue to use 'gates'. If you wish, you can specifically use the idea of the 'pearly gates' to heaven to make the mnemonics less generic.",
     "components": []
   },
   {
     "id": "E-184",
     "character": "关",
-    "name": "Calf",
+    "name": "Gatekeeper",
     "order": 184,
-    "description": "",
+    "description": "We have met the 'gates' and here we have a 'gatekeeper'. The gatekeeper has the body of 'heaven' and two 'devil horns' and acts as the final arbiter deciding whether you can join them in heaven or be sent to hell. You may want to extend this element to the general idea of gatekeeping.",
     "components": []
   },
   {
@@ -1484,7 +1484,7 @@
     "character": "辶",
     "name": "Road",
     "order": 185,
-    "description": "",
+    "description": "This element represents a 'road'. Unlike most enclosures, this form is written after the element it encloses. ",
     "components": []
   },
   {
@@ -1492,15 +1492,15 @@
     "character": "束",
     "name": "Bundle",
     "order": 186,
-    "description": "",
+    "description": "This element represents a sack tied up at both ends and carries the meaning of a 'bundle'. If you look at the elements, it is made up of a 'tree' and a 'mouth'..",
     "components": []
   },
   {
     "id": "E-187",
     "character": "廴",
-    "name": "Stretched Out",
+    "name": "Stretcher",
     "order": 187,
-    "description": "",
+    "description": "Similar to the 'road' element, this form is written second and partially encloses another element. Imagine a person holding one end of a 'stretcher' as shown by the long final stroke.",
     "components": []
   },
   {
@@ -1508,7 +1508,7 @@
     "character": "方",
     "name": "Direction",
     "order": 188,
-    "description": "",
+    "description": "As an element, we will continue to use the idea of 'direction'. You may want to think of someone who points us in the right direction, or a pointing compass.",
     "components": []
   },
   {
@@ -1516,7 +1516,7 @@
     "character": "𭤨",
     "name": "Banner",
     "order": 189,
-    "description": "",
+    "description": "This element is made up of 'direction' and 'lie down', but together take on the seemingly unrelated idea of a 'banner'. Do not confuse this element with a 'flag' which we will meet shortly.",
     "components": []
   },
   {
@@ -1524,15 +1524,15 @@
     "character": "𧘇",
     "name": "Rag",
     "order": 190,
-    "description": "",
+    "description": "These four strokes make up a 'rag'. On occasion, the second stroke will appear without its hook.",
     "components": []
   },
   {
     "id": "E-191",
     "character": "其",
-    "name": "Chess Piece",
+    "name": "Laundry Basket",
     "order": 191,
-    "description": "",
+    "description": "This form is a pictograph of a basket sitting on a stand. To make the basket a bit more unique, we will instead consider a 'laundry basket'.",
     "components": []
   },
   {
@@ -1540,7 +1540,7 @@
     "character": "冂",
     "name": "Hood",
     "order": 192,
-    "description": "",
+    "description": "This 'hood' encloses other elements, though it can also appear beside other elements too.",
     "components": []
   },
   {
@@ -1548,7 +1548,7 @@
     "character": "高",
     "name": "High",
     "order": 193,
-    "description": "",
+    "description": "As an element, we will continue to consider something 'high'. You may want to use the idea of a skyscraper or another tall structure.",
     "components": []
   },
   {
@@ -1556,7 +1556,7 @@
     "character": "内",
     "name": "Inside",
     "order": 194,
-    "description": "",
+    "description": "As an element, continue to use 'inside'",
     "components": []
   },
   {
@@ -1564,7 +1564,7 @@
     "character": "肉",
     "name": "Meat",
     "order": 195,
-    "description": "",
+    "description": "As an element, continue to use 'meat'. This element is related to the element for 'moon' (月) which we have seen can also mean 'flesh' and 'body part'.",
     "components": []
   },
   {
@@ -1572,7 +1572,7 @@
     "character": "咅",
     "name": "Muzzle",
     "order": 197,
-    "description": "",
+    "description": "An authoratarian state will put a 'muzzle' over the 'mouths' of those who try to 'stand up' for themselves. This element will refer to the 'muzzles' warn by these people.",
     "components": []
   },
   {
@@ -1580,7 +1580,7 @@
     "character": "尸",
     "name": "Flag",
     "order": 198,
-    "description": "",
+    "description": "Here is the element for 'flag' that was eluded to earlier. Though the etymology of this form is not in fact a flag, it's modern form is immediately recognisable as a rectangular shaped piece of cloth on a stick.",
     "components": []
   },
   {
@@ -1588,7 +1588,7 @@
     "character": "斤",
     "name": "Axe",
     "order": 199,
-    "description": "",
+    "description": "This element is a pictogram of an 'axe' with the first two strokes representing the axe's blade.",
     "components": []
   },
   {
@@ -1596,7 +1596,7 @@
     "character": "戸",
     "name": "Door",
     "order": 200,
-    "description": "",
+    "description": "The difference between the element for 'door' and the previously encountered 'flag' element is a single stroke. As with other similar elements like 'crown' and 'house' or 'cliff' and 'cave', keep the two ideas separate in your mind.",
     "components": []
   },
   {
@@ -1604,7 +1604,7 @@
     "character": "𠃌",
     "name": "Clothes Hanger",
     "order": 201,
-    "description": "",
+    "description": "We have seen this single stroke here and there as part of other elements such as in 'sword' (刀) and 'power' (力). We will occasionally see this single stroke appear as an element, which we give the keyword 'coat hanger' here.",
     "components": []
   },
   {
@@ -1612,7 +1612,7 @@
     "character": "干",
     "name": "Clothes Line",
     "order": 202,
-    "description": "",
+    "description": "As an element, we can continue to use the concept of 'dry' or 'drying' or the previously mentioned 'clothes line'.",
     "components": []
   },
   {
@@ -1620,7 +1620,7 @@
     "character": "巾",
     "name": "Towel",
     "order": 203,
-    "description": "",
+    "description": "This element also represents a piece of cloth hanging on a pole. To differentiate it from the previous element, we will give this element the keyword of 'towel'.",
     "components": []
   },
   {
@@ -1628,7 +1628,7 @@
     "character": "リ",
     "name": "Spear",
     "order": 204,
-    "description": "",
+    "description": "This element appears similar to the abbreviated form of the 'sword' element, however this form's second stroke is curved instead of going straight down. As an element, we will consider this form as a 'spear'.",
     "components": []
   },
   {
@@ -1636,7 +1636,7 @@
     "character": "長",
     "name": "Long",
     "order": 206,
-    "description": "",
+    "description": "As an element, we will continue to use the idea of 'long'.",
     "components": []
   },
   {
@@ -1644,7 +1644,7 @@
     "character": "丂",
     "name": "Slingshot",
     "order": 207,
-    "description": "",
+    "description": "We will give these two abstract strokes the idea of a 'slingshot'.",
     "components": []
   },
   {
@@ -1652,7 +1652,7 @@
     "character": "罒",
     "name": "Net",
     "order": 208,
-    "description": "",
+    "description": "This element, which often appears at the top of a kanji, represents a latticed 'net'.",
     "components": []
   },
   {
@@ -1660,7 +1660,7 @@
     "character": "袁",
     "name": "Scarf",
     "order": 209,
-    "description": "",
+    "description": "This collection of strokes represnts a 'scarf'. It's a 'rag' that keeps 'dirt' from getting in your 'mouth'.",
     "components": []
   },
   {
