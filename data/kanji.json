@@ -5849,5 +5849,70 @@
     "description": "",
     "same_element": "E-249",
     "vocabulary": []
+  },
+  {
+    "id": "K-0501",
+    "character": "至",
+    "keyword": "Climax",
+    "order": 500,
+    "elements": [
+      "E-253"
+    ],
+    "grade": "6",
+    "description": "",
+    "same_element": "E-253",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0502",
+    "character": "可",
+    "keyword": "Possible",
+    "order": 500,
+    "elements": [
+      "E-061"
+    ],
+    "grade": "3",
+    "description": "",
+    "same_element": "E-061",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0503",
+    "character": "良",
+    "keyword": "Good",
+    "order": 500,
+    "elements": [
+      "E-251"
+    ],
+    "grade": "3",
+    "description": "",
+    "same_element": "E-251",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0504",
+    "character": "欠",
+    "keyword": "Lack",
+    "order": 500,
+    "elements": [
+      "E-222"
+    ],
+    "grade": "3",
+    "description": "",
+    "same_element": "E-222",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0505",
+    "character": "周",
+    "keyword": "Circumference",
+    "order": 500,
+    "elements": [
+      "E-218"
+    ],
+    "grade": "3",
+    "description": "",
+    "same_element": "E-218",
+    "vocabulary": []
   }
 ]

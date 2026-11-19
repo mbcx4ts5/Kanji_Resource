@@ -1281,7 +1281,7 @@
   },
   {
     "id": "E-160",
-    "character": "羊・𦍌",
+    "character": "羊・𦍌・⺶",
     "name": "Sheep",
     "order": 160,
     "description": "As an element, this form continues with the image of 'sheep' or perhaps a 'horned ram'. As with the 'cow' element, the appearance of this form changes subtly when placed at the top of the kanji by having the final vertical stroke not pass through the lowest horizontal stroke.",
@@ -1668,23 +1668,23 @@
     "character": "云",
     "name": "Cloud",
     "order": 210,
-    "description": "",
+    "description": "An elbow under a ceiling will represent a highly styalised pictogram of a 'cloud'.",
     "components": []
   },
   {
     "id": "E-209",
     "character": "雨",
-    "name": "Rain",
+    "name": "Weather",
     "order": 211,
-    "description": "",
+    "description": "As an element, we will extend our vision to 'weather' as well as 'rain'.",
     "components": []
   },
   {
     "id": "E-210",
     "character": "辰",
-    "name": "Dragon (Western)",
+    "name": "Cliffhanger",
     "order": 212,
-    "description": "",
+    "description": "This element appears to show someone hanging precarious at the edge of a cliff and will be given the keyword 'cliffhanger'. You should be familiar with some of the strokes of the internal element from 'long' (長).",
     "components": []
   },
   {
@@ -1692,7 +1692,7 @@
     "character": "𠆢",
     "name": "Umbrella",
     "order": 213,
-    "description": "",
+    "description": "This element is related to the 'person' element (人). To help differentiate it from 'person' we will give it the unique keyword of 'umbrella'. This form often appears at the top of the kanji and above other elements as if providing shelter.",
     "components": []
   },
   {
@@ -1700,7 +1700,7 @@
     "character": "合",
     "name": "Fit",
     "order": 214,
-    "description": "",
+    "description": "As an element, continue with the idea of 'fit' and 'fitting in'.",
     "components": []
   },
   {
@@ -1708,7 +1708,7 @@
     "character": "今",
     "name": "Clock",
     "order": 215,
-    "description": "",
+    "description": "When used as an element, this form will take the less abstract keyword of a 'clock'.",
     "components": []
   },
   {
@@ -1716,7 +1716,7 @@
     "character": "金",
     "name": "Metal",
     "order": 216,
-    "description": "",
+    "description": "As an element, much as how the kanji for Rain could be generalised into 'weather', this form will be generalised to cover 'metals' in general.",
     "components": []
   },
   {
@@ -1724,15 +1724,15 @@
     "character": "艮",
     "name": "Silver",
     "order": 217,
-    "description": "",
+    "description": "This element has a similar form to 'long' (長) and will be given the keyword 'silver'.",
     "components": []
   },
   {
     "id": "E-216",
-    "character": "食",
+    "character": "食・飠",
     "name": "Eat",
     "order": 218,
-    "description": "",
+    "description": "As an element, we will continue to use 'eat'.",
     "components": []
   },
   {
@@ -1740,7 +1740,7 @@
     "character": "曲",
     "name": "Bend",
     "order": 219,
-    "description": "",
+    "description": "As an element, continue with the idea of 'bending' something. You may want to think of a 'bent' object such as a boomerange",
     "components": []
   },
   {
@@ -1748,15 +1748,15 @@
     "character": "周",
     "name": "Circumference",
     "order": 220,
-    "description": "",
+    "description": "This form will continue to use 'circumference'.",
     "components": []
   },
   {
     "id": "E-219",
     "character": "用",
-    "name": "Use",
+    "name": "Screwdriver",
     "order": 221,
-    "description": "",
+    "description": "To make this element seem less abstract, we will use the idea of a physical 'screwdriver' that can be readily utilised, when considering this form as an element.",
     "components": []
   },
   {
@@ -1764,15 +1764,15 @@
     "character": "龴",
     "name": "Seal",
     "order": 222,
-    "description": "",
+    "description": "Will give this form the keyword 'seal' referring to the act of sealing something. Perhaps it resembles the lid of a jar, an ancient magical seal never to be broken.",
     "components": []
   },
   {
     "id": "E-221",
     "character": "疒",
-    "name": "Illness",
+    "name": "Sickness",
     "order": 223,
-    "description": "",
+    "description": "If you stay all night in an 'icy cave', you're bound to catch some sort of 'sickness'. This element will be primarily be used for kanji associated with sickness and disease.",
     "components": []
   },
   {
@@ -1780,15 +1780,15 @@
     "character": "欠",
     "name": "Lack",
     "order": 224,
-    "description": "",
+    "description": "The yawning mouth of someone who 'lacks' sleep. This element will be associated with the 'lack' of something.",
     "components": []
   },
   {
     "id": "E-223",
-    "character": "𠂤",
+    "character": "𠂤・㠯",
     "name": "Hammer",
     "order": 225,
-    "description": "",
+    "description": "This element appears to represent the head of a 'hammer', one side for hitting and one side for prizing things away represented by the 'drop'. In cases where the 'drop' is absent you may think of it as a 'double sided hammer' if this helps.",
     "components": []
   },
   {
@@ -1796,7 +1796,7 @@
     "character": "谷",
     "name": "Valley",
     "order": 226,
-    "description": "",
+    "description": "As an element, continue with the visual of a valley.",
     "components": []
   },
   {
@@ -2005,6 +2005,38 @@
     "name": "Anti",
     "order": 252,
     "description": "As an element, this form will continue with 'anti', meaning something that is opposed to something else.",
+    "components": []
+  },
+  {
+    "id": "E-251",
+    "character": "良",
+    "name": "Good",
+    "order": 251,
+    "description": "",
+    "components": []
+  },
+  {
+    "id": "E-252",
+    "character": "𢆉",
+    "name": "Lamb",
+    "order": 251,
+    "description": "",
+    "components": []
+  },
+  {
+    "id": "E-253",
+    "character": "至",
+    "name": "Climax",
+    "order": 251,
+    "description": "",
+    "components": []
+  },
+  {
+    "id": "E-254",
+    "character": "欠",
+    "name": "Lack",
+    "order": 251,
+    "description": "",
     "components": []
   }
 ]
