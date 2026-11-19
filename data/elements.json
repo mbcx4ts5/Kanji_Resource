@@ -1804,7 +1804,7 @@
     "character": "川",
     "name": "River",
     "order": 227,
-    "description": "",
+    "description": "As an element, continue to use the visual of a 'river'.",
     "components": []
   },
   {
@@ -1812,7 +1812,7 @@
     "character": "喬",
     "name": "Angel",
     "order": 228,
-    "description": "",
+    "description": "This element appears to be an altered form of 'high' (高). We will give this rare element the keyword 'angel', a being from up 'high'.",
     "components": []
   },
   {
@@ -1820,7 +1820,7 @@
     "character": "酉",
     "name": "Bottle",
     "order": 229,
-    "description": "",
+    "description": "Here we have a pictogram of an old 'bottle' complete with a lid. The line inside the bottle indicates some of the liquid still inside.",
     "components": []
   },
   {
@@ -1828,7 +1828,7 @@
     "character": "平",
     "name": "Flat",
     "order": 230,
-    "description": "",
+    "description": "As an element, continue with the idea of 'flat'.",
     "components": []
   },
   {
@@ -1836,7 +1836,7 @@
     "character": "𠦝",
     "name": "Morning",
     "order": 231,
-    "description": "",
+    "description": "A 'ten' on top of the element for 'early' indicates the period of time before 'ten' o'clock, otherwise known as the 'morning'.",
     "components": []
   },
   {
@@ -2027,14 +2027,6 @@
     "id": "E-253",
     "character": "至",
     "name": "Climax",
-    "order": 251,
-    "description": "",
-    "components": []
-  },
-  {
-    "id": "E-254",
-    "character": "欠",
-    "name": "Lack",
     "order": 251,
     "description": "",
     "components": []
