@@ -2107,7 +2107,7 @@
     "order": 191,
     "elements": ["E-057", "E-107", "E-059"],
     "grade": "2",
-    "description": "Imagine going to a fancy 'house' to rub 'shoulder with the elites, but instead you end up in a cramped Room instead rubbing shoulders with 'dirt'.",
+    "description": "Imagine going to a fancy 'house' to rub 'shoulders' with the elites, but instead you end up in a cramped Room instead rubbing shoulders with 'dirt'.",
     "same_element": null,
     "vocabulary": []
   },
@@ -3834,7 +3834,7 @@
     "order": 348,
     "elements": ["E-175"],
     "grade": "1",
-    "description": "We have finalled ascended all the way up through the crown, the king, and the pinnacle to the final highest place, Heaven. The interpretation is that this kanji represents a person with a big flat head.",
+    "description": "We have finally ascended all the way up through the crown, the king, and the pinnacle to the final highest place, Heaven. The interpretation is that this kanji represents a person with a big flat head.",
     "same_element": "E-175",
     "vocabulary": []
   },
@@ -3944,7 +3944,7 @@
     "order": 358,
     "elements": ["E-046", "E-180"],
     "grade": "5",
-    "description": "When it feels like your stuck a 'ditch', don't depair. It's not forever and you just need to Pass Through it. If you can, search for a 'thread' of hope to pull you out of the 'ditch'.",
+    "description": "When it feels like your stuck a 'ditch', don't despair. It's not forever and you just need to Pass Through it. If you can, search for a 'thread' of hope to pull you out of the 'ditch'.",
     "same_element": null,
     "vocabulary": []
   },
@@ -4174,10 +4174,11 @@
     "keyword": "Ten thousand",
     "order": 379,
     "elements": [
-      "E-188"
+      "E-001",
+      "E-069"
     ],
     "grade": "2",
-    "description": "",
+    "description": "'One bound up' wad of Ten Thousand yen. The final two strokes in this kanji are the same as we saw when we learned 'bound up', though the sizes of the strokes are a bit different from what we are used to.",
     "same_element": null,
     "vocabulary": []
   },
@@ -4190,7 +4191,7 @@
       "E-188"
     ],
     "grade": "2",
-    "description": "",
+    "description": "'ten thousand' with a single 'drop' marks a Direction. This form represents a person pointing the way towards a certain Direction.",
     "same_element": "E-188",
     "vocabulary": []
   },
@@ -4204,7 +4205,7 @@
       "E-166"
     ],
     "grade": "3",
-    "description": "",
+    "description": "The horrible 'taskmaster' points you in the 'direction' of the door after laying you off. Though it is supposed to be an admonishment, it actually feels more like a Release.",
     "same_element": null,
     "vocabulary": []
   },
@@ -4218,21 +4219,21 @@
       "E-063"
     ],
     "grade": "3",
-    "description": "",
+    "description": "The people in this Tribe all live under the same 'banner' naturally. To protect the Tribe, they make and fire 'arrows' at any invaders that threaten them.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0383",
     "character": "旅",
-    "keyword": "Trip",
+    "keyword": "Travel",
     "order": 383,
     "elements": [
       "E-189",
       "E-190"
     ],
     "grade": "3",
-    "description": "",
+    "description": "This brings to mind someone waving a 'rag' to wish someone a bonne voyage on their Travels. Imagine them standing under the departures 'banner' waving their 'rag' while they shed a tear.",
     "same_element": null,
     "vocabulary": []
   },
@@ -4247,7 +4248,7 @@
       "E-185"
     ],
     "grade": "3",
-    "description": "",
+    "description": "You see a warning 'banner' while driving. Caution, 'children' Playing with 'banners' in the 'road'.",
     "same_element": null,
     "vocabulary": []
   },
@@ -4261,21 +4262,21 @@
       "E-191"
     ],
     "grade": "4",
-    "description": "",
+    "description": "A 'banner' is put up over a 'landry basket' reading: Place your old Flags here for washing.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0386",
     "character": "期",
-    "keyword": "Period of time",
+    "keyword": "Period",
     "order": 386,
     "elements": [
       "E-191",
       "E-009"
     ],
     "grade": "3",
-    "description": "",
+    "description": "This person only does their laundry Periodically, once every luna cycle. Only when there's a full 'moon' do they empty they 'laundry basket'.",
     "same_element": null,
     "vocabulary": []
   },
@@ -4290,7 +4291,7 @@
       "E-007"
     ],
     "grade": "2",
-    "description": "",
+    "description": "When everyone gets together under one 'hood' and speaks with 'one mouth', you can say they are all of the Same mind.",
     "same_element": null,
     "vocabulary": []
   },
@@ -4303,7 +4304,7 @@
       "E-193"
     ],
     "grade": "2",
-    "description": "",
+    "description": "This character, made up of 'pot lid', 'mouth' and a 'mouth in a hood' representes something being High. You may want to think for yourself how a 'pot lid' and several 'mouths' can lead to something being High. Originally, this is a pictogram of a tall building.",
     "same_element": "E-193",
     "vocabulary": []
   },
@@ -4314,24 +4315,26 @@
     "order": 389,
     "elements": [
       "E-001",
-      "E-192"
+      "E-192",
+      "E-013"
     ],
     "grade": "3",
-    "description": "",
+    "description": "This 'hooded' individual sneaks around Both sides of the 'mountain' from village to village, however they live in just 'one' place at the top of the 'mountain'.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0390",
     "character": "向",
-    "keyword": "Face",
+    "keyword": "Facing",
     "order": 390,
     "elements": [
+      "E-020",
       "E-192",
       "E-007"
     ],
     "grade": "3",
-    "description": "",
+    "description": "The idea here is that one object is positioned so that it faces another. In order to lip read, ther person wearing a 'hood' must turn so that they are Facing foward so their 'mouth' is visible. You can even see a 'drop' of saliva from their moving lips.",
     "same_element": null,
     "vocabulary": []
   },
@@ -4344,7 +4347,7 @@
       "E-194"
     ],
     "grade": "2",
-    "description": "",
+    "description": "A 'person' Inside a very oversized 'hood'. You wonder how they'll ever get out of it.",
     "same_element": "E-194",
     "vocabulary": []
   },
@@ -4357,7 +4360,7 @@
       "E-195"
     ],
     "grade": "2",
-    "description": "",
+    "description": "You open the 'hood' of the barbecue and are horrified to see 'two people' who have been chopped up and cooked as Meat.",
     "same_element": "E-195",
     "vocabulary": []
   },
@@ -4368,7 +4371,7 @@
     "order": 393,
     "elements": ["E-093", "E-192", "E-088", "E-007"],
     "grade": "3",
-    "description": "",
+    "description": "Imagine a shrouded figure with 'human legs' and a 'hood'. With hauntings now becoming less profitable, the 'hooded' figure has turned to a new form of Commercial enterprise. Here they are 'standing up' next to a trading display with their goods ready to feed the hungry 'mouths' of their customers.",
     "same_element": null,
     "vocabulary": []
   },
@@ -4382,7 +4385,7 @@
       "E-196"
     ],
     "grade": "3",
-    "description": "",
+    "description": "This gives the idea of a stunt Double. This 'person' does all the stunts without delivering any lines, hence the metaphorical 'muzzle'.",
     "same_element": null,
     "vocabulary": []
   },
@@ -4393,10 +4396,11 @@
     "order": 395,
     "elements": [
       "E-197",
+      "E-107",
       "E-059"
     ],
     "grade": "3",
-    "description": "",
+    "description": "The combination of 'shoulder' and 'earth' was visited previously in the kanji for Room (室). A person with a 'flag' over they 'shoulder' is standing on the Roof. They use the 'flag' as a parachute to jump safely to the 'ground'.",
     "same_element": null,
     "vocabulary": []
   },
@@ -4410,7 +4414,7 @@
       "E-185"
     ],
     "grade": "2",
-    "description": "",
+    "description": "If you go Near this 'road', be sure to bring an 'axe' to defend yourself and don't let anyone Near.",
     "same_element": null,
     "vocabulary": []
   },
@@ -4420,11 +4424,12 @@
     "keyword": "New",
     "order": 397,
     "elements": [
+      "E-093",
       "E-012",
       "E-198"
     ],
     "grade": "2",
-    "description": "",
+    "description": "A person is stuck 'standing up' at the top of a 'tree'. With no other options available, the only thing to do is to chop the whole 'tree' down with an Axe to liberate them.",
     "same_element": null,
     "vocabulary": []
   },
@@ -4437,7 +4442,7 @@
       "E-199"
     ],
     "grade": "2",
-    "description": "",
+    "description": "A 'flag' placed under a ceiling here is classified as a Door. Consider the traditional 'noren', a piece of fabric panel split down the middle and commonly found in Japanese doorways.",
     "same_element": "E-199",
     "vocabulary": []
   },
@@ -4451,14 +4456,14 @@
       "E-198"
     ],
     "grade": "3",
-    "description": "",
+    "description": "This brings up the visual of someone else trapped in a Place they don't want to be in, all while someone chops through the 'door' with an 'axe'.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0400",
     "character": "司",
-    "keyword": "Director",
+    "keyword": "Boss",
     "order": 400,
     "elements": [
       "E-200",
@@ -4466,7 +4471,7 @@
       "E-007"
     ],
     "grade": "4",
-    "description": "",
+    "description": "This kanji has a resmeblence to the kanji for Same (同). The Boss is not happy as their favourite 'clothes hanger' has gone missing. He interrogates his team about the missing coat hanger, but one by one but not 'one mouth' speaks up.",
     "same_element": null,
     "vocabulary": []
   },
@@ -4481,7 +4486,7 @@
       "E-007"
     ],
     "grade": "3",
-    "description": "",
+    "description": "At the Office of 'flag' hoisting, they've decided that the best way to hoist a 'flag' is using a 'clothes hanger' of all things. As soon as someone hears from the designated 'mouth' of the Office, the 'flag' is raised. ",
     "same_element": null,
     "vocabulary": []
   },
@@ -4494,7 +4499,7 @@
       "E-201"
     ],
     "grade": "6",
-    "description": "",
+    "description": "Though this is not etymologically correct, this kanji does seem to resemble a 'clothes line' on a pole for Drying clothes and also is used for words associated with Drying things.",
     "same_element": "E-201",
     "vocabulary": []
   },
@@ -4504,11 +4509,12 @@
     "keyword": "Shore",
     "order": 403,
     "elements": [
+      "E-013",
       "E-119",
       "E-201"
     ],
     "grade": "3",
-    "description": "",
+    "description": "Imagine someone with a ridiculous number of clothes to dry, so they construct a incredibly long 'clothes line' that runs all the way from the 'mountain' down the 'cliff'side and to the Shore.",
     "same_element": null,
     "vocabulary": []
   },
@@ -4522,36 +4528,38 @@
       "E-202"
     ],
     "grade": "4",
-    "description": "",
+    "description": "In the 'lantern lit cave', they've added a nice seating are with a few 'towels' down as Seats.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0405",
     "character": "帰",
-    "keyword": "Return",
+    "keyword": "Go Home",
     "order": 405,
     "elements": [
       "E-203",
+      "E-071",
       "E-171",
       "E-202"
     ],
     "grade": "2",
-    "description": "",
+    "description": "When you have a busy kanji, it can be easier to group the elements together and try to form a mnemonic from there. A 'broom', a 'crown' and a 'towel' seems to imply some sort of royal laundry and cleaning service. The workers are not allowed to touch the royal 'towels' directly and so have to load them into the washer with 'brooms'. This kanji shows what happened to a worker who tried to do this bizzare action with a 'spear' instead of a 'broom'. It seems something went wrong and they were told to Go Home.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0406",
     "character": "班",
-    "keyword": "Group / squad",
+    "keyword": "Squad",
     "order": 406,
     "elements": [
       "E-172",
-      "E-203"
+      "E-203",
+      "E-172"
     ],
     "grade": "6",
-    "description": "",
+    "description": "The two rival 'kings' are fighting again, this time over a 'speer' of some sort. Someone gives the order to send in the Squad, presumably to separate the kings.",
     "same_element": null,
     "vocabulary": []
   },
@@ -4565,20 +4573,20 @@
       "E-190"
     ],
     "grade": "3",
-    "description": "",
+    "description": "When you 'grow up' with nothing but 'rags' for clothes, you quickly learn how to best Express yourself with what you have.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0408",
     "character": "長",
-    "keyword": "Long, leader",
+    "keyword": "Long",
     "order": 408,
     "elements": [
       "E-204"
     ],
     "grade": "2",
-    "description": "",
+    "description": "This collection of strokes takes on the meaning of Long. This character resembles a person with Long hair, with the strokes on the top representing the locks of hair.",
     "same_element": "E-204",
     "vocabulary": []
   },
@@ -4592,7 +4600,7 @@
       "E-204"
     ],
     "grade": "3",
-    "description": "",
+    "description": "Someone with a 'towel' wrapped round them comes with a Notebook to take your order. Now imagine that the order is so 'long' that the writing cascades off the Notebook and onto their 'towel'.",
     "same_element": null,
     "vocabulary": []
   },
@@ -4607,21 +4615,21 @@
       "E-001"
     ],
     "grade": "3",
-    "description": "",
+    "description": "At the 'slighsotting' competition, this 'slingshot' user appears to have been 'crowned' number 'one'. It turns out no-one could Copy their slingshot skills.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0411",
     "character": "号",
-    "keyword": "Number",
+    "keyword": "Code",
     "order": 411,
     "elements": [
       "E-007",
       "E-205"
     ],
     "grade": "3",
-    "description": "",
+    "description": "This is some elaborate puzzle to get into somewhere. You have to fire with your 'slingshot' into these open 'mouths' with the correct Code in order to get in.",
     "same_element": null,
     "vocabulary": []
   },
@@ -4635,7 +4643,7 @@
       "E-205"
     ],
     "grade": "2",
-    "description": "",
+    "description": "The unassuming 'someone' has to really Consider their choices before they take up their 'slingshot' and fire it.",
     "same_element": null,
     "vocabulary": []
   },
@@ -4645,10 +4653,11 @@
     "keyword": "Buy",
     "order": 413,
     "elements": [
-      "E-206"
+      "E-206",
+      "E-016"
     ],
     "grade": "2",
-    "description": "",
+    "description": "This kanji shows someone Buying and of course paying in 'shells'. It seems that what they're Buying is expensive as they require a whole 'net' full of 'shells'.",
     "same_element": null,
     "vocabulary": []
   },
@@ -4660,10 +4669,11 @@
     "elements": [
       "E-129",
       "E-206",
-      "E-171"
+      "E-171",
+      "E-010"
     ],
     "grade": "5",
-    "description": "",
+    "description": "This character seems to refer to a Dream-catcher. Made up of a 'net' and dried 'grasses', you hang it over your bed like a 'crown' in the 'evening' in order to catch bad Dreams.",
     "same_element": null,
     "vocabulary": []
   },
@@ -4677,21 +4687,21 @@
       "E-185"
     ],
     "grade": "2",
-    "description": "",
+    "description": "Imagine a person who really enjoys knitting. They keep knitting this 'scarf' but won't stop. Years later they're still knitting, with the 'scarf' now stretching Far down the 'road'.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0416",
     "character": "園",
-    "keyword": "Garden",
+    "keyword": "Park",
     "order": 416,
     "elements": [
       "E-176",
       "E-207"
     ],
     "grade": "2",
-    "description": "",
+    "description": "This park refers to the place you might go walking. When travelling through the Park in winter, it's best to keep wrapped up, or in this case 'pent in' with a 'scarf'.",
     "same_element": null,
     "vocabulary": []
   },

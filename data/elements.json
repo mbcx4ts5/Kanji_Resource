@@ -1633,10 +1633,10 @@
   },
   {
     "id": "E-204",
-    "character": "長",
+    "character": "長・镸",
     "name": "Long",
     "order": 206,
-    "description": "As an element, we will continue to use the idea of 'long'.",
+    "description": "As an element, we will continue to use the idea of 'long'. The form changes when this character appears on the left-hand side, with the bottom part taking on the appearance of 'shoulder'. This perhaps better exemplifies the earlier image of a person with long shoulder-length hair.",
     "components": []
   },
   {
@@ -1644,7 +1644,7 @@
     "character": "丂",
     "name": "Slingshot",
     "order": 207,
-    "description": "We will give these two abstract strokes the idea of a 'slingshot'.",
+    "description": "We will give these two abstract strokes the idea of a 'slingshot'. The direction of the first stroke can change directions depending on kanji.",
     "components": []
   },
   {
