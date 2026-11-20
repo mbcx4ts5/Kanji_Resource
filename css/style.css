@@ -3,9 +3,22 @@
     box-sizing: border-box;
 }
 
+@font-face {
+    font-family: "SpecialKanji";
+    src: url("../fonts/special-kanji.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    unicode-range:
+        U+20AD4,
+        U+2000E,
+        U+2D928,
+        U+300EE,
+        U+22189;
+}
+
 body {
     margin: 0;
-    font-family: Arial, "Noto Sans CJK JP", sans-serif;
+    font-family: Arial, "SpecialKanji", sans-serif;
     line-height: 1.6;
     color: #292929;
     background-color: #f6f5f1;
