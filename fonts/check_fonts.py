@@ -1,3 +1,5 @@
+# py -m fontTools.subset BabelStoneHan.ttf --unicodes=20AD4,2000E,2D928,300EE,22189 --output-file=special-kanji.woff2 --flavor=woff2 --no-hinting
+
 from fontTools.ttLib import TTFont
 from pathlib import Path
 
