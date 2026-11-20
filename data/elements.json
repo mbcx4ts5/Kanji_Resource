@@ -1844,7 +1844,7 @@
     "character": "京",
     "name": "Capital",
     "order": 232,
-    "description": "",
+    "description": "As an element, continue with 'capital'.",
     "components": []
   },
   {
@@ -1852,7 +1852,7 @@
     "character": "市",
     "name": "Market",
     "order": 233,
-    "description": "",
+    "description": "As an element, we will continue with 'market'. Think of a busy marketplace.",
     "components": []
   },
   {
@@ -1860,7 +1860,7 @@
     "character": "𰃮",
     "name": "Schoolhouse",
     "order": 234,
-    "description": "",
+    "description": "We saw previously a related element in 'birdhouse'. This form looks the same aside from the large top stroke. We will give this element the name of 'schoolhouse'.",
     "components": []
   },
   {
@@ -1868,15 +1868,15 @@
     "character": "央",
     "name": "Centre",
     "order": 235,
-    "description": "",
+    "description": "As an element, we will continue to use 'centre'.",
     "components": []
   },
   {
     "id": "E-234",
     "character": "行",
-    "name": "Go",
+    "name": "Crossing",
     "order": 236,
-    "description": "",
+    "description": "As an element, we will extend the abstract idea of 'going' to a 'crossing'.",
     "components": []
   },
   {
@@ -1884,7 +1884,7 @@
     "character": "幺",
     "name": "Cocoon",
     "order": 237,
-    "description": "",
+    "description": "This form is an abbreviated form of the 'thread' element without the three strokes at the bottom. We will consider this form as a 'cocoon'.",
     "components": []
   },
   {
@@ -1892,7 +1892,7 @@
     "character": "殳",
     "name": "Missile",
     "order": 238,
-    "description": "",
+    "description": "This element seems to display a heavy 'missile' of sorts that takes a pair of 'holding hands' to throw into the 'wind'. We will give this element the meaning of 'missile'.",
     "components": []
   },
   {
@@ -1900,7 +1900,7 @@
     "character": "走",
     "name": "Run",
     "order": 239,
-    "description": "",
+    "description": "As an eleemnt, continue to use 'run'.",
     "components": []
   },
   {
@@ -1908,7 +1908,7 @@
     "character": "⻏",
     "name": "Suburb",
     "order": 240,
-    "description": "",
+    "description": "You may be confused by seeing this element, thinking that we had already covered it. Indeed, the form is identical to the lofty 'pinnacle' element we saw previously, but when this form appears on the right of a kanji, its meaning will shift entirely to represent the lowly 'suburbs'.",
     "components": []
   },
   {
