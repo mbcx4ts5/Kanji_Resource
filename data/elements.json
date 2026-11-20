@@ -1396,7 +1396,7 @@
     "character": "⻖",
     "name": "Pinnacle",
     "order": 174,
-    "description": "This element represents the idea of reaching the 'pinnacle'. You can think of it as a lofty skyscraper or an ivory tower. Basically if you can make it here, you've really made it.",
+    "description": "This element represents the idea of reaching the 'pinnacle'. You can think of it as a lofty skyscraper or an ivory tower. Basically if you can make it here, you've really made it. This element will always appear on the left-hand side of the kanji.",
     "components": []
   },
   {
@@ -1916,7 +1916,7 @@
     "character": "文",
     "name": "Sentence",
     "order": 241,
-    "description": "",
+    "description": "As an element, we will extend the meaning to a whole 'sentence'.",
     "components": []
   },
   {
@@ -1924,7 +1924,7 @@
     "character": "弋",
     "name": "Ceremony",
     "order": 242,
-    "description": "",
+    "description": "This form will acquire the keyword 'ceremony'. It's appearance seems to resemble a pair of scissors cutting a ribbon, with the cut represented by the drop in the top-right corner. This element originally represented a sharp peg but has morphed considerably from its original form.",
     "components": []
   },
   {
@@ -1932,7 +1932,7 @@
     "character": "戌",
     "name": "March",
     "order": 243,
-    "description": "",
+    "description": "The 'ceremony' element here has several more strokes attached to it. A 'ceremony' with lots of bells and whistles. ",
     "components": []
   },
   {
