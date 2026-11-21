@@ -668,7 +668,7 @@
     "character": "予",
     "name": "Beforehand",
     "order": 83,
-    "description": "",
+    "description": "As an element, focus on the idea of something happening 'beforehand'.",
     "components": []
   },
   {
@@ -868,7 +868,7 @@
     "character": "去",
     "name": "Gone",
     "order": 108,
-    "description": "",
+    "description": "As an element, we will think of something that used to be with us, but is now 'gone'.",
     "components": []
   },
   {
@@ -972,7 +972,7 @@
     "character": "非",
     "name": "Jail",
     "order": 121,
-    "description": "",
+    "description": "As an element, we will instead use this form's appearance as prison bars as the foundation of the element's keyword, 'jail'.",
     "components": []
   },
   {
@@ -1932,7 +1932,7 @@
     "character": "戌",
     "name": "March",
     "order": 243,
-    "description": "The 'ceremony' element here has several more strokes attached to it. A 'ceremony' with lots of bells and whistles. ",
+    "description": "The 'ceremony' element here has several more strokes attached to it. A 'ceremony' with lots of bells and whistles will inevitably turn into a whole 'march'.",
     "components": []
   },
   {
@@ -1940,7 +1940,7 @@
     "character": "祭",
     "name": "Party",
     "order": 244,
-    "description": "",
+    "description": "What 'party' is complete without an 'altar'. The element at the top visually represents the bunting that goes along with the 'party'.",
     "components": []
   },
   {
@@ -1948,7 +1948,7 @@
     "character": "卩",
     "name": "Stamp",
     "order": 245,
-    "description": "",
+    "description": "This element represents a 'stamp', as in the kind you would add to a letter.",
     "components": []
   },
   {
@@ -1956,7 +1956,7 @@
     "character": "南",
     "name": "South",
     "order": 246,
-    "description": "",
+    "description": "As an element, continue to use 'south' or perhaps the global 'south'.",
     "components": []
   },
   {
@@ -1964,7 +1964,7 @@
     "character": "西",
     "name": "West",
     "order": 247,
-    "description": "",
+    "description": "As an element, continue to use 'west' or perhaps the wild 'west'.",
     "components": []
   },
   {
@@ -1972,7 +1972,7 @@
     "character": "毛",
     "name": "Fur",
     "order": 248,
-    "description": "",
+    "description": "As an element, use the idea of 'fur', especially animal 'fur'.",
     "components": []
   },
   {
@@ -1980,7 +1980,7 @@
     "character": "午",
     "name": "Noon",
     "order": 249,
-    "description": "",
+    "description": "As an element, cotinue to use 'noon', and try to keep it separate from 'day' (日). Don't confuse this form with 'cow' (牛) which of course includes the head poking out of the top.",
     "components": []
   },
   {
@@ -1988,7 +1988,7 @@
     "character": "业",
     "name": "Chandelier",
     "order": 250,
-    "description": "",
+    "description": "This rare element appears dangling over other elements and will get the keyword 'chandelier'.",
     "components": []
   },
   {
@@ -1996,7 +1996,7 @@
     "character": "幸",
     "name": "Happiness",
     "order": 251,
-    "description": "",
+    "description": "As an element, concentrate on the feeling of 'happiness'.",
     "components": []
   },
   {
@@ -2012,7 +2012,7 @@
     "character": "良",
     "name": "Good",
     "order": 251,
-    "description": "",
+    "description": "As an element, use 'good' or perhaps a 'good guy'.",
     "components": []
   },
   {
@@ -2020,7 +2020,7 @@
     "character": "𢆉",
     "name": "Lamb",
     "order": 251,
-    "description": "",
+    "description": "We will use this elemeny to help us form two further elements. The element represents a 'sheep' with one fewer horizontal stroke which we will give the keyword 'lamb'.",
     "components": []
   },
   {
@@ -2028,7 +2028,7 @@
     "character": "至",
     "name": "Climax",
     "order": 251,
-    "description": "",
+    "description": "As an element, use the idea of a momentous 'climax'.",
     "components": []
   }
 ]

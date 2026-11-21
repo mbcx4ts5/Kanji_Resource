@@ -1645,7 +1645,7 @@
     "order": 149,
     "elements": ["E-083"],
     "grade": "3",
-    "description": "",
+    "description": "Beforehand, the box was closed with 'nails', but now a more competent 'seal' has been placed over it.",
     "same_element": "E-083",
     "vocabulary": []
   },
@@ -1656,7 +1656,7 @@
     "order": 150,
     "elements": ["E-081", "E-083"],
     "grade": "2",
-    "description": "",
+    "description": "There used to be a Field here 'beforehand', but now its just a building filled with 'computers'.",
     "same_element": null,
     "vocabulary": []
   },
@@ -2107,18 +2107,18 @@
     "order": 191,
     "elements": ["E-057", "E-107", "E-059"],
     "grade": "2",
-    "description": "Imagine going to a fancy 'house' to rub 'shoulders' with the elites, but instead you end up in a cramped Room instead rubbing shoulders with 'dirt'.",
+    "description": "The 'climax' to horror film set in a haunted 'house' takes place in the little 'room' at the top of the 'house'.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0192",
     "character": "去",
-    "keyword": "Leave",
+    "keyword": "Gone",
     "order": 192,
     "elements": ["E-059", "E-107"],
     "grade": "3",
-    "description": "You tried to Leave the room from the previous room, but the 'dirt' follows you out, creeping over the top of your 'shoulder'. Note that the soil element now appears on top and doubles up with the 'shoulder' element.",
+    "description": "After carrying a big pack of 'soil' on their shoulder, one the pack was Gone, it left a 'soil' stain on their 'shoulder' that refused to be Gone too.",
     "same_element": "E-108",
     "vocabulary": []
   },
@@ -2437,7 +2437,7 @@
     "order": 221,
     "elements": ["E-121"],
     "grade": "5",
-    "description": "",
+    "description": "This kanji appears to represent some prison bars, an idication of what happens if you do what you're Not supposed to do.",
     "same_element": "E-121",
     "vocabulary": []
   },
@@ -2448,7 +2448,7 @@
     "order": 222,
     "elements": ["E-121", "E-044"],
     "grade": "3",
-    "description": "",
+    "description": "Someone who is very Sad and is now emotionally unavailable has metaphorically placed their 'heart' in a 'jail'.",
     "same_element": null,
     "vocabulary": []
   },
@@ -4400,7 +4400,7 @@
       "E-059"
     ],
     "grade": "3",
-    "description": "The combination of 'shoulder' and 'earth' was visited previously in the kanji for Room (室). A person with a 'flag' over they 'shoulder' is standing on the Roof. They use the 'flag' as a parachute to jump safely to the 'ground'.",
+    "description": "Note the similarity to the kanji for 'room' (室). The film's 'climax' innevitably takes place on the Roof where the protagonist has nowhere left to run other than up the 'flag'pole..",
     "same_element": null,
     "vocabulary": []
   },
