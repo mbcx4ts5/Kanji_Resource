@@ -4708,14 +4708,14 @@
   {
     "id": "K-0417",
     "character": "転",
-    "keyword": "To shift, fall down",
+    "keyword": "Revolve",
     "order": 417,
     "elements": [
       "E-179",
       "E-208"
     ],
     "grade": "3",
-    "description": "",
+    "description": "Imagine shifting gears in a 'car'. The wheels start to Revolve quicker and a 'cloud' of dust is kicked up as a result.",
     "same_element": null,
     "vocabulary": []
   },
@@ -4728,7 +4728,7 @@
       "E-209"
     ],
     "grade": "1",
-    "description": "",
+    "description": "This kanji is a pictogram of some drops of Rain falling from a raincloud. It is comprised of a 'one', 'hood', 'walking stick' and four 'drops'. Notice that the 'drops' are all written at a slight diagonal unlike in 'sprinkler' where the drops appear to point inwards.",
     "same_element": "E-209",
     "vocabulary": []
   },
@@ -4742,7 +4742,7 @@
       "E-208"
     ],
     "grade": "2",
-    "description": "",
+    "description": "This is the full kanji for Cloud, containing the 'cloud' element, alongside 'weather'.",
     "same_element": null,
     "vocabulary": []
   },
@@ -4752,10 +4752,11 @@
     "keyword": "Snow",
     "order": 420,
     "elements": [
-      "E-209"
+      "E-209",
+      "E-071"
     ],
     "grade": "2",
-    "description": "",
+    "description": "This kanji refers to the type of 'weather' where you might need to get out your 'broom'. Imagine someone sweeping away the Snow with their 'broom'.",
     "same_element": null,
     "vocabulary": []
   },
@@ -4766,10 +4767,11 @@
     "order": 421,
     "elements": [
       "E-209",
-      "E-011"
+      "E-011",
+      "E-064"
     ],
     "grade": "2",
-    "description": "",
+    "description": "We will meet a related kanji for Thunder later. This kanji refers to Electricity in general. Imagine someone standing in the middle of a 'rice field' in some stormy weather. They've hooked up a 'hook' to a generator in the hopes that lightning will strike it and generate some Electricity.",
     "same_element": null,
     "vocabulary": []
   },
@@ -4779,10 +4781,11 @@
     "keyword": "Atmosphere",
     "order": 422,
     "elements": [
-      "E-209"
+      "E-209",
+      "E-080"
     ],
     "grade": "S",
-    "description": "",
+    "description": "This Atmosphere covered by this kanji is more so related to the ambiance or vibe. When describing something, the 'weather' can help set the Atmosphere but can only do 'part' of the job. The rest is covered by other aspects, like time of day, location, the people and so on.",
     "same_element": null,
     "vocabulary": []
   },
@@ -4796,7 +4799,7 @@
       "E-210"
     ],
     "grade": "S",
-    "description": "",
+    "description": "A very dramatic scene with stormy 'weather' has driven someone into a 'cliffhanger' situation. Imagine them dangling off the edge of a cliff in the middle of a storm. This kanji represents the last thing they'd want in this moment, an Earthquake.",
     "same_element": null,
     "vocabulary": []
   },
@@ -4811,7 +4814,7 @@
       "E-012"
     ],
     "grade": "2",
-    "description": "",
+    "description": "This kanji shows a unique method of cultivating Tea in order to get the bright green colours associated with matcha. The Tea 'trees' are shaded by an 'umbrella' made of 'grass' reeds in order to promote the grown of bright green chlorophyll. The 'tree' element has its two diagonal strokes detached in this kanji.",
     "same_element": null,
     "vocabulary": []
   },
@@ -4825,7 +4828,7 @@
       "E-208"
     ],
     "grade": "2",
-    "description": "",
+    "description": "When you see the 'clouds' start to Meet, it's probably time you get out your 'umbrella' as a precaution.",
     "same_element": null,
     "vocabulary": []
   },
@@ -4835,11 +4838,12 @@
     "keyword": "Picture",
     "order": 426,
     "elements": [
+      "E-046",
       "E-211",
       "E-208"
     ],
     "grade": "2",
-    "description": "",
+    "description": "You can't make a Picture with a single piece of 'thread', instead you have to have lots of 'thread' and have them all 'meet' together to form the canvas. Recall from the previous frame that umbrella and cloud form the kanji for Meet.",
     "same_element": null,
     "vocabulary": []
   },
@@ -4852,7 +4856,7 @@
       "E-212"
     ],
     "grade": "2",
-    "description": "",
+    "description": "Don't confuse this kanji with the one for Same (同). Imagine Fitting an 'umbrella' in place, by placing the pole of the umbrella in a single hole in the ground, here represented by 'one mouth'.",
     "same_element": "E-212",
     "vocabulary": []
   },
@@ -4862,11 +4866,11 @@
     "keyword": "Pick up",
     "order": 428,
     "elements": [
-      "E-110",
+      "E-103",
       "E-212"
     ],
     "grade": "3",
-    "description": "",
+    "description": "Imagine one of those toy buckets with different shaped holes and blocks that will only fit through the correctly shaped hole. A child Picks Up a block with their 'fingers' and places them in whichever hole it will 'fit'.",
     "same_element": null,
     "vocabulary": []
   },
@@ -4880,7 +4884,7 @@
       "E-212"
     ],
     "grade": "2",
-    "description": "",
+    "description": "Imagine a 'bamboo' puzzle box. The Answer on how to open it is to make sure all the piece of 'bamboo fit' together.",
     "same_element": null,
     "vocabulary": []
   },
@@ -4893,7 +4897,7 @@
       "E-213"
     ],
     "grade": "2",
-    "description": "",
+    "description": "The bottom part of this kanji is unique. Fortunately, this kanji is very common, so you shouldn't worry about forgetting its form. If you wish, think of the lowest stroke representing the hands on a clock sheltered by 'one umbrella' to show what time it is Now.",
     "same_element": "E-213",
     "vocabulary": []
   },
@@ -4907,20 +4911,20 @@
       "E-172"
     ],
     "grade": "3",
-    "description": "",
+    "description": "The 'king' is responsible to rallying the citizens of a Whole country under a single 'umbrella'.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0432",
     "character": "金",
-    "keyword": "Gold, money",
+    "keyword": "Gold",
     "order": 432,
     "elements": [
       "E-214"
     ],
     "grade": "1",
-    "description": "",
+    "description": "The 'whole' country's economy here is being drip fed by the Gold mine. Just see those 'drip drips' of Gold.",
     "same_element": "E-214",
     "vocabulary": []
   },
@@ -4934,7 +4938,7 @@
       "E-147"
     ],
     "grade": "3",
-    "description": "",
+    "description": "Unlike gold, Iron is a 'metal' that will 'lose' its shine over time as it rusts.",
     "same_element": null,
     "vocabulary": []
   },
@@ -4948,7 +4952,7 @@
       "E-215"
     ],
     "grade": "3",
-    "description": "",
+    "description": "This is the kanji from which the 'silver' element gets its name. As with Iron, the 'metal' element is also here to show us this kanji is related to metals in general.",
     "same_element": null,
     "vocabulary": []
   },
@@ -4962,7 +4966,7 @@
       "E-215"
     ],
     "grade": "3",
-    "description": "",
+    "description": "A decroative pine 'tree' is chopped down just above its Roots and covered with bright 'silver' decorations.",
     "same_element": null,
     "vocabulary": []
   },
@@ -4975,20 +4979,20 @@
       "E-216"
     ],
     "grade": "2",
-    "description": "",
+    "description": "Why does food always taste so 'good' when you eat it outside in the shade of an 'umbrella'. This is why many people opt to Eat outside.",
     "same_element": "E-216",
     "vocabulary": []
   },
   {
     "id": "K-0437",
     "character": "曲",
-    "keyword": "Melody, curve",
+    "keyword": "Bend",
     "order": 437,
     "elements": [
       "E-217"
     ],
     "grade": "3",
-    "description": "",
+    "description": "You might think that the kanji for Bend wouldn't include so many straigh lines. Instead, picture a table with two prongs on it used for Bending things on.",
     "same_element": "E-217",
     "vocabulary": []
   },
@@ -5002,7 +5006,7 @@
       "E-210"
     ],
     "grade": "3",
-    "description": "",
+    "description": "If the Agricultural harvest is not good, this farmer resorts to blaming their tools. Not only do the tools have to be thrown out, but the entire 'anvil' is sent 'off the edge of a cliff'.",
     "same_element": null,
     "vocabulary": []
   },
@@ -5016,20 +5020,21 @@
       "E-185"
     ],
     "grade": "2",
-    "description": "",
+    "description": "This kanji seems somewhat metaphorical, representing the seven days of the Week as points on a Circumference of a circular 'road'. This relates to the cyclical nature of the Week, once one Week ends, the next Week starts anew.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0440",
     "character": "調",
-    "keyword": "Tone, find",
+    "keyword": "Tone",
     "order": 440,
     "elements": [
+      "E-018",
       "E-218"
     ],
     "grade": "3",
-    "description": "",
+    "description": "This kanji has a few meanings, but we will focus on the one relating to a musical 'tone'. A 'circle of tones' is geometric representation of musical Tones in music theory with different notes written along the Circumference. It's important to check your Tone when 'saying' things, so just imagine examining a circle of tones afterwards to make sure you spoke with the correct Tone.",
     "same_element": null,
     "vocabulary": []
   },
@@ -5042,14 +5047,14 @@
       "E-219"
     ],
     "grade": "2",
-    "description": "",
+    "description": "This kanji seems to show a 'walking stick' being waved in front of the 'moon'. It would seem that the stick here is being Used for some arcane purposes.",
     "same_element": "E-219",
     "vocabulary": []
   },
   {
     "id": "K-0442",
     "character": "通",
-    "keyword": "Pass through, commute",
+    "keyword": "Commute",
     "order": 442,
     "elements": [
       "E-220",
@@ -5057,7 +5062,7 @@
       "E-185"
     ],
     "grade": "2",
-    "description": "",
+    "description": "Your Commute is disrupted as someone closed the 'road'. They didn't just close it off, the tunnel that you would normally pass through has been 'sealed' shut with a 'screwdriver'.",
     "same_element": null,
     "vocabulary": []
   },
@@ -5072,14 +5077,14 @@
       "E-219"
     ],
     "grade": "6",
-    "description": "",
+    "description": "After an operation to recover from 'sickness', it's important to 'seal' the wound shut. Not only that, but the wound is further closed with the help of a 'screwdriver' which, as you can imagine, would cause quite an amount of Pain.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0444",
     "character": "病",
-    "keyword": "Sick",
+    "keyword": "Ill",
     "order": 444,
     "elements": [
       "E-221",
@@ -5087,7 +5092,7 @@
       "E-194"
     ],
     "grade": "3",
-    "description": "",
+    "description": "When you're feeling Ill, you're stomach feels the 'sickness' as though there's an extra 'one thing inside' you trying to get out.",
     "same_element": null,
     "vocabulary": []
   },
@@ -5101,7 +5106,7 @@
       "E-222"
     ],
     "grade": "3",
-    "description": "",
+    "description": "The 'beggar' is wondering how things could possible get worse, and Next comes the 'ice'.",
     "same_element": null,
     "vocabulary": []
   },
@@ -5111,10 +5116,12 @@
     "keyword": "Song",
     "order": 446,
     "elements": [
+      "E-061",
+      "E-061",
       "E-222"
     ],
     "grade": "2",
-    "description": "",
+    "description": "The lonely 'beggar' can only hear a Song at 'two possible' times, the birdsong in the morning, and the hooting Song of nocturnal owls at night.",
     "same_element": null,
     "vocabulary": []
   },
@@ -5128,28 +5135,28 @@
       "E-222"
     ],
     "grade": "3",
-    "description": "",
+    "description": "Not only does the 'beggar' have to beg for something to 'eat', here they are begging for something to Drink too.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0448",
     "character": "追",
-    "keyword": "Follow",
+    "keyword": "Chase",
     "order": 448,
     "elements": [
       "E-223",
       "E-185"
     ],
     "grade": "3",
-    "description": "",
+    "description": "Ideally you don't want to be in a position where you're being Chased down the 'road' by someone yielding a 'hammer'.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0449",
     "character": "館",
-    "keyword": "Public building",
+    "keyword": "Public Building",
     "order": 449,
     "elements": [
       "E-216",
@@ -5157,7 +5164,7 @@
       "E-223"
     ],
     "grade": "3",
-    "description": "",
+    "description": "Long ago, there were only two types of Public Buildings, somewhere to go to 'eat' and a legal 'house' with a gavel wielding judge, here represented by the 'double-sided hammer'.",
     "same_element": null,
     "vocabulary": []
   },
@@ -5170,7 +5177,7 @@
       "E-224"
     ],
     "grade": "2",
-    "description": "",
+    "description": "You may relate this kanji to the element for 'gully' but don't get them confused. This is a 'gully' that has been widened into a Valley. Imagine someone opening up an 'umbrella' to push apart the walls of the 'gully' into a full Valley.",
     "same_element": "E-224",
     "vocabulary": []
   },
@@ -5184,7 +5191,7 @@
       "E-224"
     ],
     "grade": "5",
-    "description": "",
+    "description": "We next introduce a small 'house' to our image of the 'valley'. The 'house' Contains everything you would need to survive in such a remote location.",
     "same_element": null,
     "vocabulary": []
   },
@@ -5198,7 +5205,7 @@
       "E-224"
     ],
     "grade": "4",
-    "description": "",
+    "description": "When choosing where to Bathe, one of the best places to go to is the clean 'waters' of the 'valley'.",
     "same_element": null,
     "vocabulary": []
   },
@@ -5213,7 +5220,7 @@
       "E-224"
     ],
     "grade": "S",
-    "description": "",
+    "description": "Here, we learn where the 'house in the valley' that contains everything you need gets its 'water' from. After the winter when the ice starts to 'melt', the resulting fresh 'water' is collecting. Just imagine the icicle Melting and dripping from the roof of the 'house'.",
     "same_element": null,
     "vocabulary": []
   },
@@ -5885,7 +5892,7 @@
       "E-251"
     ],
     "grade": "3",
-    "description": "",
+    "description": "As a form of behaviour management, the parent says to their child: now, if you be Good, you'll get a 'drop of silver'. Remember the extra 'drop' of goodness here.",
     "same_element": "E-251",
     "vocabulary": []
   },
@@ -5898,7 +5905,7 @@
       "E-222"
     ],
     "grade": "3",
-    "description": "",
+    "description": "Here, we see a 'person' who has been all 'bound up' and Lacks the ability to do anything themselves.",
     "same_element": "E-222",
     "vocabulary": []
   },
@@ -5911,7 +5918,7 @@
       "E-218"
     ],
     "grade": "3",
-    "description": "",
+    "description": "When choosing the right 'hood' its important to pick one with the right Circumference for your head. You want it to protect your hair from getting 'dirt' in it and leave a hole for your 'mouth'. You may notice the relationship this inside of this kanji shares with the 'scarf' element.",
     "same_element": "E-218",
     "vocabulary": []
   }

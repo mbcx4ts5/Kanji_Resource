@@ -1540,7 +1540,7 @@
     "character": "冂",
     "name": "Hood",
     "order": 192,
-    "description": "This 'hood' encloses other elements, though it can also appear beside other elements too.",
+    "description": "This 'hood' encloses other elements, though it can also appear beside other elements too. Occasionally, the first stroke will be bent instead of straight as it does in 'moon' (月).",
     "components": []
   },
   {
@@ -1673,10 +1673,10 @@
   },
   {
     "id": "E-209",
-    "character": "雨",
+    "character": "雨・⻗",
     "name": "Weather",
     "order": 211,
-    "description": "As an element, we will extend our vision to 'weather' as well as 'rain'.",
+    "description": "As an element, we will extend our vision to 'weather' as well as 'rain'. When this form acts as an element, the form becomes compressed and occupies the position at the top of the kanji, with the 'hood' morphing into a 'crown'.",
     "components": []
   },
   {
@@ -1684,7 +1684,7 @@
     "character": "辰",
     "name": "Cliffhanger",
     "order": 212,
-    "description": "This element appears to show someone hanging precarious at the edge of a cliff and will be given the keyword 'cliffhanger'. You should be familiar with some of the strokes of the internal element from 'long' (長).",
+    "description": "This element appears to show someone hanging precarious at the edge of a cliff and will be given the keyword 'cliffhanger' or 'on the edge of a cliff'. You should be familiar with some of the strokes of the internal element from 'long' (長).",
     "components": []
   },
   {
@@ -1713,7 +1713,7 @@
   },
   {
     "id": "E-214",
-    "character": "金",
+    "character": "金・釒",
     "name": "Metal",
     "order": 216,
     "description": "As an element, much as how the kanji for Rain could be generalised into 'weather', this form will be generalised to cover 'metals' in general.",
@@ -1738,9 +1738,9 @@
   {
     "id": "E-217",
     "character": "曲",
-    "name": "Bend",
+    "name": "Anvil",
     "order": 219,
-    "description": "As an element, continue with the idea of 'bending' something. You may want to think of a 'bent' object such as a boomerange",
+    "description": "As an element, continue with the idea of 'bending' something and cement this idea with the physical picture of an 'anvil'.",
     "components": []
   },
   {
@@ -1778,9 +1778,9 @@
   {
     "id": "E-222",
     "character": "欠",
-    "name": "Lack",
+    "name": "Beggar",
     "order": 224,
-    "description": "The yawning mouth of someone who 'lacks' sleep. This element will be associated with the 'lack' of something.",
+    "description": "As an element, we will focus on the idea of lacking something and consider a 'beggar'.",
     "components": []
   },
   {
@@ -1788,7 +1788,7 @@
     "character": "𠂤・㠯",
     "name": "Hammer",
     "order": 225,
-    "description": "This element appears to represent the head of a 'hammer', one side for hitting and one side for prizing things away represented by the 'drop'. In cases where the 'drop' is absent you may think of it as a 'double sided hammer' if this helps.",
+    "description": "This element appears to represent the head of a 'hammer', one side for hitting and one side for prizing things away represented by the 'drop'. In cases where the 'drop' is absent you may think of it as a 'double-sided hammer' if this helps.",
     "components": []
   },
   {
