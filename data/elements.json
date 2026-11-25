@@ -1868,15 +1868,15 @@
     "character": "央",
     "name": "Centre",
     "order": 235,
-    "description": "As an element, we will continue to use 'centre'.",
+    "description": "As an element, we will continue to use 'centre', especially a city centre.",
     "components": []
   },
   {
     "id": "E-234",
-    "character": "行",
+    "character": "行・彳",
     "name": "Crossing",
     "order": 236,
-    "description": "As an element, we will extend the abstract idea of 'going' to a 'crossing'.",
+    "description": "This form was originally a pictogram of some crossroads. As an element, we will extend the abstract idea of 'going' to a 'crossing'. This element may appear with or without the right-hand side, and sometimes will have another element between the two sides as if on the 'crossing' itself.",
     "components": []
   },
   {
@@ -1932,7 +1932,7 @@
     "character": "戌",
     "name": "March",
     "order": 243,
-    "description": "The 'ceremony' element here has several more strokes attached to it. A 'ceremony' with lots of bells and whistles will inevitably turn into a whole 'march'.",
+    "description": "The 'ceremony' element here has several strokes attached to it. A 'ceremony' with lots of bells and whistles will inevitably turn into a whole 'march'.",
     "components": []
   },
   {
@@ -1940,7 +1940,7 @@
     "character": "祭",
     "name": "Party",
     "order": 244,
-    "description": "What 'party' is complete without an 'altar'. The element at the top visually represents the bunting that goes along with the 'party'.",
+    "description": "To avoid confusion with the element 'ceremony', let's consider instead a more modern 'party' as the keyword for this element.",
     "components": []
   },
   {
@@ -1961,10 +1961,10 @@
   },
   {
     "id": "E-245",
-    "character": "西",
+    "character": "西・覀",
     "name": "West",
     "order": 247,
-    "description": "As an element, continue to use 'west' or perhaps the wild 'west'.",
+    "description": "As an element, continue to use 'west' or perhaps the wild 'west'. When this element appears at the top of a kanji, the dangling human legs come into direct contact with the final stroke at the bottom of the bottle and resembles the 'net' element.",
     "components": []
   },
   {
@@ -2020,7 +2020,7 @@
     "character": "𢆉",
     "name": "Lamb",
     "order": 251,
-    "description": "We will use this elemeny to help us form two further elements. The element represents a 'sheep' with one fewer horizontal stroke which we will give the keyword 'lamb'.",
+    "description": "We will use this element to help us form two further elements. The element represents a 'sheep' with two, rather than three, horizontal strokes. We will give this form the keyword 'lamb'.",
     "components": []
   },
   {
@@ -2030,5 +2030,14 @@
     "order": 251,
     "description": "As an element, use the idea of a momentous 'climax'.",
     "components": []
+  },
+  {
+    "id": "E-254",
+    "character": "呂",
+    "name": "Backbone",
+    "order": 251,
+    "description": "A 'drop' between two 'mouths' appears to be two connected vertebrae in a spine. We will give this element the name 'backbone' or alternatively 'spine'.",
+    "components": []
+
   }
 ]

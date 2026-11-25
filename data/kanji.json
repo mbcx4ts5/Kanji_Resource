@@ -554,7 +554,7 @@
     "character": "母",
     "keyword": "Mother",
     "order": 51,
-    "elements": [],
+    "elements": ["E-032"],
     "grade": "2",
     "description": "The kanji for mother here is a pictogram of two breasts. Take good care with the stroke order here; this is not the simple 'mouth' shape we are used to dealing with. ",
     "same_element": "E-032",
@@ -576,7 +576,7 @@
     "character": "父",
     "keyword": "Father",
     "order": 52,
-    "elements": [],
+    "elements": ["E-035"],
     "grade": "2",
     "description": "The pictogram of a father here is considerably more abstract than that for mother. It might be easier to see the father's face here though, the two eyes represented by the first two strokes and then a nose that forms the outline of a moustache with the last two strokes.",
     "same_element": "E-035",
@@ -1359,7 +1359,7 @@
     "order": 123,
     "elements": ["E-072"],
     "grade": "2",
-    "description": "This unusual kanji shows 'two spoons' back to back which has come to mean 'north'. The spoon on the left has a different and unique form. Since it's cold in the north, imagine someone rubbing two spoons together trying to generate a spark in order to start a fire.",
+    "description": "This unusual kanji shows 'two spoons' back to back which has come to mean North. The spoon on the left has a different and unique form. Since it's cold in the North, imagine someone rubbing two spoons together trying to generate a spark in order to start a fire.",
     "same_element": null,
     "vocabulary": []
   },
@@ -2105,7 +2105,7 @@
     "character": "室",
     "keyword": "Room",
     "order": 191,
-    "elements": ["E-057", "E-107", "E-059"],
+    "elements": ["E-057", "E-253"],
     "grade": "2",
     "description": "The 'climax' to horror film set in a haunted 'house' takes place in the little 'room' at the top of the 'house'.",
     "same_element": null,
@@ -2391,7 +2391,7 @@
     "character": "坂",
     "keyword": "Slope",
     "order": 217,
-    "elements": ["E-059", "E-119", "E-120"],
+    "elements": ["E-059", "E-250"],
     "grade": "3",
     "description": "This kanji represents a steep Slope that runs against (or anti-) the naturally 'ground'.",
     "same_element": null,
@@ -2402,7 +2402,7 @@
     "character": "板",
     "keyword": "Board",
     "order": 218,
-    "elements": ["E-012", "E-119", "E-120"],
+    "elements": ["E-012", "E-250"],
     "grade": "3",
     "description": "A Board here is a flat piece of wood. Whoever is making all these Boards must be 'anti tree' judging by the number of trees that are needed to be cut down in order for the person to make them.",
     "same_element": null,
@@ -3203,11 +3203,11 @@
   {
     "id": "K-0291",
     "character": "昼",
-    "keyword": "Noon",
+    "keyword": "Midday",
     "order": 291,
     "elements": ["E-151", "E-008", "E-001"],
     "grade": "2",
-    "description": "You might be used to a bell tolling at Noon, but here we have a 'flute' that is blown just 'once a day' at Noon.",
+    "description": "No-one wants to hear you playing your 'flute' at night, so wait for the Midday. The is the 'one' time of 'day' when its acceptable to practise flute playing.",
     "same_element": null,
     "vocabulary": []
   },
@@ -4396,8 +4396,7 @@
     "order": 395,
     "elements": [
       "E-197",
-      "E-107",
-      "E-059"
+      "E-253"
     ],
     "grade": "3",
     "description": "Note the similarity to the kanji for 'room' (室). The film's 'climax' innevitably takes place on the Roof where the protagonist has nowhere left to run other than up the 'flag'pole..",
@@ -5233,20 +5232,21 @@
       "E-225"
     ],
     "grade": "1",
-    "description": "",
+    "description": "A River is here represented by three lines representing the water's currents.",
     "same_element": "E-225",
     "vocabulary": []
   },
   {
     "id": "K-0455",
     "character": "州",
-    "keyword": "State, province",
+    "keyword": "State",
     "order": 455,
     "elements": [
-      "E-225"
+      "E-225",
+      "E-020"
     ],
     "grade": "3",
-    "description": "",
+    "description": "The State here refers to another adminsitrative region. It is depicted as three settlements, here represented by 'drops' with a 'river' running through it.",
     "same_element": null,
     "vocabulary": []
   },
@@ -5257,10 +5257,11 @@
     "order": 456,
     "elements": [
       "E-039",
+      "E-109",
       "E-225"
     ],
     "grade": "3",
-    "description": "",
+    "description": "Consider a rather sad seen of an unwanted 'infant' being placed in the waters of a 'stream', their fate left to the currents of the 'river'. As with the kanji for Departure (発), the last stroke of 'river' appears to form a 'human leg'.",
     "same_element": null,
     "vocabulary": []
   },
@@ -5274,21 +5275,21 @@
       "E-226"
     ],
     "grade": "3",
-    "description": "",
+    "description": "This 'wooden' Bridge appears to be guarded by an ornately scultped 'angel'. The most difficult part of this kanji is probably remembering all the strokes of the relatively unique 'angel' element.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0458",
     "character": "酒",
-    "keyword": "Liquor",
+    "keyword": "Alcohol",
     "order": 458,
     "elements": [
       "E-039",
       "E-227"
     ],
     "grade": "3",
-    "description": "",
+    "description": "You put some 'water' into this magic 'bottle', and after several weeks of waiting, the water turns to Alcohol.",
     "same_element": null,
     "vocabulary": []
   },
@@ -5302,7 +5303,7 @@
       "E-159"
     ],
     "grade": "3",
-    "description": "",
+    "description": "Imagine a bartender has a huge number of 'bottle' to Distribute, and to do it, they use a long 'snake'. Imagine using the snake's tail to round up the bottles and slide them down the bar table.",
     "same_element": null,
     "vocabulary": []
   },
@@ -5315,7 +5316,7 @@
       "E-228"
     ],
     "grade": "3",
-    "description": "",
+    "description": "This kanji appears to show a set of scales that are currently equally balanced and hence Flat.",
     "same_element": "E-228",
     "vocabulary": []
   },
@@ -5325,10 +5326,11 @@
     "keyword": "Evaluate",
     "order": 461,
     "elements": [
+      "E-018",
       "E-228"
     ],
     "grade": "5",
-    "description": "",
+    "description": "If you want to Evaluate something fairly, you have to get straight to the point and 'say' it 'flat'.",
     "same_element": null,
     "vocabulary": []
   },
@@ -5342,7 +5344,7 @@
       "E-009"
     ],
     "grade": "2",
-    "description": "",
+    "description": "This is the kanji from which the 'morning' element gets its name. It's accompanied by the setting 'moon' on the right, giving way to the early moning sun which forms part of the 'morning' element.",
     "same_element": null,
     "vocabulary": []
   },
@@ -5353,11 +5355,11 @@
     "order": 463,
     "elements": [
       "E-229",
-      "E-201",
-      "E-211"
+      "E-211",
+      "E-201"
     ],
     "grade": "5",
-    "description": "",
+    "description": "The Trunk referenced here is not just a tree trunk, but the main part of a body too. A new electric train line has been built that runs through the Trunk of the city. It only runs in the 'morning' and has a unique way of running whereby electricity is sent along a 'clothes line' that runs above the train line, and down an 'umbrella' that is attched to the top of the train and contacts the 'clothes line'. This kanji is used in the word for 'shinkansen', Japan's high speed rail network.",
     "same_element": null,
     "vocabulary": []
   },
@@ -5370,7 +5372,7 @@
       "E-230"
     ],
     "grade": "2",
-    "description": "",
+    "description": "This kanji, much like High (高), represents a building, although this one is much 'smaller' as denoted by the small element. This kanji refers to the buildings contained within the Capital city.",
     "same_element": "E-230",
     "vocabulary": []
   },
@@ -5384,20 +5386,20 @@
       "E-230"
     ],
     "grade": "4",
-    "description": "",
+    "description": "Imagine going up a hill and looking out over a scenic sunset. The Scenery consists of a 'sun' setting over the 'capital'.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0466",
     "character": "市",
-    "keyword": "City",
+    "keyword": "Market",
     "order": 466,
     "elements": [
       "E-231"
     ],
     "grade": "2",
-    "description": "",
+    "description": "You can buy all sorts of things at a market, but this one seems to focus on 'pot lids' and especially 'towels'. Imagine a vendor banging their 'pot lid' inviting customers to check out their array of beautiful 'towels'.",
     "same_element": "E-231",
     "vocabulary": []
   },
@@ -5411,7 +5413,7 @@
       "E-231"
     ],
     "grade": "2",
-    "description": "",
+    "description": "Unlike a younger sister, the Older Sister is a 'woman' who is now old enough to go and work at the 'market'.",
     "same_element": null,
     "vocabulary": []
   },
@@ -5425,59 +5427,61 @@
       "E-124"
     ],
     "grade": "1",
-    "description": "",
+    "description": "A 'child' in a 'schoolhouse' is obviously Studying. Make sure not to confuse this kanji with Character (字).",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0469",
     "character": "営",
-    "keyword": "Operate",
+    "keyword": "Management",
     "order": 469,
     "elements": [
-      "E-232"
+      "E-232",
+      "E-254"
     ],
     "grade": "5",
-    "description": "",
+    "description": "Of course the teachers are important, but the real 'backbone' of a 'schoolhouse' is the Management.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0470",
     "character": "宮",
-    "keyword": "Shinto shrine, prince",
+    "keyword": "Shinto Shrine",
     "order": 470,
     "elements": [
-      "E-057"
+      "E-057",
+      "E-254"
     ],
     "grade": "3",
-    "description": "",
+    "description": "In a religious household, the Shinto Shrine forms the 'backbone' of the 'house'.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0471",
     "character": "央",
-    "keyword": "Center",
+    "keyword": "Centre",
     "order": 471,
     "elements": [
       "E-233"
     ],
     "grade": "3",
-    "description": "",
+    "description": "This 'big mouth' just wants to be the Centre of attention. Notice the doubling up of 'big' with the lower stroke of 'mouth'.",
     "same_element": "E-233",
     "vocabulary": []
   },
   {
     "id": "K-0472",
     "character": "行",
-    "keyword": "Go",
+    "keyword": "Going",
     "order": 472,
     "elements": [
       "E-234"
     ],
     "grade": "2",
-    "description": "",
+    "description": "This is the kanji used in the very common verb To Go among other common words. You may see this as an image of walking feet, or a bridge that is Going somewhere.",
     "same_element": "E-234",
     "vocabulary": []
   },
@@ -5488,10 +5492,10 @@
     "order": 473,
     "elements": [
       "E-234",
-      "E-048"
+      "E-076"
     ],
     "grade": "3",
-    "description": "",
+    "description": "It is widely known that people will spend a lot of time Waiting at 'crossings', which is why a lot of 'temples' get built at the 'crossings' to entice people in.",
     "same_element": null,
     "vocabulary": []
   },
@@ -5506,21 +5510,21 @@
       "E-095"
     ],
     "grade": "2",
-    "description": "",
+    "description": "When the 'cocoon' starts developing 'walking legs', you know that the insect inside will soon emerge. The 'crossing' here represents the metaphorical crossing into the new life After emerging from the 'cocoon'",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0475",
     "character": "役",
-    "keyword": "Role",
+    "keyword": "Duty",
     "order": 475,
     "elements": [
       "E-234",
       "E-236"
     ],
     "grade": "3",
-    "description": "",
+    "description": "A soldier at the border 'crossing' with 'missiles' in their hand stands ready to defend their territory. This kanji focuses on the Duty of the individual holding the 'missile'.",
     "same_element": null,
     "vocabulary": []
   },
@@ -5530,11 +5534,11 @@
     "keyword": "Throw",
     "order": 476,
     "elements": [
-      "E-110",
+      "E-103",
       "E-236"
     ],
     "grade": "3",
-    "description": "",
+    "description": "This is a very small 'missile', small enough to Throw with only your 'fingers'.",
     "same_element": null,
     "vocabulary": []
   },
@@ -5547,7 +5551,7 @@
       "E-237"
     ],
     "grade": "2",
-    "description": "",
+    "description": "Running shoes that spend a lot of time in the 'dirt' often need 'mending'. This form was originally a pictogram of someone running.",
     "same_element": "E-237",
     "vocabulary": []
   },
@@ -5561,88 +5565,90 @@
       "E-159"
     ],
     "grade": "3",
-    "description": "",
+    "description": "You'll be safe if you tread lightly, but if you 'run', you'll Awaken the 'snakes'.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0479",
     "character": "部",
-    "keyword": "Part",
+    "keyword": "Section",
     "order": 479,
     "elements": [
       "E-196",
       "E-238"
     ],
     "grade": "3",
-    "description": "",
+    "description": "The lowly 'suburbs' are the Section of the town where you'll see the people 'muzzled' and unable to speak up for themselves due to their unfortunate circumstances.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0480",
     "character": "都",
-    "keyword": "Metropolis",
+    "keyword": "Metropolitan",
     "order": 480,
     "elements": [
       "E-165",
       "E-238"
     ],
     "grade": "3",
-    "description": "",
+    "description": "This is the humble origin of many a protagonist. An unassuming 'someone' lives in the lowly 'suburbs' in a Metropolitan Area somewhere before their heroic fate is revealed to them.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0481",
     "character": "文",
-    "keyword": "Text",
+    "keyword": "Sentence",
     "order": 481,
     "elements": [
       "E-239"
     ],
     "grade": "1",
-    "description": "",
+    "description": "These four strokes represent a written Sentence. Think of someone who ends every Sentence in their texts with an 'x'.",
     "same_element": "E-239",
     "vocabulary": []
   },
   {
     "id": "K-0482",
     "character": "対",
-    "keyword": "Opposite, against",
+    "keyword": "Oppose",
     "order": 482,
     "elements": [
-      "E-239"
+      "E-239",
+      "E-074"
     ],
     "grade": "3",
-    "description": "",
+    "description": "The 'glue' factory has been getting lots of Opposition recently. Just look at the length of the ranting 'sentences' in the most recent complaint letter.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0483",
     "character": "式",
-    "keyword": "Style, ceremony, numerical formula",
+    "keyword": "Style",
     "order": 483,
     "elements": [
-      "E-240"
+      "E-240",
+      "E-056"
     ],
     "grade": "3",
-    "description": "",
+    "description": "A lot of 'craftspeople' were involed in deciding what Style of decorations to have at the 'ceremony'.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0484",
     "character": "代",
-    "keyword": "Era, substitute",
+    "keyword": "Substitute",
     "order": 484,
     "elements": [
       "E-038",
       "E-240"
     ],
     "grade": "3",
-    "description": "",
+    "description": "This 'person' couldn't make it to the 'ceremony' so had to send a Substitute of themselves. It wouldn't be a big deal if it wasn't for the fact that the whole 'ceremony' was centred around the chosen 'person'.",
     "same_element": null,
     "vocabulary": []
   },
@@ -5653,10 +5659,11 @@
     "order": 485,
     "elements": [
       "E-241",
-      "E-007"
+      "E-007",
+      "E-044"
     ],
     "grade": "3",
-    "description": "",
+    "description": "You'll definitely Feel a lot when you watch the 'march'. Just imagine the marchers chanting with their open 'mouths' and speaking from their 'hearts'.",
     "same_element": null,
     "vocabulary": []
   },
@@ -5665,9 +5672,12 @@
     "character": "悪",
     "keyword": "Bad",
     "order": 486,
-    "elements": [],
+    "elements": [
+      "E-007",
+      "E-044"
+    ],
     "grade": "3",
-    "description": "",
+    "description": "We will see the top part of this kanji later, this kanji is worth learning on its own regardless. Before saying something Bad, listen a moment to your 'heart' and close up your 'mouth' with two bars.",
     "same_element": null,
     "vocabulary": []
   },
@@ -5681,7 +5691,7 @@
       "E-048"
     ],
     "grade": "3",
-    "description": "",
+    "description": "What 'festival' is complete without an 'altar'. The element at the top visually represents the bunting that goes along with the 'festival'.",
     "same_element": "E-242",
     "vocabulary": []
   },
@@ -5695,7 +5705,7 @@
       "E-242"
     ],
     "grade": "4",
-    "description": "",
+    "description": "Someone is making too much noise at their 'house party' and the neighbours have sent over some Insepectors to Inspect what's going on.",
     "same_element": null,
     "vocabulary": []
   },
@@ -5710,14 +5720,14 @@
       "E-120"
     ],
     "grade": "3",
-    "description": "",
+    "description": "Here we have the perfect arrangements for a date. We have an auspicious full 'moon', a 'stamped' love letter and the promise of some 'hand holding'. But before all that, it's important to pick out the right Clothes to woo your lover.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0490",
     "character": "命",
-    "keyword": "Fate, life",
+    "keyword": "Fate",
     "order": 490,
     "elements": [
       "E-211",
@@ -5726,7 +5736,7 @@
       "E-243"
     ],
     "grade": "3",
-    "description": "",
+    "description": "Our Fate looms over each of us like a personal 'umbrella'. It has been signed and sealed with a personal 'stamp' and not 'one mouth' can change it.",
     "same_element": null,
     "vocabulary": []
   },
@@ -5739,7 +5749,7 @@
       "E-244"
     ],
     "grade": "2",
-    "description": "",
+    "description": "This is the second kanji using the 'lamb' element. The sacrificial 'lambs' are tired of being sacrificed and are escaping to the tropical South. To hide their identities they cloak themselves in 'hoods' and carry 'crosses' to prey for sanctuary",
     "same_element": "E-244",
     "vocabulary": []
   },
@@ -5752,7 +5762,7 @@
       "E-245"
     ],
     "grade": "2",
-    "description": "",
+    "description": "In the wild 'west', the cowboys won't stop drinking in the dry heat of the desert. There's not even any liquid left left in this bottle.",
     "same_element": "E-245",
     "vocabulary": []
   },
@@ -5762,34 +5772,38 @@
     "keyword": "Thick",
     "order": 493,
     "elements": [
-      "E-125"
+      "E-125",
+      "E-020"
     ],
     "grade": "2",
-    "description": "",
+    "description": "This kanji was deliberately delayed so as not to confuse it with the kanji for Dog (犬) which contains the same element, only the drop is in a different place.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0494",
     "character": "円",
-    "keyword": "Yen, circle",
+    "keyword": "Yen",
     "order": 494,
-    "elements": [],
+    "elements": [
+      "E-192",
+      "E-070"
+    ],
     "grade": "1",
-    "description": "",
+    "description": "This kanji appears to be a unique doubling up of 'hood' and 'mosaic' and is used for the Japanese currency, the Yen.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0495",
     "character": "毛",
-    "keyword": "Hair",
+    "keyword": "Fur",
     "order": 495,
     "elements": [
       "E-246"
     ],
     "grade": "2",
-    "description": "",
+    "description": "A doubling up of 'hand' and 'hook' creates the kanji for Fur. This kanji can actually refer to human hair or animal fur and is a pictogram of strands of hair.",
     "same_element": "E-246",
     "vocabulary": []
   },
@@ -5802,7 +5816,7 @@
       "E-247"
     ],
     "grade": "2",
-    "description": "",
+    "description": "A 'clothes line' with a singe 'drop' of water implying something that's not yet been out long enough to dry completely. This kanji is used for the point where AM turns to PM, otherwise known as Noon. Leave the 'clothes line' up a bit longer, as it'll still be dripping by Noon.",
     "same_element": "E-247",
     "vocabulary": []
   },
@@ -5812,21 +5826,22 @@
     "keyword": "World",
     "order": 497,
     "elements": [
-      "E-011"
+      "E-011",
+      "E-038"
     ],
     "grade": "3",
-    "description": "",
+    "description": "A 'rice field', a 'person' and two extra strokes previously seen in 'two hands' make up the kanji for World. There's a common myth of the World forming on the shell of a turtle, so you may want to see this as a pictogram of turtle with its shell represented by the 'rice field'. This is not the true origin of this kanji, however.",
     "same_element": null,
     "vocabulary": []
   },
   {
     "id": "K-0498",
     "character": "面",
-    "keyword": "Surface",
+    "keyword": "Mask",
     "order": 498,
     "elements": [],
     "grade": "3",
-    "description": "",
+    "description": "This unusual Mask contains a single hole for an 'eye' to peer through.",
     "same_element": null,
     "vocabulary": []
   },
@@ -5837,10 +5852,11 @@
     "order": 499,
     "elements": [
       "E-248",
-      "E-141"
+      "E-160",
+      "E-012"
     ],
     "grade": "3",
-    "description": "",
+    "description": "At the top we have the 'chandlier' element represented by the first five strokes. The mass of strokes below can be seen as a doubling up of 'sheep' (羊) and 'tree' (木), with the tree's roots coming out of the bottom of the sheep. Picture some important Business people sitting in a fancy room complete with a 'chandlier' which is far removed from reality. Today's Business agenda is to sort out what to do with all these 'wooden sheep' here representing idle members of the public.",
     "same_element": null,
     "vocabulary": []
   },
@@ -5853,7 +5869,7 @@
       "E-249"
     ],
     "grade": "3",
-    "description": "",
+    "description": "The first kanji to contain 'lamb' will be the kanji for Happiness. Here a 'lamb' is sacrificed and buried under the 'earth' in the hopes of bringing Happiness to the gods.",
     "same_element": "E-249",
     "vocabulary": []
   },
@@ -5866,7 +5882,7 @@
       "E-253"
     ],
     "grade": "6",
-    "description": "",
+    "description": "This kanji shows a picture of an arrow dug into the 'earth', which came to stand for the idea of something reaching the end of its joruney, or a Climax. The arrow has here morphed into a 'shoulder' denoting the rather morbid Climax of our own mortality when our 'shoulders' hit the 'earth'.",
     "same_element": "E-253",
     "vocabulary": []
   },
@@ -5920,6 +5936,17 @@
     "grade": "3",
     "description": "When choosing the right 'hood' its important to pick one with the right Circumference for your head. You want it to protect your hair from getting 'dirt' in it and leave a hole for your 'mouth'. You may notice the relationship this inside of this kanji shares with the 'scarf' element.",
     "same_element": "E-218",
+    "vocabulary": []
+  },
+  {
+    "id": "K-0506",
+    "character": "飛",
+    "keyword": "Fly",
+    "order": 500,
+    "elements": [],
+    "grade": "3",
+    "description": "This arrangement of strokes is very unusual and means Fly. You might make out the strokes on the right-hand side of the kanji that resemble wings and the relationship with the 'spirit' element (气). It is best to simply remember this unique kanji as a standalone form.",
+    "same_element": "",
     "vocabulary": []
   }
 ]
