@@ -1643,7 +1643,7 @@
     "character": "予",
     "keyword": "Beforehand",
     "order": 149,
-    "elements": ["E-083"],
+    "elements": ["E-220", "E-060"],
     "grade": "3",
     "description": "Beforehand, the box was closed with 'nails', but now a more competent 'seal' has been placed over it.",
     "same_element": "E-083",
@@ -4731,7 +4731,10 @@
     "keyword": "Rain",
     "order": 418,
     "elements": [
-      "E-209"
+      "E-001",
+      "E-192",
+      "E-023",
+      "E-020"
     ],
     "grade": "1",
     "description": "This kanji is a pictogram of some drops of Rain falling from a raincloud. It is comprised of a 'one', 'hood', 'walking stick' and four 'drops'. Notice that the 'drops' are all written at a slight diagonal unlike in 'sprinkler' where the drops appear to point inwards.",
@@ -4859,7 +4862,9 @@
     "keyword": "Fit",
     "order": 427,
     "elements": [
-      "E-212"
+      "E-211",
+      "E-001",
+      "E-007"
     ],
     "grade": "2",
     "description": "Don't confuse this kanji with the one for Same (同). Imagine Fitting an 'umbrella' in place, by placing the pole of the umbrella in a single hole in the ground, here represented by 'one mouth'.",
@@ -4927,7 +4932,9 @@
     "keyword": "Gold",
     "order": 432,
     "elements": [
-      "E-214"
+      "E-211",
+      "E-172",
+      "E-020"
     ],
     "grade": "1",
     "description": "The 'whole' country's economy here is being drip fed by the Gold mine. Just see those 'drip drips' of Gold.",
@@ -4982,7 +4989,8 @@
     "keyword": "Eat",
     "order": 436,
     "elements": [
-      "E-216"
+      "E-211",
+      "E-251"
     ],
     "grade": "2",
     "description": "Why does food always taste so 'good' when you eat it outside in the shade of an 'umbrella'. This is why many people opt to Eat outside.",
@@ -5047,13 +5055,14 @@
   {
     "id": "K-0441",
     "character": "用",
-    "keyword": "Use",
+    "keyword": "Utilise",
     "order": 441,
     "elements": [
-      "E-219"
+      "E-009",
+      "E-023"
     ],
     "grade": "2",
-    "description": "This kanji seems to show a 'walking stick' being waved in front of the 'moon'. It would seem that the stick here is being Used for some arcane purposes.",
+    "description": "This kanji seems to show a 'walking stick' being waved in front of the 'moon'. It would seem that the stick here is being Utilised for some arcane purposes.",
     "same_element": "E-219",
     "vocabulary": []
   },
@@ -5180,7 +5189,9 @@
     "keyword": "Valley",
     "order": 450,
     "elements": [
-      "E-224"
+      "E-004",
+      "E-211",
+      "E-007"
     ],
     "grade": "2",
     "description": "You may relate this kanji to the element for 'gully' but don't get them confused. This is a 'gully' that has been widened into a Valley. Imagine someone opening up an 'umbrella' to push apart the walls of the 'gully' into a full Valley.",
@@ -5376,7 +5387,9 @@
     "keyword": "Capital",
     "order": 464,
     "elements": [
-      "E-230"
+      "E-036",
+      "E-007",
+      "E-026"
     ],
     "grade": "2",
     "description": "This kanji, much like High (高), represents a building, although this one is much 'smaller' as denoted by the small element. This kanji refers to the buildings contained within the Capital city.",
@@ -5403,7 +5416,8 @@
     "keyword": "Market",
     "order": 466,
     "elements": [
-      "E-231"
+      "E-036",
+      "E-202"
     ],
     "grade": "2",
     "description": "You can buy all sorts of things at a market, but this one seems to focus on 'pot lids' and especially 'towels'. Imagine a vendor banging their 'pot lid' inviting customers to check out their array of beautiful 'towels'.",
@@ -5472,7 +5486,8 @@
     "keyword": "Centre",
     "order": 471,
     "elements": [
-      "E-233"
+      "E-007",
+      "E-125"
     ],
     "grade": "3",
     "description": "This 'big mouth' just wants to be the Centre of attention. Notice the doubling up of 'big' with the lower stroke of 'mouth'.",
@@ -5555,7 +5570,8 @@
     "keyword": "Run",
     "order": 477,
     "elements": [
-      "E-237"
+      "E-059",
+      "E-127"
     ],
     "grade": "2",
     "description": "Running shoes that spend a lot of time in the 'dirt' often need 'mending'. This form was originally a pictogram of someone running.",
@@ -5641,7 +5657,7 @@
       "E-056"
     ],
     "grade": "3",
-    "description": "A lot of 'craftspeople' were involed in deciding what Style of decorations to have at the 'ceremony'.",
+    "description": "A lot of 'craftspeople' were involed in deciding what Style of decorations to have at the 'ceremony'. Pay attention to the stroke order when another element appears alongside the 'ceremony' element.",
     "same_element": null,
     "vocabulary": []
   },
@@ -5694,8 +5710,7 @@
     "keyword": "Festival",
     "order": 487,
     "elements": [
-      "E-242",
-      "E-048"
+      "E-242"
     ],
     "grade": "3",
     "description": "What 'festival' is complete without an 'altar'. The element at the top visually represents the bunting that goes along with the 'festival'.",
@@ -5753,7 +5768,9 @@
     "keyword": "South",
     "order": 491,
     "elements": [
-      "E-244"
+      "E-006",
+      "E-192",
+      "E-252"
     ],
     "grade": "2",
     "description": "This is the second kanji using the 'lamb' element. The sacrificial 'lambs' are tired of being sacrificed and are escaping to the tropical South. To hide their identities they cloak themselves in 'hoods' and carry 'crosses' to prey for sanctuary",
@@ -5873,7 +5890,8 @@
     "keyword": "Happiness",
     "order": 500,
     "elements": [
-      "E-249"
+      "E-059",
+      "E-252"
     ],
     "grade": "3",
     "description": "The first kanji to contain 'lamb' will be the kanji for Happiness. Here a 'lamb' is sacrificed and buried under the 'earth' in the hopes of bringing Happiness to the gods.",
@@ -5914,7 +5932,8 @@
     "keyword": "Good",
     "order": 500,
     "elements": [
-      "E-251"
+      "E-020",
+      "E-215"
     ],
     "grade": "3",
     "description": "As a form of behaviour management, the parent says to their child: now, if you be Good, you'll get a 'drop of silver'. Remember the extra 'drop' of goodness here.",
@@ -5941,7 +5960,9 @@
     "keyword": "Circumference",
     "order": 500,
     "elements": [
-      "E-218"
+      "E-192",
+      "E-059",
+      "E-007"
     ],
     "grade": "3",
     "description": "When choosing the right 'hood' its important to pick one with the right Circumference for your head. You want it to protect your hair from getting 'dirt' in it and leave a hole for your 'mouth'. You may notice the relationship this inside of this kanji shares with the 'scarf' element.",
