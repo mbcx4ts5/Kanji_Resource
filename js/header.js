@@ -25,6 +25,17 @@ function initialiseHeader() {
     const searchToggle = document.querySelector(".search-toggle");
     const searchForm = document.querySelector(".search-form");
 
+    // Mobile navigation
+
+    menuToggle.addEventListener("click", () => {
+
+        const isOpen = navigation.classList.toggle("active");
+
+        menuToggle.setAttribute("aria-expanded", isOpen);
+        menuToggle.textContent = isOpen ? "✕" : "☰";
+
+    });
+
     // Expand and collapse search
     searchToggle.addEventListener("click", () => {
         searchForm.classList.toggle("active");

@@ -89,7 +89,6 @@ header {
     color: #77715f
 }
 
-
 /*Search Box*/
 .header-search {
     display: flex;
@@ -124,6 +123,79 @@ header {
 }
 /*Search Box*/
 
+/*Mobile Menu*/
+.menu-toggle {
+    display: none;
+    font-size: 1.5rem;
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: #292929;
+}
+
+@media (max-width: 750px) {
+
+    .header-container {
+        flex-wrap: wrap;
+        padding: 12px 18px;
+    }
+
+    .header-brand {
+        font-size: 1.1rem;
+    }
+
+    .menu-toggle {
+        display: block;
+    }
+
+    .header-navigation {
+        display: none;
+        width: 100%;
+        flex-direction: column;
+        align-items: stretch;
+        gap: 10px;
+        padding-top: 15px;
+    }
+
+    .header-navigation.active {
+        display: flex;
+    }
+
+    .nav-links {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 5px;
+    }
+
+    .nav-link {
+        text-align: left;
+        padding: 10px 5px;
+        border-bottom: 1px solid #deddd7;
+    }
+
+    .header-search {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .search-toggle {
+        text-align: left;
+        padding: 10px 5px;
+    }
+
+    .search-form {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 8px;
+        padding: 5px;
+    }
+
+    .search-form input {
+        width: auto;
+    }
+}
+
+/*Mobile Menu*/
 /* Main Heading */
 
 /* Very top font */
