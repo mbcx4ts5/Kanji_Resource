@@ -24,7 +24,6 @@ body {
     background-color: #f6f5f1;
 }
 
-/* Main heading area */
 header {
     background-color: #263d35;
     color: white;
@@ -32,14 +31,99 @@ header {
     padding: 0.5rem 0.5rem;
 }
 
-.site-header-link {
-    color: inherit;
-    text-decoration: none;
+/* Main heading area */
+.site-header {
+    /*Main site header section*/
+    width: 100%;
+    background-color: #eeede8;
+    border-bottom: 1px solid #deddd7;
+    box-sizing: border-box;
 }
 
-.site-header-link:hover {
+.header-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 15px 25px;
+
+    display: flex;
+    align-items: center;
+    justify-items: space-between;
+}
+
+.header-brand {
+    /*Brand Name font and styling*/
+    font-size: 1.3rem;
+    font-weight: bold;
+    color: #292929;
+    white-space: nowrap;
+}
+
+.header-navigation {
+    /*Create flex element for buttons and search bar*/
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+
+.nav-links {
+    /*Styling for buttons on left-hand side*/
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.nav-link, .search-toggle {
+    /*Search bar toggle open and close*/
+    font-family: inherit;
+    font-size: 1rem;
+    color: #292929;
+    text-decoration: none;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 8px 5px;
+}
+
+.nav-link:hover, .search-toggle:hover {
+    /*Change colour when hovering*/
+    color: #77715f
+}
+
+
+/*Search Box*/
+.header-search {
+    display: flex;
+    align-items: center;
+}
+
+.search-form {
+    display: none;
+    align-items: center;
+    gap: 6px    ;
+}
+.search-form.active {
+    display: flex;
+}
+.search-form input {
+    /* Size and shape of search bar */
+    width: 210px;
+    padding: 8px 10px;
+    font-family: inherit;
+    font-size: 0.9rem;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+}
+.search-form button {
+    /* Size and shape of search bar button */
+    padding: 8px 12px;
+    border: none;
+    border-radius: 4px;
+    background-color: #77715f;
+    color: white;
     cursor: pointer;
 }
+/*Search Box*/
+
 /* Main Heading */
 
 /* Very top font */
