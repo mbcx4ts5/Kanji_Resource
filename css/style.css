@@ -41,13 +41,14 @@ header {
 }
 
 .header-container {
-    max-width: 1200px;
+    max-width: 900px;
     margin: 0 auto;
     padding: 15px 25px;
 
     display: flex;
     align-items: center;
     justify-items: space-between;
+    /* border: 1px solid #dddddd; /*
 }
 
 .header-brand {
@@ -56,14 +57,15 @@ header {
     font-weight: bold;
     color: #292929;
     white-space: nowrap;
+    padding: 0px 20px 0px 0px
 }
 
 .header-navigation {
     /*Create flex element for buttons and search bar*/
     display: flex;
     align-items: center;
-    justify-content: center;
     gap: 25px;
+    /* border: 1px solid #dddddd; */
 }
 
 .nav-links {
@@ -148,6 +150,8 @@ header {
 
     .menu-toggle {
         display: block;
+        margin-left: auto;
+        /* border: 1px solid #dddddd; */
     }
 
     .header-navigation {
